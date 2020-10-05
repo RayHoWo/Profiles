@@ -1,11 +1,11 @@
 # > Line
 DOMAIN-SUFFIX,lin.ee,Proxy
 DOMAIN-SUFFIX,line.me,Proxy
-DOMAIN-SUFFIX,line.naver.jp,JP
+DOMAIN-SUFFIX,line.naver.jp,Japan
 DOMAIN-SUFFIX,line-apps.com,Proxy
 DOMAIN-SUFFIX,line-cdn.net,Proxy
 DOMAIN-SUFFIX,line-scdn.net,Proxy
-DOMAIN-SUFFIX,nhncorp.jp,JP
+DOMAIN-SUFFIX,nhncorp.jp,Japan
 
 # > Sony
 DOMAIN-SUFFIX,playstation.com,Proxy
@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,airtable.com,Proxy
 DOMAIN-SUFFIX,alfredapp.com,Proxy
 DOMAIN-SUFFIX,allconnected.co,Proxy
 DOMAIN-SUFFIX,amazon.co,Proxy
-DOMAIN-SUFFIX,amazon.co.jp,JP
+DOMAIN-SUFFIX,amazon.co.jp,Japan
 DOMAIN-SUFFIX,amazon.com,Proxy
 DOMAIN-SUFFIX,amazonaws.com,Proxy
 DOMAIN-SUFFIX,ampproject.com,Proxy
@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,blogcdn.com,Proxy
 DOMAIN-SUFFIX,blogger.com,Proxy
 DOMAIN-SUFFIX,bloglovin.com,Proxy
 DOMAIN-SUFFIX,blogsmithmedia.com,Proxy
-DOMAIN-SUFFIX,blogspot.hk,HK
+DOMAIN-SUFFIX,blogspot.hk,Hong Kong
 DOMAIN-SUFFIX,bloomberg.cn,Proxy
 DOMAIN-SUFFIX,bloomberg.com,Proxy
 DOMAIN-SUFFIX,books.com.tw,Proxy
@@ -131,7 +131,7 @@ DOMAIN-SUFFIX,cl.ly,Proxy
 DOMAIN-SUFFIX,clien.net,Proxy
 DOMAIN-SUFFIX,cloudflare.com,Proxy
 DOMAIN-SUFFIX,cloudfront.net,Proxy
-DOMAIN-SUFFIX,cloudgarage.jp,JP
+DOMAIN-SUFFIX,cloudgarage.jp,Japan
 DOMAIN-SUFFIX,cloudmagic.com,Proxy
 DOMAIN-SUFFIX,cmail19.com,Proxy
 DOMAIN-SUFFIX,cnet.com,Proxy
@@ -140,7 +140,7 @@ DOMAIN-SUFFIX,cocoapods.org,Proxy
 DOMAIN-SUFFIX,comodoca.com,Proxy
 DOMAIN-SUFFIX,content.office.net,Proxy
 DOMAIN-SUFFIX,culturedcode.com,Proxy
-DOMAIN-SUFFIX,cygames.jp,JP
+DOMAIN-SUFFIX,cygames.jp,Japan
 DOMAIN-SUFFIX,d.pr,Proxy
 DOMAIN-SUFFIX,danilo.to,Proxy
 DOMAIN-SUFFIX,daolan.net,Proxy
@@ -157,7 +157,7 @@ DOMAIN-SUFFIX,disconnect.me,Proxy
 DOMAIN-SUFFIX,disq.us,Proxy
 DOMAIN-SUFFIX,disqus.com,Proxy
 DOMAIN-SUFFIX,disquscdn.com,Proxy
-DOMAIN-SUFFIX,dmm.co.jp,JP
+DOMAIN-SUFFIX,dmm.co.jp,Japan
 DOMAIN-SUFFIX,dnsimple.com,Proxy
 DOMAIN-SUFFIX,docker.com,Proxy
 DOMAIN-SUFFIX,doub.io,Proxy
@@ -217,7 +217,7 @@ DOMAIN-SUFFIX,globalsign.com,Proxy
 DOMAIN-SUFFIX,gmocloud.com,Proxy
 DOMAIN-SUFFIX,gmodules.com,Proxy
 DOMAIN-SUFFIX,go.com,Proxy
-DOMAIN-SUFFIX,go.jp,JP
+DOMAIN-SUFFIX,go.jp,Japan
 DOMAIN-SUFFIX,godaddy.com,Proxy
 DOMAIN-SUFFIX,golang.org,Proxy
 DOMAIN-SUFFIX,gongm.in,Proxy
@@ -292,7 +292,7 @@ DOMAIN-SUFFIX,logmein.com,Proxy
 DOMAIN-SUFFIX,macid.co,Proxy
 DOMAIN-SUFFIX,macromedia.com,Proxy
 DOMAIN-SUFFIX,macrumors.com,Proxy
-DOMAIN-SUFFIX,mangaup.jp,JP
+DOMAIN-SUFFIX,mangaup.jp,Japan
 DOMAIN-SUFFIX,manhuaren.com,Proxy
 DOMAIN-SUFFIX,marketwatch.com,Proxy
 DOMAIN-SUFFIX,mashable.com,Proxy
@@ -318,9 +318,9 @@ DOMAIN-SUFFIX,ndr.de,Proxy
 DOMAIN-SUFFIX,netdna-cdn.com,Proxy
 DOMAIN-SUFFIX,newipnow.com,Proxy
 DOMAIN-SUFFIX,nextmedia.com,Proxy
-DOMAIN-SUFFIX,nicovideo.jp,JP
+DOMAIN-SUFFIX,nicovideo.jp,Japan
 DOMAIN-SUFFIX,nih.gov,Proxy
-DOMAIN-SUFFIX,nimg.jp,JP
+DOMAIN-SUFFIX,nimg.jp,Japan
 DOMAIN-SUFFIX,nintendo.com,Proxy
 DOMAIN-SUFFIX,nintendo.net,Proxy
 DOMAIN-SUFFIX,notion.so,Proxy
@@ -366,7 +366,7 @@ DOMAIN-SUFFIX,polymer-project.org,Proxy
 DOMAIN-SUFFIX,popo.tw,Proxy
 DOMAIN-SUFFIX,potato.im,Proxy
 DOMAIN-SUFFIX,redd.it,Proxy
-DOMAIN-SUFFIX,rthk.hk,HK
+DOMAIN-SUFFIX,rthk.hk,Hong Kong
 DOMAIN-SUFFIX,prfct.co,Proxy
 DOMAIN-SUFFIX,proxfree.com,Proxy
 DOMAIN-SUFFIX,psiphon3.com,Proxy
@@ -396,7 +396,7 @@ DOMAIN-SUFFIX,servebom.com,Proxy
 DOMAIN-SUFFIX,sexinsex.net,Proxy
 DOMAIN-SUFFIX,sfx.ms,Proxy
 DOMAIN-SUFFIX,shadowsocks.org,Proxy
-DOMAIN-SUFFIX,shadowverse.jp,JP
+DOMAIN-SUFFIX,shadowverse.jp,Japan
 DOMAIN-SUFFIX,sharethis.com,Proxy
 DOMAIN-SUFFIX,shazam.com,Proxy
 DOMAIN-SUFFIX,shutterstock.com,Proxy
@@ -415,7 +415,7 @@ DOMAIN-SUFFIX,sndcdn.com,Proxy
 DOMAIN-SUFFIX,sockslist.net,Proxy
 DOMAIN-SUFFIX,soundcloud.com,Proxy
 DOMAIN-SUFFIX,sourceforge.net,Proxy
-DOMAIN-SUFFIX,sowers.org.hk,HK
+DOMAIN-SUFFIX,sowers.org.hk,Hong Kong
 DOMAIN-SUFFIX,speedsmart.net,Proxy
 DOMAIN-SUFFIX,spike.com,Proxy
 DOMAIN-SUFFIX,squarespace.com,Proxy
@@ -440,7 +440,7 @@ DOMAIN-SUFFIX,symcb.com,Proxy
 DOMAIN-SUFFIX,symcd.com,Proxy
 DOMAIN-SUFFIX,t66y.com,Proxy
 DOMAIN-SUFFIX,tablesgenerator.com,Proxy
-DOMAIN-SUFFIX,tabtter.jp,JP
+DOMAIN-SUFFIX,tabtter.jp,Japan
 DOMAIN-SUFFIX,talk853.com,Proxy
 DOMAIN-SUFFIX,talkboxapp.com,Proxy
 DOMAIN-SUFFIX,talkonly.net,Proxy
@@ -644,7 +644,7 @@ DOMAIN-SUFFIX,fbcdn.net,Proxy
 DOMAIN-SUFFIX,fbsbx.com,Proxy
 DOMAIN-SUFFIX,gcr.io,Proxy
 DOMAIN-SUFFIX,gmail.com,Proxy
-DOMAIN-SUFFIX,gosetsuden.jp,JP
+DOMAIN-SUFFIX,gosetsuden.jp,Japan
 DOMAIN-SUFFIX,gwtproject.org,Proxy
 DOMAIN-SUFFIX,heroku.com,Proxy
 DOMAIN-SUFFIX,html5rocks.com,Proxy

@@ -1,10 +1,10 @@
 # > Telegram
-HOST-SUFFIX,t.me,SG
-HOST-SUFFIX,tx.me,SG
-HOST-SUFFIX,tdesktop.com,SG
-HOST-SUFFIX,telegra.ph,SG
-HOST-SUFFIX,telegram.me,SG
-HOST-SUFFIX,telegram.org,SG
-IP-CIDR,91.108.0.0/16,SG
-IP-CIDR,109.239.140.0/24,SG
-IP-CIDR,149.154.160.0/20,SG
+HOST-SUFFIX,t.me,Singapore
+HOST-SUFFIX,tx.me,Singapore
+HOST-SUFFIX,tdesktop.com,Singapore
+HOST-SUFFIX,telegra.ph,Singapore
+HOST-SUFFIX,telegram.me,Singapore
+HOST-SUFFIX,telegram.org,Singapore
+IP-CIDR,91.108.0.0/16,Singapore
+IP-CIDR,109.239.140.0/24,Singapore
+IP-CIDR,149.154.160.0/20,Singapore

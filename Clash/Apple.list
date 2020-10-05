@@ -21,25 +21,25 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Apple News
-DOMAIN-SUFFIX,apple.news,US
+DOMAIN-SUFFIX,apple.news,United States
 
 # > Apple Maps
-PROCESS-NAME,com.apple.geod,US
+PROCESS-NAME,com.apple.geod,United States
 
 # > Apple CDN
-PROCESS-NAME,storedownloadd,US
-User-Agent,com.apple.appstored*,US
-DOMAIN,aod.itunes.apple.com,US
-DOMAIN,api.smoot.apple.cn,US
-DOMAIN,appldnld.apple.com,US
-DOMAIN,apptrailers.itunes.apple.com,US
-DOMAIN,gs-loc-cn.apple.com,US
-DOMAIN,iosapps.itunes.apple.com,US
-DOMAIN,music.apple.com,US
-DOMAIN,mvod.itunes.apple.com,US
-DOMAIN,osxapps.itunes.apple.com,US
-DOMAIN,supportdownload.apple.com,US
-DOMAIN,swcdn.apple.com,US
-DOMAIN,updates-http.cdn-apple.com,US
-DOMAIN-SUFFIX,ls.apple.com,US
-DOMAIN-SUFFIX,mzstatic.com,US
+PROCESS-NAME,storedownloadd,United States
+User-Agent,com.apple.appstored*,United States
+DOMAIN,aod.itunes.apple.com,United States
+DOMAIN,api.smoot.apple.cn,United States
+DOMAIN,appldnld.apple.com,United States
+DOMAIN,apptrailers.itunes.apple.com,United States
+DOMAIN,gs-loc-cn.apple.com,United States
+DOMAIN,iosapps.itunes.apple.com,United States
+DOMAIN,music.apple.com,United States
+DOMAIN,mvod.itunes.apple.com,United States
+DOMAIN,osxapps.itunes.apple.com,United States
+DOMAIN,supportdownload.apple.com,United States
+DOMAIN,swcdn.apple.com,United States
+DOMAIN,updates-http.cdn-apple.com,United States
+DOMAIN-SUFFIX,ls.apple.com,United States
+DOMAIN-SUFFIX,mzstatic.com,United States

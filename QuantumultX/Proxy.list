@@ -1,11 +1,11 @@
 # > Line
 DOMAIN-SUFFIX,lin.ee,Global
 DOMAIN-SUFFIX,line.me,Global
-DOMAIN-SUFFIX,line.naver.jp,JP
+DOMAIN-SUFFIX,line.naver.jp,Japan
 DOMAIN-SUFFIX,line-apps.com,Global
 DOMAIN-SUFFIX,line-cdn.net,Global
 DOMAIN-SUFFIX,line-scdn.net,Global
-DOMAIN-SUFFIX,nhncorp.jp,JP
+DOMAIN-SUFFIX,nhncorp.jp,Japan
 
 # > Sony
 DOMAIN-SUFFIX,playstation.com,Global
@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,airtable.com,Global
 DOMAIN-SUFFIX,alfredapp.com,Global
 DOMAIN-SUFFIX,allconnected.co,Global
 DOMAIN-SUFFIX,amazon.co,Global
-DOMAIN-SUFFIX,amazon.co.jp,JP
+DOMAIN-SUFFIX,amazon.co.jp,Japan
 DOMAIN-SUFFIX,amazon.com,Global
 DOMAIN-SUFFIX,amazonaws.com,Global
 DOMAIN-SUFFIX,ampproject.com,Global
@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,blogcdn.com,Global
 DOMAIN-SUFFIX,blogger.com,Global
 DOMAIN-SUFFIX,bloglovin.com,Global
 DOMAIN-SUFFIX,blogsmithmedia.com,Global
-DOMAIN-SUFFIX,blogspot.hk,HK
+DOMAIN-SUFFIX,blogspot.hk,Hong Kong
 DOMAIN-SUFFIX,bloomberg.cn,Global
 DOMAIN-SUFFIX,bloomberg.com,Global
 DOMAIN-SUFFIX,books.com.tw,Global
@@ -131,7 +131,7 @@ DOMAIN-SUFFIX,cl.ly,Global
 DOMAIN-SUFFIX,clien.net,Global
 DOMAIN-SUFFIX,cloudflare.com,Global
 DOMAIN-SUFFIX,cloudfront.net,Global
-DOMAIN-SUFFIX,cloudgarage.jp,JP
+DOMAIN-SUFFIX,cloudgarage.jp,Japan
 DOMAIN-SUFFIX,cloudmagic.com,Global
 DOMAIN-SUFFIX,cmail19.com,Global
 DOMAIN-SUFFIX,cnet.com,Global
@@ -140,7 +140,7 @@ DOMAIN-SUFFIX,cocoapods.org,Global
 DOMAIN-SUFFIX,comodoca.com,Global
 DOMAIN-SUFFIX,content.office.net,Global
 DOMAIN-SUFFIX,culturedcode.com,Global
-DOMAIN-SUFFIX,cygames.jp,JP
+DOMAIN-SUFFIX,cygames.jp,Japan
 DOMAIN-SUFFIX,d.pr,Global
 DOMAIN-SUFFIX,danilo.to,Global
 DOMAIN-SUFFIX,daolan.net,Global
@@ -157,7 +157,7 @@ DOMAIN-SUFFIX,disconnect.me,Global
 DOMAIN-SUFFIX,disq.us,Global
 DOMAIN-SUFFIX,disqus.com,Global
 DOMAIN-SUFFIX,disquscdn.com,Global
-DOMAIN-SUFFIX,dmm.co.jp,JP
+DOMAIN-SUFFIX,dmm.co.jp,Japan
 DOMAIN-SUFFIX,dnsimple.com,Global
 DOMAIN-SUFFIX,docker.com,Global
 DOMAIN-SUFFIX,doub.io,Global
@@ -217,7 +217,7 @@ DOMAIN-SUFFIX,globalsign.com,Global
 DOMAIN-SUFFIX,gmocloud.com,Global
 DOMAIN-SUFFIX,gmodules.com,Global
 DOMAIN-SUFFIX,go.com,Global
-DOMAIN-SUFFIX,go.jp,JP
+DOMAIN-SUFFIX,go.jp,Japan
 DOMAIN-SUFFIX,godaddy.com,Global
 DOMAIN-SUFFIX,golang.org,Global
 DOMAIN-SUFFIX,gongm.in,Global
@@ -292,7 +292,7 @@ DOMAIN-SUFFIX,logmein.com,Global
 DOMAIN-SUFFIX,macid.co,Global
 DOMAIN-SUFFIX,macromedia.com,Global
 DOMAIN-SUFFIX,macrumors.com,Global
-DOMAIN-SUFFIX,mangaup.jp,JP
+DOMAIN-SUFFIX,mangaup.jp,Japan
 DOMAIN-SUFFIX,manhuaren.com,Global
 DOMAIN-SUFFIX,marketwatch.com,Global
 DOMAIN-SUFFIX,mashable.com,Global
@@ -318,9 +318,9 @@ DOMAIN-SUFFIX,ndr.de,Global
 DOMAIN-SUFFIX,netdna-cdn.com,Global
 DOMAIN-SUFFIX,newipnow.com,Global
 DOMAIN-SUFFIX,nextmedia.com,Global
-DOMAIN-SUFFIX,nicovideo.jp,JP
+DOMAIN-SUFFIX,nicovideo.jp,Japan
 DOMAIN-SUFFIX,nih.gov,Global
-DOMAIN-SUFFIX,nimg.jp,JP
+DOMAIN-SUFFIX,nimg.jp,Japan
 DOMAIN-SUFFIX,nintendo.com,Global
 DOMAIN-SUFFIX,nintendo.net,Global
 DOMAIN-SUFFIX,notion.so,Global
@@ -366,7 +366,7 @@ DOMAIN-SUFFIX,polymer-project.org,Global
 DOMAIN-SUFFIX,popo.tw,Global
 DOMAIN-SUFFIX,potato.im,Global
 DOMAIN-SUFFIX,redd.it,Global
-DOMAIN-SUFFIX,rthk.hk,HK
+DOMAIN-SUFFIX,rthk.hk,Hong Kong
 DOMAIN-SUFFIX,prfct.co,Global
 DOMAIN-SUFFIX,proxfree.com,Global
 DOMAIN-SUFFIX,psiphon3.com,Global
@@ -396,7 +396,7 @@ DOMAIN-SUFFIX,servebom.com,Global
 DOMAIN-SUFFIX,sexinsex.net,Global
 DOMAIN-SUFFIX,sfx.ms,Global
 DOMAIN-SUFFIX,shadowsocks.org,Global
-DOMAIN-SUFFIX,shadowverse.jp,JP
+DOMAIN-SUFFIX,shadowverse.jp,Japan
 DOMAIN-SUFFIX,sharethis.com,Global
 DOMAIN-SUFFIX,shazam.com,Global
 DOMAIN-SUFFIX,shutterstock.com,Global
@@ -415,7 +415,7 @@ DOMAIN-SUFFIX,sndcdn.com,Global
 DOMAIN-SUFFIX,sockslist.net,Global
 DOMAIN-SUFFIX,soundcloud.com,Global
 DOMAIN-SUFFIX,sourceforge.net,Global
-DOMAIN-SUFFIX,sowers.org.hk,HK
+DOMAIN-SUFFIX,sowers.org.hk,Hong Kong
 DOMAIN-SUFFIX,speedsmart.net,Global
 DOMAIN-SUFFIX,spike.com,Global
 DOMAIN-SUFFIX,squarespace.com,Global
@@ -440,7 +440,7 @@ DOMAIN-SUFFIX,symcb.com,Global
 DOMAIN-SUFFIX,symcd.com,Global
 DOMAIN-SUFFIX,t66y.com,Global
 DOMAIN-SUFFIX,tablesgenerator.com,Global
-DOMAIN-SUFFIX,tabtter.jp,JP
+DOMAIN-SUFFIX,tabtter.jp,Japan
 DOMAIN-SUFFIX,talk853.com,Global
 DOMAIN-SUFFIX,talkboxapp.com,Global
 DOMAIN-SUFFIX,talkonly.net,Global
@@ -614,7 +614,7 @@ DOMAIN-SUFFIX,zeutch.com,Global
 DOMAIN-SUFFIX,zynamics.com,Global
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-User-Agent,WhatsApp*,SG
+User-Agent,WhatsApp*,Singapore
 DOMAIN-KEYWORD,appledaily,Global
 DOMAIN-KEYWORD,beetalk,Global
 DOMAIN-KEYWORD,blogspot,Global
@@ -623,7 +623,7 @@ DOMAIN-KEYWORD,facebook,Global
 DOMAIN-KEYWORD,github,Global
 DOMAIN-KEYWORD,instagram,Global
 DOMAIN-KEYWORD,twitter,Global
-DOMAIN-KEYWORD,whatsapp,SG
+DOMAIN-KEYWORD,whatsapp,Singapore
 DOMAIN-KEYWORD,google,Global
 DOMAIN-SUFFIX,1e100.net,Global
 DOMAIN-SUFFIX,2mdn.net,Global
@@ -644,7 +644,7 @@ DOMAIN-SUFFIX,fbcdn.net,Global
 DOMAIN-SUFFIX,fbsbx.com,Global
 DOMAIN-SUFFIX,gcr.io,Global
 DOMAIN-SUFFIX,gmail.com,Global
-DOMAIN-SUFFIX,gosetsuden.jp,JP
+DOMAIN-SUFFIX,gosetsuden.jp,Japan
 DOMAIN-SUFFIX,gwtproject.org,Global
 DOMAIN-SUFFIX,heroku.com,Global
 DOMAIN-SUFFIX,html5rocks.com,Global

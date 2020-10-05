@@ -21,25 +21,25 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Apple News
-HOST-SUFFIX,apple.news,US
+HOST-SUFFIX,apple.news,United States
 
 # > Apple Maps
-HOST-SUFFIX,com.apple.geod,US
+HOST-SUFFIX,com.apple.geod,United States
 
 # > Apple CDN
-HOST-KEYWORD,storedownloadd,US
-User-Agent,com.apple.appstored*,US
-HOST,aod.itunes.apple.com,US
-HOST,api.smoot.apple.cn,US
-HOST,appldnld.apple.com,US
-HOST,apptrailers.itunes.apple.com,US
-HOST,gs-loc-cn.apple.com,US
-HOST,iosapps.itunes.apple.com,US
-HOST,music.apple.com,US
-HOST,mvod.itunes.apple.com,US
-HOST,osxapps.itunes.apple.com,US
-HOST,supportdownload.apple.com,US
-HOST,swcdn.apple.com,US
-HOST,updates-http.cdn-apple.com,US
-HOST-SUFFIX,ls.apple.com,US
-HOST-SUFFIX,mzstatic.com,US
+HOST-KEYWORD,storedownloadd,United States
+User-Agent,com.apple.appstored*,United States
+HOST,aod.itunes.apple.com,United States
+HOST,api.smoot.apple.cn,United States
+HOST,appldnld.apple.com,United States
+HOST,apptrailers.itunes.apple.com,United States
+HOST,gs-loc-cn.apple.com,United States
+HOST,iosapps.itunes.apple.com,United States
+HOST,music.apple.com,United States
+HOST,mvod.itunes.apple.com,United States
+HOST,osxapps.itunes.apple.com,United States
+HOST,supportdownload.apple.com,United States
+HOST,swcdn.apple.com,United States
+HOST,updates-http.cdn-apple.com,United States
+HOST-SUFFIX,ls.apple.com,United States
+HOST-SUFFIX,mzstatic.com,United States

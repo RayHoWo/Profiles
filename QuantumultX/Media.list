@@ -1,165 +1,165 @@
 # GlobalMedia
 # > ABC
-HOST-SUFFIX,edgedatg.com,US
-HOST-SUFFIX,go.com,US
+HOST-SUFFIX,edgedatg.com,United States
+HOST-SUFFIX,go.com,United States
 # > Abema TV
-USER-AGENT,AbemaTV*,JP
-HOST-SUFFIX,abema.io,JP
-HOST-SUFFIX,akamaized.net,JP
-HOST-SUFFIX,ameba.jp,JP
-HOST-SUFFIX,hayabusa.io,JP
+USER-AGENT,AbemaTV*,Japan
+HOST-SUFFIX,abema.io,Japan
+HOST-SUFFIX,akamaized.net,Japan
+HOST-SUFFIX,ameba.jp,Japan
+HOST-SUFFIX,hayabusa.io,Japan
 # > All4
-USER-AGENT,All4*,UK
-HOST-SUFFIX,c4assets.com,UK
-HOST-SUFFIX,channel4.com,UK
+USER-AGENT,All4*,United Kingdom
+HOST-SUFFIX,c4assets.com,United Kingdom
+HOST-SUFFIX,channel4.com,United Kingdom
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,US
-USER-AGENT,Prime%20Video*,US
-HOST-SUFFIX,aiv-cdn.net,US
-HOST-SUFFIX,amazonaws.co.uk,US
-HOST-SUFFIX,amazonaws.com,US
-HOST-SUFFIX,amazonvideo.com,US
-HOST-SUFFIX,llnwd.net,US
-HOST-SUFFIX,primevideo.com,US
+USER-AGENT,InstantVideo.US*,United States
+USER-AGENT,Prime%20Video*,United States
+HOST-SUFFIX,aiv-cdn.net,United States
+HOST-SUFFIX,amazonaws.co.uk,United States
+HOST-SUFFIX,amazonaws.com,United States
+HOST-SUFFIX,amazonvideo.com,United States
+HOST-SUFFIX,llnwd.net,United States
+HOST-SUFFIX,primevideo.com,United States
 # > Apple News and Apple Map TOMTOM Version
-USER-AGENT,AppleNews*,US
-USER-AGENT,com.apple.news*,US
-HOST,gspe1-ssl.ls.apple.com,US
-USER-AGENT,News*,US
-HOST,apple.comscoreresearch.com,US
-HOST,gateway.icloud.com,US
-HOST,news-client.apple.com,US
-HOST,news-edge.apple.com,US
-HOST,news-events.apple.com,US
-HOST-SUFFIX,apple.news,US
+USER-AGENT,AppleNews*,United States
+USER-AGENT,com.apple.news*,United States
+HOST,gspe1-ssl.ls.apple.com,United States
+USER-AGENT,News*,United States
+HOST,apple.comscoreresearch.com,United States
+HOST,gateway.icloud.com,United States
+HOST,news-client.apple.com,United States
+HOST,news-edge.apple.com,United States
+HOST,news-events.apple.com,United States
+HOST-SUFFIX,apple.news,United States
 # > Apple TV
-HOST,np-edge.itunes.apple.com,US
-HOST,play-edge.itunes.apple.com,US
-HOST-SUFFIX,tv.apple.com,US
+HOST,np-edge.itunes.apple.com,United States
+HOST,play-edge.itunes.apple.com,United States
+HOST-SUFFIX,tv.apple.com,United States
 # > Bahamut
-USER-AGENT,Anime*,TW
-HOST-SUFFIX,bahamut.com.tw,TW
-HOST-SUFFIX,gamer.com.tw,TW
-HOST-SUFFIX,hinet.net,TW
+USER-AGENT,Anime*,Taiwan
+HOST-SUFFIX,bahamut.com.tw,Taiwan
+HOST-SUFFIX,gamer.com.tw,Taiwan
+HOST-SUFFIX,hinet.net,Taiwan
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,UK
-HOST-KEYWORD,bbcfmt,UK
-HOST,aod-dash-uk-live.akamaized.net,UK
-HOST,aod-hls-uk-live.akamaized.net,UK
-HOST,vod-dash-uk-live.akamaized.net,UK
-HOST,vod-thumb-uk-live.akamaized.net,UK
-HOST-SUFFIX,bbc.co,UK
-HOST-SUFFIX,bbc.co.uk,UK
-HOST-SUFFIX,bbc.com,UK
-HOST-SUFFIX,bbcfmt.hs.llnwd.net,UK
-HOST-SUFFIX,bbci.co,UK
-HOST-SUFFIX,bbci.co.uk,UK
+USER-AGENT,BBCiPlayer*,United Kingdom
+HOST-KEYWORD,bbcfmt,United Kingdom
+HOST,aod-dash-uk-live.akamaized.net,United Kingdom
+HOST,aod-hls-uk-live.akamaized.net,United Kingdom
+HOST,vod-dash-uk-live.akamaized.net,United Kingdom
+HOST,vod-thumb-uk-live.akamaized.net,United Kingdom
+HOST-SUFFIX,bbc.co,United Kingdom
+HOST-SUFFIX,bbc.co.uk,United Kingdom
+HOST-SUFFIX,bbc.com,United Kingdom
+HOST-SUFFIX,bbcfmt.hs.llnwd.net,United Kingdom
+HOST-SUFFIX,bbci.co,United Kingdom
+HOST-SUFFIX,bbci.co.uk,United Kingdom
 # > DAZN
-HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,US
-HOST-SUFFIX,dazn.com,US
-HOST-SUFFIX,dazn-api.com,US
-HOST-SUFFIX,dazndn.com,US
-HOST-SUFFIX,indazn.com,US
-HOST-SUFFIX,intercom.io,US
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,United States
+HOST-SUFFIX,dazn.com,United States
+HOST-SUFFIX,dazn-api.com,United States
+HOST-SUFFIX,dazndn.com,United States
+HOST-SUFFIX,indazn.com,United States
+HOST-SUFFIX,intercom.io,United States
 # > Deezer
-USER-AGENT,Deezer*,US
-HOST-SUFFIX,deezer.com,US
-HOST-SUFFIX,dzcdn.net,US
+USER-AGENT,Deezer*,United States
+HOST-SUFFIX,deezer.com,United States
+HOST-SUFFIX,dzcdn.net,United States
 # > Disney Plus
-USER-AGENT,Disney*,US
-HOST,cdn.registerdisney.go.com,US
-HOST,cdn.cdn.unid.go.com,US
-HOST-SUFFIX,bamgrid.com,US
-HOST-SUFFIX,braze.com,US
-HOST-SUFFIX,conviva.com,US
-HOST-SUFFIX,disney.demdex.net,US
-HOST-SUFFIX,disneyplus.com,US
-HOST-SUFFIX,disney-plus.net,US
-HOST-SUFFIX,dssott.com,US
-HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,US
+USER-AGENT,Disney*,United States
+HOST,cdn.registerdisney.go.com,United States
+HOST,cdn.cdn.unid.go.com,United States
+HOST-SUFFIX,bamgrid.com,United States
+HOST-SUFFIX,braze.com,United States
+HOST-SUFFIX,conviva.com,United States
+HOST-SUFFIX,disney.demdex.net,United States
+HOST-SUFFIX,disneyplus.com,United States
+HOST-SUFFIX,disney-plus.net,United States
+HOST-SUFFIX,dssott.com,United States
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,United States
 # > Epicgames
-HOST-KEYWORD,epicgames,US
-HOST-SUFFIX,helpshift.com,US
+HOST-KEYWORD,epicgames,United States
+HOST-SUFFIX,helpshift.com,United States
 # > encoreTVB
-USER-AGENT,encoreTVB*,US 
-HOST-SUFFIX,encoretvb.com,US 
-HOST,edge.api.brightcove.com,US 
-HOST,bcbolt446c5271-a.akamaihd.net,US 
+USER-AGENT,encoreTVB*,United States 
+HOST-SUFFIX,encoretvb.com,United States 
+HOST,edge.api.brightcove.com,United States 
+HOST,bcbolt446c5271-a.akamaihd.net,United States 
 # > Fox Now
-USER-AGENT,FOX%20NOW*,US
-HOST-SUFFIX,fox.com,US
-HOST-SUFFIX,foxdcg.com,US
-HOST-SUFFIX,uplynk.com,US
+USER-AGENT,FOX%20NOW*,United States
+HOST-SUFFIX,fox.com,United States
+HOST-SUFFIX,foxdcg.com,United States
+HOST-SUFFIX,uplynk.com,United States
 # > Fox+ (HK|TW|SG)
-USER-AGENT,FOXPlus*,SG
-HOST-SUFFIX,akamaized.net,SG
-HOST-SUFFIX,foxplus.com,SG
-HOST-SUFFIX,theplatform.com,SG
+USER-AGENT,FOXPlus*,Singapore
+HOST-SUFFIX,akamaized.net,Singapore
+HOST-SUFFIX,foxplus.com,Singapore
+HOST-SUFFIX,theplatform.com,Singapore
 # > HBO NOW & HBO GO
-USER-AGENT,HBO%20NOW*,US
-HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,US
-HOST-SUFFIX,hbo.com,US
-HOST-SUFFIX,hbonow.com,US
-HOST-SUFFIX,hbogo.com,US
-HOST-SUFFIX,hboasia.com,HK
-HOST-SUFFIX,hbogoasia.com,HK
-HOST-SUFFIX,hbogoasia.hk,HK
+USER-AGENT,HBO%20NOW*,United States
+HOST-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,United States
+HOST-SUFFIX,hbo.com,United States
+HOST-SUFFIX,hbonow.com,United States
+HOST-SUFFIX,hbogo.com,United States
+HOST-SUFFIX,hboasia.com,Hong Kong
+HOST-SUFFIX,hbogoasia.com,Hong Kong
+HOST-SUFFIX,hbogoasia.hk,Hong Kong
 # > Hulu
-USER-AGENT,Hulu*,US
-HOST-SUFFIX,happyon.jp,JP
-HOST-SUFFIX,hulu.com,US
-HOST-SUFFIX,huluim.com,US
-HOST-SUFFIX,hulustream.com,US
+USER-AGENT,Hulu*,United States
+HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,hulu.com,United States
+HOST-SUFFIX,huluim.com,United States
+HOST-SUFFIX,hulustream.com,United States
 # > Imkan
-HOST-SUFFIX,imkan.tv,HK
+HOST-SUFFIX,imkan.tv,Hong Kong
 # > ITV
-USER-AGENT,ITV_Player*,UK
-HOST-SUFFIX,itv.com,UK
-HOST-SUFFIX,itvstatic.com,UK
-HOST,itvpnpmobile-a.akamaihd.net,UK
+USER-AGENT,ITV_Player*,United Kingdom
+HOST-SUFFIX,itv.com,United Kingdom
+HOST-SUFFIX,itvstatic.com,United Kingdom
+HOST,itvpnpmobile-a.akamaihd.net,United Kingdom
 # > Japonx
-HOST-KEYWORD,japonx,JP
-HOST-KEYWORD,japronx,JP
-HOST-SUFFIX,japonx.com,JP
-HOST-SUFFIX,japonx.tv,JP
-HOST-SUFFIX,japonx.net,JP
-HOST-SUFFIX,japonx.vip,JP
-HOST-SUFFIX,japronx.com,JP
-HOST-SUFFIX,japronx.tv,JP
-HOST-SUFFIX,japronx.net,JP
-HOST-SUFFIX,japronx.vip,JP
+HOST-KEYWORD,japonx,Japan
+HOST-KEYWORD,japronx,Japan
+HOST-SUFFIX,japonx.com,Japan
+HOST-SUFFIX,japonx.tv,Japan
+HOST-SUFFIX,japonx.net,Japan
+HOST-SUFFIX,japonx.vip,Japan
+HOST-SUFFIX,japronx.com,Japan
+HOST-SUFFIX,japronx.tv,Japan
+HOST-SUFFIX,japronx.net,Japan
+HOST-SUFFIX,japronx.vip,Japan
 # > JOOX
-USER-AGENT,WeMusic*,HK
-USER-AGENT,JOOX*,HK
-HOST-SUFFIX,joox.com,HK
+USER-AGENT,WeMusic*,Hong Kong
+USER-AGENT,JOOX*,Hong Kong
+HOST-SUFFIX,joox.com,Hong Kong
 # > KBSTV
-HOST-KEYWORD,kbsworld,KR
-HOST-SUFFIX,kbs.co.kr,KR
+HOST-KEYWORD,kbsworld,Korea
+HOST-SUFFIX,kbs.co.kr,Korea
 # > KKBOX
-HOST-SUFFIX,kkbox.com,TW
-HOST-SUFFIX,kkbox.com.tw,TW
-HOST-SUFFIX,kfs.io,TW
+HOST-SUFFIX,kkbox.com,Taiwan
+HOST-SUFFIX,kkbox.com.tw,Taiwan
+HOST-SUFFIX,kfs.io,Taiwan
 # > KKTV
-USER-AGENT,KKTV*,TW
-HOST-SUFFIX,kktv.com.tw,TW
-HOST-SUFFIX,kktv.me,TW
-HOST,kktv-theater.kk.stream,TW
+USER-AGENT,KKTV*,Taiwan
+HOST-SUFFIX,kktv.com.tw,Taiwan
+HOST-SUFFIX,kktv.me,Taiwan
+HOST,kktv-theater.kk.stream,Taiwan
 # > Line TV
-USER-AGENT,LINE%20TV*,TW
-HOST-SUFFIX,linetv.tw,TW
-HOST,d3c7rimkq79yfu.cloudfront.net,TW
+USER-AGENT,LINE%20TV*,Taiwan
+HOST-SUFFIX,linetv.tw,Taiwan
+HOST,d3c7rimkq79yfu.cloudfront.net,Taiwan
 # > LiTV
-HOST-SUFFIX,litv.tv,TW
-HOST,litvfreemobile-hichannel.cdn.hinet.net,TW
+HOST-SUFFIX,litv.tv,Taiwan
+HOST,litvfreemobile-hichannel.cdn.hinet.net,Taiwan
 # > My5
-USER-AGENT,My5*,UK
-HOST-SUFFIX,channel5.com,UK
-HOST-SUFFIX,my5.tv,UK
-HOST,d349g9zuie06uo.cloudfront.net,UK
+USER-AGENT,My5*,United Kingdom
+HOST-SUFFIX,channel5.com,United Kingdom
+HOST-SUFFIX,my5.tv,United Kingdom
+HOST,d349g9zuie06uo.cloudfront.net,United Kingdom
 # > myTV_SUPER
-USER-AGENT,mytv*,HK
-HOST-SUFFIX,mytvsuper.com,HK
-HOST-SUFFIX,tvb.com,HK
+USER-AGENT,mytv*,Hong Kong
+HOST-SUFFIX,mytvsuper.com,Hong Kong
+HOST-SUFFIX,tvb.com,Hong Kong
 # > Netflix
 # > Netflix
 USER-AGENT,Argo*,Netflix
@@ -1043,64 +1043,64 @@ IP-CIDR,96.23.20.74/32,Netflix,no-resolve
 IP-CIDR,96.23.20.78/32,Netflix,no-resolve
 IP-CIDR,96.4.63.99/32,Netflix,no-resolve
 # > New4KTV
-USER-AGENT,Ministra%20Player*,US 
-HOST-KEYWORD,new4k,US 
-HOST-SUFFIX,live.new4k.tv,US 
-IP-CIDR,62.112.9.0/24,US 
-IP-CIDR,66.70.128.0/17,US 
+USER-AGENT,Ministra%20Player*,United States 
+HOST-KEYWORD,new4k,United States 
+HOST-SUFFIX,live.new4k.tv,United States 
+IP-CIDR,62.112.9.0/24,United States 
+IP-CIDR,66.70.128.0/17,United States 
 # > niconico
-USER-AGENT,Niconico*,JP 
-HOST-SUFFIX,dmc.nico,JP 
-HOST-SUFFIX,nicovideo.jp,JP 
-HOST-SUFFIX,nimg.jp,JP 
-HOST-SUFFIX,socdm.com,JP 
+USER-AGENT,Niconico*,Japan 
+HOST-SUFFIX,dmc.nico,Japan 
+HOST-SUFFIX,nicovideo.jp,Japan 
+HOST-SUFFIX,nimg.jp,Japan 
+HOST-SUFFIX,socdm.com,Japan 
 # > Now E
-USER-AGENT,PCCW*,HK
-HOST-KEYWORD,nowe,HK
-HOST,bcbolthboa-a.akamaihd.net,HK
-HOST-SUFFIX,nowe.com,HK
-HOST-SUFFIX,youboranqs01.com,HK
+USER-AGENT,PCCW*,Hong Kong
+HOST-KEYWORD,nowe,Hong Kong
+HOST,bcbolthboa-a.akamaihd.net,Hong Kong
+HOST-SUFFIX,nowe.com,Hong Kong
+HOST-SUFFIX,youboranqs01.com,Hong Kong
 # > Pandora
-HOST-SUFFIX,pandora.com,US
+HOST-SUFFIX,pandora.com,United States
 # > PBS
-USER-AGENT,PBS*,US
-HOST-SUFFIX,pbs.org,US
+USER-AGENT,PBS*,United States
+HOST-SUFFIX,pbs.org,United States
 # > Pornhub
-HOST-SUFFIX,phncdn.com,US
-HOST-SUFFIX,phprcdn.com,US
-HOST-SUFFIX,pornhub.com,US
-HOST-SUFFIX,pornhubpremium.com,US
+HOST-SUFFIX,phncdn.com,United States
+HOST-SUFFIX,phprcdn.com,United States
+HOST-SUFFIX,pornhub.com,United States
+HOST-SUFFIX,pornhubpremium.com,United States
 # > Pluto TV
-USER-AGENT,Pluto%20TV*,US 
-HOST-KEYWORD,pluto,US 
-HOST-SUFFIX,pluto.tv,US 
+USER-AGENT,Pluto%20TV*,United States 
+HOST-KEYWORD,pluto,United States 
+HOST-SUFFIX,pluto.tv,United States 
 # > Sky GO
-USER-AGENT,skygo*,UK
-HOST-SUFFIX,sky.com,UK
-HOST-SUFFIX,skygo.co.nz,UK
+USER-AGENT,skygo*,United Kingdom
+HOST-SUFFIX,sky.com,United Kingdom
+HOST-SUFFIX,skygo.co.nz,United Kingdom
 # > SoundCloud
-USER-AGENT,SoundCloud*,US
-HOST-SUFFIX,sndcdn.com,US
+USER-AGENT,SoundCloud*,United States
+HOST-SUFFIX,sndcdn.com,United States
 # > Spotify
 # > Spotify
-USER-AGENT,*Spotify*,HK
-HOST-SUFFIX,pscdn.co,HK
-HOST-SUFFIX,scdn.co,HK
-HOST-SUFFIX,spoti.fi,HK
-HOST-SUFFIX,spotify.com,HK
-HOST-SUFFIX,spotifycdn.net,HK
+USER-AGENT,*Spotify*,Hong Kong
+HOST-SUFFIX,pscdn.co,Hong Kong
+HOST-SUFFIX,scdn.co,Hong Kong
+HOST-SUFFIX,spoti.fi,Hong Kong
+HOST-SUFFIX,spotify.com,Hong Kong
+HOST-SUFFIX,spotifycdn.net,Hong Kong
 # > TaiwanGood
-USER-AGENT,TWGood*,TW
-HOST-SUFFIX,skyking.com.tw,TW
-HOST,hamifans.emome.net,TW
+USER-AGENT,TaiwanGood*,Taiwan
+HOST-SUFFIX,skyking.com.tw,Taiwan
+HOST,hamifans.emome.net,Taiwan
 # > TIDAL
-USER-AGENT,TIDAL*,HK
-HOST-SUFFIX,tidal.com,HK
+USER-AGENT,TIDAL*,Hong Kong
+HOST-SUFFIX,tidal.com,Hong Kong
 # > Twitch
-HOST-SUFFIX,TWitch.tv,US 
-HOST-SUFFIX,TWitchcdn.net,US
-HOST-SUFFIX,ttvnw.net,US
-HOST-SUFFIX,jtvnw.net,US
+HOST-SUFFIX,Taiwanitch.tv,United States 
+HOST-SUFFIX,Taiwanitchcdn.net,United States
+HOST-SUFFIX,ttvnw.net,United States
+HOST-SUFFIX,jtvnw.net,United States
 # > Youtube
 HOST-KEYWORD,youtube,YouTube
 HOST,yt3.ggpht.com,YouTube
@@ -1108,22 +1108,22 @@ HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,gvt2.com,YouTube
 HOST-SUFFIX,youtu.be,YouTube
 HOST-SUFFIX,ytimg.com,YouTube
-HOST-SUFFIX,youtubekids.com,SG
-HOST-SUFFIX,tv.youtube.com,US
-HOST-SUFFIX,voice.google.com,US
+HOST-SUFFIX,youtubekids.com,Singapore
+HOST-SUFFIX,tv.youtube.com,United States
+HOST-SUFFIX,voice.google.com,United States
 # > ViuTV
-USER-AGENT,ViuTV*,HK
-HOST-SUFFIX,bootstrapcdn.com,HK
-HOST-SUFFIX,cloudfront.net,HK
-HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,HK
-HOST-SUFFIX,firebaseio.com,HK
-HOST-SUFFIX,jwpcdn.com,HK
-HOST-SUFFIX,jwplayer.com,HK
-HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,HK
-HOST-SUFFIX,nowe.com,HK
-HOST-SUFFIX,viu.com,HK
-HOST-SUFFIX,viu.tv,HK
-HOST-SUFFIX,viu.now.com,HK
+USER-AGENT,ViuTV*,Hong Kong
+HOST-SUFFIX,bootstrapcdn.com,Hong Kong
+HOST-SUFFIX,cloudfront.net,Hong Kong
+HOST-SUFFIX,cognito-identity.us-east-1.amazonaws.com,Hong Kong
+HOST-SUFFIX,firebaseio.com,Hong Kong
+HOST-SUFFIX,jwpcdn.com,Hong Kong
+HOST-SUFFIX,jwplayer.com,Hong Kong
+HOST-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,Hong Kong
+HOST-SUFFIX,nowe.com,Hong Kong
+HOST-SUFFIX,viu.com,Hong Kong
+HOST-SUFFIX,viu.tv,Hong Kong
+HOST-SUFFIX,viu.now.com,Hong Kong
 
 # Great China Media
 # > Bilibili
