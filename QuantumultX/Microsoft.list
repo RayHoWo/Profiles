@@ -1,0 +1,27 @@
+# > Microsoft
+User-Agent,OneDrive*,Proxy
+HOST-KEYWORD,onedrive,Proxy
+HOST-SUFFIX,azure.com,Proxy
+HOST-SUFFIX,fabric.io,Proxy
+HOST-SUFFIX,files.1drv.com,Proxy
+HOST-SUFFIX,hotmail.com,Proxy
+HOST-SUFFIX,live.com,Proxy
+HOST-SUFFIX,live.net,Proxy
+HOST-SUFFIX,livefilestore.com,Proxy
+HOST-SUFFIX,mesh.com,Proxy
+HOST-SUFFIX,microsoft.com,Proxy
+HOST-SUFFIX,microsoftonline.com,Proxy
+HOST-SUFFIX,microsoft-tst.com,Proxy
+HOST-SUFFIX,msn.com,Proxy
+HOST-SUFFIX,office.com,Proxy
+HOST-SUFFIX,office.net,Proxy
+HOST-SUFFIX,onedrive.com,Proxy
+HOST-SUFFIX,outlook.com,Proxy
+HOST-SUFFIX,p.sfx.ms,Proxy
+HOST-SUFFIX,sharepoint.com,Proxy
+HOST-SUFFIX,skype.com,Proxy
+HOST-SUFFIX,spoprod-a.akamaihd.net,Proxy
+HOST-SUFFIX,storage.msn.com,Proxy
+HOST-SUFFIX,windows.net,Proxy
+HOST-SUFFIX,xbox.com,Proxy
+HOST-SUFFIX,xboxlive.com,Proxy

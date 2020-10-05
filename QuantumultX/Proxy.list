@@ -1,0 +1,750 @@
+# > Line
+DOMAIN-SUFFIX,lin.ee,Global
+DOMAIN-SUFFIX,line.me,Global
+DOMAIN-SUFFIX,line.naver.jp,JP
+DOMAIN-SUFFIX,line-apps.com,Global
+DOMAIN-SUFFIX,line-cdn.net,Global
+DOMAIN-SUFFIX,line-scdn.net,Global
+DOMAIN-SUFFIX,nhncorp.jp,JP
+
+# > Sony
+DOMAIN-SUFFIX,playstation.com,Global
+DOMAIN-SUFFIX,playstation.net,Global
+DOMAIN-SUFFIX,playstationnetwork.com,Global
+DOMAIN-SUFFIX,sony.com,Global
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Global
+
+# > Spark
+DOMAIN-SUFFIX,api.amplitude.com,Global
+DOMAIN-SUFFIX,app.smartmailcloud.com,Global
+DOMAIN-SUFFIX,gate.hockeyapp.net,Global
+DOMAIN-SUFFIX,smartmailcloud.com,Global
+  
+# > Tesla
+DOMAIN-KEYWORD,tesla,Global
+
+# > Zooba
+User-Agent,battleroyale*,Global
+
+# > Top blocked sites
+DOMAIN-SUFFIX,2o7.net,Global
+DOMAIN-SUFFIX,4everProxy.com,Global
+DOMAIN-SUFFIX,4shared.com,Global
+DOMAIN-SUFFIX,4sqi.net,Global
+DOMAIN-SUFFIX,9to5mac.com,Global
+DOMAIN-SUFFIX,abpchina.org,Global
+DOMAIN-SUFFIX,accountkit.com,Global
+DOMAIN-SUFFIX,adblockplus.org,Global
+DOMAIN-SUFFIX,adobe.com,Global
+DOMAIN-SUFFIX,adobedtm.com,Global
+DOMAIN-SUFFIX,aerisapi.com,Global
+DOMAIN-SUFFIX,akamaihd.net,Global
+DOMAIN-SUFFIX,airtable.com,Global
+DOMAIN-SUFFIX,alfredapp.com,Global
+DOMAIN-SUFFIX,allconnected.co,Global
+DOMAIN-SUFFIX,amazon.co,Global
+DOMAIN-SUFFIX,amazon.co.jp,JP
+DOMAIN-SUFFIX,amazon.com,Global
+DOMAIN-SUFFIX,amazonaws.com,Global
+DOMAIN-SUFFIX,ampproject.com,Global
+DOMAIN-SUFFIX,ampproject.net,Global
+DOMAIN-SUFFIX,ampproject.org,Global
+DOMAIN-SUFFIX,anaconda.com,Global
+DOMAIN-SUFFIX,ancsconf.org,Global
+DOMAIN-SUFFIX,android.com,Global
+DOMAIN-SUFFIX,androidify.com,Global
+DOMAIN-SUFFIX,android-x86.org,Global
+DOMAIN-SUFFIX,angularjs.org,Global
+DOMAIN-SUFFIX,anthonycalzadilla.com,Global
+DOMAIN-SUFFIX,aol.com,Global
+DOMAIN-SUFFIX,aolcdn.com,Global
+DOMAIN-SUFFIX,apache.org,Global
+DOMAIN-SUFFIX,api.mixpanel.com,Global
+DOMAIN-SUFFIX,api.termius.com,Global
+DOMAIN-SUFFIX,api.tiktokv.com,Global
+DOMAIN-SUFFIX,api.urbandictionary.com,Global
+DOMAIN-SUFFIX,apigee.com,Global
+DOMAIN-SUFFIX,apk-dl.com,Global
+DOMAIN-SUFFIX,apkpure.com,Global
+DOMAIN-SUFFIX,appdownloader.net,Global
+DOMAIN-SUFFIX,apple-dns.net,Global
+DOMAIN-SUFFIX,app-measurement.com,Global
+DOMAIN-SUFFIX,appshopper.com,Global
+DOMAIN-SUFFIX,arcgis.com,Global
+DOMAIN-SUFFIX,archive.is,Global
+DOMAIN-SUFFIX,archive.org,Global
+DOMAIN-SUFFIX,archives.gov,Global
+DOMAIN-SUFFIX,armorgames.com,Global
+DOMAIN-SUFFIX,aspnetcdn.com,Global
+DOMAIN-SUFFIX,async.be,Global
+DOMAIN-SUFFIX,att.com,Global
+DOMAIN-SUFFIX,avgle.com,Global
+DOMAIN-SUFFIX,awsstatic.com,Global
+DOMAIN-SUFFIX,azure.com,Global
+DOMAIN-SUFFIX,azureedge.net,Global
+DOMAIN-SUFFIX,azurewebsites.net,Global
+DOMAIN-SUFFIX,badoo.com,Global
+DOMAIN-SUFFIX,bandisoft.com,Global
+DOMAIN-SUFFIX,bbtoystore.com,Global
+DOMAIN-SUFFIX,betvictor.com,Global
+DOMAIN-SUFFIX,bigsound.org,Global
+DOMAIN-SUFFIX,bing.com,Global
+DOMAIN-SUFFIX,bing.net,Global
+DOMAIN-SUFFIX,bintray.com,Global
+DOMAIN-SUFFIX,bit.com,Global
+DOMAIN-SUFFIX,bit.do,Global
+DOMAIN-SUFFIX,bit.ly,Global
+DOMAIN-SUFFIX,bitbucket.org,Global
+DOMAIN-SUFFIX,bitcointalk.org,Global
+DOMAIN-SUFFIX,bitshare.com,Global
+DOMAIN-SUFFIX,bkrtx.com,Global
+DOMAIN-SUFFIX,blog.com,Global
+DOMAIN-SUFFIX,blogcdn.com,Global
+DOMAIN-SUFFIX,blogger.com,Global
+DOMAIN-SUFFIX,bloglovin.com,Global
+DOMAIN-SUFFIX,blogsmithmedia.com,Global
+DOMAIN-SUFFIX,blogspot.hk,HK
+DOMAIN-SUFFIX,bloomberg.cn,Global
+DOMAIN-SUFFIX,bloomberg.com,Global
+DOMAIN-SUFFIX,books.com.tw,Global
+DOMAIN-SUFFIX,boomtrain.com,Global
+DOMAIN-SUFFIX,botanwang.com,Global
+DOMAIN-SUFFIX,box.com,Global
+DOMAIN-SUFFIX,box.net,Global
+DOMAIN-SUFFIX,boxun.com,Global
+DOMAIN-SUFFIX,cachefly.net,Global
+DOMAIN-SUFFIX,cbc.ca,Global
+DOMAIN-SUFFIX,cdn.angruo.com,Global
+DOMAIN-SUFFIX,cdn.segment.com,Global
+DOMAIN-SUFFIX,cdnst.net,Global
+DOMAIN-SUFFIX,celestrak.com,Global
+DOMAIN-SUFFIX,census.gov,Global
+DOMAIN-SUFFIX,certificate-transparency.org,Global
+DOMAIN-SUFFIX,chinadigitaltimes.net,Global
+DOMAIN-SUFFIX,chinatimes.com,Global
+DOMAIN-SUFFIX,chrome.com,Global
+DOMAIN-SUFFIX,chromecast.com,Global
+DOMAIN-SUFFIX,chromercise.com,Global
+DOMAIN-SUFFIX,chromestatus.com,Global
+DOMAIN-SUFFIX,chromium.org,Global
+DOMAIN-SUFFIX,cl.ly,Global
+DOMAIN-SUFFIX,clien.net,Global
+DOMAIN-SUFFIX,cloudflare.com,Global
+DOMAIN-SUFFIX,cloudfront.net,Global
+DOMAIN-SUFFIX,cloudgarage.jp,JP
+DOMAIN-SUFFIX,cloudmagic.com,Global
+DOMAIN-SUFFIX,cmail19.com,Global
+DOMAIN-SUFFIX,cnet.com,Global
+DOMAIN-SUFFIX,cnn.com,Global
+DOMAIN-SUFFIX,cocoapods.org,Global
+DOMAIN-SUFFIX,comodoca.com,Global
+DOMAIN-SUFFIX,content.office.net,Global
+DOMAIN-SUFFIX,culturedcode.com,Global
+DOMAIN-SUFFIX,cygames.jp,JP
+DOMAIN-SUFFIX,d.pr,Global
+DOMAIN-SUFFIX,danilo.to,Global
+DOMAIN-SUFFIX,daolan.net,Global
+DOMAIN-SUFFIX,data-vocabulary.org,Global
+DOMAIN-SUFFIX,dayone.me,Global
+DOMAIN-SUFFIX,db.tt,Global
+DOMAIN-SUFFIX,dcmilitary.com,Global
+DOMAIN-SUFFIX,deja.com,Global
+DOMAIN-SUFFIX,demdex.net,Global
+DOMAIN-SUFFIX,deskconnect.com,Global
+DOMAIN-SUFFIX,digisfera.com,Global
+DOMAIN-SUFFIX,digitaltrends.com,Global
+DOMAIN-SUFFIX,disconnect.me,Global
+DOMAIN-SUFFIX,disq.us,Global
+DOMAIN-SUFFIX,disqus.com,Global
+DOMAIN-SUFFIX,disquscdn.com,Global
+DOMAIN-SUFFIX,dmm.co.jp,JP
+DOMAIN-SUFFIX,dnsimple.com,Global
+DOMAIN-SUFFIX,docker.com,Global
+DOMAIN-SUFFIX,doub.io,Global
+DOMAIN-SUFFIX,dowjones.com,Global
+DOMAIN-SUFFIX,dribbble.com,Global
+DOMAIN-SUFFIX,droplr.com,Global
+DOMAIN-SUFFIX,duckduckgo.com,Global
+DOMAIN-SUFFIX,dueapp.com,Global
+DOMAIN-SUFFIX,dw.com,Global
+DOMAIN-SUFFIX,easybib.com,Global
+DOMAIN-SUFFIX,economist.com,Global
+DOMAIN-SUFFIX,edgecastcdn.net,Global
+DOMAIN-SUFFIX,edgekey.net,Global
+DOMAIN-SUFFIX,edgesuite.net,Global
+DOMAIN-SUFFIX,engadget.com,Global
+DOMAIN-SUFFIX,entrust.net,Global
+DOMAIN-SUFFIX,eurekavpt.com,Global
+DOMAIN-SUFFIX,evernote.com,Global
+DOMAIN-SUFFIX,extmatrix.com,Global
+DOMAIN-SUFFIX,eyny.com,Global
+DOMAIN-SUFFIX,fabric.io,Global
+DOMAIN-SUFFIX,fastly.net,Global
+DOMAIN-SUFFIX,fastmail.com,Global
+DOMAIN-SUFFIX,fc2.com,Global
+DOMAIN-SUFFIX,feedburner.com,Global
+DOMAIN-SUFFIX,feedly.com,Global
+DOMAIN-SUFFIX,feedsportal.com,Global
+DOMAIN-SUFFIX,fiftythree.com,Global
+DOMAIN-SUFFIX,firebaseio.com,Global
+DOMAIN-SUFFIX,flexibits.com,Global
+DOMAIN-SUFFIX,flickr.com,Global
+DOMAIN-SUFFIX,flipboard.com,Global
+DOMAIN-SUFFIX,flipkart.com,Global
+DOMAIN-SUFFIX,flitto.com,Global
+DOMAIN-SUFFIX,flurry.com,Global
+DOMAIN-SUFFIX,freeopenProxy.com,Global
+DOMAIN-SUFFIX,fubo.tv,Global
+DOMAIN-SUFFIX,fullstory.com,Global
+DOMAIN-SUFFIX,fzlm.net,Global
+DOMAIN-SUFFIX,g.co,Global
+DOMAIN-SUFFIX,gabia.net,Global
+DOMAIN-SUFFIX,garena.com,Global
+DOMAIN-SUFFIX,geni.us,Global
+DOMAIN-SUFFIX,get.how,Global
+DOMAIN-SUFFIX,getcloudapp.com,Global
+DOMAIN-SUFFIX,getfoxyProxy.org,Global
+DOMAIN-SUFFIX,getlantern.org,Global
+DOMAIN-SUFFIX,getmdl.io,Global
+DOMAIN-SUFFIX,getpricetag.com,Global
+DOMAIN-SUFFIX,gfw.press,Global
+DOMAIN-SUFFIX,gfx.ms,Global
+DOMAIN-SUFFIX,ggpht.com,Global
+DOMAIN-SUFFIX,ghostnoteapp.com,Global
+DOMAIN-SUFFIX,git.io,Global
+DOMAIN-SUFFIX,gitbook.com,Global
+DOMAIN-SUFFIX,globalsign.com,Global
+DOMAIN-SUFFIX,gmocloud.com,Global
+DOMAIN-SUFFIX,gmodules.com,Global
+DOMAIN-SUFFIX,go.com,Global
+DOMAIN-SUFFIX,go.jp,JP
+DOMAIN-SUFFIX,godaddy.com,Global
+DOMAIN-SUFFIX,golang.org,Global
+DOMAIN-SUFFIX,gongm.in,Global
+DOMAIN-SUFFIX,goo.gl,Global
+DOMAIN-SUFFIX,goodreaders.com,Global
+DOMAIN-SUFFIX,goodreads.com,Global
+DOMAIN-SUFFIX,gravatar.com,Global
+DOMAIN-SUFFIX,gstatic.cn,Global
+DOMAIN-SUFFIX,gstatic.com,Global
+DOMAIN-SUFFIX,gunsamerica.com,Global
+DOMAIN-SUFFIX,gvt0.com,Global
+DOMAIN-SUFFIX,gvt1.com,Global
+DOMAIN-SUFFIX,helpshift.com,Global
+DOMAIN-SUFFIX,hitun.io,Global
+DOMAIN-SUFFIX,hockeyapp.net,Global
+DOMAIN-SUFFIX,homedepot.com,Global
+DOMAIN-SUFFIX,hootsuite.com,Global
+DOMAIN-SUFFIX,howtoforge.com,Global
+DOMAIN-SUFFIX,i-cable.com,Global
+DOMAIN-SUFFIX,iam.soy,Global
+DOMAIN-SUFFIX,icoco.com,Global
+DOMAIN-SUFFIX,icons8.com,Global
+DOMAIN-SUFFIX,ift.tt,Global
+DOMAIN-SUFFIX,ifttt.com,Global
+DOMAIN-SUFFIX,imageshack.us,Global
+DOMAIN-SUFFIX,img.ly,Global
+DOMAIN-SUFFIX,imgur.com,Global
+DOMAIN-SUFFIX,imore.com,Global
+DOMAIN-SUFFIX,ingress.com,Global
+DOMAIN-SUFFIX,inoreader.com,Global
+DOMAIN-SUFFIX,insder.co,Global
+DOMAIN-SUFFIX,instapaper.com,Global
+DOMAIN-SUFFIX,instructables.com,Global
+DOMAIN-SUFFIX,io.io,Global
+DOMAIN-SUFFIX,ip.sb,Global
+DOMAIN-SUFFIX,ipaddress.com,Global
+DOMAIN-SUFFIX,ipn.li,Global
+DOMAIN-SUFFIX,is.gd,Global
+DOMAIN-SUFFIX,ishowsapp.com,Global
+DOMAIN-SUFFIX,issuu.com,Global
+DOMAIN-SUFFIX,itgonglun.com,Global
+DOMAIN-SUFFIX,itun.es,Global
+DOMAIN-SUFFIX,ixquick.com,Global
+DOMAIN-SUFFIX,j.mp,Global
+DOMAIN-SUFFIX,javbus.com,Global
+DOMAIN-SUFFIX,js.revsci.net,Global
+DOMAIN-SUFFIX,jshint.com,Global
+DOMAIN-SUFFIX,jtvnw.net,Global
+DOMAIN-SUFFIX,justgetflux.com,Global
+DOMAIN-SUFFIX,kakao.co.kr,Global
+DOMAIN-SUFFIX,kakao.com,Global
+DOMAIN-SUFFIX,kakaocdn.net,Global
+DOMAIN-SUFFIX,kat.cr,Global
+DOMAIN-SUFFIX,kenengba.com,Global
+DOMAIN-SUFFIX,kik.com,Global
+DOMAIN-SUFFIX,klip.me,Global
+DOMAIN-SUFFIX,leancloud.com,Global
+DOMAIN-SUFFIX,leetcode.com,Global
+DOMAIN-SUFFIX,lhie1.com,Global
+DOMAIN-SUFFIX,libsyn.com,Global
+DOMAIN-SUFFIX,licdn.com,Global
+DOMAIN-SUFFIX,lightboxcdn.com,Global
+DOMAIN-SUFFIX,like.com,Global
+DOMAIN-SUFFIX,linkedin.com,Global
+DOMAIN-SUFFIX,linode.com,Global
+DOMAIN-SUFFIX,lithium.com,Global
+DOMAIN-SUFFIX,littlehj.com,Global
+DOMAIN-SUFFIX,livefilestore.com,Global
+DOMAIN-SUFFIX,llnwd.net,Global
+DOMAIN-SUFFIX,localnetwork.uop,Global
+DOMAIN-SUFFIX,logmein.com,Global
+DOMAIN-SUFFIX,macid.co,Global
+DOMAIN-SUFFIX,macromedia.com,Global
+DOMAIN-SUFFIX,macrumors.com,Global
+DOMAIN-SUFFIX,mangaup.jp,JP
+DOMAIN-SUFFIX,manhuaren.com,Global
+DOMAIN-SUFFIX,marketwatch.com,Global
+DOMAIN-SUFFIX,mashable.com,Global
+DOMAIN-SUFFIX,mathjax.org,Global
+DOMAIN-SUFFIX,maven.org,Global
+DOMAIN-SUFFIX,medium.com,Global
+DOMAIN-SUFFIX,mega.co.nz,Global
+DOMAIN-SUFFIX,mega.nz,Global
+DOMAIN-SUFFIX,megaupload.com,Global
+DOMAIN-SUFFIX,microsofttranslator.com,Global
+DOMAIN-SUFFIX,mindnode.com,Global
+DOMAIN-SUFFIX,mlssoccer.com,Global
+DOMAIN-SUFFIX,mobile01.com,Global
+DOMAIN-SUFFIX,modmyi.com,Global
+DOMAIN-SUFFIX,moves-export.com,Global
+DOMAIN-SUFFIX,mp3buscador.com,Global
+DOMAIN-SUFFIX,msedge.net,Global
+DOMAIN-SUFFIX,mycnnews.com,Global
+DOMAIN-SUFFIX,myfontastic.com,Global
+DOMAIN-SUFFIX,name.com,Global
+DOMAIN-SUFFIX,nasa.gov,Global
+DOMAIN-SUFFIX,ndr.de,Global
+DOMAIN-SUFFIX,netdna-cdn.com,Global
+DOMAIN-SUFFIX,newipnow.com,Global
+DOMAIN-SUFFIX,nextmedia.com,Global
+DOMAIN-SUFFIX,nicovideo.jp,JP
+DOMAIN-SUFFIX,nih.gov,Global
+DOMAIN-SUFFIX,nimg.jp,JP
+DOMAIN-SUFFIX,nintendo.com,Global
+DOMAIN-SUFFIX,nintendo.net,Global
+DOMAIN-SUFFIX,notion.so,Global
+DOMAIN-SUFFIX,novafile.com,Global
+DOMAIN-SUFFIX,nrk.no,Global
+DOMAIN-SUFFIX,nsstatic.net,Global
+DOMAIN-SUFFIX,nssurge.com,Global
+DOMAIN-SUFFIX,nyt.com,Global
+DOMAIN-SUFFIX,nytimes.com,Global
+DOMAIN-SUFFIX,nytimg.com,Global
+DOMAIN-SUFFIX,nytstyle.com,Global
+DOMAIN-SUFFIX,office365.com,Global
+DOMAIN-SUFFIX,omnigroup.com,Global
+DOMAIN-SUFFIX,onenote.com,Global
+DOMAIN-SUFFIX,ooyala.com,Global
+DOMAIN-SUFFIX,openvpn.net,Global
+DOMAIN-SUFFIX,openwrt.org,Global
+DOMAIN-SUFFIX,optimizely.com,Global
+DOMAIN-SUFFIX,orkut.com,Global
+DOMAIN-SUFFIX,osha.gov,Global
+DOMAIN-SUFFIX,osxdaily.com,Global
+DOMAIN-SUFFIX,overcast.fm,Global
+DOMAIN-SUFFIX,ow.ly,Global
+DOMAIN-SUFFIX,paddle.com,Global
+DOMAIN-SUFFIX,paddleapi.com,Global
+DOMAIN-SUFFIX,panoramio.com,Global
+DOMAIN-SUFFIX,parallels.com,Global
+DOMAIN-SUFFIX,parse.com,Global
+DOMAIN-SUFFIX,pdfexpert.com,Global
+DOMAIN-SUFFIX,periscope.tv,Global
+DOMAIN-SUFFIX,piaotian.net,Global
+DOMAIN-SUFFIX,picacomic.com,Global
+DOMAIN-SUFFIX,picasaweb.com,Global
+DOMAIN-SUFFIX,pinboard.in,Global
+DOMAIN-SUFFIX,ping.pe,Global
+DOMAIN-SUFFIX,pinterest.com,Global
+DOMAIN-SUFFIX,pixelmator.com,Global
+DOMAIN-SUFFIX,pixiv.net,Global
+DOMAIN-SUFFIX,pixnet.net,Global
+DOMAIN-SUFFIX,playpcesor.com,Global
+DOMAIN-SUFFIX,pokemon.com,Global
+DOMAIN-SUFFIX,polymer-project.org,Global
+DOMAIN-SUFFIX,popo.tw,Global
+DOMAIN-SUFFIX,potato.im,Global
+DOMAIN-SUFFIX,redd.it,Global
+DOMAIN-SUFFIX,rthk.hk,HK
+DOMAIN-SUFFIX,prfct.co,Global
+DOMAIN-SUFFIX,proxfree.com,Global
+DOMAIN-SUFFIX,psiphon3.com,Global
+DOMAIN-SUFFIX,ptt.cc,Global
+DOMAIN-SUFFIX,pubu.com.tw,Global
+DOMAIN-SUFFIX,puffinbrowser.com,Global
+DOMAIN-SUFFIX,pushbullet.com,Global
+DOMAIN-SUFFIX,pushwoosh.com,Global
+DOMAIN-SUFFIX,pximg.net,Global
+DOMAIN-SUFFIX,quora.com,Global
+DOMAIN-SUFFIX,quoracdn.net,Global
+DOMAIN-SUFFIX,readingtimes.com.tw,Global
+DOMAIN-SUFFIX,readmoo.com,Global
+DOMAIN-SUFFIX,recaptcha.net,Global
+DOMAIN-SUFFIX,reddit.com,Global
+DOMAIN-SUFFIX,redditmedia.com,Global
+DOMAIN-SUFFIX,reuters.com,Global
+DOMAIN-SUFFIX,rfi.fr,Global
+DOMAIN-SUFFIX,rileyguide.com,Global
+DOMAIN-SUFFIX,rime.im,Global
+DOMAIN-SUFFIX,rsf.org,Global
+DOMAIN-SUFFIX,sciencedaily.com,Global
+DOMAIN-SUFFIX,sciencemag.org,Global
+DOMAIN-SUFFIX,scribd.com,Global
+DOMAIN-SUFFIX,search.com,Global
+DOMAIN-SUFFIX,servebom.com,Global
+DOMAIN-SUFFIX,sexinsex.net,Global
+DOMAIN-SUFFIX,sfx.ms,Global
+DOMAIN-SUFFIX,shadowsocks.org,Global
+DOMAIN-SUFFIX,shadowverse.jp,JP
+DOMAIN-SUFFIX,sharethis.com,Global
+DOMAIN-SUFFIX,shazam.com,Global
+DOMAIN-SUFFIX,shutterstock.com,Global
+DOMAIN-SUFFIX,sidelinesnews.com,Global
+DOMAIN-SUFFIX,simp.ly,Global
+DOMAIN-SUFFIX,simplenote.com,Global
+DOMAIN-SUFFIX,sketchappsources.com,Global
+DOMAIN-SUFFIX,slack.com,Global
+DOMAIN-SUFFIX,slack-edge.com,Global
+DOMAIN-SUFFIX,slack-msgs.com,Global
+DOMAIN-SUFFIX,slideshare.net,Global
+DOMAIN-SUFFIX,smartdnsproxy.com,Global
+DOMAIN-SUFFIX,smh.com.au,Global
+DOMAIN-SUFFIX,snapchat.com,Global
+DOMAIN-SUFFIX,sndcdn.com,Global
+DOMAIN-SUFFIX,sockslist.net,Global
+DOMAIN-SUFFIX,soundcloud.com,Global
+DOMAIN-SUFFIX,sourceforge.net,Global
+DOMAIN-SUFFIX,sowers.org.hk,HK
+DOMAIN-SUFFIX,speedsmart.net,Global
+DOMAIN-SUFFIX,spike.com,Global
+DOMAIN-SUFFIX,squarespace.com,Global
+DOMAIN-SUFFIX,ssa.gov,Global
+DOMAIN-SUFFIX,sstatic.net,Global
+DOMAIN-SUFFIX,st.luluku.pw,Global
+DOMAIN-SUFFIX,stackoverflow.com,Global
+DOMAIN-SUFFIX,starp2p.com,Global
+DOMAIN-SUFFIX,startpage.com,Global
+DOMAIN-SUFFIX,state.gov,Global
+DOMAIN-SUFFIX,staticflickr.com,Global
+DOMAIN-SUFFIX,storify.com,Global
+DOMAIN-SUFFIX,stumbleupon.com,Global
+DOMAIN-SUFFIX,sugarsync.com,Global
+DOMAIN-SUFFIX,supermariorun.com,Global
+DOMAIN-SUFFIX,surfeasy.com.au,Global
+DOMAIN-SUFFIX,surge.run,Global
+DOMAIN-SUFFIX,surrenderat20.net,Global
+DOMAIN-SUFFIX,sydneytoday.com,Global
+DOMAIN-SUFFIX,symauth.com,Global
+DOMAIN-SUFFIX,symcb.com,Global
+DOMAIN-SUFFIX,symcd.com,Global
+DOMAIN-SUFFIX,t66y.com,Global
+DOMAIN-SUFFIX,tablesgenerator.com,Global
+DOMAIN-SUFFIX,tabtter.jp,JP
+DOMAIN-SUFFIX,talk853.com,Global
+DOMAIN-SUFFIX,talkboxapp.com,Global
+DOMAIN-SUFFIX,talkonly.net,Global
+DOMAIN-SUFFIX,tapbots.com,Global
+DOMAIN-SUFFIX,tapbots.net,Global
+DOMAIN-SUFFIX,techcrunch.com,Global
+DOMAIN-SUFFIX,technorati.com,Global
+DOMAIN-SUFFIX,techsmith.com,Global
+DOMAIN-SUFFIX,teddysun.com,Global
+DOMAIN-SUFFIX,textnow.me,Global
+DOMAIN-SUFFIX,thebobs.com,Global
+DOMAIN-SUFFIX,theinitium.com,Global
+DOMAIN-SUFFIX,thepiratebay.org,Global
+DOMAIN-SUFFIX,theverge.com,Global
+DOMAIN-SUFFIX,thewgo.org,Global
+DOMAIN-SUFFIX,tiltbrush.com,Global
+DOMAIN-SUFFIX,time.com,Global
+DOMAIN-SUFFIX,timeinc.net,Global
+DOMAIN-SUFFIX,tinder.com,Global
+DOMAIN-SUFFIX,tiny.cc,Global
+DOMAIN-SUFFIX,tinychat.com,Global
+DOMAIN-SUFFIX,tinypic.com,Global
+DOMAIN-SUFFIX,tmblr.co,Global
+DOMAIN-SUFFIX,todoist.com,Global
+DOMAIN-SUFFIX,togetter.com,Global
+DOMAIN-SUFFIX,tokyocn.com,Global
+DOMAIN-SUFFIX,tomshardware.com,Global
+DOMAIN-SUFFIX,torcn.com,Global
+DOMAIN-SUFFIX,torrentprivacy.com,Global
+DOMAIN-SUFFIX,torrentproject.se,Global
+DOMAIN-SUFFIX,torrentz.eu,Global
+DOMAIN-SUFFIX,tradingview.com,Global
+DOMAIN-SUFFIX,traffichaus.com,Global
+DOMAIN-SUFFIX,trakt.tv,Global
+DOMAIN-SUFFIX,transparency.org,Global
+DOMAIN-SUFFIX,trello.com,Global
+DOMAIN-SUFFIX,trendsmap.com,Global
+DOMAIN-SUFFIX,trulyergonomic.com,Global
+DOMAIN-SUFFIX,trustasiassl.com,Global
+DOMAIN-SUFFIX,tt-rss.org,Global
+DOMAIN-SUFFIX,ttvnw.net,Global
+DOMAIN-SUFFIX,tumblr.co,Global
+DOMAIN-SUFFIX,tumblr.com,Global
+DOMAIN-SUFFIX,turbobit.net,Global
+DOMAIN-SUFFIX,tv.com,Global
+DOMAIN-SUFFIX,tweetdeck.com,Global
+DOMAIN-SUFFIX,tweetmarker.net,Global
+DOMAIN-SUFFIX,twimg.co,Global
+DOMAIN-SUFFIX,twitch.tv,Global
+DOMAIN-SUFFIX,twitthat.com,Global
+DOMAIN-SUFFIX,twtkr.com,Global
+DOMAIN-SUFFIX,twttr.com,Global
+DOMAIN-SUFFIX,txmblr.com,Global
+DOMAIN-SUFFIX,typcn.com,Global
+DOMAIN-SUFFIX,typekit.net,Global
+DOMAIN-SUFFIX,typography.com,Global
+DOMAIN-SUFFIX,ubertags.com,Global
+DOMAIN-SUFFIX,ublock.org,Global
+DOMAIN-SUFFIX,ubnt.com,Global
+DOMAIN-SUFFIX,uchicago.edu,Global
+DOMAIN-SUFFIX,udn.com,Global
+DOMAIN-SUFFIX,ugo.com,Global
+DOMAIN-SUFFIX,uhdwallpapers.org,Global
+DOMAIN-SUFFIX,ulyssesapp.com,Global
+DOMAIN-SUFFIX,unblockdmm.com,Global
+DOMAIN-SUFFIX,unblocksites.co,Global
+DOMAIN-SUFFIX,unpo.org,Global
+DOMAIN-SUFFIX,unsplash.com,Global
+DOMAIN-SUFFIX,untraceable.us,Global
+DOMAIN-SUFFIX,uploaded.net,Global
+DOMAIN-SUFFIX,uProxy.org,Global
+DOMAIN-SUFFIX,upwork.com,Global
+DOMAIN-SUFFIX,urchin.com,Global
+DOMAIN-SUFFIX,urlparser.com,Global
+DOMAIN-SUFFIX,us.to,Global
+DOMAIN-SUFFIX,usertrust.com,Global
+DOMAIN-SUFFIX,usgs.gov,Global
+DOMAIN-SUFFIX,usma.edu,Global
+DOMAIN-SUFFIX,uspto.gov,Global
+DOMAIN-SUFFIX,ustream.tv,Global
+DOMAIN-SUFFIX,v.gd,Global
+DOMAIN-SUFFIX,v2ex.co,Global
+DOMAIN-SUFFIX,v2ray.com,Global
+DOMAIN-SUFFIX,van001.com,Global
+DOMAIN-SUFFIX,vanpeople.com,Global
+DOMAIN-SUFFIX,vansky.com,Global
+DOMAIN-SUFFIX,vbstatic.co,Global
+DOMAIN-SUFFIX,venchina.com,Global
+DOMAIN-SUFFIX,venturebeat.com,Global
+DOMAIN-SUFFIX,veoh.com,Global
+DOMAIN-SUFFIX,verizonwireless.com,Global
+DOMAIN-SUFFIX,viber.com,Global
+DOMAIN-SUFFIX,vid.me,Global
+DOMAIN-SUFFIX,videomega.tv,Global
+DOMAIN-SUFFIX,vidinfo.org,Global
+DOMAIN-SUFFIX,vimeo.com,Global
+DOMAIN-SUFFIX,vimeocdn.com,Global
+DOMAIN-SUFFIX,vimperator.org,Global
+DOMAIN-SUFFIX,vine.co,Global
+DOMAIN-SUFFIX,visibletweets.com,Global
+DOMAIN-SUFFIX,viu.com,Global
+DOMAIN-SUFFIX,vivaldi.com,Global
+DOMAIN-SUFFIX,voachinese.com,Global
+DOMAIN-SUFFIX,vocativ.com,Global
+DOMAIN-SUFFIX,vox-cdn.com,Global
+DOMAIN-SUFFIX,vpnaccount.org,Global
+DOMAIN-SUFFIX,vpnbook.com,Global
+DOMAIN-SUFFIX,vpngate.net,Global
+DOMAIN-SUFFIX,vsco.co,Global
+DOMAIN-SUFFIX,vultr.com,Global
+DOMAIN-SUFFIX,vzw.com,Global
+DOMAIN-SUFFIX,w.org,Global
+DOMAIN-SUFFIX,w3schools.com,Global
+DOMAIN-SUFFIX,wattpad.com,Global
+DOMAIN-SUFFIX,web2project.net,Global
+DOMAIN-SUFFIX,webfreer.com,Global
+DOMAIN-SUFFIX,weblagu.com,Global
+DOMAIN-SUFFIX,websnapr.com,Global
+DOMAIN-SUFFIX,webtype.com,Global
+DOMAIN-SUFFIX,webwarper.net,Global
+DOMAIN-SUFFIX,wenxuecity.com,Global
+DOMAIN-SUFFIX,westca.com,Global
+DOMAIN-SUFFIX,westpoint.edu,Global
+DOMAIN-SUFFIX,whatbrowser.org,Global
+DOMAIN-SUFFIX,wikiwand.com,Global
+DOMAIN-SUFFIX,wikileaks.info,Global
+DOMAIN-SUFFIX,wikileaks.org,Global
+DOMAIN-SUFFIX,wikileaks-forum.com,Global
+DOMAIN-SUFFIX,wikimedia.org,Global
+DOMAIN-SUFFIX,wikipedia.com,Global
+DOMAIN-SUFFIX,wikipedia.org,Global
+DOMAIN-SUFFIX,wn.com,Global
+DOMAIN-SUFFIX,wordpress.com,Global
+DOMAIN-SUFFIX,workflow.is,Global
+DOMAIN-SUFFIX,workflowy.com,Global
+DOMAIN-SUFFIX,worldcat.org,Global
+DOMAIN-SUFFIX,wow.com,Global
+DOMAIN-SUFFIX,wp.com,Global
+DOMAIN-SUFFIX,wsj.com,Global
+DOMAIN-SUFFIX,wsj.net,Global
+DOMAIN-SUFFIX,wwitv.com,Global
+DOMAIN-SUFFIX,xanga.com,Global
+DOMAIN-SUFFIX,xclient.info,Global
+DOMAIN-SUFFIX,xda-developers.com,Global
+DOMAIN-SUFFIX,xeeno.com,Global
+DOMAIN-SUFFIX,xiti.com,Global
+DOMAIN-SUFFIX,xteko.com,Global
+DOMAIN-SUFFIX,xuite.net,Global
+DOMAIN-SUFFIX,xvideos.com,Global
+DOMAIN-SUFFIX,yahoo.com,Global
+DOMAIN-SUFFIX,yahooapis.com,Global
+DOMAIN-SUFFIX,yasni.co.uk,Global
+DOMAIN-SUFFIX,yastatic.net,Global
+DOMAIN-SUFFIX,ycombinator.com,Global
+DOMAIN-SUFFIX,yeeyi.com,Global
+DOMAIN-SUFFIX,yesasia.com,Global
+DOMAIN-SUFFIX,yes-news.com,Global
+DOMAIN-SUFFIX,yidio.com,Global
+DOMAIN-SUFFIX,yimg.com,Global
+DOMAIN-SUFFIX,ying.com,Global
+DOMAIN-SUFFIX,yorkbbs.ca,Global
+DOMAIN-SUFFIX,youmaker.com,Global
+DOMAIN-SUFFIX,yourlisten.com,Global
+DOMAIN-SUFFIX,youtu.be,Global
+DOMAIN-SUFFIX,yoyo.org,Global
+DOMAIN-SUFFIX,ytimg.com,Global
+DOMAIN-SUFFIX,zacebook.com,Global
+DOMAIN-SUFFIX,zalmos.com,Global
+DOMAIN-SUFFIX,zaobao.com.sg,Global
+DOMAIN-SUFFIX,zeutch.com,Global
+DOMAIN-SUFFIX,zynamics.com,Global
+
+# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+User-Agent,WhatsApp*,SG
+DOMAIN-KEYWORD,appledaily,Global
+DOMAIN-KEYWORD,beetalk,Global
+DOMAIN-KEYWORD,blogspot,Global
+DOMAIN-KEYWORD,dropbox,Global
+DOMAIN-KEYWORD,facebook,Global
+DOMAIN-KEYWORD,github,Global
+DOMAIN-KEYWORD,instagram,Global
+DOMAIN-KEYWORD,twitter,Global
+DOMAIN-KEYWORD,whatsapp,SG
+DOMAIN-KEYWORD,google,Global
+DOMAIN-SUFFIX,1e100.net,Global
+DOMAIN-SUFFIX,2mdn.net,Global
+DOMAIN-SUFFIX,abc.xyz,Global
+DOMAIN-SUFFIX,akamai.net,Global
+DOMAIN-SUFFIX,appspot.com,Global
+DOMAIN-SUFFIX,autodraw.com,Global
+DOMAIN-SUFFIX,bandwagonhost.com,Global
+DOMAIN-SUFFIX,blogblog.com,Global
+DOMAIN-SUFFIX,chromeexperiments.com,Global
+DOMAIN-SUFFIX,creativelab5.com,Global
+DOMAIN-SUFFIX,crittercism.com,Global
+DOMAIN-SUFFIX,culturalspot.org,Global
+DOMAIN-SUFFIX,dartlang.org,Global
+DOMAIN-SUFFIX,fb.com,Global
+DOMAIN-SUFFIX,fb.me,Global
+DOMAIN-SUFFIX,fbcdn.net,Global
+DOMAIN-SUFFIX,fbsbx.com,Global
+DOMAIN-SUFFIX,gcr.io,Global
+DOMAIN-SUFFIX,gmail.com,Global
+DOMAIN-SUFFIX,gosetsuden.jp,JP
+DOMAIN-SUFFIX,gwtproject.org,Global
+DOMAIN-SUFFIX,heroku.com,Global
+DOMAIN-SUFFIX,html5rocks.com,Global
+DOMAIN-SUFFIX,keyhole.com,Global
+DOMAIN-SUFFIX,kobo.com,Global
+DOMAIN-SUFFIX,kobobooks.com,Global
+DOMAIN-SUFFIX,madewithcode.com,Global
+DOMAIN-SUFFIX,material.io,Global
+DOMAIN-SUFFIX,messenger.com,Global
+DOMAIN-SUFFIX,netmarble.com,Global
+DOMAIN-SUFFIX,nianticlabs.com,Global
+DOMAIN-SUFFIX,pinimg.com,Global
+DOMAIN-SUFFIX,pubnub.com,Global
+DOMAIN-SUFFIX,scdn.co,Global
+DOMAIN-SUFFIX,t.co,Global
+DOMAIN-SUFFIX,tensorflow.org,Global
+DOMAIN-SUFFIX,toggleable.com,Global
+DOMAIN-SUFFIX,torproject.org,Global
+DOMAIN-SUFFIX,twimg.com,Global
+DOMAIN-SUFFIX,twitpic.com,Global
+DOMAIN-SUFFIX,unfiltered.news,Global
+DOMAIN-SUFFIX,waveprotocol.org,Global
+DOMAIN-SUFFIX,webmproject.org,Global
+DOMAIN-SUFFIX,webrtc.org,Global
+
+# > V2EX
+DOMAIN-SUFFIX,v2ex.com,Global
+
+DOMAIN-KEYWORD,dlercloud,Global
+
+# > Amazon
+ IP-CIDR,13.32.0.0/16,Global
+ IP-CIDR,13.33.0.0/16,Global
+ IP-CIDR,13.35.0.0/17,Global
+ IP-CIDR,18.184.0.0/15,Global
+ IP-CIDR,18.194.0.0/15,Global
+ IP-CIDR,18.208.0.0/13,Global
+ IP-CIDR,18.232.0.0/14,Global
+ IP-CIDR,52.200.0.0/13,Global
+ IP-CIDR,52.58.0.0/15,Global
+ IP-CIDR,52.74.0.0/16,Global
+ IP-CIDR,52.77.0.0/16,Global
+ IP-CIDR,52.84.0.0/15,Global
+ IP-CIDR,54.156.0.0/14,Global
+ IP-CIDR,54.226.0.0/15,Global
+ IP-CIDR,54.230.156.0/22,Global
+ IP-CIDR,54.93.0.0/16,Global
+
+# > Facebook
+ IP-CIDR,103.4.96.0/22,Global
+ IP-CIDR,129.134.0.0/17,Global
+ IP-CIDR,157.240.0.0/17,Global
+ IP-CIDR,173.252.64.0/19,Global
+ IP-CIDR,173.252.96.0/19,Global
+ IP-CIDR,179.60.192.0/22,Global
+ IP-CIDR,185.60.216.0/22,Global
+ IP-CIDR,204.15.20.0/22,Global
+ IP-CIDR,31.13.24.0/21,Global
+ IP-CIDR,31.13.64.0/18,Global
+ IP-CIDR,45.64.40.0/22,Global
+ IP-CIDR,66.220.144.0/20,Global
+ IP-CIDR,69.171.224.0/19,Global
+ IP-CIDR,69.63.176.0/20,Global
+ IP-CIDR,74.119.76.0/22,Global
+
+# > Google
+ IP-CIDR,173.194.0.0/16,Global
+ IP-CIDR,74.125.0.0/16,Global
+
+# > Kakao Talk
+ IP-CIDR,1.201.0.0/24,Global
+ IP-CIDR,103.246.56.0/22,Global
+ IP-CIDR,103.27.148.0/22,Global
+ IP-CIDR,110.76.140.0/22,Global
+ IP-CIDR,113.61.104.0/22,Global
+ IP-CIDR,27.0.236.0/22,Global
+
+# > LINE
+ IP-CIDR,103.2.28.0/22,Global
+ IP-CIDR,119.235.224.0/21,Global
+ IP-CIDR,119.235.232.0/23,Global
+ IP-CIDR,119.235.235.0/24,Global
+ IP-CIDR,119.235.236.0/23,Global
+ IP-CIDR,125.6.146.0/24,Global
+ IP-CIDR,125.6.149.0/24,Global
+ IP-CIDR,125.6.190.0/24,Global
+ IP-CIDR,125.209.208.0/20,Global
+ IP-CIDR,203.104.103.0/24,Global
+ IP-CIDR,203.104.128.0/20,Global
+ IP-CIDR,203.174.66.64/26,Global
+ IP-CIDR,203.174.77.0/24,Global
+
+# > Potato Chat
+ IP-CIDR,13.251.24.157/24,Global
+ IP-CIDR,13.251.41.203/24,Global
+ IP-CIDR,17.252.156.147/24,Global
+ IP-CIDR,17.252.157.26/24,Global
+
+# > SoftLayer
+ IP-CIDR,74.86.0.0/16,Global
+ IP-CIDR,75.126.0.0/16,Global
+ IP-CIDR,174.37.0.0/16,Global
+ IP-CIDR,208.43.0.0/16,Global
