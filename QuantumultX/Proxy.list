@@ -614,7 +614,7 @@ DOMAIN-SUFFIX,zeutch.com,Global
 DOMAIN-SUFFIX,zynamics.com,Global
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-User-Agent,WhatsApp*,Singapore
+User-Agent,WhatsApp*,Hong Kong
 DOMAIN-KEYWORD,appledaily,Global
 DOMAIN-KEYWORD,beetalk,Global
 DOMAIN-KEYWORD,blogspot,Global
@@ -623,8 +623,8 @@ DOMAIN-KEYWORD,facebook,Global
 DOMAIN-KEYWORD,github,Global
 DOMAIN-KEYWORD,instagram,Global
 DOMAIN-KEYWORD,twitter,Global
-DOMAIN-KEYWORD,whatsapp,Singapore
-DOMAIN-KEYWORD,google,Global
+DOMAIN-KEYWORD,whatsapp,Hong Kong
+DOMAIN-KEYWORD,google,Hong Kong
 DOMAIN-SUFFIX,1e100.net,Global
 DOMAIN-SUFFIX,2mdn.net,Global
 DOMAIN-SUFFIX,abc.xyz,Global
@@ -711,8 +711,8 @@ DOMAIN-KEYWORD,dlercloud,Global
  IP-CIDR,74.119.76.0/22,Global
 
 # > Google
- IP-CIDR,173.194.0.0/16,Global
- IP-CIDR,74.125.0.0/16,Global
+ IP-CIDR,173.194.0.0/16,Hong Kong
+ IP-CIDR,74.125.0.0/16,Hong Kong
 
 # > Kakao Talk
  IP-CIDR,1.201.0.0/24,Global

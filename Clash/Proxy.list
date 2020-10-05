@@ -624,7 +624,7 @@ DOMAIN-KEYWORD,github,Proxy
 DOMAIN-KEYWORD,instagram,Proxy
 DOMAIN-KEYWORD,twitter,Proxy
 DOMAIN-KEYWORD,whatsapp,Proxy
-DOMAIN-KEYWORD,google,Proxy
+DOMAIN-KEYWORD,google,Hong Kong
 DOMAIN-SUFFIX,1e100.net,Proxy
 DOMAIN-SUFFIX,2mdn.net,Proxy
 DOMAIN-SUFFIX,abc.xyz,Proxy
@@ -711,8 +711,8 @@ DOMAIN-KEYWORD,dlercloud,Proxy
  IP-CIDR,74.119.76.0/22,Proxy
 
 # > Google
- IP-CIDR,173.194.0.0/16,Proxy
- IP-CIDR,74.125.0.0/16,Proxy
+ IP-CIDR,173.194.0.0/16,Hong Kong
+ IP-CIDR,74.125.0.0/16,Hong Kong
 
 # > Kakao Talk
  IP-CIDR,1.201.0.0/24,Proxy

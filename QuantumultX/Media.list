@@ -161,7 +161,6 @@ USER-AGENT,mytv*,Hong Kong
 HOST-SUFFIX,mytvsuper.com,Hong Kong
 HOST-SUFFIX,tvb.com,Hong Kong
 # > Netflix
-# > Netflix
 USER-AGENT,Argo*,Netflix
 HOST,netflix.com.edgesuite.net,Netflix
 HOST-SUFFIX,netflix.com,Netflix
@@ -1081,7 +1080,6 @@ HOST-SUFFIX,skygo.co.nz,United Kingdom
 # > SoundCloud
 USER-AGENT,SoundCloud*,United States
 HOST-SUFFIX,sndcdn.com,United States
-# > Spotify
 # > Spotify
 USER-AGENT,*Spotify*,Hong Kong
 HOST-SUFFIX,pscdn.co,Hong Kong
