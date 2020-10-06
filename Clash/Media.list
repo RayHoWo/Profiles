@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,dzcdn.net,United States
 # > Disney Plus
 USER-AGENT,Disney*,United States
 DOMAIN,cdn.registerdisney.go.com,United States
-DOMAIN,cdn.cdn.unid.go.com,United States
+DOMAIN,cdn.unid.go.com,United States
 DOMAIN-SUFFIX,bamgrid.com,United States
 DOMAIN-SUFFIX,braze.com,United States
 DOMAIN-SUFFIX,conviva.com,United States
