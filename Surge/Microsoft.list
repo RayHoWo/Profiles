@@ -1,0 +1,27 @@
+# > Microsoft
+User-Agent,OneDrive*,Proxy
+DOMAIN-KEYWORD,onedrive,Proxy
+DOMAIN-SUFFIX,azure.com,Proxy
+DOMAIN-SUFFIX,fabric.io,Proxy
+DOMAIN-SUFFIX,files.1drv.com,Proxy
+DOMAIN-SUFFIX,hotmail.com,Proxy
+DOMAIN-SUFFIX,live.com,Proxy
+DOMAIN-SUFFIX,live.net,Proxy
+DOMAIN-SUFFIX,livefilestore.com,Proxy
+DOMAIN-SUFFIX,mesh.com,Proxy
+DOMAIN-SUFFIX,microsoft.com,Proxy
+DOMAIN-SUFFIX,microsoftonline.com,Proxy
+DOMAIN-SUFFIX,microsoft-tst.com,Proxy
+DOMAIN-SUFFIX,msn.com,Proxy
+DOMAIN-SUFFIX,office.com,Proxy
+DOMAIN-SUFFIX,office.net,Proxy
+DOMAIN-SUFFIX,onedrive.com,Proxy
+DOMAIN-SUFFIX,outlook.com,Proxy
+DOMAIN-SUFFIX,p.sfx.ms,Proxy
+DOMAIN-SUFFIX,sharepoint.com,Proxy
+DOMAIN-SUFFIX,skype.com,Proxy
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net,Proxy
+DOMAIN-SUFFIX,storage.msn.com,Proxy
+DOMAIN-SUFFIX,windows.net,Proxy
+DOMAIN-SUFFIX,xbox.com,Proxy
+DOMAIN-SUFFIX,xboxlive.com,Proxy
