@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,beplay,DIRECT
 
 # > Blizzard
-User-Agent,hearthstone*,DIRECT
+USER-AGENT,hearthstone*,DIRECT
 DOMAIN,cdp.cloud.unity3d.com,DIRECT
 DOMAIN-SUFFIX,battle.net,DIRECT
 DOMAIN-SUFFIX,battlenet.com,DIRECT
@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,alphassl.com,DIRECT
 DOMAIN-SUFFIX,edu.cn,DIRECT
 
 # > Sony
-User-Agent,RemotePlay*,DIRECT
+USER-AGENT,RemotePlay*,DIRECT
 
 # > TeamViewer
 IP-CIDR,185.188.32.0/24,DIRECT
