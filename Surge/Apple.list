@@ -28,7 +28,7 @@ PROCESS-NAME,com.apple.geod,United States
 
 # > Apple CDN
 PROCESS-NAME,storedownloadd,United States
-User-Agent,com.apple.appstored*,United States
+USER-AGENT,com.apple.appstored*,United States
 DOMAIN,aod.itunes.apple.com,United States
 DOMAIN,api.smoot.apple.cn,United States
 DOMAIN,appldnld.apple.com,United States

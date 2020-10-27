@@ -1,5 +1,5 @@
 # > Microsoft
-User-Agent,OneDrive*,Proxy
+USER-AGENT,OneDrive*,Proxy
 DOMAIN-KEYWORD,onedrive,Proxy
 DOMAIN-SUFFIX,azure.com,Proxy
 DOMAIN-SUFFIX,fabric.io,Proxy

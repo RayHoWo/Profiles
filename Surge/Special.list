@@ -14,7 +14,7 @@ PROCESS-NAME,v2ray,DIRECT
 PROCESS-NAME,ss-local,DIRECT
 
 # > Steam
-User-Agent,Steam*,DIRECT
+USER-AGENT,Steam*,DIRECT
 DOMAIN-SUFFIX,pinyuncloud.com,DIRECT
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
 
@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,windows.net,DIRECT
 DOMAIN-SUFFIX,windowsupdate.com,DIRECT
 
 # > Xunlei
-User-Agent,%E8%BF%85%E9%9B%B7,DIRECT
+USER-AGENT,%E8%BF%85%E9%9B%B7,DIRECT
 DOMAIN-SUFFIX,xunlei.com,DIRECT
 
 # > Download

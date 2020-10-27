@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,smartmailcloud.com,Proxy
 DOMAIN-KEYWORD,tesla,Proxy
 
 # > Zooba
-User-Agent,battleroyale*,Proxy
+USER-AGENT,battleroyale*,Proxy
 
 # > Top blocked sites
 DOMAIN-SUFFIX,2o7.net,Proxy
@@ -615,7 +615,7 @@ DOMAIN-SUFFIX,zeutch.com,Proxy
 DOMAIN-SUFFIX,zynamics.com,Proxy
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-User-Agent,WhatsApp*,Proxy
+USER-AGENT,WhatsApp*,Proxy
 DOMAIN-KEYWORD,appledaily,Proxy
 DOMAIN-KEYWORD,beetalk,Proxy
 DOMAIN-KEYWORD,blogspot,Proxy
