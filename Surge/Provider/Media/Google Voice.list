@@ -1,4 +1,0 @@
-# > Google Voice
-USER-AGENT,*voice*
-USER-AGENT,*com.google.ios.voice*
-DOMAIN-SUFFIX,voice.google.com
