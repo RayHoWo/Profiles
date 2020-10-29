@@ -1,45 +1,27 @@
 # > Apple API
-DOMAIN-SUFFIX,aaplimg.com,Apple
-DOMAIN-SUFFIX,apple.co,Apple
-DOMAIN-SUFFIX,apple.com,Apple
-DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-DOMAIN-SUFFIX,appsto.re,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
-DOMAIN-SUFFIX,icloud.com,Apple
-DOMAIN-SUFFIX,icloud-content.com,Apple
-DOMAIN-SUFFIX,itunes.com,Apple
-DOMAIN-SUFFIX,me.com,Apple
-IP-CIDR,17.0.0.0/8,Apple
-IP-CIDR,63.92.224.0/19,Apple
-IP-CIDR,65.199.22.0/23,Apple
-IP-CIDR,139.178.128.0/18,Apple
-IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,144.178.36.0/22,Apple
-IP-CIDR,144.178.48.0/20,Apple
-IP-CIDR,192.35.50.0/24,Apple
-IP-CIDR,198.183.17.0/24,Apple
-IP-CIDR,205.180.175.0/24,Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appsto.re
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
 
 # > Apple News
-DOMAIN-SUFFIX,apple.news,United States
+DOMAIN-SUFFIX,apple.news
 
 # > Apple Maps
-PROCESS-NAME,com.apple.geod,United States
-
-# > Apple CDN
-PROCESS-NAME,storedownloadd,United States
-USER-AGENT,com.apple.appstored*,United States
-DOMAIN,aod.itunes.apple.com,United States
-DOMAIN,api.smoot.apple.cn,United States
-DOMAIN,appldnld.apple.com,United States
-DOMAIN,apptrailers.itunes.apple.com,United States
-DOMAIN,gs-loc-cn.apple.com,United States
-DOMAIN,iosapps.itunes.apple.com,United States
-DOMAIN,music.apple.com,United States
-DOMAIN,mvod.itunes.apple.com,United States
-DOMAIN,osxapps.itunes.apple.com,United States
-DOMAIN,supportdownload.apple.com,United States
-DOMAIN,swcdn.apple.com,United States
-DOMAIN,updates-http.cdn-apple.com,United States
-DOMAIN-SUFFIX,ls.apple.com,United States
-DOMAIN-SUFFIX,mzstatic.com,United States
+PROCESS-NAME,com.apple.geod

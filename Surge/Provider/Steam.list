@@ -1,7 +1,6 @@
 # > Steam
-DOMAIN-SUFFIX,steamcontent.com,DIRECT
-DOMAIN-SUFFIX,fanatical.com,Gaming
-DOMAIN-SUFFIX,humblebundle.com,Gaming
-DOMAIN-SUFFIX,steamcommunity.com,Gaming
-DOMAIN-SUFFIX,steampowered.com,Gaming
-DOMAIN-SUFFIX,steamstatic.com,Gaming
+DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,humblebundle.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com

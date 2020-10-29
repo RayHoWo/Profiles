@@ -1,10 +1,10 @@
 # > Fast
-DOMAIN-SUFFIX,fast.com,Proxy
+DOMAIN-SUFFIX,fast.com
 
 # > Speedtest by Ookla
-USER-AGENT,SpeedTest*,Proxy
-DOMAIN-KEYWORD,speedtest,Proxy
-DOMAIN-SUFFIX,ooklaserver.net,Proxy
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
 
 # > Speed Test by Cloudflare
-DOMAIN-SUFFIX,speed.cloudflare.com,Proxy
+DOMAIN-SUFFIX,speed.cloudflare.com
