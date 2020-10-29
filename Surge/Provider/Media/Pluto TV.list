@@ -1,0 +1,4 @@
+# > Pluto TV
+USER-AGENT,*PlutoTV*
+DOMAIN-KEYWORD,pluto 
+DOMAIN-SUFFIX,pluto.tv
