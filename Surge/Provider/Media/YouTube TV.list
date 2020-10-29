@@ -1,4 +1,0 @@
-# > Youtube TV
-USER-AGENT,*YouTubeTV*
-USER-AGENT,*com.google.ios.youtubetv*
-DOMAIN-SUFFIX,tv.youtube.com
