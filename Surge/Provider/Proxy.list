@@ -33,6 +33,7 @@ DOMAIN-KEYWORD,tesla
 
 # > Tinder
 DOMAIN-KEYWORD,tinder
+DOMAIN-SUFFIX,gotinder.com
 
 # > Zooba
 USER-AGENT,battleroyale*
