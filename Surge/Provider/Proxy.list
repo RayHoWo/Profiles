@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,smartmailcloud.com
 # > Tesla
 DOMAIN-KEYWORD,tesla
 
+# > Tinder
+DOMAIN-KEYWORD,tinder
+
 # > Zooba
 USER-AGENT,battleroyale*
 
