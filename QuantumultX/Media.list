@@ -55,12 +55,23 @@ HOST-SUFFIX,bbcfmt.hs.llnwd.net,United Kingdom
 HOST-SUFFIX,bbci.co,United Kingdom
 HOST-SUFFIX,bbci.co.uk,United Kingdom
 # > DAZN
+HOST-SUFFIX,control.kochava.com,United States
 HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,United States
 HOST-SUFFIX,dazn.com,United States
 HOST-SUFFIX,dazn-api.com,United States
 HOST-SUFFIX,dazndn.com,United States
+HOST-SUFFIX,dc2-vodhls-perform.secure.footprint.net,United States
+HOST-SUFFIX,dcalivedazn.akamaized.net,United States
+HOST-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,United States
+HOST-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net,United States
+HOST-SUFFIX,dcblivedazn.akamaized.net,United States
 HOST-SUFFIX,indazn.com,United States
 HOST-SUFFIX,intercom.io,United States
+HOST-SUFFIX,logx.optimizely.com,United States
+HOST-SUFFIX,onboarding.indazn.com,United States
+HOST-SUFFIX,pubby.indazn.com,United States
+HOST-SUFFIX,rail.discovery.indazn.com,United States
+HOST-SUFFIX,s.yimg.jp,United States
 # > Deezer
 USER-AGENT,Deezer*,United States
 HOST-SUFFIX,deezer.com,United States
