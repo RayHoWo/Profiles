@@ -1,5 +1,5 @@
-#!name=URL Optimization
-#!desc=General URL Optimization，include Google search, Google map, Weibo, AbeamTV region restriction
+#!name=General URL Optimization
+#!desc=URL Optimization，include Google search, Google map, Weibo, AbeamTV region restriction
 
 [URL Rewrite]
 # Redirect Google Search Service
