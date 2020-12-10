@@ -615,12 +615,10 @@ HOST-SUFFIX,zeutch.com,Global
 HOST-SUFFIX,zynamics.com,Global
 
 # > Force some HOSTs which are fucked by GFW while resolving DNS,or do not respect the system Proxy
-User-Agent,WhatsApp*,Hong Kong
 HOST-KEYWORD,appledaily,Global
 HOST-KEYWORD,beetalk,Global
 HOST-KEYWORD,blogspot,Global
 HOST-KEYWORD,dropbox,Global
-HOST-KEYWORD,facebook,Global
 HOST-KEYWORD,github,Global
 HOST-KEYWORD,instagram,Global
 HOST-KEYWORD,twitter,Global
@@ -639,10 +637,6 @@ HOST-SUFFIX,creativelab5.com,Global
 HOST-SUFFIX,crittercism.com,Global
 HOST-SUFFIX,culturalspot.org,Global
 HOST-SUFFIX,dartlang.org,Global
-HOST-SUFFIX,fb.com,Global
-HOST-SUFFIX,fb.me,Global
-HOST-SUFFIX,fbcdn.net,Global
-HOST-SUFFIX,fbsbx.com,Global
 HOST-SUFFIX,gcr.io,Global
 HOST-SUFFIX,gmail.com,Global
 HOST-SUFFIX,gosetsuden.jp,Japan
@@ -694,23 +688,6 @@ IP-CIDR,54.156.0.0/14,Global
 IP-CIDR,54.226.0.0/15,Global
 IP-CIDR,54.230.156.0/22,Global
 IP-CIDR,54.93.0.0/16,Global
-
-# > Facebook
-IP-CIDR,103.4.96.0/22,Global
-IP-CIDR,129.134.0.0/17,Global
-IP-CIDR,157.240.0.0/17,Global
-IP-CIDR,173.252.64.0/19,Global
-IP-CIDR,173.252.96.0/19,Global
-IP-CIDR,179.60.192.0/22,Global
-IP-CIDR,185.60.216.0/22,Global
-IP-CIDR,204.15.20.0/22,Global
-IP-CIDR,31.13.24.0/21,Global
-IP-CIDR,31.13.64.0/18,Global
-IP-CIDR,45.64.40.0/22,Global
-IP-CIDR,66.220.144.0/20,Global
-IP-CIDR,69.171.224.0/19,Global
-IP-CIDR,69.63.176.0/20,Global
-IP-CIDR,74.119.76.0/22,Global
 
 # > Google
 IP-CIDR,173.194.0.0/16,Hong Kong
