@@ -1,6 +1,9 @@
 # > Dler Cloud
 HOST-SUFFIX,dler.cloud,DIRECT
 
+# > Epic
+DOMAIN-KEYWORD,epicgames,DIRECT
+
 # > Google
 HOST-SUFFIX,mtalk.google.com,DIRECT
 HOST,safebrowsing.googleapis.com,DIRECT
