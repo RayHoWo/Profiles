@@ -1,3 +1,6 @@
+# > OpenWrt
+HOST-SUFFIX,openwrt.download
+
 # > Line
 HOST-SUFFIX,lin.ee,Global
 HOST-SUFFIX,line.me,Global

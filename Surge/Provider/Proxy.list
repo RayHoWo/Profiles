@@ -1,3 +1,6 @@
+# > OpenWrt
+DOMAIN-SUFFIX,openwrt.download
+
 # > TestFlight
 DOMAIN,testflight.apple.com
 
@@ -9,11 +12,6 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
-
-# > Riot Games
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,wr.pvp.net
-DOMAIN-SUFFIX,riotgames.com
 
 # > Scholar
 DOMAIN,scholar.google.com
