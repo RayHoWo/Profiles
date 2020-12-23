@@ -117,11 +117,16 @@ HOST-SUFFIX,hboasia.com,Hong Kong
 HOST-SUFFIX,hbogoasia.com,Hong Kong
 HOST-SUFFIX,hbogoasia.hk,Hong Kong
 # > Hulu
-USER-AGENT,Hulu*,United States
-HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,cws-hulu.conviva.com,United States
 HOST-SUFFIX,hulu.com,United States
+HOST-SUFFIX,hulu.hb.omtrdc.net,United States
+HOST-SUFFIX,hulu.sc.omtrdc.net,United States
+HOST-SUFFIX,huluad.com,United States
 HOST-SUFFIX,huluim.com,United States
 HOST-SUFFIX,hulustream.com,United States
+# > Hulu Japan
+HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,hulu.jp,Japan
 # > Imkan
 HOST-SUFFIX,imkan.tv,Hong Kong
 # > ITV
