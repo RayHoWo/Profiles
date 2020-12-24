@@ -78,17 +78,24 @@ HOST-SUFFIX,deezer.com,United States
 HOST-SUFFIX,dzcdn.net,United States
 # > Disney Plus
 USER-AGENT,Disney*,United States
-HOST,cdn.registerdisney.go.com,United States
-HOST,cdn.unid.go.com,United States
-HOST,disney.my.sentry.io,United States
+HOST-SUFFIX,adobedtm.com,United States
+HOST-SUFFIX,bam.nr-data.net,United States
 HOST-SUFFIX,bamgrid.com,United States
 HOST-SUFFIX,braze.com,United States
-HOST-SUFFIX,conviva.com,United States
+HOST-SUFFIX,cdn.optimizely.com,United States
+HOST-SUFFIX,cdn.registerdisney.go.com,United States
+HOST-SUFFIX,cws.conviva.com,United States
+HOST-SUFFIX,d9.flashtalking.com,United States
 HOST-SUFFIX,disney.demdex.net,United States
+HOST-SUFFIX,disney.my.sentry.io,United States
+HOST-SUFFIX,disneyplus.bn5x.net,United States
 HOST-SUFFIX,disneyplus.com,United States
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,United States
 HOST-SUFFIX,disney-plus.net,United States
+HOST-SUFFIX,disney-portal.my.onetrust.com,United States
 HOST-SUFFIX,dssott.com,United States
 HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,United States
+HOST-SUFFIX,js-agent.newrelic.com,United States
 # > Epicgames
 HOST-KEYWORD,epicgames,United States
 HOST-SUFFIX,helpshift.com,United States
