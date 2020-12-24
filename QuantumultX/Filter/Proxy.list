@@ -1,5 +1,5 @@
 # > OpenWrt
-HOST-SUFFIX,openwrt.download
+HOST-SUFFIX,openwrt.download,Global
 
 # > Line
 HOST-SUFFIX,lin.ee,Global
