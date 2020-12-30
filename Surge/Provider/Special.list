@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,invoice.mugglepay.com
 
 # > NAS
 DOMAIN-SUFFIX,myds.me
+SRC-IP-CIDR,10.10.10.20/32
 
 # > Proxy plugin
 PROCESS-NAME,v2ray
