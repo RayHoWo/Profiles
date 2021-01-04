@@ -1,10 +1,11 @@
 # GEOIP Country
-GEOIP,HK,Hong Kong
-GEOIP,SG,Singapore
+GEOIP,US,United States
+GEOIP,GB,United Kingdom
+GEOIP,DE,Germany
+GEOIP,RU,Russia
+GEOIP,KR,Korea
 GEOIP,TW,Taiwan
 GEOIP,JP,Japan
-GEOIP,KR,Korea
-GEOIP,GB,United Kingdom
-GEOIP,US,United States
+GEOIP,SG,Singapore
+GEOIP,HK,Hong Kong
 GEOIP,CN,China
-
