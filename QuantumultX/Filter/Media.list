@@ -187,7 +187,7 @@ HOST-SUFFIX,tvb.com,Hong Kong
 # > Netflix
 USER-AGENT,Argo*,Netflix
 HOST-KEYWORD,netflix,Netflix
-HOST,netflix.com,Netflix.edgesuite.net,Netflix
+HOST,netflix.com.edgesuite.net,Netflix
 HOST-SUFFIX,netflix.com,Netflix
 HOST-SUFFIX,netflix.com.edgesuite.net,Netflix
 HOST-SUFFIX,netflix.net,Netflix
