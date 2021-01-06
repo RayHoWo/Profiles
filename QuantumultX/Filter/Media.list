@@ -55,8 +55,13 @@ HOST-SUFFIX,bbcfmt.hs.llnwd.net,United Kingdom
 HOST-SUFFIX,bbci.co,United Kingdom
 HOST-SUFFIX,bbci.co.uk,United Kingdom
 # > DAZN
+HOST-SUFFIX,cdn.cookielaw.org,United States
+HOST-SUFFIX,amplify.outbrain.com,United States
+HOST-SUFFIX,bluekai.com,United States
+HOST-SUFFIX,cdn.cookielaw.org,United States
 HOST-SUFFIX,control.kochava.com,United States
 HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,United States
+HOST-SUFFIX,d1sgwhnao7452x.cloudfront.net,United States
 HOST-SUFFIX,dazn.com,United States
 HOST-SUFFIX,dazn-api.com,United States
 HOST-SUFFIX,dazndn.com,United States
@@ -65,17 +70,30 @@ HOST-SUFFIX,dcalivedazn.akamaized.net,United States
 HOST-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,United States
 HOST-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net,United States
 HOST-SUFFIX,dcblivedazn.akamaized.net,United States
+HOST-SUFFIX,docomo.ne.jp,Japan
 HOST-SUFFIX,indazn.com,United States
+HOST-SUFFIX,indaznlab.com,United States
 HOST-SUFFIX,intercom.io,United States
-HOST-SUFFIX,logx.optimizely.com,United States
-HOST-SUFFIX,onboarding.indazn.com,United States
-HOST-SUFFIX,pubby.indazn.com,United States
-HOST-SUFFIX,rail.discovery.indazn.com,United States
-HOST-SUFFIX,s.yimg.jp,United States
+HOST-SUFFIX,pause-confirmed-marketing-images-prod.s3.eu-central-1.amazonaws.com,United States
+HOST-SUFFIX,perfops.doracdn.com,United States
+HOST-SUFFIX,rest.zuora.com,United States
+HOST-SUFFIX,s.yimg.jp,Japan
+HOST-SUFFIX,vjs.zencdn.net,United States
+HOST-SUFFIX,yahoo.co.jp,Japan
 # > Deezer
 USER-AGENT,Deezer*,United States
 HOST-SUFFIX,deezer.com,United States
 HOST-SUFFIX,dzcdn.net,United States
+# > Discovery Plus
+USER-AGENT,DPlus*
+HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com,United States
+HOST-SUFFIX,disco-api.com,United States
+HOST-SUFFIX,discoveryplus.com,United States
+HOST-SUFFIX,fwmrm.net,United States
+HOST-SUFFIX,getblueshift.com,United States
+HOST-SUFFIX,litix.io,United States
+HOST-SUFFIX,mobile-collector.newrelic.com,United States
+HOST-SUFFIX,uplynk.com,United States
 # > Disney Plus
 USER-AGENT,Disney*,United States
 HOST-SUFFIX,adobedtm.com,United States
@@ -131,9 +149,12 @@ HOST-SUFFIX,hulu.sc.omtrdc.net,United States
 HOST-SUFFIX,huluad.com,United States
 HOST-SUFFIX,huluim.com,United States
 HOST-SUFFIX,hulustream.com,United States
-# > Hulu Japan
+# > Hulu(フールー)
 HOST-SUFFIX,happyon.jp,Japan
 HOST-SUFFIX,hulu.jp,Japan
+HOST-SUFFIX,prod.hjholdings.tv,Japan
+HOST-SUFFIX,streaks.jp,Japan
+HOST-SUFFIX,yb.uncn.jp,Japan
 # > Imkan
 HOST-SUFFIX,imkan.tv,Hong Kong
 # > ITV
