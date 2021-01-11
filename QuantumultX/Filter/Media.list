@@ -85,7 +85,7 @@ USER-AGENT,Deezer*,United States
 HOST-SUFFIX,deezer.com,United States
 HOST-SUFFIX,dzcdn.net,United States
 # > Discovery Plus
-USER-AGENT,DPlus*
+USER-AGENT,DPlus*,United States
 HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com,United States
 HOST-SUFFIX,disco-api.com,United States
 HOST-SUFFIX,discoveryplus.com,United States
