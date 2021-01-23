@@ -2,7 +2,7 @@
 HOST-SUFFIX,dler.cloud,DIRECT
 
 # > Epic
-DOMAIN-KEYWORD,epicgames,DIRECT
+HOST-KEYWORD,epicgames,DIRECT
 
 # > Google
 HOST-SUFFIX,mtalk.google.com,DIRECT
@@ -15,6 +15,9 @@ HOST-SUFFIX,msftconnecttest.com,DIRECT
 # > Proxy plugin
 HOST-KEYWORD,v2ray,DIRECT
 HOST-KEYWORD,ss-local,DIRECT
+
+# > Spotify
+HOST-SUFFIX,ap.spotify.com
 
 # > Steam
 User-Agent,Steam*,DIRECT
