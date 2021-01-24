@@ -17,7 +17,7 @@ HOST-KEYWORD,v2ray,DIRECT
 HOST-KEYWORD,ss-local,DIRECT
 
 # > Spotify
-HOST-SUFFIX,ap.spotify.com
+HOST-SUFFIX,ap.spotify.com,DIRECT
 
 # > Steam
 User-Agent,Steam*,DIRECT
