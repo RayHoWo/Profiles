@@ -1,3 +1,7 @@
+# > Grammarly
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grammarly.io
+
 # > OpenWrt
 DOMAIN-SUFFIX,openwrt.download
 

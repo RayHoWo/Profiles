@@ -1,3 +1,7 @@
+# > Grammarly
+HOST-SUFFIX,grammarly.com
+HOST-SUFFIX,grammarly.io
+
 # > OpenWrt
 HOST-SUFFIX,openwrt.download,Global
 
