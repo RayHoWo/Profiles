@@ -1,35 +1,35 @@
 # > WhatsApp/Facebook
-USER-AGENT,Facebook*,Hong Kong
-USER-AGENT,WhatsApp*,Hong Kong
-DOMAIN-SUFFIX,cdninstagram.com,Hong Kong
-DOMAIN-SUFFIX,facebook.com,Hong Kong
-DOMAIN-SUFFIX,facebook.net,Hong Kong
-DOMAIN-SUFFIX,fb.com,Hong Kong
-DOMAIN-SUFFIX,fb.me,Hong Kong
-DOMAIN-SUFFIX,fbaddins.com,Hong Kong
-DOMAIN-SUFFIX,fbcdn.net,Hong Kong
-DOMAIN-SUFFIX,fbsbx.com,Hong Kong
-DOMAIN-SUFFIX,fbworkmail.com,Hong Kong
-DOMAIN-SUFFIX,instagram.com,Hong Kong
-DOMAIN-SUFFIX,m.me,Hong Kong
-DOMAIN-SUFFIX,messenger.com,Hong Kong
-DOMAIN-SUFFIX,oculus.com,Hong Kong
-DOMAIN-SUFFIX,oculuscdn.com,Hong Kong
-DOMAIN-SUFFIX,rocksdb.org,Hong Kong
-DOMAIN-SUFFIX,whatsapp.com,Hong Kong
-DOMAIN-SUFFIX,whatsapp.net,Hong Kong
-IP-CIDR,103.4.96.0/22,Hong Kong
-IP-CIDR,129.134.0.0/17,Hong Kong
-IP-CIDR,157.240.0.0/17,Hong Kong
-IP-CIDR,173.252.64.0/19,Hong Kong
-IP-CIDR,173.252.96.0/19,Hong Kong
-IP-CIDR,179.60.192.0/22,Hong Kong
-IP-CIDR,185.60.216.0/22,Hong Kong
-IP-CIDR,204.15.20.0/22,Hong Kong
-IP-CIDR,31.13.24.0/21,Hong Kong
-IP-CIDR,31.13.64.0/18,Hong Kong
-IP-CIDR,45.64.40.0/22,Hong Kong
-IP-CIDR,66.220.144.0/20,Hong Kong
-IP-CIDR,69.171.224.0/19,Hong Kong
-IP-CIDR,69.63.176.0/20,Hong Kong
-IP-CIDR,74.119.76.0/22,Hong Kong
+USER-AGENT,Facebook*,Global
+USER-AGENT,WhatsApp*,Global
+DOMAIN-SUFFIX,cdninstagram.com,Global
+DOMAIN-SUFFIX,facebook.com,Global
+DOMAIN-SUFFIX,facebook.net,Global
+DOMAIN-SUFFIX,fb.com,Global
+DOMAIN-SUFFIX,fb.me,Global
+DOMAIN-SUFFIX,fbaddins.com,Global
+DOMAIN-SUFFIX,fbcdn.net,Global
+DOMAIN-SUFFIX,fbsbx.com,Global
+DOMAIN-SUFFIX,fbworkmail.com,Global
+DOMAIN-SUFFIX,instagram.com,Global
+DOMAIN-SUFFIX,m.me,Global
+DOMAIN-SUFFIX,messenger.com,Global
+DOMAIN-SUFFIX,oculus.com,Global
+DOMAIN-SUFFIX,oculuscdn.com,Global
+DOMAIN-SUFFIX,rocksdb.org,Global
+DOMAIN-SUFFIX,whatsapp.com,Global
+DOMAIN-SUFFIX,whatsapp.net,Global
+IP-CIDR,103.4.96.0/22,Global
+IP-CIDR,129.134.0.0/17,Global
+IP-CIDR,157.240.0.0/17,Global
+IP-CIDR,173.252.64.0/19,Global
+IP-CIDR,173.252.96.0/19,Global
+IP-CIDR,179.60.192.0/22,Global
+IP-CIDR,185.60.216.0/22,Global
+IP-CIDR,204.15.20.0/22,Global
+IP-CIDR,31.13.24.0/21,Global
+IP-CIDR,31.13.64.0/18,Global
+IP-CIDR,45.64.40.0/22,Global
+IP-CIDR,66.220.144.0/20,Global
+IP-CIDR,69.171.224.0/19,Global
+IP-CIDR,69.63.176.0/20,Global
+IP-CIDR,74.119.76.0/22,Global
