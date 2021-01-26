@@ -107,6 +107,13 @@ HOST-SUFFIX,huluad.com,United States
 HOST-SUFFIX,huluim.com,United States
 HOST-SUFFIX,hulustream.com,United States
 
+# > New4KTV
+USER-AGENT,Ministra%20Player*,United States 
+HOST-KEYWORD,new4k,United States 
+HOST-SUFFIX,live.new4k.tv,United States 
+IP-CIDR,62.112.9.0/24,United States 
+IP-CIDR,66.70.128.0/17,United States 
+
 # > Pandora
 HOST-SUFFIX,pandora.com,United States
 

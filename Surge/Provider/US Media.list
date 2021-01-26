@@ -107,6 +107,13 @@ DOMAIN-SUFFIX,huluad.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
 
+# > New4KTV
+USER-AGENT,Ministra%20Player*
+DOMAIN-KEYWORD,new4k
+DOMAIN-SUFFIX,live.new4k.tv 
+IP-CIDR,62.112.9.0/24
+IP-CIDR,66.70.128.0/17 
+
 # > Pandora
 DOMAIN-SUFFIX,pandora.com
 

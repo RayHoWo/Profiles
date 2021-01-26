@@ -1,4 +1,8 @@
 // > Youtube
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*,YouTube
+USER-AGENT,*com.google.ios.youtubemusic*,YouTube
+
 # > Youtube Video
 USER-AGENT,*youtube*,YouTube
 USER-AGENT,YouTube*,YouTube
@@ -9,7 +13,3 @@ DOMAIN-SUFFIX,googlevideo.com,YouTube
 DOMAIN-SUFFIX,gvt2.com,YouTube
 DOMAIN-SUFFIX,youtu.be,YouTube
 DOMAIN-SUFFIX,ytimg.com,YouTube
-
-# > Youtube Music
-USER-AGENT,*YouTubeMusic*,YouTube
-USER-AGENT,*com.google.ios.youtubemusic*,YouTube
