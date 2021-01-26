@@ -1,0 +1,32 @@
+// UK Media
+# > All4
+USER-AGENT,All4*
+HOST-SUFFIX,c4assets.com
+HOST-SUFFIX,channel4.com
+
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*
+HOST-KEYWORD,bbcfmt
+HOST,aod-dash-uk-live.akamaized.net
+HOST,aod-hls-uk-live.akamaized.net
+HOST,vod-dash-uk-live.akamaized.net
+HOST,vod-thumb-uk-live.akamaized.net
+HOST-SUFFIX,bbc.co
+HOST-SUFFIX,bbc.co.uk
+HOST-SUFFIX,bbc.com
+HOST-SUFFIX,bbcfmt.hs.llnwd.net
+HOST-SUFFIX,bbci.co
+HOST-SUFFIX,bbci.co.uk
+
+# > ITV
+USER-AGENT,ITV_Player*
+HOST-SUFFIX,itv.com
+HOST-SUFFIX,itvstatic.com
+HOST,itvpnpmobile-a.akamaihd.net
+
+# > My5
+USER-AGENT,My5*
+HOST-SUFFIX,channel5.com
+HOST-SUFFIX,my5.tv
+HOST,d349g9zuie06uo.cloudfront.net
+

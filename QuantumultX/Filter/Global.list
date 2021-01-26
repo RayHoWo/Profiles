@@ -1,3 +1,4 @@
+// Global websites
 # > Grammarly
 HOST-SUFFIX,grammarly.com
 HOST-SUFFIX,grammarly.io
@@ -695,7 +696,7 @@ HOST-SUFFIX,zaobao.com.sg
 HOST-SUFFIX,zeutch.com
 HOST-SUFFIX,zynamics.com
 
-# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+# > Force some HOSTs which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 HOST-KEYWORD,appledaily
 HOST-KEYWORD,beetalk
 HOST-KEYWORD,blogspot

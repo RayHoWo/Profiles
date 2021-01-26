@@ -1,0 +1,7 @@
+// SG Media
+# > Fox+ (HK|TW|SG)
+USER-AGENT,FOXPlus*
+HOST-SUFFIX,akamaized.net
+HOST-SUFFIX,foxplus.com
+HOST-SUFFIX,theplatform.com
+

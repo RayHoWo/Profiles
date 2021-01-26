@@ -1,0 +1,14 @@
+// > Youtube
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+HOST-KEYWORD,youtube
+HOST,yt3.ggpht.com
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,googlevideo.com
+HOST-SUFFIX,gvt2.com
+HOST-SUFFIX,youtu.be
+HOST-SUFFIX,ytimg.com
+
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*

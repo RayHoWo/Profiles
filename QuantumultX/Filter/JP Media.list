@@ -1,0 +1,38 @@
+// JP Media
+# > AbemaTV
+USER-AGENT,AbemaTV*
+HOST-SUFFIX,abema.io
+HOST-SUFFIX,abema.tv
+HOST-SUFFIX,akamaized.net
+HOST-SUFFIX,ameba.jp
+HOST-SUFFIX,hayabusa.io
+HOST-KEYWORD,abematv.akamaized.net
+
+# > Hulu(フールー)
+HOST-SUFFIX,happyon.jp
+HOST-SUFFIX,hulu.jp
+HOST-SUFFIX,prod.hjholdings.tv
+HOST-SUFFIX,streaks.jp
+HOST-SUFFIX,yb.uncn.jp
+
+# > Japonx
+HOST-KEYWORD,japonx
+HOST-KEYWORD,japronx
+HOST-SUFFIX,japonx.com
+HOST-SUFFIX,japonx.tv
+HOST-SUFFIX,japonx.net
+HOST-SUFFIX,japonx.vip
+HOST-SUFFIX,japronx.com
+HOST-SUFFIX,japronx.tv
+HOST-SUFFIX,japronx.net
+HOST-SUFFIX,japronx.vip
+
+# > niconico
+USER-AGENT,Niconico*
+HOST-SUFFIX,dmc.nico
+HOST-SUFFIX,nicovideo.jp
+HOST-SUFFIX,nimg.jp
+HOST-SUFFIX,socdm.com
+
+
+

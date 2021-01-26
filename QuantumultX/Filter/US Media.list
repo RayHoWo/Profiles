@@ -1,0 +1,134 @@
+// United States Media
+# > Google Voice
+USER-AGENT,*voice*
+USER-AGENT,*com.google.ios.voice*
+HOST-SUFFIX,voice.google.com
+
+# > ABC
+HOST-SUFFIX,edgedatg.com
+HOST-SUFFIX,go.com
+
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+HOST-SUFFIX,aiv-cdn.net
+HOST-SUFFIX,amazonaws.co.uk
+HOST-SUFFIX,amazonaws.com
+HOST-SUFFIX,amazonvideo.com
+HOST-SUFFIX,llnwd.net
+HOST-SUFFIX,primevideo.com
+HOST-SUFFIX, media-amazon.com
+HOST,atv-ps.amazon.com
+HOST,fls-na.amazon.com
+
+# > Apple News and Apple Map TOMTOM Version
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+HOST,gspe1-ssl.ls.apple.com
+USER-AGENT,News*
+HOST,apple.comscoreresearch.com
+HOST,gateway.icloud.com
+HOST,news-client.apple.com
+HOST,news-edge.apple.com
+HOST,news-events.apple.com
+HOST-SUFFIX,apple.news
+
+# > Apple TV
+HOST,np-edge.itunes.apple.com
+HOST,play-edge.itunes.apple.com
+HOST-SUFFIX,tv.apple.com
+
+# > DAZN
+USER-AGENT,DAZN*
+HOST,d151l6v8er5bdm.cloudfront.net
+HOST-SUFFIX,dazn.com
+HOST-SUFFIX,dazn-api.com
+HOST-SUFFIX,indazn.com
+HOST-KEYWORD,livedazn
+HOST-KEYWORD,voddazn
+
+# > Discovery Plus
+USER-AGENT,DPlus*
+HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+HOST-SUFFIX,disco-api.com
+HOST-SUFFIX,discoveryplus.com
+HOST-SUFFIX,fwmrm.net
+HOST-SUFFIX,getblueshift.com
+HOST-SUFFIX,litix.io
+HOST-SUFFIX,mobile-collector.newrelic.com
+HOST-SUFFIX,uplynk.com
+
+# > Disney Plus
+USER-AGENT,Disney*
+HOST-SUFFIX,adobedtm.com
+HOST-SUFFIX,bam.nr-data.net
+HOST-SUFFIX,bamgrid.com
+HOST-SUFFIX,braze.com
+HOST-SUFFIX,cdn.optimizely.com
+HOST-SUFFIX,cdn.registerdisney.go.com
+HOST-SUFFIX,cws.conviva.com
+HOST-SUFFIX,d9.flashtalking.com
+HOST-SUFFIX,disney.demdex.net
+HOST-SUFFIX,disney.my.sentry.io
+HOST-SUFFIX,disneyplus.bn5x.net
+HOST-SUFFIX,disneyplus.com
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+HOST-SUFFIX,disney-plus.net
+HOST-SUFFIX,disney-portal.my.onetrust.com
+HOST-SUFFIX,dssott.com
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com
+HOST-SUFFIX,js-agent.newrelic.com
+
+# > encoreTVB
+USER-AGENT,encoreTVB*
+HOST-SUFFIX,encoretvb.com
+HOST,content.jwplatform.com
+HOST,videos-f.jwpsrv.com
+
+# > Fox Now
+USER-AGENT,FOX%20NOW*
+HOST-SUFFIX,fox.com
+HOST-SUFFIX,foxdcg.com
+HOST-SUFFIX,uplynk.com
+
+# > HBO Max
+USER-AGENT,HBOMAX*
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,hbomax.com
+
+# > Hulu
+HOST-SUFFIX,cws-hulu.conviva.com
+HOST-SUFFIX,hulu.com
+HOST-SUFFIX,hulu.hb.omtrdc.net
+HOST-SUFFIX,hulu.sc.omtrdc.net
+HOST-SUFFIX,huluad.com
+HOST-SUFFIX,huluim.com
+HOST-SUFFIX,hulustream.com
+
+# > Pandora
+HOST-SUFFIX,pandora.com
+
+# > PBS
+USER-AGENT,PBS*
+HOST-SUFFIX,pbs.org
+
+# > Pornhub
+HOST-SUFFIX,phncdn.com
+HOST-SUFFIX,phprcdn.com
+HOST-SUFFIX,pornhub.com
+HOST-SUFFIX,pornhubpremium.com
+
+# > Pluto TV
+USER-AGENT,*PlutoTV*
+HOST-KEYWORD,pluto
+HOST-SUFFIX,pluto.tv
+HOST-SUFFIX,braze.com
+HOST-SUFFIX,youboranqs01.com
+HOST-SUFFIX,youborafds01.com
+
+# > Youtube TV
+USER-AGENT,*YouTubeTV*
+USER-AGENT,*com.google.ios.youtubetv*
+HOST-SUFFIX,tv.youtube.com
