@@ -1,7 +1,7 @@
 # > Pluto TV
 USER-AGENT,*PlutoTV*
-DOMAIN-KEYWORD,pluto
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN-SUFFIX,youborafds01.com
+HOST-KEYWORD,pluto
+HOST-SUFFIX,pluto.tv
+HOST-SUFFIX,braze.com
+HOST-SUFFIX,youboranqs01.com
+HOST-SUFFIX,youborafds01.com

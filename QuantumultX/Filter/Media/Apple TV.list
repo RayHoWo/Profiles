@@ -1,4 +1,4 @@
 # > Apple TV
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
+HOST,np-edge.itunes.apple.com
+HOST,play-edge.itunes.apple.com
+HOST-SUFFIX,tv.apple.com

@@ -1,17 +1,17 @@
 
 # > Apple API
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+HOST-SUFFIX,aaplimg.com
+HOST-SUFFIX,apple.co
+HOST-SUFFIX,apple.com
+HOST-SUFFIX,apple-cloudkit.com
+HOST-SUFFIX,apple-mapkit.com
+HOST-SUFFIX,appsto.re
+HOST-SUFFIX,cdn-apple.com
+HOST-SUFFIX,icloud.com
+HOST-SUFFIX,icloud-content.com
+HOST-SUFFIX,itunes.com
+HOST-SUFFIX,me.com
+HOST-SUFFIX,mzstatic.com
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
@@ -24,7 +24,7 @@ IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
 # > Apple News
-DOMAIN-SUFFIX,apple.news
+HOST-SUFFIX,apple.news
 
 # > Apple Maps
 PROCESS-NAME,com.apple.geod
@@ -32,17 +32,17 @@ PROCESS-NAME,com.apple.geod
 # > Apple CDN
 PROCESS-NAME,storedownloadd
 USER-AGENT,com.apple.appstored*
-DOMAIN,aod.itunes.apple.com
-DOMAIN,api.smoot.apple.cn
-DOMAIN,appldnld.apple.com
-DOMAIN,apptrailers.itunes.apple.com
-DOMAIN,gs-loc-cn.apple.com
-DOMAIN,iosapps.itunes.apple.com
-DOMAIN,music.apple.com
-DOMAIN,mvod.itunes.apple.com
-DOMAIN,osxapps.itunes.apple.com
-DOMAIN,supportdownload.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,updates-http.cdn-apple.com
-DOMAIN-SUFFIX,ls.apple.com
-DOMAIN-SUFFIX,mzstatic.com
+HOST,aod.itunes.apple.com
+HOST,api.smoot.apple.cn
+HOST,appldnld.apple.com
+HOST,apptrailers.itunes.apple.com
+HOST,gs-loc-cn.apple.com
+HOST,iosapps.itunes.apple.com
+HOST,music.apple.com
+HOST,mvod.itunes.apple.com
+HOST,osxapps.itunes.apple.com
+HOST,supportdownload.apple.com
+HOST,swcdn.apple.com
+HOST,updates-http.cdn-apple.com
+HOST-SUFFIX,ls.apple.com
+HOST-SUFFIX,mzstatic.com

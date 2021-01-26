@@ -1,0 +1,6 @@
+# > HBO Max
+USER-AGENT,HBOMAX*
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,hbomax.com

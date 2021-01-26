@@ -1,8 +1,8 @@
 # > AbemaTV
 USER-AGENT,AbemaTV*
-DOMAIN-SUFFIX,abema.io
-DOMAIN-SUFFIX,abema.tv
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,ameba.jp
-DOMAIN-SUFFIX,hayabusa.io
-DOMAIN-KEYWORD,abematv.akamaized.net
+HOST-SUFFIX,abema.io
+HOST-SUFFIX,abema.tv
+HOST-SUFFIX,akamaized.net
+HOST-SUFFIX,ameba.jp
+HOST-SUFFIX,hayabusa.io
+HOST-KEYWORD,abematv.akamaized.net

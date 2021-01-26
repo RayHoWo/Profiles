@@ -1,5 +1,5 @@
 # > Line TV
 USER-AGENT,LINE*
-DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,profile.line-scdn.net
+HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+HOST-SUFFIX,linetv.tw
+HOST-SUFFIX,profile.line-scdn.net

@@ -1,39 +1,39 @@
 # Blizzard
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN,blizzard.nefficient.co.kr
-DOMAIN,blzddist1-a.akamaihd.net
-DOMAIN,blzddistkr1-a.akamaihd.net
-DOMAIN,bnetproduct-a.akamaihd.net
+HOST-SUFFIX,battle.net
+HOST-SUFFIX,blizzard.com
+HOST,blizzard.nefficient.co.kr
+HOST,blzddist1-a.akamaihd.net
+HOST,blzddistkr1-a.akamaihd.net
+HOST,bnetproduct-a.akamaihd.net
 
 # Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
+HOST-SUFFIX,discord.co
+HOST-SUFFIX,discord.com
+HOST-SUFFIX,discord.gg
+HOST-SUFFIX,discord.media
+HOST-SUFFIX,discordapp.com
+HOST-SUFFIX,discordapp.net
 
 # Steam
-DOMAIN-SUFFIX,steam-chat.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcdn-a.akamaihd.net
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,steamstore-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamusercontent-a.akamaihd.net
-DOMAIN,steamuserimages-a.akamaihd.net
+HOST-SUFFIX,steam-chat.com
+HOST-SUFFIX,steamcontent.com
+HOST-SUFFIX,steamgames.com
+HOST-SUFFIX,steampowered.com
+HOST-SUFFIX,steamstat.us
+HOST-SUFFIX,steamstatic.com
+HOST-SUFFIX,steamusercontent.com
+HOST,steambroadcast.akamaized.net
+HOST,steamcdn-a.akamaihd.net
+HOST,steamcommunity-a.akamaihd.net
+HOST,steamstore-a.akamaihd.net
+HOST,steamusercontent-a.akamaihd.net
+HOST,steamusercontent-a.akamaihd.net
+HOST,steamuserimages-a.akamaihd.net
 
 # Supercell
 # > Brawl Stars
-DOMAIN-SUFFIX,brawlstars.com
-DOMAIN-SUFFIX,brawlstarsgame.com
+HOST-SUFFIX,brawlstars.com
+HOST-SUFFIX,brawlstarsgame.com
 IP-CIDR,13.210.25.233/32
 IP-CIDR,13.212.170.102/32
 IP-CIDR,13.212.171.212/32
@@ -59,6 +59,6 @@ IP-CIDR,54.207.168.84/32
 IP-CIDR,54.248.64.192/32
 
 # League of Legends: Wild Rift!
-DOMAIN-SUFFIX,pvp.net
-DOMAIN-SUFFIX,riotgames.com
-DOMAIN-SUFFIX,riotcdn.net
+HOST-SUFFIX,pvp.net
+HOST-SUFFIX,riotgames.com
+HOST-SUFFIX,riotcdn.net

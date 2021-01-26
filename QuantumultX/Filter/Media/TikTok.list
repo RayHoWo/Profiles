@@ -1,12 +1,12 @@
 # > TikTok
 USER-AGENT,TikTok*
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
+HOST-SUFFIX,byteoversea.com
+HOST-SUFFIX,ibytedtos.com
+HOST-SUFFIX,ipstatp.com
+HOST-SUFFIX,muscdn.com
+HOST-SUFFIX,musical.ly
+HOST-SUFFIX,tiktok.com
+HOST-SUFFIX,tik-tokapi.com
+HOST-SUFFIX,tiktokcdn.com
+HOST-SUFFIX,tiktokv.com
+HOST-KEYWORD,-tiktokcdn-com

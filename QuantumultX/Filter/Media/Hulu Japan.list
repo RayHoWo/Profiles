@@ -1,6 +1,6 @@
 # > Hulu(フールー)
-DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,prod.hjholdings.tv
-DOMAIN-SUFFIX,streaks.jp
-DOMAIN-SUFFIX,yb.uncn.jp
+HOST-SUFFIX,happyon.jp
+HOST-SUFFIX,hulu.jp
+HOST-SUFFIX,prod.hjholdings.tv
+HOST-SUFFIX,streaks.jp
+HOST-SUFFIX,yb.uncn.jp

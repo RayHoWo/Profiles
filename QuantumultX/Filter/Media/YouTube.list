@@ -1,13 +1,13 @@
 # > Youtube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
-DOMAIN-KEYWORD,youtube
-DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,ytimg.com
+HOST-KEYWORD,youtube
+HOST,yt3.ggpht.com
+HOST-SUFFIX,app-measurement.com
+HOST-SUFFIX,googlevideo.com
+HOST-SUFFIX,gvt2.com
+HOST-SUFFIX,youtu.be
+HOST-SUFFIX,ytimg.com
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*
