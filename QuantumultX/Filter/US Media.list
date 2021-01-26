@@ -1,134 +1,134 @@
 // United States Media
 # > Google Voice
-USER-AGENT,*voice*
-USER-AGENT,*com.google.ios.voice*
-HOST-SUFFIX,voice.google.com
+USER-AGENT,*voice*,United States
+USER-AGENT,*com.google.ios.voice*,United States
+HOST-SUFFIX,voice.google.com,United States
 
 # > ABC
-HOST-SUFFIX,edgedatg.com
-HOST-SUFFIX,go.com
+HOST-SUFFIX,edgedatg.com,United States
+HOST-SUFFIX,go.com,United States
 
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*
-USER-AGENT,Prime%20Video*
-HOST-SUFFIX,aiv-cdn.net
-HOST-SUFFIX,amazonaws.co.uk
-HOST-SUFFIX,amazonaws.com
-HOST-SUFFIX,amazonvideo.com
-HOST-SUFFIX,llnwd.net
-HOST-SUFFIX,primevideo.com
-HOST-SUFFIX, media-amazon.com
-HOST,atv-ps.amazon.com
-HOST,fls-na.amazon.com
+USER-AGENT,InstantVideo.US*,United States
+USER-AGENT,Prime%20Video*,United States
+HOST-SUFFIX,aiv-cdn.net,United States
+HOST-SUFFIX,amazonaws.co.uk,United States
+HOST-SUFFIX,amazonaws.com,United States
+HOST-SUFFIX,amazonvideo.com,United States
+HOST-SUFFIX,llnwd.net,United States
+HOST-SUFFIX,primevideo.com,United States
+HOST-SUFFIX, media-amazon.com,United States
+HOST,atv-ps.amazon.com,United States
+HOST,fls-na.amazon.com,United States
 
 # > Apple News and Apple Map TOMTOM Version
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-HOST,gspe1-ssl.ls.apple.com
-USER-AGENT,News*
-HOST,apple.comscoreresearch.com
-HOST,gateway.icloud.com
-HOST,news-client.apple.com
-HOST,news-edge.apple.com
-HOST,news-events.apple.com
-HOST-SUFFIX,apple.news
+USER-AGENT,AppleNews*,United States
+USER-AGENT,com.apple.news*,United States
+HOST,gspe1-ssl.ls.apple.com,United States
+USER-AGENT,News*,United States
+HOST,apple.comscoreresearch.com,United States
+HOST,gateway.icloud.com,United States
+HOST,news-client.apple.com,United States
+HOST,news-edge.apple.com,United States
+HOST,news-events.apple.com,United States
+HOST-SUFFIX,apple.news,United States
 
 # > Apple TV
-HOST,np-edge.itunes.apple.com
-HOST,play-edge.itunes.apple.com
-HOST-SUFFIX,tv.apple.com
+HOST,np-edge.itunes.apple.com,United States
+HOST,play-edge.itunes.apple.com,United States
+HOST-SUFFIX,tv.apple.com,United States
 
 # > DAZN
-USER-AGENT,DAZN*
-HOST,d151l6v8er5bdm.cloudfront.net
-HOST-SUFFIX,dazn.com
-HOST-SUFFIX,dazn-api.com
-HOST-SUFFIX,indazn.com
-HOST-KEYWORD,livedazn
-HOST-KEYWORD,voddazn
+USER-AGENT,DAZN*,United States
+HOST,d151l6v8er5bdm.cloudfront.net,United States
+HOST-SUFFIX,dazn.com,United States
+HOST-SUFFIX,dazn-api.com,United States
+HOST-SUFFIX,indazn.com,United States
+HOST-KEYWORD,livedazn,United States
+HOST-KEYWORD,voddazn,United States
 
 # > Discovery Plus
-USER-AGENT,DPlus*
-HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com
-HOST-SUFFIX,disco-api.com
-HOST-SUFFIX,discoveryplus.com
-HOST-SUFFIX,fwmrm.net
-HOST-SUFFIX,getblueshift.com
-HOST-SUFFIX,litix.io
-HOST-SUFFIX,mobile-collector.newrelic.com
-HOST-SUFFIX,uplynk.com
+USER-AGENT,DPlus*,United States
+HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com,United States
+HOST-SUFFIX,disco-api.com,United States
+HOST-SUFFIX,discoveryplus.com,United States
+HOST-SUFFIX,fwmrm.net,United States
+HOST-SUFFIX,getblueshift.com,United States
+HOST-SUFFIX,litix.io,United States
+HOST-SUFFIX,mobile-collector.newrelic.com,United States
+HOST-SUFFIX,uplynk.com,United States
 
 # > Disney Plus
-USER-AGENT,Disney*
-HOST-SUFFIX,adobedtm.com
-HOST-SUFFIX,bam.nr-data.net
-HOST-SUFFIX,bamgrid.com
-HOST-SUFFIX,braze.com
-HOST-SUFFIX,cdn.optimizely.com
-HOST-SUFFIX,cdn.registerdisney.go.com
-HOST-SUFFIX,cws.conviva.com
-HOST-SUFFIX,d9.flashtalking.com
-HOST-SUFFIX,disney.demdex.net
-HOST-SUFFIX,disney.my.sentry.io
-HOST-SUFFIX,disneyplus.bn5x.net
-HOST-SUFFIX,disneyplus.com
-HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
-HOST-SUFFIX,disney-plus.net
-HOST-SUFFIX,disney-portal.my.onetrust.com
-HOST-SUFFIX,dssott.com
-HOST-SUFFIX,execute-api.us-east-1.amazonaws.com
-HOST-SUFFIX,js-agent.newrelic.com
+USER-AGENT,Disney*,United States
+HOST-SUFFIX,adobedtm.com,United States
+HOST-SUFFIX,bam.nr-data.net,United States
+HOST-SUFFIX,bamgrid.com,United States
+HOST-SUFFIX,braze.com,United States
+HOST-SUFFIX,cdn.optimizely.com,United States
+HOST-SUFFIX,cdn.registerdisney.go.com,United States
+HOST-SUFFIX,cws.conviva.com,United States
+HOST-SUFFIX,d9.flashtalking.com,United States
+HOST-SUFFIX,disney.demdex.net,United States
+HOST-SUFFIX,disney.my.sentry.io,United States
+HOST-SUFFIX,disneyplus.bn5x.net,United States
+HOST-SUFFIX,disneyplus.com,United States
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,United States
+HOST-SUFFIX,disney-plus.net,United States
+HOST-SUFFIX,disney-portal.my.onetrust.com,United States
+HOST-SUFFIX,dssott.com,United States
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com,United States
+HOST-SUFFIX,js-agent.newrelic.com,United States
 
 # > encoreTVB
-USER-AGENT,encoreTVB*
-HOST-SUFFIX,encoretvb.com
-HOST,content.jwplatform.com
-HOST,videos-f.jwpsrv.com
+USER-AGENT,encoreTVB*,United States
+HOST-SUFFIX,encoretvb.com,United States
+HOST,content.jwplatform.com,United States
+HOST,videos-f.jwpsrv.com,United States
 
 # > Fox Now
-USER-AGENT,FOX%20NOW*
-HOST-SUFFIX,fox.com
-HOST-SUFFIX,foxdcg.com
-HOST-SUFFIX,uplynk.com
+USER-AGENT,FOX%20NOW*,United Statesv
+HOST-SUFFIX,fox.com,United States
+HOST-SUFFIX,foxdcg.com,United States
+HOST-SUFFIX,uplynk.com,United States
 
 # > HBO Max
-USER-AGENT,HBOMAX*
-HOST-SUFFIX,hbo.com
-HOST-SUFFIX,hbogo.com
-HOST-SUFFIX,hbonow.com
-HOST-SUFFIX,hbomax.com
+USER-AGENT,HBOMAX*,United States
+HOST-SUFFIX,hbo.com,United States
+HOST-SUFFIX,hbogo.com,United States
+HOST-SUFFIX,hbonow.com,United States
+HOST-SUFFIX,hbomax.com,United States
 
 # > Hulu
-HOST-SUFFIX,cws-hulu.conviva.com
-HOST-SUFFIX,hulu.com
-HOST-SUFFIX,hulu.hb.omtrdc.net
-HOST-SUFFIX,hulu.sc.omtrdc.net
-HOST-SUFFIX,huluad.com
-HOST-SUFFIX,huluim.com
-HOST-SUFFIX,hulustream.com
+HOST-SUFFIX,cws-hulu.conviva.com,United States
+HOST-SUFFIX,hulu.com,United States
+HOST-SUFFIX,hulu.hb.omtrdc.net,United States
+HOST-SUFFIX,hulu.sc.omtrdc.net,United States
+HOST-SUFFIX,huluad.com,United States
+HOST-SUFFIX,huluim.com,United States
+HOST-SUFFIX,hulustream.com,United States
 
 # > Pandora
-HOST-SUFFIX,pandora.com
+HOST-SUFFIX,pandora.com,United States
 
 # > PBS
-USER-AGENT,PBS*
-HOST-SUFFIX,pbs.org
+USER-AGENT,PBS*,United States
+HOST-SUFFIX,pbs.org,United States
 
 # > Pornhub
-HOST-SUFFIX,phncdn.com
-HOST-SUFFIX,phprcdn.com
-HOST-SUFFIX,pornhub.com
-HOST-SUFFIX,pornhubpremium.com
+HOST-SUFFIX,phncdn.com,United States
+HOST-SUFFIX,phprcdn.com,United States
+HOST-SUFFIX,pornhub.com,United States
+HOST-SUFFIX,pornhubpremium.com,United States
 
 # > Pluto TV
-USER-AGENT,*PlutoTV*
-HOST-KEYWORD,pluto
-HOST-SUFFIX,pluto.tv
-HOST-SUFFIX,braze.com
-HOST-SUFFIX,youboranqs01.com
-HOST-SUFFIX,youborafds01.com
+USER-AGENT,*PlutoTV*,United States
+HOST-KEYWORD,pluto,United States
+HOST-SUFFIX,pluto.tv,United States
+HOST-SUFFIX,braze.com,United States
+HOST-SUFFIX,youboranqs01.com,United States
+HOST-SUFFIX,youborafds01.com,United States
 
 # > Youtube TV
-USER-AGENT,*YouTubeTV*
-USER-AGENT,*com.google.ios.youtubetv*
-HOST-SUFFIX,tv.youtube.com
+USER-AGENT,*YouTubeTV*,United States
+USER-AGENT,*com.google.ios.youtubetv*,United States
+HOST-SUFFIX,tv.youtube.com,United States

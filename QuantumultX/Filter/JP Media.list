@@ -1,38 +1,38 @@
 // JP Media
 # > AbemaTV
-USER-AGENT,AbemaTV*
-HOST-SUFFIX,abema.io
-HOST-SUFFIX,abema.tv
-HOST-SUFFIX,akamaized.net
-HOST-SUFFIX,ameba.jp
-HOST-SUFFIX,hayabusa.io
-HOST-KEYWORD,abematv.akamaized.net
+USER-AGENT,AbemaTV*,Japan
+HOST-SUFFIX,abema.io,Japan
+HOST-SUFFIX,abema.tv,Japan
+HOST-SUFFIX,akamaized.net,Japan
+HOST-SUFFIX,ameba.jp,Japan
+HOST-SUFFIX,hayabusa.io,Japan
+HOST-KEYWORD,abematv.akamaized.net,Japan
 
 # > Hulu(フールー)
-HOST-SUFFIX,happyon.jp
-HOST-SUFFIX,hulu.jp
-HOST-SUFFIX,prod.hjholdings.tv
-HOST-SUFFIX,streaks.jp
-HOST-SUFFIX,yb.uncn.jp
+HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,hulu.jp,Japan
+HOST-SUFFIX,prod.hjholdings.tv,Japan
+HOST-SUFFIX,streaks.jp,Japan
+HOST-SUFFIX,yb.uncn.jp,Japan
 
 # > Japonx
-HOST-KEYWORD,japonx
-HOST-KEYWORD,japronx
-HOST-SUFFIX,japonx.com
-HOST-SUFFIX,japonx.tv
-HOST-SUFFIX,japonx.net
-HOST-SUFFIX,japonx.vip
-HOST-SUFFIX,japronx.com
-HOST-SUFFIX,japronx.tv
-HOST-SUFFIX,japronx.net
-HOST-SUFFIX,japronx.vip
+HOST-KEYWORD,japonx,Japan
+HOST-KEYWORD,japronx,Japan
+HOST-SUFFIX,japonx.com,Japan
+HOST-SUFFIX,japonx.tv,Japan
+HOST-SUFFIX,japonx.net,Japan
+HOST-SUFFIX,japonx.vip,Japan
+HOST-SUFFIX,japronx.com,Japan
+HOST-SUFFIX,japronx.tv,Japan
+HOST-SUFFIX,japronx.net,Japan
+HOST-SUFFIX,japronx.vip,Japan
 
 # > niconico
-USER-AGENT,Niconico*
-HOST-SUFFIX,dmc.nico
-HOST-SUFFIX,nicovideo.jp
-HOST-SUFFIX,nimg.jp
-HOST-SUFFIX,socdm.com
+USER-AGENT,Niconico*,Japan
+HOST-SUFFIX,dmc.nico,Japan
+HOST-SUFFIX,nicovideo.jp,Japan
+HOST-SUFFIX,nimg.jp,Japan
+HOST-SUFFIX,socdm.com,Japan
 
 
 

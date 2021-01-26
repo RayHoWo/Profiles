@@ -1,65 +1,65 @@
-// Gaming
-# Blizzard
-HOST-SUFFIX,battle.net
-HOST-SUFFIX,blizzard.com
-HOST,blizzard.nefficient.co.kr
-HOST,blzddist1-a.akamaihd.net
-HOST,blzddistkr1-a.akamaihd.net
-HOST,bnetproduct-a.akamaihd.net
+// Gaming 
+# > Blizzard
+HOST-SUFFIX,battle.net,Gaming
+HOST-SUFFIX,blizzard.com,Gaming
+DOMAIN,blizzard.nefficient.co.kr,Gaming
+DOMAIN,blzddist1-a.akamaihd.net,Gaming
+DOMAIN,blzddistkr1-a.akamaihd.net,Gaming
+DOMAIN,bnetproduct-a.akamaihd.net,Gaming
 
-# Discord
-HOST-SUFFIX,discord.co
-HOST-SUFFIX,discord.com
-HOST-SUFFIX,discord.gg
-HOST-SUFFIX,discord.media
-HOST-SUFFIX,discordapp.com
-HOST-SUFFIX,discordapp.net
+# > Discord
+HOST-SUFFIX,discord.co,Gaming
+HOST-SUFFIX,discord.com,Gaming
+HOST-SUFFIX,discord.gg,Gaming
+HOST-SUFFIX,discord.media,Gaming
+HOST-SUFFIX,discordapp.com,Gaming
+HOST-SUFFIX,discordapp.net,Gaming
 
-# Steam
-HOST-SUFFIX,steam-chat.com
-HOST-SUFFIX,steamcontent.com
-HOST-SUFFIX,steamgames.com
-HOST-SUFFIX,steampowered.com
-HOST-SUFFIX,steamstat.us
-HOST-SUFFIX,steamstatic.com
-HOST-SUFFIX,steamusercontent.com
-HOST,steambroadcast.akamaized.net
-HOST,steamcdn-a.akamaihd.net
-HOST,steamcommunity-a.akamaihd.net
-HOST,steamstore-a.akamaihd.net
-HOST,steamusercontent-a.akamaihd.net
-HOST,steamusercontent-a.akamaihd.net
-HOST,steamuserimages-a.akamaihd.net
+# > Steam
+HOST-SUFFIX,steam-chat.com,Gaming
+HOST-SUFFIX,steamcontent.com,Gaming
+HOST-SUFFIX,steamgames.com,Gaming
+HOST-SUFFIX,steampowered.com,Gaming
+HOST-SUFFIX,steamstat.us,Gaming
+HOST-SUFFIX,steamstatic.com,Gaming
+HOST-SUFFIX,steamusercontent.com,Gaming
+DOMAIN,steambroadcast.akamaized.net,Gaming
+DOMAIN,steamcdn-a.akamaihd.net,Gaming
+DOMAIN,steamcommunity-a.akamaihd.net,Gaming
+DOMAIN,steamstore-a.akamaihd.net,Gaming
+DOMAIN,steamusercontent-a.akamaihd.net,Gaming
+DOMAIN,steamusercontent-a.akamaihd.net,Gaming
+DOMAIN,steamuserimages-a.akamaihd.net,Gaming
 
 # Supercell
 # > Brawl Stars
-HOST-SUFFIX,brawlstars.com
-HOST-SUFFIX,brawlstarsgame.com
-IP-CIDR,13.210.25.233/32
-IP-CIDR,13.212.170.102/32
-IP-CIDR,13.212.171.212/32
-IP-CIDR,15.161.130.86/32
-IP-CIDR,15.254.1.17/32
-IP-CIDR,162.62.33.45/32
-IP-CIDR,162.62.33.70/32
-IP-CIDR,162.62.34.10/32
-IP-CIDR,18.141.176.65/32
-IP-CIDR,18.156.137.147/32
-IP-CIDR,18.231.148.103/32
-IP-CIDR,18.231.148.103/32
-IP-CIDR,3.1.80.68/32
-IP-CIDR,3.25.190.152/32
-IP-CIDR,3.82.147.36/32
-IP-CIDR,34.220.160.16/32
-IP-CIDR,35.154.64.7/32
-IP-CIDR,35.72.32.125/32
-IP-CIDR,52.13.150.128/32
-IP-CIDR,52.13.42.120/32
-IP-CIDR,52.50.131.212/32
-IP-CIDR,54.207.168.84/32
-IP-CIDR,54.248.64.192/32
+HOST-SUFFIX,brawlstars.com,Gaming
+HOST-SUFFIX,brawlstarsgame.com,Gaming
+IP-CIDR,13.210.25.233/32,Gaming
+IP-CIDR,13.212.170.102/32,Gaming
+IP-CIDR,13.212.171.212/32,Gaming
+IP-CIDR,15.161.130.86/32,Gaming
+IP-CIDR,15.254.1.17/32,Gaming
+IP-CIDR,162.62.33.45/32,Gaming
+IP-CIDR,162.62.33.70/32,Gaming
+IP-CIDR,162.62.34.10/32,Gaming
+IP-CIDR,18.141.176.65/32,Gaming
+IP-CIDR,18.156.137.147/32,Gaming
+IP-CIDR,18.231.148.103/32,Gaming
+IP-CIDR,18.231.148.103/32,Gaming
+IP-CIDR,3.1.80.68/32,Gaming
+IP-CIDR,3.25.190.152/32,Gaming
+IP-CIDR,3.82.147.36/32,Gaming
+IP-CIDR,34.220.160.16/32,Gaming
+IP-CIDR,35.154.64.7/32,Gaming
+IP-CIDR,35.72.32.125/32,Gaming
+IP-CIDR,52.13.150.128/32,Gaming
+IP-CIDR,52.13.42.120/32,Gaming
+IP-CIDR,52.50.131.212/32,Gaming
+IP-CIDR,54.207.168.84/32,Gaming
+IP-CIDR,54.248.64.192/32,Gaming
 
-# League of Legends: Wild Rift!
-HOST-SUFFIX,pvp.net
-HOST-SUFFIX,riotgames.com
-HOST-SUFFIX,riotcdn.net
+# > League of Legends: Wild Rift!
+HOST-SUFFIX,pvp.net,Gaming
+HOST-SUFFIX,riotgames.com,Gaming
+HOST-SUFFIX,riotcdn.net,Gaming

@@ -1,87 +1,86 @@
-// Special websites
+// Special Connections
 # > Dler Cloud
-HOST-SUFFIX,dler.cloud
+HOST-SUFFIX,dler.cloud,DIRECT
 
 # > Epic
-HOST-KEYWORD,epicgames
+HOST-KEYWORD,epicgames,DIRECT
 
 # > Google
-HOST-KEYWORD,mtalk.google.com
-HOST,safebrowsing.googleapis.com
-HOST-SUFFIX,dl.google.com
+HOST-SUFFIX,mtalk.google.com,DIRECT
+HOST,safebrowsing.googleapis.com,DIRECT
+HOST-SUFFIX,dl.google.com,DIRECT
 
 # > Microsoft
-HOST-SUFFIX,msftconnecttest.com
-
-# > Mugglepay
-HOST-SUFFIX,invoice.mugglepay.com
-
-# > NAS
-HOST-SUFFIX,myds.me
+HOST-SUFFIX,msftconnecttest.com,DIRECT
 
 # > Proxy plugin
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
+HOST-KEYWORD,v2ray,DIRECT
+HOST-KEYWORD,ss-local,DIRECT
 
 # > Spotify
-HOST-SUFFIX,ap.spotify.com
+HOST-SUFFIX,ap.spotify.com,DIRECT
 
 # > Steam
-USER-AGENT,Steam*
-HOST-SUFFIX,pinyuncloud.com
-HOST-SUFFIX,steamcontent.com
-
-# > Tesla
-HOST-SUFFIX,tesla.cn
-HOST-SUFFIX,tesla-cdn.thron.cn
+User-Agent,Steam*,DIRECT
+HOST-SUFFIX,pinyuncloud.com,DIRECT
+HOST-SUFFIX,steamcontent.com,DIRECT
 
 # > UUBooster
-PROCESS-NAME,UUBooster
+HOST-KEYWORD,UUBooster,DIRECT
 
 # > Windows
-HOST-SUFFIX,windows.com
-HOST-SUFFIX,windows.net
-HOST-SUFFIX,windowsupdate.com
+HOST-SUFFIX,windows.com,DIRECT
+HOST-SUFFIX,windows.net,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
 
 # > Xunlei
-USER-AGENT,%E8%BF%85%E9%9B%B7
-HOST-SUFFIX,xunlei.com
+User-Agent,%E8%BF%85%E9%9B%B7,DIRECT
+HOST-SUFFIX,xunlei.com,DIRECT
 
 # > Download
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
+HOST-KEYWORD,aria2c,DIRECT
+HOST-KEYWORD,fdm,DIRECT
+HOST-KEYWORD,Folx,DIRECT
+HOST-KEYWORD,NetTransport,DIRECT
+HOST-KEYWORD,Thunder,DIRECT
+HOST-KEYWORD,Transmission,DIRECT
+HOST-KEYWORD,uTorrent,DIRECT
+HOST-KEYWORD,WebTorrent,DIRECT
+HOST-KEYWORD,WebTorrent Helper,DIRECT
 
 # > Private Tracker
-HOST-SUFFIX,awesome-hd.me
-HOST-SUFFIX,broadcasthe.net
-HOST-SUFFIX,chdbits.co
-HOST-SUFFIX,classix-unlimited.co.uk
-HOST-SUFFIX,empornium.me
-HOST-SUFFIX,gazellegames.net
-HOST-SUFFIX,hdchina.org
-HOST-SUFFIX,hdsky.me
-HOST-SUFFIX,icetorrent.org
-HOST-SUFFIX,jpopsuki.eu
-HOST-SUFFIX,keepfrds.com
-HOST-SUFFIX,madsrevolution.net
-HOST-SUFFIX,m-team.cc
-HOST-SUFFIX,nanyangpt.com
-HOST-SUFFIX,ncore.cc
-HOST-SUFFIX,open.cd
-HOST-SUFFIX,ourbits.club
-HOST-SUFFIX,passthepopcorn.me
-HOST-SUFFIX,privatehd.to
-HOST-SUFFIX,redacted.ch
-HOST-SUFFIX,springsunday.net
-HOST-SUFFIX,tjupt.org
-HOST-SUFFIX,totheglory.im
+HOST-SUFFIX,awesome-hd.me,DIRECT
+HOST-SUFFIX,broadcasthe.net,DIRECT
+HOST-SUFFIX,chdbits.co,DIRECT
+HOST-SUFFIX,classix-unlimited.co.uk,DIRECT
+HOST-SUFFIX,empornium.me,DIRECT
+HOST-SUFFIX,gazellegames.net,DIRECT
+HOST-SUFFIX,hdchina.org,DIRECT
+HOST-SUFFIX,hdsky.me,DIRECT
+HOST-SUFFIX,icetorrent.org,DIRECT
+HOST-SUFFIX,jpopsuki.eu,DIRECT
+HOST-SUFFIX,keepfrds.com,DIRECT
+HOST-SUFFIX,madsrevolution.net,DIRECT
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,nanyangpt.com,DIRECT
+HOST-SUFFIX,ncore.cc,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
+HOST-SUFFIX,ourbits.club,DIRECT
+HOST-SUFFIX,passthepopcorn.me,DIRECT
+HOST-SUFFIX,privatehd.to,DIRECT
+HOST-SUFFIX,redacted.ch,DIRECT
+HOST-SUFFIX,springsunday.net,DIRECT
+HOST-SUFFIX,tjupt.org,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
 
-HOST-SUFFIX,smtp
-URL-REGEX,(Subject|HELO|SMTP)
+HOST-KEYWORD,announce,DIRECT
+HOST-KEYWORD,torrent,DIRECT
+HOST-SUFFIX,smtp,DIRECT
+
+HOST-SUFFIX,local,DIRECT
+IP-CIDR,127.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,17.0.0.0/8,DIRECT
+IP-CIDR,100.64.0.0/10,DIRECT
