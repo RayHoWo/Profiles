@@ -86,7 +86,7 @@ HOST,content.jwplatform.com,United States
 HOST,videos-f.jwpsrv.com,United States
 
 # > Fox Now
-USER-AGENT,FOX%20NOW*,United Statesv
+USER-AGENT,FOX%20NOW*,United States
 HOST-SUFFIX,fox.com,United States
 HOST-SUFFIX,foxdcg.com,United States
 HOST-SUFFIX,uplynk.com,United States
