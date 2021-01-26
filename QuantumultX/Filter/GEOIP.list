@@ -8,4 +8,5 @@ GEOIP,TW,Taiwan
 GEOIP,JP,Japan
 GEOIP,SG,Singapore
 GEOIP,HK,Hong Kong
-GEOIP,CN,China
+GEOIP,CN,DIRECT
+
