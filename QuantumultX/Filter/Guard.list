@@ -1,5 +1,5 @@
-// Guard
-# > Internet Service Providers Hijacking 运营商劫持
+// Guarding 
+# Internet Service Providers Hijacking
 HOST-SUFFIX,17gouwuba.com,REJECT
 HOST-SUFFIX,186078.com,REJECT
 HOST-SUFFIX,189zj.cn,REJECT
@@ -17,7 +17,6 @@ HOST-SUFFIX,7gg.cc,REJECT
 HOST-SUFFIX,91veg.com,REJECT
 HOST-SUFFIX,9s6q.cn,REJECT
 HOST-SUFFIX,adsame.com,REJECT
-HOST-SUFFIX,aiclk.com,REJECT
 HOST-SUFFIX,akuai.top,REJECT
 HOST-SUFFIX,atplay.cn,REJECT
 HOST-SUFFIX,baiwanchuangyi.com,REJECT
@@ -25,6 +24,7 @@ HOST-SUFFIX,beerto.cn,REJECT
 HOST-SUFFIX,beilamusi.com,REJECT
 HOST-SUFFIX,benshiw.net,REJECT
 HOST-SUFFIX,bianxianmao.com,REJECT
+HOST-SUFFIX,bkyhq.cn,REJECT
 HOST-SUFFIX,bryonypie.com,REJECT
 HOST-SUFFIX,cishantao.com,REJECT
 HOST-SUFFIX,cszlks.com,REJECT
@@ -45,8 +45,10 @@ HOST-SUFFIX,gclick.cn,REJECT
 HOST-SUFFIX,goufanli100.com,REJECT
 HOST-SUFFIX,goupaoerdai.com,REJECT
 HOST-SUFFIX,gouwubang.com,REJECT
+HOST-SUFFIX,gscxs.cn,REJECT
 HOST-SUFFIX,gzxnlk.com,REJECT
 HOST-SUFFIX,haoshengtoys.com,REJECT
+HOST-SUFFIX,hbssjd.cn,REJECT
 HOST-SUFFIX,hyunke.com,REJECT
 HOST-SUFFIX,ichaosheng.com,REJECT
 HOST-SUFFIX,ishop789.com,REJECT
@@ -59,6 +61,7 @@ HOST-SUFFIX,kawo77.com,REJECT
 HOST-SUFFIX,kualianyingxiao.cn,REJECT
 HOST-SUFFIX,kumihua.com,REJECT
 HOST-SUFFIX,ltheanine.cn,REJECT
+HOST-SUFFIX,lvehaisen.com,REJECT
 HOST-SUFFIX,maipinshangmao.com,REJECT
 HOST-SUFFIX,minisplat.cn,REJECT
 HOST-SUFFIX,mkitgfs.com,REJECT
@@ -94,6 +97,8 @@ HOST-SUFFIX,tt3sm4.cn,REJECT
 HOST-SUFFIX,tuia.cn,REJECT
 HOST-SUFFIX,tuipenguin.com,REJECT
 HOST-SUFFIX,tuitiger.com,REJECT
+HOST-SUFFIX,urlaw.cn,REJECT
+HOST-SUFFIX,urlet.cn,REJECT
 HOST-SUFFIX,websd8.com,REJECT
 HOST-SUFFIX,wsgblw.com,REJECT
 HOST-SUFFIX,wx16999.com,REJECT
@@ -107,6 +112,7 @@ HOST-SUFFIX,yukhj.com,REJECT
 HOST-SUFFIX,zhaozecheng.cn,REJECT
 HOST-SUFFIX,zhenxinet.com,REJECT
 HOST-SUFFIX,zlne800.com,REJECT
+HOST-SUFFIX,zmlled.cn,REJECT
 HOST-SUFFIX,zunmi.cn,REJECT
 HOST-SUFFIX,zzd6.com,REJECT
 IP-CIDR,39.107.15.115/32,REJECT
@@ -139,6 +145,7 @@ IP-CIDR,220.196.52.141/32,REJECT
 IP-CIDR,221.6.4.148/32,REJECT
 # > ChinaMobile
 IP-CIDR,114.247.28.96/32,REJECT
+IP-CIDR,120.240.95.37/32,REJECT
 IP-CIDR,221.179.131.72/32,REJECT
 IP-CIDR,221.179.140.145/32,REJECT
 # > Dr.Peng
@@ -152,11 +159,14 @@ IP-CIDR,124.14.21.147/32,REJECT
 IP-CIDR,124.14.21.151/32,REJECT
 IP-CIDR,180.166.52.24/32,REJECT
 IP-CIDR,211.161.101.106/32,REJECT
+IP-CIDR,211.161.101.110/32,REJECT
 IP-CIDR,220.115.251.25/32,REJECT
 IP-CIDR,222.73.156.235/32,REJECT
 
-# Malware 恶意网站
-# > 快压
+# Malware
+# > Huawei AspiegelBot
+IP-CIDR,114.119.160.0/21,REJECT
+# > KuaiZip
 # https://zhuanlan.zhihu.com/p/39534279
 HOST-SUFFIX,kuaizip.com,REJECT
 # > MacKeeper
@@ -167,7 +177,7 @@ HOST-SUFFIX,zryydi.com,REJECT
 # https://www.zhihu.com/question/281163698/answer/441388130
 HOST-SUFFIX,flash.cn,REJECT
 HOST,geo2.adobe.com,REJECT
-# > C&J Marketing 思杰马克丁软件
+# > C&J Marketing
 # https://www.zhihu.com/question/46746200
 HOST-SUFFIX,4009997658.com,REJECT
 HOST-SUFFIX,abbyychina.com,REJECT
@@ -192,6 +202,7 @@ HOST-SUFFIX,guitarpro.cc,REJECT
 HOST-SUFFIX,huishenghuiying.com.cn,REJECT
 HOST-SUFFIX,hypersnap.net,REJECT
 HOST-SUFFIX,iconworkshop.cn,REJECT
+HOST-SUFFIX,idmchina.net,REJECT
 HOST-SUFFIX,imindmap.cc,REJECT
 HOST-SUFFIX,jihehuaban.com.cn,REJECT
 HOST-SUFFIX,keyshot.cc,REJECT
@@ -219,6 +230,7 @@ HOST-SUFFIX,photozoomchina.com,REJECT
 HOST-SUFFIX,shankejingling.com,REJECT
 HOST-SUFFIX,ultraiso.net,REJECT
 HOST-SUFFIX,vegaschina.cn,REJECT
+HOST-SUFFIX,xitongqingli.com,REJECT
 HOST-SUFFIX,xmindchina.net,REJECT
 HOST-SUFFIX,xshellcn.com,REJECT
 HOST-SUFFIX,yihuifu.cn,REJECT
