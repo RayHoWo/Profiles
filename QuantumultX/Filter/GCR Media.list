@@ -15,7 +15,7 @@ HOST-SUFFIX,hdslb.com,GCR Media
 HOST-SUFFIX,im9.com,GCR Media 
 HOST-SUFFIX,smtcdns.net,GCR Media 
 
-# > IQIYI
+# > iQiyi
 USER-AGENT,iQIYI*,GCR Media 
 USER-AGENT,QYPlayer*,GCR Media 
 HOST,intel-cache.m.iqiyi.com,GCR Media 

@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 
+# > iQiyi
 USER-AGENT,iQIYI*
 USER-AGENT,QYPlayer*
 DOMAIN,intel-cache.m.iqiyi.com
