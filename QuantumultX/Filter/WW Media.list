@@ -1,22 +1,22 @@
 // Multiple Region Media
 # > Deezer
-USER-AGENT,Deezer*
-HOST-SUFFIX,deezer.com
-HOST-SUFFIX,dzcdn.net
+USER-AGENT,Deezer*,WW Media
+HOST-SUFFIX,deezer.com,WW Media
+HOST-SUFFIX,dzcdn.net,WW Media
 
 # > Spotify
-USER-AGENT,Spotify*
-HOST-SUFFIX,pscdn.co
-HOST-SUFFIX,scdn.co
-HOST-SUFFIX,spoti.fi
-HOST-SUFFIX,spotify.com
-HOST-SUFFIX,spotifycdn.net
+USER-AGENT,Spotify*,WW Media
+HOST-SUFFIX,pscdn.co,WW Media
+HOST-SUFFIX,scdn.co,WW Media
+HOST-SUFFIX,spoti.fi,WW Media
+HOST-SUFFIX,spotify.com,WW Media
+HOST-SUFFIX,spotifycdn.net,WW Media
 
 # > TIDAL
-USER-AGENT,TIDAL*
-HOST-SUFFIX,tidal.com
+USER-AGENT,TIDAL*,WW Media
+HOST-SUFFIX,tidal.com,WW Media
 
 # > SoundCloud
-USER-AGENT,SoundCloud*
-HOST-SUFFIX,sndcdn.com
-HOST-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*,WW Media
+HOST-SUFFIX,sndcdn.com,WW Media
+HOST-SUFFIX,soundcloud.com,WW Media
