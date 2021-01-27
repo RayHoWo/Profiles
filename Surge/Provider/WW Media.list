@@ -1,4 +1,9 @@
 // Multiple Region Media
+# > Deezer
+USER-AGENT,Deezer*
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+
 # > Spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
@@ -6,6 +11,10 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.net
+
+# > TIDAL
+USER-AGENT,TIDAL*
+DOMAIN-SUFFIX,tidal.com
 
 # > SoundCloud
 USER-AGENT,SoundCloud*
