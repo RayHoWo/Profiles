@@ -1,4 +1,13 @@
 // Multiple Region Media
+# > DAZN
+USER-AGENT,DAZN*,WW Media
+HOST,d151l6v8er5bdm.cloudfront.net,WW Media
+HOST-SUFFIX,dazn.com,WW Media
+HOST-SUFFIX,dazn-api.com,WW Media
+HOST-SUFFIX,indazn.com,WW Media
+HOST-KEYWORD,livedazn,WW Media
+HOST-KEYWORD,voddazn,WW Media
+
 # > Deezer
 USER-AGENT,Deezer*,WW Media
 HOST-SUFFIX,deezer.com,WW Media

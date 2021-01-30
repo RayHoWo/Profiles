@@ -38,15 +38,6 @@ HOST,np-edge.itunes.apple.com,United States
 HOST,play-edge.itunes.apple.com,United States
 HOST-SUFFIX,tv.apple.com,United States
 
-# > DAZN
-USER-AGENT,DAZN*,United States
-HOST,d151l6v8er5bdm.cloudfront.net,United States
-HOST-SUFFIX,dazn.com,United States
-HOST-SUFFIX,dazn-api.com,United States
-HOST-SUFFIX,indazn.com,United States
-HOST-KEYWORD,livedazn,United States
-HOST-KEYWORD,voddazn,United States
-
 # > Discovery Plus
 USER-AGENT,DPlus*,United States
 HOST-SUFFIX,content-ause1-ur-discovery1.uplynk.com,United States
