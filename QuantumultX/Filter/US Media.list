@@ -119,7 +119,7 @@ HOST-SUFFIX,pornhub.com,United States
 HOST-SUFFIX,pornhubpremium.com,United States
 
 # > Pluto TV
-USER-AGENT,*PlutoTV*,United States
+USER-AGENT,Pluto20%TV*,United States
 HOST-KEYWORD,pluto,United States
 HOST-SUFFIX,pluto.tv,United States
 HOST-SUFFIX,braze.com,United States
