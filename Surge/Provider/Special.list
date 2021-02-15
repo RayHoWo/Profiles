@@ -1,4 +1,7 @@
 // Special websites
+# > NAS
+DOMAIN-SUFFIX,myds.me
+
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
 
@@ -16,12 +19,15 @@ DOMAIN-SUFFIX,msftconnecttest.com
 # > Mugglepay
 DOMAIN-SUFFIX,invoice.mugglepay.com
 
-# > NAS
-DOMAIN-SUFFIX,myds.me
-
 # > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+DOMIAN,videoqoe.stvidtest.net
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com

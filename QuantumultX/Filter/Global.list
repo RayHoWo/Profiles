@@ -1,4 +1,10 @@
 // Global Websites
+# > Speed Test by Cloudflare
+HOST-SUFFIX,speed.cloudflare.com,Global
+
+# > Fast
+HOST-SUFFIX,fast.com,Global
+
 # > Grammarly
 HOST-SUFFIX,grammarly.com,Global
 HOST-SUFFIX,grammarly.io,Global

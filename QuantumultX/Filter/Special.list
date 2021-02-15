@@ -17,6 +17,12 @@ HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-KEYWORD,v2ray,DIRECT
 HOST-KEYWORD,ss-local,DIRECT
 
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,DIRECT
+HOST-KEYWORD,speedtest,DIRECT
+HOST-SUFFIX,ooklaserver.net,DIRECT
+HOST,videoqoe.stvidtest.net,DIRECT
+
 # > Spotify
 HOST-SUFFIX,ap.spotify.com,DIRECT
 
