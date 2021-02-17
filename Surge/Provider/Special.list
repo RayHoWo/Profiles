@@ -1,6 +1,5 @@
 // Special websites
 # > NAS
-DOMAIN,ddns.synology.com
 DOMAIN-SUFFIX,myds.me
 
 # > Dler Cloud
