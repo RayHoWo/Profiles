@@ -34,5 +34,10 @@ DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,socdm.com
 
+# > TVer
+USER-AGENT,TVer-Release*
+DOMAIN-SUFFIX,tver.jp
+DOMAIN,edge.api.brightcove.com
+
 
 

@@ -3,3 +3,8 @@
 HOST-KEYWORD,kbsworld,Korea
 HOST-SUFFIX,kbs.co.kr,Korea
 
+# > Naver TV
+USER-AGENT,Naver%20TV*,Korea
+HOST-SUFFIX,naver.com,Korea
+HOST-SUFFIX,smartmediarep.com,Korea
+

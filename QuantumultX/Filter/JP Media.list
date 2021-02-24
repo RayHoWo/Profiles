@@ -34,5 +34,9 @@ HOST-SUFFIX,nicovideo.jp,Japan
 HOST-SUFFIX,nimg.jp,Japan
 HOST-SUFFIX,socdm.com,Japan
 
+# > TVer
+USER-AGENT,TVer-Release*,Japan
+HOST-SUFFIX,tver.jp,Japan
+HOST,edge.api.brightcove.com,Japan
 
 
