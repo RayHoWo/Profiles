@@ -3,6 +3,7 @@
 USER-AGENT,*voice*,United States
 USER-AGENT,*com.google.ios.voice*,United States
 HOST-SUFFIX,voice.google.com,United States
+HOST,lens.l.google.com,United States
 
 # > ABC
 HOST-SUFFIX,edgedatg.com,United States

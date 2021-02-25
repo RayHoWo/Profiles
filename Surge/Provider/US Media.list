@@ -3,6 +3,7 @@
 USER-AGENT,*voice*
 USER-AGENT,*com.google.ios.voice*
 DOMAIN-SUFFIX,voice.google.com
+DOMAIN,lens.l.google.com
 
 # > ABC
 DOMAIN-SUFFIX,edgedatg.com
