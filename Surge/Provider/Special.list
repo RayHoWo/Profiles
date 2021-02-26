@@ -5,6 +5,8 @@ DOMAIN,checkipv6.synology.com
 DOMAIN,checkport.synology.com
 DOMAIN,ddns.synology.com
 DOMAIN,account.synology.com
+DOMAIN,rahw.myds.me
+DOMAIN,nas.rahw.top
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
