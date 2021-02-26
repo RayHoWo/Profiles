@@ -1,6 +1,10 @@
 // Special websites
-# > NAS
-DOMAIN-SUFFIX,myds.me
+# > Synology NAS
+DOMIAN,checkip.synology.com
+DOMIAN,checkipv6.synology.com
+DOMIAN,checkport.synology.com
+DOMIAN,ddns.synology.com
+DOMIAN,account.synology.com
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud

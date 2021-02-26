@@ -1,4 +1,11 @@
 // Special Connections
+# > Synology NAS
+HOST,checkip.synology.com,DIRECT
+HOST,checkipv6.synology.com,DIRECT
+HOST,checkport.synology.com,DIRECT
+HOST,ddns.synology.com,DIRECT
+HOST,account.synology.com,DIRECT
+
 # > Dler Cloud
 HOST-SUFFIX,dler.cloud,DIRECT
 
