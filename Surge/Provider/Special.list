@@ -1,10 +1,10 @@
-// Special websites
+// Special connections
 # > Synology NAS
-DOMIAN,checkip.synology.com
-DOMIAN,checkipv6.synology.com
-DOMIAN,checkport.synology.com
-DOMIAN,ddns.synology.com
-DOMIAN,account.synology.com
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN,account.synology.com
 
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
@@ -31,7 +31,7 @@ PROCESS-NAME,ss-local
 USER-AGENT,SpeedTest*
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
-DOMIAN,videoqoe.stvidtest.net
+DOMAIN,videoqoe.stvidtest.net
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com
