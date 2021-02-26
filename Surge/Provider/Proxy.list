@@ -1,4 +1,7 @@
 // Global websites
+# > Sonos
+DOMAIN-SUFFIX,sonos.com
+
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
 
