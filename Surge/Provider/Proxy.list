@@ -1,4 +1,7 @@
 // Global websites
+# > Shield TV
+DOMAIN-SUFFIX,gfe.nvidia.com
+
 # > Sonos
 DOMAIN-SUFFIX,sonos.com
 
