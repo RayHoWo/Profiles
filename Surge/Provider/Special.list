@@ -1,4 +1,7 @@
 // Special connections
+# > NAS Access
+DOMAIN-SUFFIX,myds.me
+
 # > Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
 

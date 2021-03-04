@@ -1,4 +1,7 @@
 // Special Connections
+# > NAS Access
+HOST-SUFFIX,myds.me,DIRECT
+
 # > Dler Cloud
 HOST-SUFFIX,dler.cloud,DIRECT
 
