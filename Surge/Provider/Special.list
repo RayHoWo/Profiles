@@ -1,4 +1,9 @@
 // Special connections
+# > XiaoMi
+DOMAIN,data.mistat.intl.xiaomi.com
+DOMAIN,tracking.intl.miui.com
+DOMAIN,mitv.tracking.intl.miui.com
+
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
 
