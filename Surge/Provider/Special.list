@@ -1,8 +1,4 @@
 // Special connections
-# > XiaoMi
-DOMAIN-SUFFIX,intl.xiaomi.com
-DOMAIN-SUFFIX,intl.miui.com
-
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
 
