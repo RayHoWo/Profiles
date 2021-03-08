@@ -120,11 +120,15 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
 # > Pluto TV
+USER-AGENT,mediaserverd*
 USER-AGENT,Pluto20%TV*
-DOMAIN-KEYWORD,pluto
+DOMAIN-KEYWORD,pluto.tv
+DOMAIN-KEYWORD,plutotv.net
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,braze.com
+DOMAIN-SUFFIX,onetrust.dev
+DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,youborafds01.com
 
