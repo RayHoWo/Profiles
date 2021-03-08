@@ -27,4 +27,4 @@ IP-CIDR,205.180.175.0/24,Apple
 HOST-SUFFIX,apple.news,Apple
 
 # > Apple Maps
-PROCESS-NAME,com.apple.geod,Apple
+HOST-SUFFIX,com.apple.geod,Apple

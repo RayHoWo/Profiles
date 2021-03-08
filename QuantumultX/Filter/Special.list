@@ -1,6 +1,6 @@
 // Special Connections
 # > Apple CDN
-PROCESS-NAME,storedownloadd,DIRECT
+HOST-SUFFIX,storedownloadd,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
 HOST,aod.itunes.apple.com,DIRECT
 HOST,api.smoot.apple.cn,DIRECT
