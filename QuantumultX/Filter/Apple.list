@@ -4,6 +4,7 @@ HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,apple-mapkit.com,Apple
 HOST-SUFFIX,appsto.re,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,icloud.com,Apple
@@ -23,25 +24,7 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Apple News
-HOST-SUFFIX,apple.news,United States
+HOST-SUFFIX,apple.news,Apple
 
 # > Apple Maps
-HOST-SUFFIX,com.apple.geod,United States
-
-# > Apple CDN
-HOST-KEYWORD,storedownloadd,United States
-User-Agent,com.apple.appstored*,United States
-HOST,aod.itunes.apple.com,United States
-HOST,api.smoot.apple.cn,United States
-HOST,appldnld.apple.com,United States
-HOST,apptrailers.itunes.apple.com,United States
-HOST,gs-loc-cn.apple.com,United States
-HOST,iosapps.itunes.apple.com,United States
-HOST,music.apple.com,United States
-HOST,mvod.itunes.apple.com,United States
-HOST,osxapps.itunes.apple.com,United States
-HOST,supportdownload.apple.com,United States
-HOST,swcdn.apple.com,United States
-HOST,updates-http.cdn-apple.com,United States
-HOST-SUFFIX,ls.apple.com,United States
-HOST-SUFFIX,mzstatic.com,United States
+PROCESS-NAME,com.apple.geod,Apple

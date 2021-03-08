@@ -1,4 +1,22 @@
 // Special Connections
+# > Apple CDN
+PROCESS-NAME,storedownloadd,DIRECT
+USER-AGENT,com.apple.appstored*,DIRECT
+HOST,aod.itunes.apple.com,DIRECT
+HOST,api.smoot.apple.cn,DIRECT
+HOST,appldnld.apple.com,DIRECT
+HOST,apptrailers.itunes.apple.com,DIRECT
+HOST,gs-loc-cn.apple.com,DIRECT
+HOST,iosapps.itunes.apple.com,DIRECT
+HOST,music.apple.com,DIRECT
+HOST,mvod.itunes.apple.com,DIRECT
+HOST,osxapps.itunes.apple.com,DIRECT
+HOST,supportdownload.apple.com,DIRECT
+HOST,swcdn.apple.com,DIRECT
+HOST,updates-http.cdn-apple.com,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+
 # > NAS Access
 HOST-SUFFIX,myds.me,DIRECT
 
@@ -15,6 +33,11 @@ HOST-SUFFIX,dl.google.com,DIRECT
 
 # > Microsoft
 HOST-SUFFIX,msftconnecttest.com,DIRECT
+HOST-SUFFIX,windows.com,DIRECT
+HOST-SUFFIX,windows.net,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST-SUFFIX,xbox.com,DIRECT
+HOST-SUFFIX,xboxlive.com,DIRECT
 
 # > Proxy plugin
 HOST-KEYWORD,v2ray,DIRECT
@@ -25,9 +48,6 @@ USER-AGENT,SpeedTest*,DIRECT
 HOST-KEYWORD,speedtest,DIRECT
 HOST-SUFFIX,ooklaserver.net,DIRECT
 HOST,videoqoe.stvidtest.net,DIRECT
-
-# > Spotify
-HOST-SUFFIX,ap.spotify.com,DIRECT
 
 # > Steam
 User-Agent,Steam*,DIRECT
