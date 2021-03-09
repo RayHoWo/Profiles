@@ -1,8 +1,8 @@
 // Global Websites
 # > Shield TV
-HOST-SUFFIX,gfe.nvidia.com
-HOST-SUFFIX,dtrace.nvidia.com
-HOST,international-gfe.download.nvidia.com
+HOST-SUFFIX,gfe.nvidia.com,Global
+HOST-SUFFIX,dtrace.nvidia.com,Global
+HOST,international-gfe.download.nvidia.com,Gobal
 
 # > Sonos
 HOST-SUFFIX,sonos.com,Global
