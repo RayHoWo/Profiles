@@ -109,6 +109,15 @@ IP-CIDR,66.70.128.0/17,United States
 # > Pandora
 HOST-SUFFIX,pandora.com,United States
 
+# > Paramount+
+USER-AGENT,PPlus*,United States
+HOST-SUFFIX,cbsi.com,United States
+HOST-SUFFIX,cbsaavideo.com,United States
+HOST-SUFFIX,cbsivideo.com,United States
+HOST-SUFFIX,paramountplus.com,United States
+HOST-SUFFIX,pplusstatic.com,United States
+HOST,cbsi.live.ott.irdeto.com,United States
+
 # > PBS
 USER-AGENT,PBS*,United States
 HOST-SUFFIX,pbs.org,United States

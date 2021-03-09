@@ -1,4 +1,4 @@
-// US Media
+// United States Media
 # > Google Voice
 USER-AGENT,*voice*
 USER-AGENT,*com.google.ios.voice*
@@ -109,6 +109,15 @@ IP-CIDR,66.70.128.0/17
 # > Pandora
 DOMAIN-SUFFIX,pandora.com
 
+# > Paramount+
+USER-AGENT,PPlus*
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN,cbsi.live.ott.irdeto.com
+
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
@@ -120,15 +129,11 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 
 # > Pluto TV
-USER-AGENT,mediaserverd*
 USER-AGENT,Pluto20%TV*
-DOMAIN-KEYWORD,pluto.tv
-DOMAIN-KEYWORD,plutotv.net
+DOMAIN-KEYWORD,pluto
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
 DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,onetrust.dev
-DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,youborafds01.com
 
