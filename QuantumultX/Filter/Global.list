@@ -2,7 +2,7 @@
 # > Google
 HOST-SUFFIX,appspot.com,Global
 HOST-SUFFIX,blogger.com,Global
-HOST-SUFFIX,getoutline.orgGlobal
+HOST-SUFFIX,getoutline.org,Global
 HOST-SUFFIX,gvt0.com,Global
 HOST-SUFFIX,gvt3.com,Global
 HOST-SUFFIX,xn--ngstr-lra8j.com,Global
@@ -147,7 +147,7 @@ HOST-SUFFIX,deadline.com,Global
 HOST-SUFFIX,deepdiscount.com,Global
 HOST-SUFFIX,depositphotos.com,Global
 HOST-SUFFIX,deviantart.com,Global
-HOST-SUFFIX,disconnect.me,Globalv
+HOST-SUFFIX,disconnect.me,Global
 HOST-SUFFIX,discordapp.com,Global
 HOST-SUFFIX,discordapp.net,Global
 HOST-SUFFIX,disqus.com,Global
@@ -441,63 +441,55 @@ HOST-SUFFIX,gov,Global
 HOST-SUFFIX,mil,Global
 
 # (IP Blackhole)
+# > Facebook
+IP-CIDR,31.13.24.0/21,Global
+IP-CIDR,31.13.64.0/18,Global
+IP-CIDR,45.64.40.0/22,Global
+IP-CIDR,66.220.144.0/20,Global
+IP-CIDR,69.63.176.0/20,Global
+IP-CIDR,69.171.224.0/19,Global
+IP-CIDR,74.119.76.0/22,Global
+IP-CIDR,103.4.96.0/22,Global
+IP-CIDR,129.134.0.0/17,Global
+IP-CIDR,157.240.0.0/17,Global
+IP-CIDR,173.252.64.0/19,Global
+IP-CIDR,173.252.96.0/19,Global
+IP-CIDR,179.60.192.0/22,Global
+IP-CIDR,185.60.216.0/22,Global
+IP-CIDR,204.15.20.0/22,Global
 # > Google
-HOST-SUFFIX,abc.xyz,Global
-HOST-SUFFIX,advertisercommunity.com,Global
-HOST-SUFFIX,ampproject.org,Global
-HOST-SUFFIX,android.com,Global
-HOST-SUFFIX,androidify.com,Global
-HOST-SUFFIX,autodraw.com,Global
-HOST-SUFFIX,capitalg.com,Global
-HOST-SUFFIX,certificate-transparency.org
-HOST-SUFFIX,chrome.com,Global
-HOST-SUFFIX,chromeexperiments.com,Global
-HOST-SUFFIX,chromestatus.com,Global
-HOST-SUFFIX,chromium.org,Global
-HOST-SUFFIX,creativelab5.com,Global
-HOST-SUFFIX,debug.com,Global
-HOST-SUFFIX,deepmind.com,Global
-HOST-SUFFIX,dialogflow.com,Global
-HOST-SUFFIX,firebaseio.com,Global
-HOST-SUFFIX,getmdl.io,Global
-HOST-SUFFIX,ggpht.com,Global
-HOST-SUFFIX,gmail.com,Global
-HOST-SUFFIX,gmodules.com,Global
-HOST-SUFFIX,godoc.org,Global
-HOST-SUFFIX,golang.org,Global
-HOST-SUFFIX,gstatic.com,Global
-HOST-SUFFIX,gv.com,Global
-HOST-SUFFIX,gwtproject.org,Global
-HOST-SUFFIX,itasoftware.com,Global
-HOST-SUFFIX,madewithcode.com,Global
-HOST-SUFFIX,material.io,Global
-HOST-SUFFIX,page.link,Global
-HOST-SUFFIX,polymer-project.org
-HOST-SUFFIX,recaptcha.net,Global
-HOST-SUFFIX,shattered.io,Global
-HOST-SUFFIX,synergyse.com,Global
-HOST-SUFFIX,telephony.goog,Global
-HOST-SUFFIX,tensorflow.org,Global
-HOST-SUFFIX,tfhub.dev,Global
-HOST-SUFFIX,tiltbrush.com,Global
-HOST-SUFFIX,waveprotocol.org,Global
-HOST-SUFFIX,waymo.com,Global
-HOST-SUFFIX,webmproject.org,Global
-HOST-SUFFIX,webrtc.org,Global
-HOST-SUFFIX,whatbrowser.org,Global
-HOST-SUFFIX,widevine.com,Global
-HOST-SUFFIX,x.company,Global
-HOST-SUFFIX,youtu.be,Global
-HOST-SUFFIX,yt.be,Global
-HOST-SUFFIX,ytimg.com,Global
+IP-CIDR,35.190.247.0/24,Global
+IP-CIDR,64.233.160.0/19,Global
+IP-CIDR,66.102.0.0/20,Global
+IP-CIDR,66.249.80.0/20,Global
+IP-CIDR,72.14.192.0/18,Global
+IP-CIDR,74.125.0.0/16,Global
+IP-CIDR,108.177.8.0/21,Global
+IP-CIDR,172.217.0.0/16,Global
+IP-CIDR,173.194.0.0/16,Global
+IP-CIDR,209.85.128.0/17,Global
+IP-CIDR,216.58.192.0/19,Global
+IP-CIDR,216.239.32.0/19,Global
+# > Twitter
+IP-CIDR,69.195.160.0/19,Global
+IP-CIDR,104.244.42.0/21,Global
+IP-CIDR,192.133.76.0/22,Global
+IP-CIDR,199.16.156.0/22,Global
+IP-CIDR,199.59.148.0/22,Global
+IP-CIDR,199.96.56.0/21,Global
+IP-CIDR,202.160.128.0/22,Global
+IP-CIDR,209.237.192.0/19,Global
+# > Wikimedia
+IP-CIDR,91.198.174.0/24,Global
+IP-CIDR,103.102.166.0/24,Global
+IP-CIDR,185.15.56.0/22,Global
+IP-CIDR,198.35.26.0/23,Global
+IP-CIDR,208.80.152.0/22,Global
 # > Telegram
 HOST-SUFFIX,t.me,Global
 HOST-SUFFIX,tdesktop.com,Global
 HOST-SUFFIX,telegram.me,Global
 HOST-SUFFIX,telesco.pe,Global
-# > Facebook
-HOST-KEYWORD,.facebook.,Global
-HOST-SUFFIX,facebookmail.com,Global
 # > Others
 HOST-SUFFIX,noxinfluencer.com,Global
 HOST-SUFFIX,smartmailcloud.com,Global
