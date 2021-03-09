@@ -1,0 +1,40 @@
+# Privacy
+HOST,track.tiara.daum.net,REJECT
+HOST,track.tiara.kakao.com,REJECT
+HOST,zgsdk.zhugeio.com,REJECT
+
+# > 51.LA
+HOST,js.users.51.la,REJECT
+HOST,mc.51.la,REJECT
+HOST,wc.51.la,REJECT
+# > 58
+HOST,track.58.com,REJECT
+HOST,tracklog.58.com,REJECT
+# > Baidu
+HOST,hm.baidu.com,REJECT
+HOST,hmma.baidu.com,REJECT
+# > ByteDance
+HOST,log.byteoversea.com,REJECT
+HOST,log.tiktokv.com,REJECT
+HOST,log-hl-ipv6.snssdk.com,REJECT
+HOST,log-lq.snssdk.com,REJECT
+HOST,log-va.tiktokv.com,REJECT
+HOST,xlog.snssdk.com,REJECT
+# > Google
+HOST-SUFFIX,googletagmanager.com,REJECT
+HOST-SUFFIX,google-analytics.com,REJECT
+HOST,safebrowsing.googleapis.com,REJECT
+# > MI
+HOST-SUFFIX,tracking.miui.com,REJECT
+HOST,data.mistat.xiaomi.com,REJECT
+HOST,tracking.intl.miui.com,REJECT
+# > Tencent
+HOST-SUFFIX,trace.qq.com,REJECT
+HOST,btrace.qq.com,REJECT
+HOST,btrace.video.qq.com,REJECT
+HOST,mtrace.qq.com,REJECT
+HOST,safebrowsing.urlsec.qq.com,REJECT
+# > Umeng
+HOST-KEYWORD,log.umeng.com,REJECT
+HOST-KEYWORD,logs.umeng.com,REJECT
+HOST-KEYWORD,logs.umengcloud.com,REJECT
