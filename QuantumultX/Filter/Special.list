@@ -26,11 +26,6 @@ HOST-SUFFIX,dler.cloud,DIRECT
 # > Epic
 HOST-KEYWORD,epicgames,DIRECT
 
-# > Google
-HOST-SUFFIX,mtalk.google.com,DIRECT
-HOST,safebrowsing.googleapis.com,DIRECT
-HOST-SUFFIX,dl.google.com,DIRECT
-
 # > Microsoft
 HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
