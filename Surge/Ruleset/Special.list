@@ -1,4 +1,4 @@
-## Special connections
+## Special Connections and personal addon domains
 # > Apple CDN
 PROCESS-NAME,storedownloadd
 USER-AGENT,com.apple.appstored*

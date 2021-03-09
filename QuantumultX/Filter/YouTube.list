@@ -1,4 +1,4 @@
-// > Youtube
+// Youtube Media
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*,YouTube
 USER-AGENT,*com.google.ios.youtubemusic*,YouTube

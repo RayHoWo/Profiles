@@ -1,4 +1,4 @@
-// Special Connections
+## Special Connections and personal addon domains
 # > Apple CDN
 HOST-SUFFIX,storedownloadd,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
@@ -106,10 +106,5 @@ HOST-SUFFIX,springsunday.net,DIRECT
 HOST-SUFFIX,tjupt.org,DIRECT
 HOST-SUFFIX,totheglory.im,DIRECT
 
-HOST-SUFFIX,local,DIRECT
-IP-CIDR,127.0.0.0/8,DIRECT
-IP-CIDR,172.16.0.0/12,DIRECT
-IP-CIDR,192.168.0.0/16,DIRECT
-IP-CIDR,10.0.0.0/8,DIRECT
-IP-CIDR,17.0.0.0/8,DIRECT
-IP-CIDR,100.64.0.0/10,DIRECT
+HOST-SUFFIX,smtp,DIRECT
+URL-REGEX,(Subject|HELO|SMTP),DIRECT

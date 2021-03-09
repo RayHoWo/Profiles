@@ -1,30 +1,61 @@
-//Apple Service
+## Apple Service
 # > Apple API
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple.com.cn,Apple
 HOST-SUFFIX,apple-cloudkit.com,Apple
-HOST-SUFFIX,apple-mapkit.com,Apple
-HOST-SUFFIX,appsto.re,Apple
+HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud.com.cn,Apple
 HOST-SUFFIX,icloud-content.com,Apple
-HOST-SUFFIX,itunes.com,Apple
 HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mzstatic.com,Apple
+HOST-KEYWORD,apple.com.akadns.net,Apple
+HOST-KEYWORD,icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
 IP-CIDR,63.92.224.0/19,Apple
 IP-CIDR,65.199.22.0/23,Apple
 IP-CIDR,139.178.128.0/18,Apple
 IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,144.178.36.0/22,Apple
-IP-CIDR,144.178.48.0/20,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 
 # > Apple News
+HOST,gateway.icloud.com,Apple
+HOST,gspe1-ssl.ls.apple.com,Apple
 HOST-SUFFIX,apple.news,Apple
+HOST,news-assets.apple.com,Apple
+HOST,news-client.apple.com,Apple
+HOST,news-edge.apple.com,Apple
+HOST,news-events.apple.com,Apple
+HOST,apple.comscoreresearch.com,Apple
 
-# > Apple Maps
-HOST-SUFFIX,com.apple.geod,Apple
+# (DNS Cache Pollution)
+# > TestFlight
+HOST,testflight.apple.com,Apple
+
+# (Region-Restricted Access Denied)
+# > Apple URL Shortener
+HOST-SUFFIX,appsto.re,Apple
+# > iBooks Store download
+HOST,books.itunes.apple.com,Apple
+# > App Store Preview
+HOST,apps.apple.com,Apple
+HOST,itunes.apple.com,Apple
+# > Spotlight
+HOST,api-glb-sea.smoot.apple.com,Apple
+# > Look Up
+HOST-SUFFIX,smoot.apple.com,Apple
+HOST,lookup-api.apple.com,Apple
+# > Apple Music Web
+HOST,beta.music.apple.com,Apple
+
+# (Network Jitter)
+HOST,appleid.apple.com,Apple
+HOST,developer.apple.com,Apple
+HOST,www.icloud.com,Apple
+HOST,ocsp.apple.com,Apple
+HOST,xp.apple.com,Apple
