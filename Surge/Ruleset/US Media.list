@@ -143,9 +143,7 @@ DOMAIN,siloh.pluto.tv
 DOMAIN,siloh-aka.plutocracy.net
 DOMAIN,service-stitcher.clusters.pluto.tv
 DOMAIN,mobile-collector.newrelic.com
-DOMAIN,infinity-c4.youboranqs01.com
-DOMAIN,infinity-c12.youboranqs01.com
-DOMAIN,infinity-c15.youboranqs01.com
+DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN,tv.rlcdn.com
 DOMAIN,sb.scorecardresearch.com
 DOMAIN-SUFFIX,cbsnews.com
