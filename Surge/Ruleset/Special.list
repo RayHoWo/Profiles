@@ -1,6 +1,10 @@
 ## Special Connections and personal addon domains
 # > Online Class
+USER-AGENT,Zebstrika*
 DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,cdn.bcebos.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,fbcontent.cn
 
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
