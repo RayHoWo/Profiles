@@ -1,6 +1,6 @@
 // United States Media
 # > Google Voice
-USER-AGENT,*voice*
+USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN,lens.l.google.com
@@ -141,3 +141,13 @@ DOMAIN-SUFFIX,youborafds01.com
 USER-AGENT,*YouTubeTV*
 USER-AGENT,*com.google.ios.youtubetv*
 DOMAIN-SUFFIX,tv.youtube.com
+
+# > XUMO
+USER-AGENT,Xumo2*
+DOMAIN-SUFFIX,xumo.com
+DOMAIN-SUFFIX,mds.xumo.com
+DOMAIN-SUFFIX,beacons.xumo.com
+DOMAIN,api2.branch.io
+DOMAIN,dai2.xumo.com
+DOMAIN,live-content.xumo.com
+DOMAIN,sdk.iad-06.braze.com
