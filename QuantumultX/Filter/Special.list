@@ -1,6 +1,6 @@
 ## Special Connections and personal addon domains
 # > Online Class
-DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuanfudao.com,DIRECT
 
 # > NAS Access
 HOST-SUFFIX,myds.me,DIRECT
