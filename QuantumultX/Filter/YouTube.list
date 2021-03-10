@@ -1,4 +1,7 @@
 // Youtube Media
+# > Youtube Kids
+USER-AGENT,com.google.ios.youtubekids*,YouTube
+
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*,YouTube
 USER-AGENT,*com.google.ios.youtubemusic*,YouTube
