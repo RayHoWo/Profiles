@@ -171,6 +171,7 @@ IP-CIDR,172.224.164.0/24,no-resolve
 IP-CIDR,54.237.69.0/24,no-resolve
 IP-CIDR,54.82.93.0/24,no-resolve
 IP-CIDR,151.101.0.0/16,no-resolve
+IP-CIDR,81.171.21.0/24,no-resolve
 
 # > Youtube TV
 USER-AGENT,*YouTubeTV*
