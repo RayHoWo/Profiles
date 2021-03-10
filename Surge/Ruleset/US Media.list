@@ -1,6 +1,6 @@
 // United States Media
 # > Google Voice
-USER-AGENT,*voice*
+USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN,lens.l.google.com
@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,hulustream.com
 USER-AGENT,Ministra%20Player*
 DOMAIN-KEYWORD,new4k
 DOMAIN-SUFFIX,live.new4k.tv 
-IP-CIDR,62.112.9.0/24
+IP-CIDR,62.112.9.0/24,no-resolve
 IP-CIDR,66.70.128.0/17 
 
 # > Pandora
@@ -130,12 +130,45 @@ DOMAIN-SUFFIX,pornhubpremium.com
 
 # > Pluto TV
 USER-AGENT,Pluto20%TV*
-DOMAIN-KEYWORD,pluto
+USER-AGENT,mediaserverd*
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
+DOMAIN,api.pluto.tv
+DOMAIN,k.pluto.tv
+DOMAIN,k-pluto-tv-production-751933421.us-east-1.elb.amazonaws.com
+DOMAIN,t.pluot.tv
+DOMAIN,sp.pluto.tv
+DOMAIN,envoy-prod-846567559.us-east-1.elb.amazonaws.com
+DOMAIN,siloh.pluto.tv
+DOMAIN,service-stitcher.clusters.pluto.tv
+DOMAIN,mobile-collector.newrelic.com
+DOMAIN,infinity-c4.youboranqs01.com
+DOMAIN,infinity-c15.youboranqs01.com
+DOMAIN,tv.rlcdn.com
+DOMAIN,sb.scorecardresearch.com
+DOMAIN-SUFFIX,cbsnews.com
 DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN-SUFFIX,youborafds01.com
+IP-CIDR,13.249.0.0/16,no-resolve
+IP-CIDR,54.68.182.0/24,no-resolve
+IP-CIDR,34.213.106.0/24,no-resolve
+IP-CIDR,13.249.0.0/16,no-resolve
+IP-CIDR,3.218.71.0/24,no-resolve
+IP-CIDR,18.215.207.0/24,no-resolve
+IP-CIDR,34.227.34.0/24,no-resolve
+IP-CIDR,54.174.214.0/24,no-resolve
+IP-CIDR,34.196.27.0/24,no-resolve
+IP-CIDR,52.70.0.0/15,no-resolve
+IP-CIDR,52.72.0.0/16,no-resolve
+IP-CIDR,13.226.99.0/24,no-resolve
+IP-CIDR,13.249.0.0/16,no-resolve
+IP-CIDR,151.101.0.0/16,no-resolve
+IP-CIDR,178.162.146.0/24,no-resolve
+IP-CIDR,89.149.210.0/24,no-resolve
+IP-CIDR,34.107.165.0/24,no-resolve
+IP-CIDR,172.224.164.0/24,no-resolve
+IP-CIDR,54.237.69.0/24,no-resolve
+IP-CIDR,54.82.93.0/24,no-resolve
+IP-CIDR,151.101.0.0/16,no-resolve
 
 # > Youtube TV
 USER-AGENT,*YouTubeTV*
