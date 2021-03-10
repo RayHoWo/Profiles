@@ -143,9 +143,7 @@ HOST,siloh.pluto.tv,United States
 HOST,siloh-aka.plutotv.net,United States
 HOST,service-stitcher.clusters.pluto.tv,United States
 HOST,mobile-collector.newrelic.com,United States
-HOST,infinity-c4.youboranqs01.com,United States
-HOST,infinity-c12.youboranqs01.com,United States
-HOST,infinity-c15.youboranqs01.com,United States
+HOST-SUFFIX,youboranqs01.com,United States
 HOST,tv.rlcdn.com,United States
 HOST,sb.scorecardresearch.com,United States
 HOST-SUFFIX,cbsnews.com,United States
