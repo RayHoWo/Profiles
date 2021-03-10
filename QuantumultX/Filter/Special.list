@@ -1,4 +1,10 @@
 ## Special Connections and personal addon domains
+# > Online Class
+DOMAIN-SUFFIX,yuanfudao.com
+
+# > NAS Access
+HOST-SUFFIX,myds.me,DIRECT
+
 # > Apple CDN
 HOST-SUFFIX,storedownloadd,DIRECT
 USER-AGENT,com.apple.appstored*,DIRECT
@@ -16,9 +22,6 @@ HOST,swcdn.apple.com,DIRECT
 HOST,updates-http.cdn-apple.com,DIRECT
 HOST-SUFFIX,ls.apple.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
-
-# > NAS Access
-HOST-SUFFIX,myds.me,DIRECT
 
 # > Dler Cloud
 HOST-SUFFIX,dler.cloud,DIRECT
