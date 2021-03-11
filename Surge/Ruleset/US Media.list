@@ -178,6 +178,19 @@ IP-CIDR,54.174.0.0/16,no-resolve
 IP-CIDR,54.236.0.0/15,no-resolve
 IP-CIDR,172.244.0.0/16,no-resolve
 
+# > XUMO
+USER-AGENT,Xumo2/3*
+USER-AGENT,mediaserverd*
+DOMAIN-SUFFIX,xumo.com
+DOMAIN,cupertino-app-mds.xumo.com
+DOMAIN,cupertino-beacons.xumo.com
+DOMAIN,live-content.xumo.com
+DOMAIN,abcnewslive-i.akamaihd.net
+IP-CIDR,130.211.0.0/16,no-resolve
+IP-CIDR,93.184.0.0/16,no-resolve
+IP-CIDR,192.229.0.0/16,no-resolve
+IP-CIDR,96.7.0.0/16,no-resolve
+
 # > Youtube TV
 USER-AGENT,*YouTubeTV*
 USER-AGENT,*com.google.ios.youtubetv*
