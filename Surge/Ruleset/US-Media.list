@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX, media-amazon.com
 DOMAIN,atv-ps.amazon.com
 DOMAIN,fls-na.amazon.com
 
@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,hulustream.com
 USER-AGENT,Ministra%20Player*
 DOMAIN-KEYWORD,new4k
 DOMAIN-SUFFIX,live.new4k.tv 
-IP-CIDR,62.112.9.0/24,no-resolve
+IP-CIDR,62.112.9.0/24
 IP-CIDR,66.70.128.0/17 
 
 # > Pandora
@@ -133,50 +133,42 @@ USER-AGENT,Pluto20%TV*
 USER-AGENT,mediaserverd*
 DOMAIN-SUFFIX,pluto.tv
 DOMAIN-SUFFIX,plutotv.net
-DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,braze.com
 DOMAIN,api.pluto.tv
 DOMAIN,k.pluto.tv
+DOMAIN,k-pluto-tv-production-751933421.us-east-1.elb.amazonaws.com
 DOMAIN,t.pluot.tv
 DOMAIN,sp.pluto.tv
+DOMAIN,envoy-prod-846567559.us-east-1.elb.amazonaws.com
 DOMAIN,siloh.pluto.tv
-DOMAIN,siloh-aka.plutotv.net
 DOMAIN,service-stitcher.clusters.pluto.tv
 DOMAIN,mobile-collector.newrelic.com
+DOMAIN,infinity-c4.youboranqs01.com
+DOMAIN,infinity-c15.youboranqs01.com
 DOMAIN,tv.rlcdn.com
 DOMAIN,sb.scorecardresearch.com
-IP-CIDR,13.226.0.0/16,no-resolve
-IP-CIDR,13.249.0.0/16,no-resolve
-IP-CIDR,151.101.0.0/16,no-resolve
-IP-CIDR,104.71.143.0/24,no-resolve
-IP-CIDR,81.171.21.0/24,no-resolve
-IP-CIDR,89.149.210.0/24,no-resolve
-IP-CIDR,178.162.146.0/24,no-resolve
-IP-CIDR,3.95.122.0/24,no-resolve
-IP-CIDR,3.208.0.0/13,no-resolve
-IP-CIDR,3.216.0.0/15,no-resolve
-IP-CIDR,3.218.0.0/16,no-resolve
-IP-CIDR,18.211.0.0/16,no-resolve
-IP-CIDR,18.212.0.0/14,no-resolve
-IP-CIDR,34.225.0.0/16,no-resolve
-IP-CIDR,34.226.0.0/15,no-resolve
-IP-CIDR,34.232.0.0/14,no-resolve
-IP-CIDR,34.107.165.0/24,no-resolve
-IP-CIDR,34.196.0.0/16,no-resolve
-IP-CIDR,34.213.0.0/16,no-resolve
-IP-CIDR,52.0.0.0.0/16,no-resolve
-IP-CIDR,52.5.0.0.0/16,no-resolve
-IP-CIDR,52.5.0.0.0/16,no-resolve
-IP-CIDR,52.70.0.0/15,no-resolve
-IP-CIDR,52.72.0.0/16,no-resolve
-IP-CIDR,54.68.0.0/16,no-resolve
-IP-CIDR,54.82.0.0/16,no-resolve
-IP-CIDR,54.86.0.0/16,no-resolve
-IP-CIDR,54.90.0.0/16,no-resolve
-IP-CIDR,54.174.0.0/16,no-resolve
-IP-CIDR,54.236.0.0/15,no-resolve
-IP-CIDR,172.244.0.0/16,no-resolve
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,braze.com
+IP-CIDR,13.249.0.0/16
+IP-CIDR,54.68.182.0/24
+IP-CIDR,34.213.106.0/24
+IP-CIDR,13.249.0.0/16
+IP-CIDR,3.218.71.0/24
+IP-CIDR,18.215.207.0/24
+IP-CIDR,34.227.34.0.24
+IP-CIDR,54.174.214.0/24
+IP-CIDR,34.196.27.0/24
+IP-CIDR,52.70.0.0/15
+IP-CIDR,52.72.0.0/16
+IP-CIDR,13.226.99.0/24
+IP-CIDR,13.249.0.0/16
+IP-CIDR,151.101.0.0/16
+IP-CIDR,178.162.146.0/24
+IP-CIDR,89.149.210.0/24
+IP-CIDR,34.107.165.0/24
+IP-CIDR,172.224.164.0/24
+IP-CIDR,54.237.69.0/24
+IP-CIDR,54.82.93.0/24
+IP-CIDR,151.101.0.0/16
 
 # > Youtube TV
 USER-AGENT,*YouTubeTV*
