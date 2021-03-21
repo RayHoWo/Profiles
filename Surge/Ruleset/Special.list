@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,cdn.bcebos.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,fbcontent.cn
 
+# > Router Access
+DOMAIN-SUFFIX,netgear.com
+
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
 
