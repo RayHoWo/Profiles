@@ -10,7 +10,6 @@ HOST-SUFFIX,ytimg.com,Global
 HOST-KEYWORD,google,Global
 HOST-KEYWORD,.blogspot.,Global
 # > Scholar
-HOST,Global.google.com,Global
 HOST-SUFFIX,acm.org,Global
 HOST-SUFFIX,acs.org,Global
 HOST-SUFFIX,aip.org,Global
@@ -21,13 +20,19 @@ HOST-SUFFIX,ascelibrary.org,Global
 HOST-SUFFIX,asm.org,Global
 HOST-SUFFIX,asme.org,Global
 HOST-SUFFIX,astm.org,Global
+HOST-SUFFIX,blackwell-synergy.com,Global
 HOST-SUFFIX,bmj.com,Global
+HOST-SUFFIX,cabdirect.org,Global
 HOST-SUFFIX,cambridge.org,Global
 HOST-SUFFIX,cas.org,Global
 HOST-SUFFIX,cell.com,Global
 HOST-SUFFIX,clarivate.com,Global
+HOST-SUFFIX,cnki.net,Global
+HOST-SUFFIX,cqvip.com,Global
 HOST-SUFFIX,csiro.au,Global
+HOST-SUFFIX,deepdyve.com,Global
 HOST-SUFFIX,ebscohost.com,Global
+HOST-SUFFIX,els-cdn.com,Global
 HOST-SUFFIX,elsevier.com,Global
 HOST-SUFFIX,emerald.com,Global
 HOST-SUFFIX,endnote.com,Global
@@ -55,13 +60,17 @@ HOST-SUFFIX,ovid.com,Global
 HOST-SUFFIX,oxfordartonline.com,Global
 HOST-SUFFIX,oxfordbibliographies.com,Global
 HOST-SUFFIX,oxfordmusiconline.com,Global
+HOST-SUFFIX,pkulaw.com,Global
 HOST-SUFFIX,pnas.org,Global
 HOST-SUFFIX,proquest.com,Global
+HOST-SUFFIX,readcube.com,Global
+HOST-SUFFIX,researchgate.net,Global
 HOST-SUFFIX,rsc.org,Global
 HOST-SUFFIX,sagepub.com,Global
+HOST-SUFFIX,sci-hub.tw,Global
 HOST-SUFFIX,sciencedirect.com,Global
 HOST-SUFFIX,sciencemag.org,Global
-HOST-SUFFIX,sci-hub.tw,Global
+HOST-SUFFIX,scitation.org,Global
 HOST-SUFFIX,scopus.com,Global
 HOST-SUFFIX,siam.org,Global
 HOST-SUFFIX,spiedigitallibrary.org,Global
@@ -70,8 +79,10 @@ HOST-SUFFIX,springerlink.com,Global
 HOST-SUFFIX,tandfonline.com,Global
 HOST-SUFFIX,un.org,Global
 HOST-SUFFIX,uni-bielefeld.de,Global
+HOST-SUFFIX,wanfangdata.com,Global
 HOST-SUFFIX,webofknowledge.com,Global
 HOST-SUFFIX,westlaw.com,Global
+HOST-SUFFIX,westlawchina.com,Global
 HOST-SUFFIX,wiley.com,Global
 HOST-SUFFIX,worldbank.org,Global
 HOST-SUFFIX,worldscientific.com,Global
