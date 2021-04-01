@@ -14,12 +14,25 @@ HOST-SUFFIX,deezer.com,WW Media
 HOST-SUFFIX,dzcdn.net,WW Media
 
 # > Spotify
-USER-AGENT,Spotify*,WW Media
+HOST-SUFFIX,byspotify.com,WW Media
 HOST-SUFFIX,pscdn.co,WW Media
 HOST-SUFFIX,scdn.co,WW Media
 HOST-SUFFIX,spoti.fi,WW Media
-HOST-SUFFIX,spotify.com,WW Media
-HOST-SUFFIX,spotifycdn.net,WW Media
+HOST-SUFFIX,WW Media-com.akamaized.net,WW Media
+HOST-SUFFIX,WW Media-everywhere.com,WW Media
+HOST-SUFFIX,WW Media.com,WW Media
+HOST-SUFFIX,WW Media.design,WW Media
+HOST-SUFFIX,WW Mediacdn.com,WW Media
+HOST-SUFFIX,WW Mediacdn.net,WW Media
+HOST-SUFFIX,WW Mediacharts.com,WW Media
+HOST-SUFFIX,WW Mediacodes.com,WW Media
+HOST-SUFFIX,WW Mediaforbrands.com,WW Media
+HOST-SUFFIX,WW Mediajobs.com,WW Media
+HOST-KEYWORD,-spotify-com,WW Media
+HOST-KEYWORD,WW Media.com,WW Media
+USER-AGENT,*Spotify*,WW Media
+USER-AGENT,WW Media*,WW Media
+IP-CIDR,35.186.224.47/32,WW Media
 
 # > TIDAL
 USER-AGENT,TIDAL*,WW Media
