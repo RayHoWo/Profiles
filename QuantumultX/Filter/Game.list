@@ -1,7 +1,7 @@
 ## Gaming 
 # > PUBG Mobile
 HOST-SUFFIX,igamecj.com,Game
-HIST,file-igamecj.akamaized.net,Game
+HOST,file-igamecj.akamaized.net,Game
 # Asia
 IP-CIDR,45.40.220.0/22,Game
 IP-CIDR,150.109.124.0/23,Game
