@@ -1,4 +1,8 @@
 ## Special Connections and personal addon domains
+# > Job Hunting
+USER-AGENT,ios-liepingroup-app*
+DOMAIN-SUFFIX,liepin.com
+
 # > Router Access
 DOMAIN-SUFFIX,netgear.com
 

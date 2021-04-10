@@ -1,35 +1,13 @@
 ## Gaming 
-# > Blizzard
-HOST-SUFFIX,battle.net,Game
-HOST-SUFFIX,blizzard.com,Game
-DOMAIN,blizzard.nefficient.co.kr,Game
-DOMAIN,blzddist1-a.akamaihd.net,Game
-DOMAIN,blzddistkr1-a.akamaihd.net,Game
-DOMAIN,bnetproduct-a.akamaihd.net,Game
-
-# > Discord
-HOST-SUFFIX,discord.co,Game
-HOST-SUFFIX,discord.com,Game
-HOST-SUFFIX,discord.gg,Game
-HOST-SUFFIX,discord.media,Game
-HOST-SUFFIX,discordapp.com,Game
-HOST-SUFFIX,discordapp.net,Game
-
-# > Steam
-HOST-SUFFIX,steam-chat.com,Game
-HOST-SUFFIX,steamcontent.com,Game
-HOST-SUFFIX,steamgames.com,Game
-HOST-SUFFIX,steampowered.com,Game
-HOST-SUFFIX,steamstat.us,Game
-HOST-SUFFIX,steamstatic.com,Game
-HOST-SUFFIX,steamusercontent.com,Game
-DOMAIN,steambroadcast.akamaized.net,Game
-DOMAIN,steamcdn-a.akamaihd.net,Game
-DOMAIN,steamcommunity-a.akamaihd.net,Game
-DOMAIN,steamstore-a.akamaihd.net,Game
-DOMAIN,steamusercontent-a.akamaihd.net,Game
-DOMAIN,steamusercontent-a.akamaihd.net,Game
-DOMAIN,steamuserimages-a.akamaihd.net,Game
+# > PUBG Mobile
+HOST-SUFFIX,igamecj.com,Game
+HIST,file-igamecj.akamaized.net,Game
+# Asia
+IP-CIDR,45.40.220.0/22,Game
+IP-CIDR,150.109.124.0/23,Game
+# Northern America
+IP-CIDR,49.51.228.0/23,Game
+IP-CIDR,170.106.102.0/24,Game
 
 # Supercell
 # > Brawl Stars

@@ -1,4 +1,8 @@
 ## Special Connections and personal addon HOSTs
+# > Job Hunting
+USER-AGENT,ios-liepingroup-app*,DIRECT
+HOST-SUFFIX,liepin.com,DIRECT
+
 # > NAS Access
 HOST-SUFFIX,myds.me,DIRECT
 
