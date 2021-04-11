@@ -14,9 +14,9 @@ DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 
 # > Spotify
-USER-AGENT,*Spotify*
-USER-AGENT,Spotify*
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
 IP-CIDR,35.186.224.47/32,no-resolve
+USER-AGENT,*Spotify*
+USER-AGENT,Spotify*
 
 # > TIDAL
 USER-AGENT,TIDAL*
