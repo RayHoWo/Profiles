@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,tidal.com
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
+
+# > Emby Server
+DOMAIN-SUFFIX,emby2021.kozow.com

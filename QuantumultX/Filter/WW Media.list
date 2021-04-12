@@ -21,3 +21,6 @@ HOST-SUFFIX,tidal.com,WW Media
 USER-AGENT,SoundCloud*,WW Media
 HOST-SUFFIX,sndcdn.com,WW Media
 HOST-SUFFIX,soundcloud.com,WW Media
+
+# > Emby Server
+HOST-SUFFIX,emby2021.kozow.com,WW Media
