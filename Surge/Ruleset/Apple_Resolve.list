@@ -1,4 +1,6 @@
-## Apple Service
+// Apple Service
+# Remark: Remove "no-resolve" for clash ruleset
+
 # > Apple API
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
