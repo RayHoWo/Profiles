@@ -1,0 +1,63 @@
+## Apple Service
+# > Apple API
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,icloud.com.akadns.net
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
+
+# > Apple News
+DOMAIN,gspe1-ssl.ls.apple.com
+PROCESS-NAME,News
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
+
+# (DNS Cache Pollution)
+# > TestFlight
+DOMAIN,testflight.apple.com
+
+# (Region-Restricted Access Denied)
+# > Apple URL Shortener
+DOMAIN-SUFFIX,appsto.re
+# > iBooks Store download
+DOMAIN,books.itunes.apple.com
+# > App Store Preview
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# > Spotlight
+DOMAIN,api-glb-sea.smoot.apple.com
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,lookup-api.apple.com
+# > Apple Music Web
+DOMAIN,beta.music.apple.com
+
+# (Network Jitter)
+DOMAIN,appleid.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,www.icloud.com
+DOMAIN,ocsp.apple.com
+DOMAIN,xp.apple.com
