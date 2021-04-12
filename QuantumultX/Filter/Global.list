@@ -1,153 +1,1170 @@
-# (DNS Cache Pollution)
-# > Google
-HOST-SUFFIX,appspot.com,Global
-HOST-SUFFIX,blogger.com,Global
-HOST-SUFFIX,getoutline.org,Global
-HOST-SUFFIX,gvt0.com,Global
-HOST-SUFFIX,gvt3.com,Global
-HOST-SUFFIX,xn--ngstr-lra8j.com,Global
-HOST-SUFFIX,ytimg.com,Global
-HOST-KEYWORD,google,Global
-HOST-KEYWORD,.blogspot.,Global
-# > Scholar
-HOST-SUFFIX,acm.org,Global
-HOST-SUFFIX,acs.org,Global
-HOST-SUFFIX,aip.org,Global
-HOST-SUFFIX,ams.org,Global
-HOST-SUFFIX,annualreviews.org,Global
-HOST-SUFFIX,aps.org,Global
-HOST-SUFFIX,ascelibrary.org,Global
-HOST-SUFFIX,asm.org,Global
-HOST-SUFFIX,asme.org,Global
-HOST-SUFFIX,astm.org,Global
-HOST-SUFFIX,blackwell-synergy.com,Global
-HOST-SUFFIX,bmj.com,Global
-HOST-SUFFIX,cabdirect.org,Global
-HOST-SUFFIX,cambridge.org,Global
-HOST-SUFFIX,cas.org,Global
-HOST-SUFFIX,cell.com,Global
-HOST-SUFFIX,clarivate.com,Global
-HOST-SUFFIX,cnki.net,Global
-HOST-SUFFIX,cqvip.com,Global
-HOST-SUFFIX,csiro.au,Global
-HOST-SUFFIX,deepdyve.com,Global
-HOST-SUFFIX,ebscohost.com,Global
-HOST-SUFFIX,els-cdn.com,Global
-HOST-SUFFIX,elsevier.com,Global
-HOST-SUFFIX,emerald.com,Global
-HOST-SUFFIX,endnote.com,Global
-HOST-SUFFIX,engineeringvillage.com,Global
-HOST-SUFFIX,icevirtuallibrary.com,Global
-HOST-SUFFIX,ieee.org,Global
-HOST-SUFFIX,imf.org,Global
-HOST-SUFFIX,iop.org,Global
-HOST-SUFFIX,jamanetwork.com,Global
-HOST-SUFFIX,jbc.org,Global
-HOST-SUFFIX,jhu.edu,Global
-HOST-SUFFIX,jstor.org,Global
-HOST-SUFFIX,karger.com,Global
-HOST-SUFFIX,libguides.com,Global
-HOST-SUFFIX,madsrevolution.net,Global
-HOST-SUFFIX,mdpi.com,Global
-HOST-SUFFIX,mpg.de,Global
-HOST-SUFFIX,myilibrary.com,Global
-HOST-SUFFIX,nature.com,Global
-HOST-SUFFIX,ncbi.nlm.nih.gov,Global
-HOST-SUFFIX,oecd-ilibrary.org,Global
-HOST-SUFFIX,osapublishing.org,Global
-HOST-SUFFIX,oup.com,Global
-HOST-SUFFIX,ovid.com,Global
-HOST-SUFFIX,oxfordartonline.com,Global
-HOST-SUFFIX,oxfordbibliographies.com,Global
-HOST-SUFFIX,oxfordmusiconline.com,Global
-HOST-SUFFIX,pkulaw.com,Global
-HOST-SUFFIX,pnas.org,Global
-HOST-SUFFIX,proquest.com,Global
-HOST-SUFFIX,readcube.com,Global
-HOST-SUFFIX,researchgate.net,Global
-HOST-SUFFIX,rsc.org,Global
-HOST-SUFFIX,sagepub.com,Global
-HOST-SUFFIX,sci-hub.tw,Global
-HOST-SUFFIX,sciencedirect.com,Global
-HOST-SUFFIX,sciencemag.org,Global
-HOST-SUFFIX,scitation.org,Global
-HOST-SUFFIX,scopus.com,Global
-HOST-SUFFIX,siam.org,Global
-HOST-SUFFIX,spiedigitallibrary.org,Global
-HOST-SUFFIX,springer.com,Global
-HOST-SUFFIX,springerlink.com,Global
-HOST-SUFFIX,tandfonline.com,Global
-HOST-SUFFIX,un.org,Global
-HOST-SUFFIX,uni-bielefeld.de,Global
-HOST-SUFFIX,wanfangdata.com,Global
-HOST-SUFFIX,webofknowledge.com,Global
-HOST-SUFFIX,westlaw.com,Global
-HOST-SUFFIX,westlawchina.com,Global
-HOST-SUFFIX,wiley.com,Global
-HOST-SUFFIX,worldbank.org,Global
-HOST-SUFFIX,worldscientific.com,Global
-# > Facebook
+# NAME: Amazon
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Amazon/Amazon.list
+# UPDATED: 2021-04-07 13:24:45
+# USER-AGENT: 2
+# HOST-SUFFIX: 151
+# IP-CIDR: 15
+# TOTAL: 168
+HOST-SUFFIX,a2z.com,Global
+HOST-SUFFIX,aboutamazon.cn,Global
+HOST-SUFFIX,aboutamazon.co.uk,Global
+HOST-SUFFIX,aboutamazon.com,Global
+HOST-SUFFIX,aboutamazon.com.au,Global
+HOST-SUFFIX,aboutamazon.de,Global
+HOST-SUFFIX,aboutamazon.es,Global
+HOST-SUFFIX,aboutamazon.eu,Global
+HOST-SUFFIX,aboutamazon.fr,Global
+HOST-SUFFIX,aboutamazon.in,Global
+HOST-SUFFIX,aboutamazon.it,Global
+HOST-SUFFIX,aboutamazon.jp,Global
+HOST-SUFFIX,aboutamazon.pl,Global
+HOST-SUFFIX,acmvalidations.com,Global
+HOST-SUFFIX,acmvalidationsaws.com,Global
+HOST-SUFFIX,aesworkshops.com,Global
+HOST-SUFFIX,aiv-cdn.net,Global
+HOST-SUFFIX,alexa.com,Global
+HOST-SUFFIX,alexafund.cn,Global
+HOST-SUFFIX,alexafund.com.cn,Global
+HOST-SUFFIX,amaaozn.com,Global
+HOST-SUFFIX,Global-adsystem.com,Global
+HOST-SUFFIX,Global-fashions.com,Global
+HOST-SUFFIX,Global-jp-recruiting.com,Global
+HOST-SUFFIX,Global-lantern.com,Global
+HOST-SUFFIX,Global-launchpad.com,Global
+HOST-SUFFIX,Global.ae,Global
+HOST-SUFFIX,Global.ca,Global
+HOST-SUFFIX,Global.cn,Global
+HOST-SUFFIX,Global.co.jp,Global
+HOST-SUFFIX,Global.co.uk,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.com.au,Global
+HOST-SUFFIX,Global.com.br,Global
+HOST-SUFFIX,Global.com.mx,Global
+HOST-SUFFIX,Global.com.tr,Global
+HOST-SUFFIX,Global.de,Global
+HOST-SUFFIX,Global.es,Global
+HOST-SUFFIX,Global.fr,Global
+HOST-SUFFIX,Global.in,Global
+HOST-SUFFIX,Global.it,Global
+HOST-SUFFIX,Global.jobs,Global
+HOST-SUFFIX,Global.jp,Global
+HOST-SUFFIX,Global.nl,Global
+HOST-SUFFIX,Global.red,Global
+HOST-SUFFIX,Global.sg,Global
+HOST-SUFFIX,Globalalexavoxcon.com,Global
+HOST-SUFFIX,Globalauthorinsights.com,Global
+HOST-SUFFIX,Globalaws-china.com,Global
+HOST-SUFFIX,Globalaws.co.uk,Global
+HOST-SUFFIX,Globalaws.com,Global
+HOST-SUFFIX,Globalaws.tv,Global
+HOST-SUFFIX,Globalbusiness.cn,Global
+HOST-SUFFIX,Globalbusiness.com.cn,Global
+HOST-SUFFIX,Globalbusiness.org,Global
+HOST-SUFFIX,Globalbusinessblog.com,Global
+HOST-SUFFIX,Globalchoice.cn,Global
+HOST-SUFFIX,Globalchoice.com.cn,Global
+HOST-SUFFIX,Globalchoices.cn,Global
+HOST-SUFFIX,Globalchoices.com.cn,Global
+HOST-SUFFIX,Globaldevicesupport.com,Global
+HOST-SUFFIX,Globalfctours.com,Global
+HOST-SUFFIX,Globalianblog.com,Global
+HOST-SUFFIX,Globalimages.com,Global
+HOST-SUFFIX,Globalinspire.cn,Global
+HOST-SUFFIX,Globalinspire.com.cn,Global
+HOST-SUFFIX,Globallaunchpad.cn,Global
+HOST-SUFFIX,Globallaunchpad.com,Global
+HOST-SUFFIX,Globallaunchpad.com.cn,Global
+HOST-SUFFIX,Globallending.com.cn,Global
+HOST-SUFFIX,Globalliterarypartnership.com,Global
+HOST-SUFFIX,Globallumberyard.wang,Global
+HOST-SUFFIX,Globalnow.cn,Global
+HOST-SUFFIX,Globalnow.com.cn,Global
+HOST-SUFFIX,Globalpay.com,Global
+HOST-SUFFIX,Globalpay.in,Global
+HOST-SUFFIX,Globalsdi.com,Global
+HOST-SUFFIX,Globalstudiosguilds.com,Global
+HOST-SUFFIX,Globaltrust.com,Global
+HOST-SUFFIX,Globalvideo.com,Global
+HOST-SUFFIX,Globalvideodirect.com,Global
+HOST-SUFFIX,Globalworkdocs.cn,Global
+HOST-SUFFIX,Globalworkdocs.com,Global
+HOST-SUFFIX,Globalworkdocs.com.cn,Global
+HOST-SUFFIX,amplifyapp.com,Global
+HOST-SUFFIX,amplifyframework.com,Global
+HOST-SUFFIX,amzn.com,Global
+HOST-SUFFIX,amzn.to,Global
+HOST-SUFFIX,amznl.com,Global
+HOST-SUFFIX,assoc-amazon.cn,Global
+HOST-SUFFIX,associates-amazon.com,Global
+HOST-SUFFIX,audible.com,Global
+HOST-SUFFIX,aws-iot-hackathon.com,Global
+HOST-SUFFIX,awsautopilot.com,Global
+HOST-SUFFIX,awsautoscaling.com,Global
+HOST-SUFFIX,awsbraket.com,Global
+HOST-SUFFIX,awscommandlineinterface.com,Global
+HOST-SUFFIX,awsedstart.com,Global
+HOST-SUFFIX,awseducate.com,Global
+HOST-SUFFIX,awseducate.net,Global
+HOST-SUFFIX,awseducate.org,Global
+HOST-SUFFIX,awsloft-johannesburg.com,Global
+HOST-SUFFIX,awsloft-stockholm.com,Global
+HOST-SUFFIX,awssecworkshops.com,Global
+HOST-SUFFIX,awsstatic.com,Global
+HOST-SUFFIX,awsthinkbox.com,Global
+HOST-SUFFIX,awstrust.com,Global
+HOST-SUFFIX,cdkworkshop.com,Global
+HOST-SUFFIX,cloudfront.net,Global
+HOST-SUFFIX,containersonaws.com,Global
+HOST-SUFFIX,createspace.com,Global
+HOST-SUFFIX,elasticbeanstalk.com,Global
+HOST-SUFFIX,gameon-masters.com,Global
+HOST-SUFFIX,gdansk-amazon.com,Global
+HOST-SUFFIX,images-amazon.com,Global
+HOST-SUFFIX,kindle.cn,Global
+HOST-SUFFIX,kindle.co.jp,Global
+HOST-SUFFIX,kindle.co.uk,Global
+HOST-SUFFIX,kindle.com,Global
+HOST-SUFFIX,kindle.de,Global
+HOST-SUFFIX,kindle.es,Global
+HOST-SUFFIX,kindle.fr,Global
+HOST-SUFFIX,kindle.in,Global
+HOST-SUFFIX,kindle.it,Global
+HOST-SUFFIX,kindle.jp,Global
+HOST-SUFFIX,kindleoasis.cn,Global
+HOST-SUFFIX,kindleoasis.com,Global
+HOST-SUFFIX,kindleoasis.com.cn,Global
+HOST-SUFFIX,kindleoasis.info,Global
+HOST-SUFFIX,kindleoasis.jp,Global
+HOST-SUFFIX,kindleoasis.org,Global
+HOST-SUFFIX,kindleoasis.us,Global
+HOST-SUFFIX,kindleoasisnews.com,Global
+HOST-SUFFIX,kindleproject.com,Global
+HOST-SUFFIX,llnwd.net,Global
+HOST-SUFFIX,media-amazon.com,Global
+HOST-SUFFIX,primeday.cn,Global
+HOST-SUFFIX,primeday.com.cn,Global
+HOST-SUFFIX,primeday.info,Global
+HOST-SUFFIX,primevideo.com,Global
+HOST-SUFFIX,siege-amazon.com,Global
+HOST-SUFFIX,ssl-images-amazon.com,Global
+HOST-SUFFIX,thinkboxsoftware.com,Global
+HOST-SUFFIX,ueberamazon.de,Global
+HOST-SUFFIX,wholecitiesfoundation.org,Global
+HOST-SUFFIX,wholefoodsmarket.com,Global
+HOST-SUFFIX,wholekidsfoundation.org,Global
+HOST-SUFFIX,wholeplanetfoundation.org,Global
+HOST-SUFFIX,yamaxun.cn,Global
+HOST-SUFFIX,yamaxun.com,Global
+HOST-SUFFIX,z.cn,Global
+USER-AGENT,InstantVideo.US*,Global
+USER-AGENT,Prime%20Video*,Global
+IP-CIDR,13.32.0.0/15,Global
+IP-CIDR,13.35.0.0/17,Global
+IP-CIDR,18.184.0.0/15,Global
+IP-CIDR,18.194.0.0/15,Global
+IP-CIDR,18.208.0.0/13,Global
+IP-CIDR,18.232.0.0/14,Global
+IP-CIDR,52.200.0.0/13,Global
+IP-CIDR,52.58.0.0/15,Global
+IP-CIDR,52.74.0.0/16,Global
+IP-CIDR,52.77.0.0/16,Global
+IP-CIDR,52.84.0.0/15,Global
+IP-CIDR,54.156.0.0/14,Global
+IP-CIDR,54.226.0.0/15,Global
+IP-CIDR,54.230.156.0/22,Global
+IP-CIDR,54.93.0.0/16,Global
+
+# NAME: Dropbox
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Dropbox/Dropbox.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 17
+# TOTAL: 17
+HOST-SUFFIX,db.tt,Global
+HOST-SUFFIX,Global-dns.com,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.tech,Global
+HOST-SUFFIX,Global.zendesk.com,Global
+HOST-SUFFIX,Globalapi.com,Global
+HOST-SUFFIX,Globalbusiness.com,Global
+HOST-SUFFIX,Globalcaptcha.com,Global
+HOST-SUFFIX,Globalforum.com,Global
+HOST-SUFFIX,Globalforums.com,Global
+HOST-SUFFIX,Globalinsiders.com,Global
+HOST-SUFFIX,Globalmail.com,Global
+HOST-SUFFIX,Globalpartners.com,Global
+HOST-SUFFIX,Globalstatic.com,Global
+HOST-SUFFIX,Globalusercontent.com,Global
+HOST-SUFFIX,getdropbox.com,Global
+HOST-SUFFIX,paper-attachments.s3.amazonaws.com,Global
+
+# NAME: Facebook
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Facebook/Facebook.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 34
+# HOST-KEYWORD: 1
+# IP-CIDR: 33
+# TOTAL: 68
+HOST-SUFFIX,accountkit.com,Global
 HOST-SUFFIX,cdninstagram.com,Global
-HOST-SUFFIX,facebook.com,Global
-HOST-SUFFIX,facebook.net,Global
+HOST-SUFFIX,Global.br,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.design,Global
+HOST-SUFFIX,Global.hu,Global
+HOST-SUFFIX,Global.in,Global
+HOST-SUFFIX,Global.net,Global
+HOST-SUFFIX,Global.nl,Global
+HOST-SUFFIX,Global.se,Global
+HOST-SUFFIX,Globalmail.com,Global
+HOST-SUFFIX,Globalquotes4u.com,Global
 HOST-SUFFIX,fb.com,Global
 HOST-SUFFIX,fb.me,Global
 HOST-SUFFIX,fbaddins.com,Global
+HOST-SUFFIX,fbcdn-a.akamaihd.net,Global
 HOST-SUFFIX,fbcdn.net,Global
 HOST-SUFFIX,fbsbx.com,Global
 HOST-SUFFIX,fbworkmail.com,Global
-HOST-SUFFIX,instagram.com,Global
+HOST-SUFFIX,igcdn.com,Global
+HOST-SUFFIX,igsonar.com,Global
+HOST-SUFFIX,instagr.am,Global
+HOST-SUFFIX,Global-press.com,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,ip6.static.sl-reverse.com,Global
 HOST-SUFFIX,m.me,Global
 HOST-SUFFIX,messenger.com,Global
 HOST-SUFFIX,oculus.com,Global
 HOST-SUFFIX,oculuscdn.com,Global
 HOST-SUFFIX,rocksdb.org,Global
-HOST-SUFFIX,whatsapp.com,Global
-HOST-SUFFIX,whatsapp.net,Global
-# > Twitter
-HOST-SUFFIX,pscp.tv,Global
+HOST-SUFFIX,thefacebook.com,Global
+HOST-SUFFIX,Global.biz,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.net,Global
+HOST-KEYWORD,Global,Global
+IP-CIDR,103.4.96.0/22,Global
+IP-CIDR,108.168.176.192/26,Global
+IP-CIDR,108.168.177.0/27,Global
+IP-CIDR,108.168.180.96/27,Global
+IP-CIDR,108.168.254.65/32,Global
+IP-CIDR,108.168.255.224/32,Global
+IP-CIDR,108.168.255.227/32,Global
+IP-CIDR,108.177.8.0/21,Global
+IP-CIDR,119.235.224.0/24,Global
+IP-CIDR,119.235.232.0/24,Global
+IP-CIDR,119.235.236.0/23,Global
+IP-CIDR,129.134.0.0/17,Global
+IP-CIDR,157.240.0.0/17,Global
+IP-CIDR,169.45.248.118/32,Global
+IP-CIDR,173.252.64.0/18,Global
+IP-CIDR,179.60.192.0/22,Global
+IP-CIDR,185.60.216.0/22,Global
+IP-CIDR,204.15.20.0/22,Global
+IP-CIDR,3.123.36.126/32,Global
+IP-CIDR,31.13.24.0/21,Global
+IP-CIDR,31.13.64.0/18,Global
+IP-CIDR,35.157.215.84/32,Global
+IP-CIDR,35.157.217.255/32,Global
+IP-CIDR,45.64.40.0/22,Global
+IP-CIDR,52.58.209.134/32,Global
+IP-CIDR,54.162.243.80/32,Global
+IP-CIDR,54.173.34.141/32,Global
+IP-CIDR,54.235.23.242/32,Global
+IP-CIDR,54.93.124.31/32,Global
+IP-CIDR,66.220.144.0/20,Global
+IP-CIDR,69.171.224.0/19,Global
+IP-CIDR,69.63.176.0/20,Global
+IP-CIDR,74.119.76.0/22,Global
+
+# NAME: Google
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Google/Google.list
+# UPDATED: 2021-04-07 13:24:46
+# USER-AGENT: 3
+# HOST-SUFFIX: 98
+# HOST-KEYWORD: 8
+# IP-CIDR: 2
+# TOTAL: 111
+HOST-SUFFIX,265.com,Global
+HOST-SUFFIX,2mdn.net,Global
+HOST-SUFFIX,abc.xyz,Global
+HOST-SUFFIX,adservice.google.com,Global
+HOST-SUFFIX,ampproject.org,Global
+HOST-SUFFIX,android.com,Global
+HOST-SUFFIX,androidify.com,Global
+HOST-SUFFIX,app-measurement.com,Global
+HOST-SUFFIX,appspot.com,Global
+HOST-SUFFIX,autodraw.com,Global
+HOST-SUFFIX,beacons.gvt2.com,Global
+HOST-SUFFIX,beacons3.gvt2.com,Global
+HOST-SUFFIX,blogger.com,Global
+HOST-SUFFIX,c.admob.com,Global
+HOST-SUFFIX,c.android.clients.google.com,Global
+HOST-SUFFIX,cache.pack.google.com,Global
+HOST-SUFFIX,capitalg.com,Global
+HOST-SUFFIX,certificate-transparency.dev,Global
+HOST-SUFFIX,certificate-transparency.org,Global
+HOST-SUFFIX,chrome.com,Global
+HOST-SUFFIX,chromeexperiments.com,Global
+HOST-SUFFIX,chromestatus.com,Global
+HOST-SUFFIX,chromium.org,Global
+HOST-SUFFIX,clickserve.dartsearch.net,Global
+HOST-SUFFIX,corp.google.com,Global
+HOST-SUFFIX,creativelab5.com,Global
+HOST-SUFFIX,crl.pki.goog,Global
+HOST-SUFFIX,debug.com,Global
+HOST-SUFFIX,deepmind.com,Global
+HOST-SUFFIX,dialogflow.com,Global
+HOST-SUFFIX,dl.google.com,Global
+HOST-SUFFIX,dl.l.google.com,Global
+HOST-SUFFIX,docs.google.com,Global
+HOST-SUFFIX,doubleclick.net,Global
+HOST-SUFFIX,drive.google.com,Global
+HOST-SUFFIX,firebase-settings.crashlytics.com,Global
+HOST-SUFFIX,firebaseio.com,Global
+HOST-SUFFIX,gcp.gvt2.com,Global
+HOST-SUFFIX,getmdl.io,Global
+HOST-SUFFIX,getoutline.org,Global
+HOST-SUFFIX,ggpht.com,Global
+HOST-SUFFIX,gmail.com,Global
+HOST-SUFFIX,gmodules.com,Global
+HOST-SUFFIX,godoc.org,Global
+HOST-SUFFIX,golang.org,Global
+HOST-SUFFIX,Global-analytics.com,Global
+HOST-SUFFIX,Global.cn,Global
+HOST-SUFFIX,Globaladservices.com,Global
+HOST-SUFFIX,Globalanalytics.com,Global
+HOST-SUFFIX,Globalapis.com,Global
+HOST-SUFFIX,Globalblog.com,Global
+HOST-SUFFIX,Globaldrive.com,Global
+HOST-SUFFIX,Globalmashups.com,Global
+HOST-SUFFIX,Globalsyndication.com,Global
+HOST-SUFFIX,Globaltagmanager.com,Global
+HOST-SUFFIX,Globaltagservices.com,Global
+HOST-SUFFIX,Globalusercontent.com,Global
+HOST-SUFFIX,gstatic.com,Global
+HOST-SUFFIX,gtm.oasisfeng.com,Global
+HOST-SUFFIX,gv.com,Global
+HOST-SUFFIX,gvt0.com,Global
+HOST-SUFFIX,gvt1.com,Global
+HOST-SUFFIX,gvt3.com,Global
+HOST-SUFFIX,gwtproject.org,Global
+HOST-SUFFIX,itasoftware.com,Global
+HOST-SUFFIX,madewithcode.com,Global
+HOST-SUFFIX,material.io,Global
+HOST-SUFFIX,ocsp.pki.goog,Global
+HOST-SUFFIX,pagead-googlehosted.l.google.com,Global
+HOST-SUFFIX,pkg.go.dev,Global
+HOST-SUFFIX,pki-goog.l.google.com,Global
+HOST-SUFFIX,polymer-project.org,Global
+HOST-SUFFIX,recaptcha.net,Global
+HOST-SUFFIX,safebrowsing-cache.google.com,Global
+HOST-SUFFIX,settings.crashlytics.com,Global
+HOST-SUFFIX,shattered.io,Global
+HOST-SUFFIX,ssl-google-analytics.l.google.com,Global
+HOST-SUFFIX,synergyse.com,Global
+HOST-SUFFIX,telephony.goog,Global
+HOST-SUFFIX,tensorflow.org,Global
+HOST-SUFFIX,tfhub.dev,Global
+HOST-SUFFIX,tiltbrush.com,Global
+HOST-SUFFIX,toolbarqueries.google.com,Global
+HOST-SUFFIX,tools.google.com,Global
+HOST-SUFFIX,tools.l.google.com,Global
+HOST-SUFFIX,waveprotocol.org,Global
+HOST-SUFFIX,waymo.com,Global
+HOST-SUFFIX,webmproject.org,Global
+HOST-SUFFIX,webrtc.org,Global
+HOST-SUFFIX,whatbrowser.org,Global
+HOST-SUFFIX,widevine.com,Global
+HOST-SUFFIX,withgoogle.com,Global
+HOST-SUFFIX,www-googletagmanager.l.google.com,Global
+HOST-SUFFIX,x.company,Global
+HOST-SUFFIX,xn--ngstr-lra8j.com,Global
+HOST-SUFFIX,youtu.be,Global
+HOST-SUFFIX,yt.be,Global
+HOST-SUFFIX,ytimg.com,Global
+HOST-KEYWORD,appspot,Global
+HOST-KEYWORD,blogspot,Global
+HOST-KEYWORD,gmail,Global
+HOST-KEYWORD,Global,Global
+HOST-KEYWORD,Globalsource,Global
+HOST-KEYWORD,gstatic,Global
+HOST-KEYWORD,recaptcha,Global
+HOST-KEYWORD,www.google.,Global
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*,Global
+USER-AGENT,*com.google.Drive*,Global
+USER-AGENT,Global.Drive*,Global
+IP-CIDR,173.194.0.0/16,Global
+IP-CIDR,74.125.0.0/16,Global
+
+# NAME: Github
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Github/Github.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 22
+# TOTAL: 23
+HOST-SUFFIX,atom.io,Global
+HOST-SUFFIX,dependabot.com,Global
+HOST-SUFFIX,ghcr.io,Global
+HOST-SUFFIX,git.io,Global
+HOST-SUFFIX,Global-atom-io-herokuapp-com.freetls.fastly.net,Global
+HOST-SUFFIX,Global-avatars.oss-cn-hongkong.aliyuncs.com,Global
+HOST-SUFFIX,Global.blog,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.community,Global
+HOST-SUFFIX,Global.dev,Global
+HOST-SUFFIX,Global.io,Global
+HOST-SUFFIX,Globalapp.com,Global
+HOST-SUFFIX,Globalassets.com,Global
+HOST-SUFFIX,Globalhackathon.com,Global
+HOST-SUFFIX,Globalstatus.com,Global
+HOST-SUFFIX,Globaluniverse.com,Global
+HOST-SUFFIX,Globalusercontent.com,Global
+HOST-SUFFIX,npm.community,Global
+HOST-SUFFIX,npmjs.com,Global
+HOST-SUFFIX,npmjs.org,Global
+HOST-SUFFIX,rawgit.com,Global
+HOST-SUFFIX,rawgithub.com,Global
+HOST-KEYWORD,Global,Global
+
+# NAME: Instagram
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Instagram/Instagram.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 2
+# TOTAL: 2
+HOST-SUFFIX,cdninstagram.com,Global
+HOST-SUFFIX,Global.com,Global
+
+# NAME: Line
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Line/Line.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 7
+# IP-CIDR: 15
+# TOTAL: 22
+HOST-SUFFIX,lin.ee,Global
+HOST-SUFFIX,Global-apps.com,Global
+HOST-SUFFIX,Global-cdn.net,Global
+HOST-SUFFIX,Global-scdn.net,Global
+HOST-SUFFIX,Global.me,Global
+HOST-SUFFIX,naver.jp,Global
+HOST-SUFFIX,nhncorp.jp,Global
+IP-CIDR,103.2.28.0/22,Global
+IP-CIDR,119.235.224.0/21,Global
+IP-CIDR,119.235.232.0/23,Global
+IP-CIDR,119.235.235.0/24,Global
+IP-CIDR,119.235.236.0/23,Global
+IP-CIDR,125.209.208.0/20,Global
+IP-CIDR,125.6.146.0/24,Global
+IP-CIDR,125.6.149.0/24,Global
+IP-CIDR,125.6.190.0/24,Global
+IP-CIDR,147.92.128.0/17,Global
+IP-CIDR,203.104.103.0/24,Global
+IP-CIDR,203.104.128.0/20,Global
+IP-CIDR,203.104.144.0/21,Global
+IP-CIDR,203.174.66.64/26,Global
+IP-CIDR,203.174.77.0/24,Global
+
+# NAME: Microsoft
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Microsoft/Microsoft.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 416
+# USER-AGENT: 3
+# HOST-KEYWORD: 50
+# TOTAL: 469
+HOST-SUFFIX,1drv.com,Global
+HOST-SUFFIX,a-msedge.net,Global
+HOST-SUFFIX,a1158.g.akamai.net,Global
+HOST-SUFFIX,a122.dscg3.akamai.net,Global
+HOST-SUFFIX,a767.dscg3.akamai.net,Global
+HOST-SUFFIX,aadrm.com,Global
+HOST-SUFFIX,acompli.com,Global
+HOST-SUFFIX,acompli.net,Global
+HOST-SUFFIX,adaptivecards.io,Global
+HOST-SUFFIX,aicscience.com,Global
+HOST-SUFFIX,aka.ms,Global
+HOST-SUFFIX,akadns.net,Global
+HOST-SUFFIX,ankarazirvesi2018.com,Global
+HOST-SUFFIX,api-extractor.com,Global
+HOST-SUFFIX,apisof.net,Global
+HOST-SUFFIX,appcenter.ms,Global
+HOST-SUFFIX,aria.ms,Global
+HOST-SUFFIX,asp.net,Global
+HOST-SUFFIX,aspnetcdn.com,Global
+HOST-SUFFIX,assets-yammer.com,Global
+HOST-SUFFIX,azure-apim.net,Global
+HOST-SUFFIX,azure-mobile.net,Global
+HOST-SUFFIX,azure-sphere.com,Global
+HOST-SUFFIX,azure-test.net,Global
+HOST-SUFFIX,azure.cn,Global
+HOST-SUFFIX,azure.com,Global
+HOST-SUFFIX,azure.net,Global
+HOST-SUFFIX,azurecomcdn.net,Global
+HOST-SUFFIX,azurecontainer.io,Global
+HOST-SUFFIX,azurecosmos.net,Global
+HOST-SUFFIX,azuredatabricks.net,Global
+HOST-SUFFIX,azuredevopslaunch.com,Global
+HOST-SUFFIX,azuredigitaltwin.com,Global
+HOST-SUFFIX,azureedge-test.net,Global
+HOST-SUFFIX,azureedge.net,Global
+HOST-SUFFIX,azureiotcentral.com,Global
+HOST-SUFFIX,azureiotsolutions.com,Global
+HOST-SUFFIX,azureiotsuite.com,Global
+HOST-SUFFIX,azurerms.com,Global
+HOST-SUFFIX,azureserviceprofiler.com,Global
+HOST-SUFFIX,azuresmartspaces.net,Global
+HOST-SUFFIX,azurestackvalidation.com,Global
+HOST-SUFFIX,azurewebsites.net,Global
+HOST-SUFFIX,b.akamaiedge.net,Global
+HOST-SUFFIX,bbing.com,Global
+HOST-SUFFIX,beth.games,Global
+HOST-SUFFIX,bethesda.net,Global
+HOST-SUFFIX,bethesdagamestudios.com,Global
+HOST-SUFFIX,bethsoft.com,Global
+HOST-SUFFIX,bibg.com,Global
+HOST-SUFFIX,biing.com,Global
+HOST-SUFFIX,binads.com,Global
+HOST-SUFFIX,binb.com,Global
+HOST-SUFFIX,binf.com,Global
+HOST-SUFFIX,bing.com,Global
+HOST-SUFFIX,bing123.com,Global
+HOST-SUFFIX,bing135.com,Global
+HOST-SUFFIX,bing4.com,Global
+HOST-SUFFIX,bingads.com,Global
+HOST-SUFFIX,bingagencyawards.com,Global
+HOST-SUFFIX,bingapis.com,Global
+HOST-SUFFIX,bingapistatistics.com,Global
+HOST-SUFFIX,binginternal.com,Global
+HOST-SUFFIX,bingit.net,Global
+HOST-SUFFIX,bingiton.com,Global
+HOST-SUFFIX,bingj.com,Global
+HOST-SUFFIX,bingpix.com,Global
+HOST-SUFFIX,bingpk.com,Global
+HOST-SUFFIX,bings.com,Global
+HOST-SUFFIX,bingsandbox.com,Global
+HOST-SUFFIX,bingtoolbar.com,Global
+HOST-SUFFIX,bingtranslator.com,Global
+HOST-SUFFIX,bingvisualsearch.com,Global
+HOST-SUFFIX,bingworld.com,Global
+HOST-SUFFIX,blazor.net,Global
+HOST-SUFFIX,bluehatil.com,Global
+HOST-SUFFIX,bluehatnights.com,Global
+HOST-SUFFIX,boswp.com,Global
+HOST-SUFFIX,botframework.com,Global
+HOST-SUFFIX,brazilpartneruniversity.com,Global
+HOST-SUFFIX,breakdown.me,Global
+HOST-SUFFIX,c-msedge.net,Global
+HOST-SUFFIX,callersbane.com,Global
+HOST-SUFFIX,centralvalidation.com,Global
+HOST-SUFFIX,ch9.ms,Global
+HOST-SUFFIX,charticulator.com,Global
+HOST-SUFFIX,chinacloudapi.cn,Global
+HOST-SUFFIX,chinacloudapp.cn,Global
+HOST-SUFFIX,chinacloudsites.cn,Global
+HOST-SUFFIX,cloudapp.net,Global
+HOST-SUFFIX,cloudappsecurity.com,Global
+HOST-SUFFIX,codethemicrobit.com,Global
+HOST-SUFFIX,cortana.ai,Global
+HOST-SUFFIX,cortanaanalytics.com,Global
+HOST-SUFFIX,cortanaskills.com,Global
+HOST-SUFFIX,crmdynint-gcc.com,Global
+HOST-SUFFIX,crmdynint.com,Global
+HOST-SUFFIX,crossborderexpansion.com,Global
+HOST-SUFFIX,cs11.wpc.v0cdn.net,Global
+HOST-SUFFIX,cs9.wac.phicdn.net,Global
+HOST-SUFFIX,devopsassessment.net,Global
+HOST-SUFFIX,devopsms.com,Global
+HOST-SUFFIX,dictate.ms,Global
+HOST-SUFFIX,discoverbing.com,Global
+HOST-SUFFIX,docs.com,Global
+HOST-SUFFIX,dot.net,Global
+HOST-SUFFIX,dwh5.com,Global
+HOST-SUFFIX,dynamics.com,Global
+HOST-SUFFIX,e-msedge.net,Global
+HOST-SUFFIX,edgesuite.net,Global
+HOST-SUFFIX,efproject.net,Global
+HOST-SUFFIX,engkoo.com,Global
+HOST-SUFFIX,evoke-windowsservices-tas.msedge,Global
+HOST-SUFFIX,explorebing.com,Global
+HOST-SUFFIX,fabric.io,Global
+HOST-SUFFIX,fasttrackreadysupport.com,Global
+HOST-SUFFIX,femalefounderscomp.com,Global
+HOST-SUFFIX,flipwithsurface.com,Global
+HOST-SUFFIX,fluidpreview.com,Global
+HOST-SUFFIX,footprintdns.com,Global
+HOST-SUFFIX,forzamotorsport.net,Global
+HOST-SUFFIX,forzaracingchampionship.com,Global
+HOST-SUFFIX,forzarc.com,Global
+HOST-SUFFIX,g.akamaiedge.net,Global
+HOST-SUFFIX,gamepass.com,Global
+HOST-SUFFIX,gamesstack.com,Global
+HOST-SUFFIX,gameuxmasterguide.com,Global
+HOST-SUFFIX,gears5.com,Global
+HOST-SUFFIX,gearspop.com,Global
+HOST-SUFFIX,gearstactics.com,Global
+HOST-SUFFIX,getmicrosoftkey.com,Global
+HOST-SUFFIX,gfx.ms,Global
+HOST-SUFFIX,gigjam.com,Global
+HOST-SUFFIX,gotcosmos.com,Global
+HOST-SUFFIX,graphengine.io,Global
+HOST-SUFFIX,helpshift.com,Global
+HOST-SUFFIX,heremaps.cn,Global
+HOST-SUFFIX,hockeyapp.net,Global
+HOST-SUFFIX,hololens.com,Global
+HOST-SUFFIX,hotmail.com,Global
+HOST-SUFFIX,hummingbird.ms,Global
+HOST-SUFFIX,ie10.com,Global
+HOST-SUFFIX,ie11.com,Global
+HOST-SUFFIX,ie8.co,Global
+HOST-SUFFIX,ie9.com,Global
+HOST-SUFFIX,imaginecup.pl,Global
+HOST-SUFFIX,img-prod-cms-rt-microsoft-com,Global
+HOST-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net,Global
+HOST-SUFFIX,img-s-msn-com.akamaized.net,Global
+HOST-SUFFIX,ingads.com,Global
+HOST-SUFFIX,insiderdevtour.com,Global
+HOST-SUFFIX,intunewiki.com,Global
+HOST-SUFFIX,iotinactionevents.com,Global
+HOST-SUFFIX,joinmva.com,Global
+HOST-SUFFIX,jwt.ms,Global
+HOST-SUFFIX,kidgrid.tv,Global
+HOST-SUFFIX,kumo.com,Global
+HOST-SUFFIX,latampartneruniversity.com,Global
+HOST-SUFFIX,live.com,Global
+HOST-SUFFIX,live.net,Global
+HOST-SUFFIX,livefilestore.com,Global
+HOST-SUFFIX,livingyourambition.com,Global
+HOST-SUFFIX,localytics.com,Global
+HOST-SUFFIX,lync.com,Global
+HOST-SUFFIX,m12.vc,Global
+HOST-SUFFIX,makecode.org,Global
+HOST-SUFFIX,managedmeetingrooms.com,Global
+HOST-SUFFIX,mapblast.com,Global
+HOST-SUFFIX,mappoint.com,Global
+HOST-SUFFIX,masalladeloslimites.com,Global
+HOST-SUFFIX,meetfasttrack.com,Global
+HOST-SUFFIX,meetyourdevices.com,Global
+HOST-SUFFIX,mepn.com,Global
+HOST-SUFFIX,mesh.com,Global
+HOST-SUFFIX,microbit.org,Global
+HOST-SUFFIX,Global-give.com,Global
+HOST-SUFFIX,Global-int.com,Global
+HOST-SUFFIX,Global-ppe.com,Global
+HOST-SUFFIX,Global-sap-events.com,Global
+HOST-SUFFIX,Global-sbs-domains.com,Global
+HOST-SUFFIX,Global-smb.cn,Global
+HOST-SUFFIX,Global-tst.com,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.com.nsatc.net,Global
+HOST-SUFFIX,Global365.com,Global
+HOST-SUFFIX,Globalaccountguard.com,Global
+HOST-SUFFIX,Globaladc.com,Global
+HOST-SUFFIX,Globalads.com,Global
+HOST-SUFFIX,Globaladvertising.com,Global
+HOST-SUFFIX,Globaladvertisingregionalawards.com,Global
+HOST-SUFFIX,Globalaffiliates.com,Global
+HOST-SUFFIX,Globalazuread-sso.com,Global
+HOST-SUFFIX,Globalcloud.com,Global
+HOST-SUFFIX,Globalcloudsummit.com,Global
+HOST-SUFFIX,Globalcloudworkshop.com,Global
+HOST-SUFFIX,Globalcommunitytraining.com,Global
+HOST-SUFFIX,Globaldiplomados.com,Global
+HOST-SUFFIX,Globaleca.com,Global
+HOST-SUFFIX,Globaledge.com,Global
+HOST-SUFFIX,Globaledgeinsider.com,Global
+HOST-SUFFIX,Globalemail.com,Global
+HOST-SUFFIX,Globalestore.com.hk,Global
+HOST-SUFFIX,Globalgamestack.com,Global
+HOST-SUFFIX,Globalinternetsafety.net,Global
+HOST-SUFFIX,Globaliotcentral.com,Global
+HOST-SUFFIX,Globaliotinsiderlabs.com,Global
+HOST-SUFFIX,Globallatamaitour.com,Global
+HOST-SUFFIX,Globallatamholiday.com,Global
+HOST-SUFFIX,Globallinc.com,Global
+HOST-SUFFIX,Globalmxfilantropia.com,Global
+HOST-SUFFIX,Globalonline-p.com,Global
+HOST-SUFFIX,Globalonline-p.net,Global
+HOST-SUFFIX,Globalonline.com,Global
+HOST-SUFFIX,Globalpartnercommunity.com,Global
+HOST-SUFFIX,Globalpartnersolutions.com,Global
+HOST-SUFFIX,Globalready.com,Global
+HOST-SUFFIX,Globalsiteselection.com,Global
+HOST-SUFFIX,Globalsqlserver.com,Global
+HOST-SUFFIX,Globalstream.com,Global
+HOST-SUFFIX,Globalteams.com,Global
+HOST-SUFFIX,Globaltradein.com,Global
+HOST-SUFFIX,Globaltranslator.com,Global
+HOST-SUFFIX,Globalusercontent.com,Global
+HOST-SUFFIX,Globaluwp.com,Global
+HOST-SUFFIX,minecraft.net,Global
+HOST-SUFFIX,minecraftshop.com,Global
+HOST-SUFFIX,mmais.com.cn,Global
+HOST-SUFFIX,mmdnn.com,Global
+HOST-SUFFIX,mojang.com,Global
+HOST-SUFFIX,momentumms.com,Global
+HOST-SUFFIX,mono-project.com,Global
+HOST-SUFFIX,morphcharts.com,Global
+HOST-SUFFIX,mpnevolution.com,Global
+HOST-SUFFIX,ms-studiosmedia.com,Global
+HOST-SUFFIX,ms365surfaceoffer.com,Global
+HOST-SUFFIX,msa.akadns6.net,Global
+HOST-SUFFIX,msads.net,Global
+HOST-SUFFIX,msappproxy.net,Global
+HOST-SUFFIX,msauth.net,Global
+HOST-SUFFIX,msauthimages.net,Global
+HOST-SUFFIX,mschallenge2018.com,Global
+HOST-SUFFIX,msdn.com,Global
+HOST-SUFFIX,msecnd.net,Global
+HOST-SUFFIX,msedge.net,Global
+HOST-SUFFIX,msft.net,Global
+HOST-SUFFIX,msftauth.net,Global
+HOST-SUFFIX,msftauthimages.net,Global
+HOST-SUFFIX,msftcenterone.cn,Global
+HOST-SUFFIX,msftconnecttest.com,Global
+HOST-SUFFIX,msfteducation.ca,Global
+HOST-SUFFIX,msftidentity.com,Global
+HOST-SUFFIX,msftnet.org,Global
+HOST-SUFFIX,msgamesresearch.com,Global
+HOST-SUFFIX,msgamestudios.com,Global
+HOST-SUFFIX,msidentity.com,Global
+HOST-SUFFIX,msignitechina.com,Global
+HOST-SUFFIX,msinnovationchallenge.com,Global
+HOST-SUFFIX,msn.com,Global
+HOST-SUFFIX,msnkids.com,Global
+HOST-SUFFIX,msnmaps.com,Global
+HOST-SUFFIX,msocdn.com,Global
+HOST-SUFFIX,msocsp.com,Global
+HOST-SUFFIX,msopentech.cn,Global
+HOST-SUFFIX,mspairlift.com,Global
+HOST-SUFFIX,mspil.cn,Global
+HOST-SUFFIX,msra.cn,Global
+HOST-SUFFIX,msropendata.com,Global
+HOST-SUFFIX,mstea.ms,Global
+HOST-SUFFIX,msturing.org,Global
+HOST-SUFFIX,msudalosti.com,Global
+HOST-SUFFIX,msunlimitedcloudsummit.com,Global
+HOST-SUFFIX,msvevent.com,Global
+HOST-SUFFIX,msxiaobing.com,Global
+HOST-SUFFIX,msxiaoice.com,Global
+HOST-SUFFIX,msxiaona.cn,Global
+HOST-SUFFIX,mwf-service.akamaized.net,Global
+HOST-SUFFIX,myhomemsn.com,Global
+HOST-SUFFIX,mymicrosoft.com,Global
+HOST-SUFFIX,nextechafrica.net,Global
+HOST-SUFFIX,nuget.org,Global
+HOST-SUFFIX,nugettest.org,Global
+HOST-SUFFIX,nxta.org,Global
+HOST-SUFFIX,o365cn.com,Global
+HOST-SUFFIX,o365files.cn,Global
+HOST-SUFFIX,o365weve-dev.com,Global
+HOST-SUFFIX,o365weve-ppe.com,Global
+HOST-SUFFIX,o365weve.com,Global
+HOST-SUFFIX,oaspapps.com,Global
+HOST-SUFFIX,office.com,Global
+HOST-SUFFIX,office.net,Global
+HOST-SUFFIX,office365.com,Global
+HOST-SUFFIX,office365love.com,Global
+HOST-SUFFIX,office365tw.com,Global
+HOST-SUFFIX,officecdn-microsoft-com.akamaized.net,Global
+HOST-SUFFIX,officedev.cn,Global
+HOST-SUFFIX,officeplus.cn,Global
+HOST-SUFFIX,officeppe.net,Global
+HOST-SUFFIX,omniroot.com,Global
+HOST-SUFFIX,onecollector.cloudapp.aria,Global
+HOST-SUFFIX,onedrive.com,Global
+HOST-SUFFIX,onenote.com,Global
+HOST-SUFFIX,onenote.net,Global
+HOST-SUFFIX,onestore.ms,Global
+HOST-SUFFIX,onmicrosoft.com,Global
+HOST-SUFFIX,opentranslatorstothings.org,Global
+HOST-SUFFIX,opticsforthecloud.net,Global
+HOST-SUFFIX,optimizely.com,Global
+HOST-SUFFIX,orithegame.com,Global
+HOST-SUFFIX,osdinfra.net,Global
+HOST-SUFFIX,outingsapp.com,Global
+HOST-SUFFIX,outlook.com,Global
+HOST-SUFFIX,outlookgroups.ms,Global
+HOST-SUFFIX,outlookmobile.com,Global
+HOST-SUFFIX,ovi.com.cn,Global
+HOST-SUFFIX,passport.net,Global
+HOST-SUFFIX,phonefactor.net,Global
+HOST-SUFFIX,pixapp.net,Global
+HOST-SUFFIX,playfabapi.cn,Global
+HOST-SUFFIX,playfabcn.com,Global
+HOST-SUFFIX,poshtestgallery.com,Global
+HOST-SUFFIX,powerappscdn.net,Global
+HOST-SUFFIX,powerautomate.com,Global
+HOST-SUFFIX,powerbi.com,Global
+HOST-SUFFIX,powershellgallery.com,Global
+HOST-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net,Global
+HOST-SUFFIX,projectmurphy.net,Global
+HOST-SUFFIX,projectsangam.com,Global
+HOST-SUFFIX,public-trust.com,Global
+HOST-SUFFIX,pwabuilder.com,Global
+HOST-SUFFIX,pxt.io,Global
+HOST-SUFFIX,reactorms.com.cn,Global
+HOST-SUFFIX,renlifang.com,Global
+HOST-SUFFIX,renovacionoffice.com,Global
+HOST-SUFFIX,renovacionxboxlive.com,Global
+HOST-SUFFIX,s-microsoft.com,Global
+HOST-SUFFIX,s-msedge.net,Global
+HOST-SUFFIX,s-msft.com,Global
+HOST-SUFFIX,s-msn.com,Global
+HOST-SUFFIX,sankie.net,Global
+HOST-SUFFIX,sclive.net,Global
+HOST-SUFFIX,serverlesslibrary.net,Global
+HOST-SUFFIX,sfbassets.com,Global
+HOST-SUFFIX,sfbassets.net,Global
+HOST-SUFFIX,sfx.ms,Global
+HOST-SUFFIX,sharepoint.com,Global
+HOST-SUFFIX,sharepointonline.com,Global
+HOST-SUFFIX,skype.com,Global
+HOST-SUFFIX,skypeassets.com,Global
+HOST-SUFFIX,skypeforbusiness.com,Global
+HOST-SUFFIX,spoprod-a.akamaihd.net,Global
+HOST-SUFFIX,sprinklesapp.com,Global
+HOST-SUFFIX,sqlserveronlinux.com,Global
+HOST-SUFFIX,staffhub.ms,Global
+HOST-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net,Global
+HOST-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net,Global
+HOST-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net,Global
+HOST-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net,Global
+HOST-SUFFIX,successwithteams.com,Global
+HOST-SUFFIX,surface.com,Global
+HOST-SUFFIX,svc.ms,Global
+HOST-SUFFIX,sway-cdn.com,Global
+HOST-SUFFIX,sway-extensions.com,Global
+HOST-SUFFIX,sway.com,Global
+HOST-SUFFIX,syncshop.cn,Global
+HOST-SUFFIX,sysinternals.com,Global
+HOST-SUFFIX,tailwindtraders.com,Global
+HOST-SUFFIX,techhub.ms,Global
+HOST-SUFFIX,tellmewhygame.com,Global
+HOST-SUFFIX,tenor.com,Global
+HOST-SUFFIX,tfsallin.net,Global
+HOST-SUFFIX,timelinestoryteller.com,Global
+HOST-SUFFIX,trafficmanager.net,Global
+HOST-SUFFIX,translatetheweb.com,Global
+HOST-SUFFIX,tryfunctions.com,Global
+HOST-SUFFIX,unlocklimitlesslearning.com,Global
+HOST-SUFFIX,userpxt.io,Global
+HOST-SUFFIX,uservoice.com,Global
+HOST-SUFFIX,uwpcommunitytoolkit.com,Global
+HOST-SUFFIX,videobreakdown.com,Global
+HOST-SUFFIX,videoindexer.ai,Global
+HOST-SUFFIX,vip5.afdorigin-prod-am02.afdogw.com,Global
+HOST-SUFFIX,virtualearth.net,Global
+HOST-SUFFIX,visualstudio-staging.com,Global
+HOST-SUFFIX,visualstudio.com,Global
+HOST-SUFFIX,vsallin.net,Global
+HOST-SUFFIX,vsassets.io,Global
+HOST-SUFFIX,wbd.ms,Global
+HOST-SUFFIX,what-fan.net,Global
+HOST-SUFFIX,windows-int.net,Global
+HOST-SUFFIX,windows-ppe.net,Global
+HOST-SUFFIX,windows.com,Global
+HOST-SUFFIX,windows.net,Global
+HOST-SUFFIX,windows8.hk,Global
+HOST-SUFFIX,windowsazure.com,Global
+HOST-SUFFIX,windowscommunity.net,Global
+HOST-SUFFIX,windowslive.cn,Global
+HOST-SUFFIX,windowsmarketplace.com,Global
+HOST-SUFFIX,windowsphone-int.com,Global
+HOST-SUFFIX,windowsphone.com,Global
+HOST-SUFFIX,windowssearch.com,Global
+HOST-SUFFIX,windowsupdate.com,Global
+HOST-SUFFIX,winmp.cn,Global
+HOST-SUFFIX,wlxrs.com,Global
+HOST-SUFFIX,working-bing-int.com,Global
+HOST-SUFFIX,wunderlist.com,Global
+HOST-SUFFIX,xamarin.com,Global
+HOST-SUFFIX,xbox.com,Global
+HOST-SUFFIX,xboxab.com,Global
+HOST-SUFFIX,xboxgamepass.com,Global
+HOST-SUFFIX,xboxgamestudios.com,Global
+HOST-SUFFIX,xboxlive.com,Global
+HOST-SUFFIX,xboxplayanywhere.com,Global
+HOST-SUFFIX,xboxstudios.com,Global
+HOST-SUFFIX,xbx.lv,Global
+HOST-SUFFIX,yammer.com,Global
+HOST-SUFFIX,yammerusercontent.com,Global
+HOST-KEYWORD,1drv,Global
+HOST-KEYWORD,applicationinsights,Global
+HOST-KEYWORD,azure,Global
+HOST-KEYWORD,azure-dns,Global
+HOST-KEYWORD,azurecosmosdb,Global
+HOST-KEYWORD,azuredigitaltwins,Global
+HOST-KEYWORD,azuredns-prd,Global
+HOST-KEYWORD,azurefd,Global
+HOST-KEYWORD,azureplanetscale,Global
+HOST-KEYWORD,bing,Global
+HOST-KEYWORD,biying,Global
+HOST-KEYWORD,cosmosdb,Global
+HOST-KEYWORD,here,Global
+HOST-KEYWORD,hotmail,Global
+HOST-KEYWORD,internetexplorer,Global
+HOST-KEYWORD,joinms,Global
+HOST-KEYWORD,live,Global
+HOST-KEYWORD,Global,Global
+HOST-KEYWORD,Global-online,Global
+HOST-KEYWORD,Globalhouse,Global
+HOST-KEYWORD,Globalnews,Global
+HOST-KEYWORD,Globalnewsforkids,Global
+HOST-KEYWORD,Globalnewskids,Global
+HOST-KEYWORD,Globalol,Global
+HOST-KEYWORD,Globalreactor,Global
+HOST-KEYWORD,Globalsilverlight,Global
+HOST-KEYWORD,Globalstore,Global
+HOST-KEYWORD,msauth,Global
+HOST-KEYWORD,msft,Global
+HOST-KEYWORD,msftauth,Global
+HOST-KEYWORD,msminico,Global
+HOST-KEYWORD,msn,Global
+HOST-KEYWORD,msnewskids,Global
+HOST-KEYWORD,office,Global
+HOST-KEYWORD,onedrive,Global
+HOST-KEYWORD,onenote,Global
+HOST-KEYWORD,outlook,Global
+HOST-KEYWORD,sharepoint,Global
+HOST-KEYWORD,skydrive,Global
+HOST-KEYWORD,skype,Global
+HOST-KEYWORD,skypeassets,Global
+HOST-KEYWORD,vfsforgit,Global
+HOST-KEYWORD,visualstudio,Global
+HOST-KEYWORD,windows,Global
+HOST-KEYWORD,windowsazure,Global
+HOST-KEYWORD,winhec,Global
+HOST-KEYWORD,xbox,Global
+HOST-KEYWORD,xbox360,Global
+HOST-KEYWORD,xboxlive,Global
+HOST-KEYWORD,xboxone,Global
+USER-AGENT,Global*,Global
+USER-AGENT,OneDrive*,Global
+USER-AGENT,OneDriveiOSApp*,Global
+
+# NAME: NYTimes
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/NYTimes/NYTimes.list
+# UPDATED: 2021-04-07 13:24:46
+# HOST-SUFFIX: 16
+# TOTAL: 16
+HOST-SUFFIX,d1f1eryiqyjs0r.cloudfront.net,Global
+HOST-SUFFIX,d3lar09xbwlsge.cloudfront.net,Global
+HOST-SUFFIX,d3q1qj9jzsu8nw.cloudfront.net,Global
+HOST-SUFFIX,dc8xl0ndzn2cb.cloudfront.net,Global
+HOST-SUFFIX,nyt.com,Global
+HOST-SUFFIX,nyt.net,Global
+HOST-SUFFIX,nytchina.com,Global
+HOST-SUFFIX,nytcn.me,Global
+HOST-SUFFIX,nytco.com,Global
+HOST-SUFFIX,nyti.ms,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,nytimg.com,Global
+HOST-SUFFIX,nytlog.com,Global
+HOST-SUFFIX,nytstyle.com,Global
+HOST-SUFFIX,timestalks.com,Global
+HOST-SUFFIX,tynt.com,Global
+
+# NAME: Reddit
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Reddit/Reddit.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 5
+# TOTAL: 5
+HOST-SUFFIX,redd.it,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Globalmail.com,Global
+HOST-SUFFIX,Globalmedia.com,Global
+HOST-SUFFIX,Globalstatic.com,Global
+
+# NAME: Spark
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Spark/Spark.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 5
+# TOTAL: 5
+HOST-SUFFIX,amplitude.com,Global
+HOST-SUFFIX,firebaseio.com,Global
+HOST-SUFFIX,hockeyapp.net,Global
+HOST-SUFFIX,readdle.com,Global
+HOST-SUFFIX,smartmailcloud.com,Global
+
+# NAME: TeamViewer
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/TeamViewer/TeamViewer.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 1
+# IP-CIDR: 5
+# IP6-CIDR: 4
+# TOTAL: 10
+HOST-SUFFIX,Global.com,Global
+IP-CIDR,109.239.140.0/24,Global
+IP-CIDR,139.220.243.27/32,Global
+IP-CIDR,172.16.102.56/32,Global
+IP-CIDR,185.188.32.1/28,Global
+IP-CIDR,221.226.128.146/32,Global
+IP6-CIDR,2a0b:b580::/48,Global
+IP6-CIDR,2a0b:b581::/48,Global
+IP6-CIDR,2a0b:b582::/48,Global
+IP6-CIDR,2a0b:b583::/48,Global
+
+# NAME: Telegram
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Telegram/Telegram.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 15
+# IP-CIDR: 7
+# IP6-CIDR: 4
+# TOTAL: 28
+HOST-SUFFIX,comments.app,Global
+HOST-SUFFIX,graph.org,Global
+HOST-SUFFIX,stel.com,Global
+HOST-SUFFIX,t.me,Global
+HOST-SUFFIX,tdesktop.com,Global
+HOST-SUFFIX,telega.one,Global
+HOST-SUFFIX,telegra.ph,Global
+HOST-SUFFIX,Global.dog,Global
+HOST-SUFFIX,Global.me,Global
+HOST-SUFFIX,Global.org,Global
+HOST-SUFFIX,Global.space,Global
+HOST-SUFFIX,Globaldownload.com,Global
+HOST-SUFFIX,telesco.pe,Global
+HOST-SUFFIX,tg.dev,Global
+HOST-SUFFIX,tx.me,Global
+HOST-KEYWORD,nicegram,Global
+HOST-KEYWORD,Global,Global
+IP-CIDR,109.239.140.0/24,Global
+IP-CIDR,149.154.160.0/20,Global
+IP-CIDR,205.172.60.0/22,Global
+IP-CIDR,67.198.55.0/24,Global
+IP-CIDR,91.108.0.0/16,Global
+IP-CIDR,95.161.64.0/20,Global
+IP-CIDR,95.161.84.0/23,Global
+IP6-CIDR,2001:67c:4e8::/48,Global
+IP6-CIDR,2001:b28:f23c::/47,Global
+IP6-CIDR,2001:b28:f23f::/48,Global
+IP6-CIDR,2001:b28:f242::/48,Global
+
+# NAME: Twitter
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Twitter/Twitter.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 17
+# HOST-KEYWORD: 1
+# IP-CIDR: 8
+# TOTAL: 26
+HOST-SUFFIX,ads-twitter.com,Global
 HOST-SUFFIX,periscope.tv,Global
+HOST-SUFFIX,pscp.tv,Global
 HOST-SUFFIX,t.co,Global
+HOST-SUFFIX,tellapart.com,Global
+HOST-SUFFIX,tweetdeck.com,Global
 HOST-SUFFIX,twimg.co,Global
 HOST-SUFFIX,twimg.com,Global
+HOST-SUFFIX,twimg.org,Global
 HOST-SUFFIX,twitpic.com,Global
-HOST-SUFFIX,twitter.com,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.jp,Global
+HOST-SUFFIX,Globaloauth.com,Global
+HOST-SUFFIX,Globalstat.us,Global
+HOST-SUFFIX,twtrdns.net,Global
+HOST-SUFFIX,twttr.com,Global
 HOST-SUFFIX,vine.co,Global
-# > Telegram
-HOST-SUFFIX,telegra.ph,Global
-HOST-SUFFIX,telegram.org,Global
-IP-CIDR,91.108.4.0/22,Global
-IP-CIDR,91.108.8.0/22,Global
-IP-CIDR,91.108.12.0/22,Global
-IP-CIDR,91.108.16.0/22,Global
-IP-CIDR,91.108.20.0/22,Global
-IP-CIDR,91.108.56.0/22,Global
-IP-CIDR,149.154.160.0/20,Global
-IP6-CIDR,2001:b28:f23d::/48,Global
-IP6-CIDR,2001:b28:f23f::/48,Global
-IP6-CIDR,2001:67c:4e8::/48,Global
-# > Line
-HOST-SUFFIX,line.me,Global
-HOST-SUFFIX,line-apps.com,Global
-HOST-SUFFIX,line-scdn.net,Global
-HOST-SUFFIX,naver.jp,Global
-IP-CIDR,103.2.30.0/23,Global
-IP-CIDR,125.209.208.0/20,Global
-IP-CIDR,147.92.128.0/17,Global
-IP-CIDR,203.104.144.0/21,Global
-# > Amazon
-HOST-SUFFIX,amazon.co.jp,Global
-HOST,d3c33hcgiwev3.cloudfront.net,Global
-HOST,payments-jp.amazon.com,Global
-HOST,s3-ap-northeast-1.amazonaws.com,Global
-HOST,s3-ap-southeast-2.amazonaws.com,Global
-# > Akamai
-HOST,a248.e.akamai.net,Global
-HOST,a771.dscq.akamai.net,Global
-# > Clubhouse
-HOST-SUFFIX,clubhouseapi.com,Global
-HOST-SUFFIX,joinclubhouse.com,Global
-# > Others
+HOST-KEYWORD,Global,Global
+IP-CIDR,104.244.42.0/21,Global
+IP-CIDR,192.133.76.0/22,Global
+IP-CIDR,199.16.156.0/22,Global
+IP-CIDR,199.59.148.0/22,Global
+IP-CIDR,199.96.56.0/21,Global
+IP-CIDR,202.160.128.0/22,Global
+IP-CIDR,209.237.192.0/19,Global
+IP-CIDR,69.195.160.0/19,Global
+
+# NAME: Whatsapp
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Whatsapp/Whatsapp.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-KEYWORD: 1
+# IP-CIDR: 15
+# HOST-SUFFIX: 4
+# HOST: 1
+# TOTAL: 21
+HOST,graph.facebook.com,Global
+HOST-SUFFIX,bintray.com,Global
+HOST-SUFFIX,Global.biz,Global
+HOST-SUFFIX,Global.com,Global
+HOST-SUFFIX,Global.net,Global
+HOST-KEYWORD,Global,Global
+IP-CIDR,108.168.174.0/16,Global
+IP-CIDR,158.85.224.160/27,Global
+IP-CIDR,158.85.46.128/27,Global
+IP-CIDR,158.85.5.192/27,Global
+IP-CIDR,173.192.222.160/27,Global
+IP-CIDR,173.192.231.32/27,Global
+IP-CIDR,174.37.243.0/16,Global
+IP-CIDR,18.194.0.0/15,Global
+IP-CIDR,184.173.128.0/17,Global
+IP-CIDR,208.43.122.128/27,Global
+IP-CIDR,34.224.0.0/12,Global
+IP-CIDR,50.22.198.204/30,Global
+IP-CIDR,54.242.0.0/15,Global
+IP-CIDR,69.171.235.0/16,Global
+IP-CIDR,75.126.150.0/16,Global
+
+# NAME: Wikipedia
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Wikipedia/Wikipedia.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,mediawiki.org,Global
+HOST-SUFFIX,wikibooks.org,Global
+HOST-SUFFIX,wikidata.org,Global
+HOST-SUFFIX,wikileaks.org,Global
+HOST-SUFFIX,Global.org,Global
+HOST-SUFFIX,wikinews.org,Global
+HOST-SUFFIX,Global.org,Global
+HOST-SUFFIX,wikiquote.org,Global
+HOST-SUFFIX,wikisource.org,Global
+HOST-SUFFIX,wikiversity.org,Global
+HOST-SUFFIX,wikivoyage.org,Global
+HOST-SUFFIX,wiktionary.org,Global
+
+# NAME: Wikimedia
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Wikimedia/Wikimedia.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 20
+# TOTAL: 20
+HOST-SUFFIX,mediawiki.org,Global
+HOST-SUFFIX,toolforge.org,Global
+HOST-SUFFIX,w.wiki,Global
+HOST-SUFFIX,wikibooks.org,Global
+HOST-SUFFIX,wikidata.org,Global
+HOST-SUFFIX,wikileaks.org,Global
+HOST-SUFFIX,Global.org,Global
+HOST-SUFFIX,Globalcloud.org,Global
+HOST-SUFFIX,Globalfoundation.org,Global
+HOST-SUFFIX,wikinews.org,Global
+HOST-SUFFIX,wikipedia.com,Global
+HOST-SUFFIX,wikipedia.org,Global
+HOST-SUFFIX,wikiquote.org,Global
+HOST-SUFFIX,wikisource.org,Global
+HOST-SUFFIX,wikiversity.org,Global
+HOST-SUFFIX,wikivoyage.org,Global
+HOST-SUFFIX,wiktionary.org,Global
+HOST-SUFFIX,wmcloud.org,Global
+HOST-SUFFIX,wmflabs.org,Global
+HOST-SUFFIX,wmfusercontent.org,Global
+
+
+# NAME: Others
+# AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list
 HOST-SUFFIX,4shared.com,Global
 HOST-SUFFIX,9cache.com,Global
 HOST-SUFFIX,9gag.com,Global
@@ -174,18 +1191,13 @@ HOST-SUFFIX,ask.com,Global
 HOST-SUFFIX,avg.com,Global
 HOST-SUFFIX,avgle.com,Global
 HOST-SUFFIX,badoo.com,Global
+HOST-SUFFIX,bandcamp.com,Global
 HOST-SUFFIX,bandwagonhost.com,Global
 HOST-SUFFIX,bangkokpost.com,Global
 HOST-SUFFIX,bbc.com,Global
 HOST-SUFFIX,behance.net,Global
-HOST-SUFFIX,bibox.com,Global
 HOST-SUFFIX,biggo.com.tw,Global
-HOST-SUFFIX,binance.com,Global
 HOST-SUFFIX,bit.ly,Global
-HOST-SUFFIX,bitcointalk.org,Global
-HOST-SUFFIX,bitfinex.com,Global
-HOST-SUFFIX,bitmex.com,Global
-HOST-SUFFIX,bit-z.com,Global
 HOST-SUFFIX,bloglovin.com,Global
 HOST-SUFFIX,bloomberg.cn,Global
 HOST-SUFFIX,bloomberg.com,Global
@@ -207,6 +1219,7 @@ HOST-SUFFIX,channelnewsasia.com,Global
 HOST-SUFFIX,ck101.com,Global
 HOST-SUFFIX,clarionproject.org,Global
 HOST-SUFFIX,cloudcone.com,Global
+HOST-SUFFIX,clubhouseapi.com,Global
 HOST-SUFFIX,clyp.it,Global
 HOST-SUFFIX,cna.com.tw,Global
 HOST-SUFFIX,comparitech.com,Global
@@ -225,16 +1238,11 @@ HOST-SUFFIX,deepdiscount.com,Global
 HOST-SUFFIX,depositphotos.com,Global
 HOST-SUFFIX,deviantart.com,Global
 HOST-SUFFIX,disconnect.me,Global
-HOST-SUFFIX,discordapp.com,Global
-HOST-SUFFIX,discordapp.net,Global
 HOST-SUFFIX,disqus.com,Global
 HOST-SUFFIX,dlercloud.com,Global
 HOST-SUFFIX,dmhy.org,Global
 HOST-SUFFIX,dns2go.com,Global
 HOST-SUFFIX,dowjones.com,Global
-HOST-SUFFIX,dropbox.com,Global
-HOST-SUFFIX,dropboxapi.com,Global
-HOST-SUFFIX,dropboxusercontent.com,Global
 HOST-SUFFIX,duckduckgo.com,Global
 HOST-SUFFIX,duyaoss.com,Global
 HOST-SUFFIX,dw.com,Global
@@ -266,13 +1274,9 @@ HOST-SUFFIX,friday.tw,Global
 HOST-SUFFIX,ft.com,Global
 HOST-SUFFIX,ftchinese.com,Global
 HOST-SUFFIX,ftimg.net,Global
-HOST-SUFFIX,gate.io,Global
 HOST-SUFFIX,genius.com,Global
 HOST-SUFFIX,getlantern.org,Global
 HOST-SUFFIX,getsync.com,Global
-HOST-SUFFIX,github.com,Global
-HOST-SUFFIX,github.io,Global
-HOST-SUFFIX,githubusercontent.com,Global
 HOST-SUFFIX,globalvoices.org,Global
 HOST-SUFFIX,goo.ne.jp,Global
 HOST-SUFFIX,goodreads.com,Global
@@ -280,7 +1284,6 @@ HOST-SUFFIX,gov.tw,Global
 HOST-SUFFIX,gravatar.com,Global
 HOST-SUFFIX,greatfire.org,Global
 HOST-SUFFIX,gumroad.com,Global
-HOST-SUFFIX,hbg.com,Global
 HOST-SUFFIX,heroku.com,Global
 HOST-SUFFIX,hightail.com,Global
 HOST-SUFFIX,hk01.com,Global
@@ -308,6 +1311,7 @@ HOST-SUFFIX,japantimes.co.jp,Global
 HOST-SUFFIX,jiji.com,Global
 HOST-SUFFIX,jinx.com,Global
 HOST-SUFFIX,jkforum.net,Global
+HOST-SUFFIX,joinclubhouse.com,Global
 HOST-SUFFIX,joinmastodon.org,Global
 HOST-SUFFIX,justmysocks.net,Global
 HOST-SUFFIX,justpaste.it,Global
@@ -360,16 +1364,7 @@ HOST-SUFFIX,now.com,Global
 HOST-SUFFIX,nrk.no,Global
 HOST-SUFFIX,nuget.org,Global
 HOST-SUFFIX,nyaa.si,Global
-HOST-SUFFIX,nyt.com,Global
-HOST-SUFFIX,nytchina.com,Global
-HOST-SUFFIX,nytcn.me,Global
-HOST-SUFFIX,nytco.com,Global
-HOST-SUFFIX,nytimes.com,Global
-HOST-SUFFIX,nytimg.com,Global
-HOST-SUFFIX,nytlog.com,Global
-HOST-SUFFIX,nytstyle.com,Global
 HOST-SUFFIX,ok.ru,Global
-HOST-SUFFIX,okex.com,Global
 HOST-SUFFIX,on.cc,Global
 HOST-SUFFIX,orientaldaily.com.my,Global
 HOST-SUFFIX,overcast.fm,Global
@@ -383,7 +1378,6 @@ HOST-SUFFIX,pcloud.com,Global
 HOST-SUFFIX,peing.net,Global
 HOST-SUFFIX,picacomic.com,Global
 HOST-SUFFIX,pinimg.com,Global
-HOST-SUFFIX,pixiv.net,Global
 HOST-SUFFIX,player.fm,Global
 HOST-SUFFIX,plurk.com,Global
 HOST-SUFFIX,po18.tw,Global
@@ -406,14 +1400,10 @@ HOST-SUFFIX,reabble.com,Global
 HOST-SUFFIX,readingtimes.com.tw,Global
 HOST-SUFFIX,readmoo.com,Global
 HOST-SUFFIX,redbubble.com,Global
-HOST-SUFFIX,redd.it,Global
-HOST-SUFFIX,reddit.com,Global
-HOST-SUFFIX,redditmedia.com,Global
 HOST-SUFFIX,resilio.com,Global
 HOST-SUFFIX,reuters.com,Global
 HOST-SUFFIX,reutersmedia.net,Global
 HOST-SUFFIX,rfi.fr,Global
-HOST-SUFFIX,rixcloud.com,Global
 HOST-SUFFIX,roadshow.hk,Global
 HOST-SUFFIX,rsshub.app,Global
 HOST-SUFFIX,scmp.com,Global
@@ -422,11 +1412,11 @@ HOST-SUFFIX,seatguru.com,Global
 HOST-SUFFIX,shadowsocks.org,Global
 HOST-SUFFIX,shindanmaker.com,Global
 HOST-SUFFIX,shopee.tw,Global
+HOST-SUFFIX,signal.org,Global
 HOST-SUFFIX,sina.com.hk,Global
 HOST-SUFFIX,slideshare.net,Global
 HOST-SUFFIX,softfamous.com,Global
 HOST-SUFFIX,spiegel.de,Global
-HOST-SUFFIX,ssrcloud.org,Global
 HOST-SUFFIX,startpage.com,Global
 HOST-SUFFIX,steamcommunity.com,Global
 HOST-SUFFIX,steemit.com,Global
@@ -473,18 +1463,11 @@ HOST-SUFFIX,w3schools.com,Global
 HOST-SUFFIX,washingtonpost.com,Global
 HOST-SUFFIX,wattpad.com,Global
 HOST-SUFFIX,whoer.net,Global
-HOST-SUFFIX,wikileaks.org,Global
-HOST-SUFFIX,wikimapia.org,Global
-HOST-SUFFIX,wikimedia.org,Global
-HOST-SUFFIX,wikinews.org,Global
-HOST-SUFFIX,wikipedia.org,Global
-HOST-SUFFIX,wikiquote.org,Global
 HOST-SUFFIX,wikiwand.com,Global
 HOST-SUFFIX,winudf.com,Global
 HOST-SUFFIX,wire.com,Global
 HOST-SUFFIX,wn.com,Global
 HOST-SUFFIX,wordpress.com,Global
-HOST-SUFFIX,workflow.is,Global
 HOST-SUFFIX,worldcat.org,Global
 HOST-SUFFIX,wsj.com,Global
 HOST-SUFFIX,wsj.net,Global
@@ -501,7 +1484,6 @@ HOST-SUFFIX,yes-news.com,Global
 HOST-SUFFIX,yomiuri.co.jp,Global
 HOST-SUFFIX,you-get.org,Global
 HOST-SUFFIX,zaobao.com,Global
-HOST-SUFFIX,zb.com,Global
 HOST-SUFFIX,zello.com,Global
 HOST-SUFFIX,zeronet.io,Global
 HOST-SUFFIX,zoom.us,Global
@@ -511,85 +1493,12 @@ HOST,ocsp.int-x3.letsencrypt.org,Global
 HOST,search.avira.com,Global
 HOST,us.weibo.com,Global
 
-HOST-KEYWORD,.pinterest.,Global
+DOMAIN-KEYWORD,.pinterest.,Global
 
 HOST-SUFFIX,edu,Global
 HOST-SUFFIX,gov,Global
 HOST-SUFFIX,mil,Global
 
-# (IP Blackhole)
-# > Facebook
-IP-CIDR,31.13.24.0/21,Global
-IP-CIDR,31.13.64.0/18,Global
-IP-CIDR,45.64.40.0/22,Global
-IP-CIDR,66.220.144.0/20,Global
-IP-CIDR,69.63.176.0/20,Global
-IP-CIDR,69.171.224.0/19,Global
-IP-CIDR,74.119.76.0/22,Global
-IP-CIDR,103.4.96.0/22,Global
-IP-CIDR,129.134.0.0/17,Global
-IP-CIDR,157.240.0.0/17,Global
-IP-CIDR,173.252.64.0/19,Global
-IP-CIDR,173.252.96.0/19,Global
-IP-CIDR,179.60.192.0/22,Global
-IP-CIDR,185.60.216.0/22,Global
-IP-CIDR,204.15.20.0/22,Global
-# > Google
-IP-CIDR,35.190.247.0/24,Global
-IP-CIDR,64.233.160.0/19,Global
-IP-CIDR,66.102.0.0/20,Global
-IP-CIDR,66.249.80.0/20,Global
-IP-CIDR,72.14.192.0/18,Global
-IP-CIDR,74.125.0.0/16,Global
-IP-CIDR,108.177.8.0/21,Global
-IP-CIDR,172.217.0.0/16,Global
-IP-CIDR,173.194.0.0/16,Global
-IP-CIDR,209.85.128.0/17,Global
-IP-CIDR,216.58.192.0/19,Global
-IP-CIDR,216.239.32.0/19,Global
-# > Twitter
-IP-CIDR,69.195.160.0/19,Global
-IP-CIDR,104.244.42.0/21,Global
-IP-CIDR,192.133.76.0/22,Global
-IP-CIDR,199.16.156.0/22,Global
-IP-CIDR,199.59.148.0/22,Global
-IP-CIDR,199.96.56.0/21,Global
-IP-CIDR,202.160.128.0/22,Global
-IP-CIDR,209.237.192.0/19,Global
-# > Wikimedia
-IP-CIDR,91.198.174.0/24,Global
-IP-CIDR,103.102.166.0/24,Global
-IP-CIDR,185.15.56.0/22,Global
-IP-CIDR,198.35.26.0/23,Global
-IP-CIDR,208.80.152.0/22,Global
-# > Telegram
-HOST-SUFFIX,t.me,Global
-HOST-SUFFIX,tdesktop.com,Global
-HOST-SUFFIX,telegram.me,Global
-HOST-SUFFIX,telesco.pe,Global
-# > Others
-HOST-SUFFIX,noxinfluencer.com,Global
-HOST-SUFFIX,smartmailcloud.com,Global
-HOST-SUFFIX,weebly.com,Global
-HOST-SUFFIX,twitter.jp,Global
-
-# (Region-Restricted Access Denied)
-# > Others
-HOST-SUFFIX,bing.com,Global
-HOST-SUFFIX,cccat.io,Global
-HOST-SUFFIX,dubox.com,Global
-HOST-SUFFIX,duboxcdn.com,Global
-HOST-SUFFIX,ifixit.com,Global
-HOST-SUFFIX,mangakakalot.com,Global
-HOST-SUFFIX,shopeemobile.com,Global
-
-# (Network Jitter)
-# > DigiCert
-HOST,cacerts.digicert.com,Global
-HOST,crl3.digicert.com,Global
-HOST,crl4.digicert.com,Global
-HOST,ocsp.digicert.com,Global
-# > Others
 HOST-SUFFIX,cloudcone.com.cn,Global
 HOST-SUFFIX,inkbunny.net,Global
 HOST-SUFFIX,metapix.net,Global
