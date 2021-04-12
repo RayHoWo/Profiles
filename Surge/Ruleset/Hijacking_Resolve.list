@@ -1,4 +1,7 @@
-# > Internet Service Providers Hijacking
+# NAME: Internet Service Providers Hijacking
+# AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
+# Remark: Remove "no-resolve" for clash ruleset
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189zj.cn

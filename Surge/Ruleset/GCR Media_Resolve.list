@@ -1,4 +1,6 @@
 // GRC Media
+# Remark: Remove "no-resolve" for clash ruleset
+
 # > Bilibili
 USER-AGENT,bili*
 USER-AGENT,Bilibili*

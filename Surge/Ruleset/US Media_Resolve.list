@@ -1,4 +1,6 @@
 // United States Media
+# Remark: Remove "no-resolve" for clash ruleset
+
 # > Google Voice
 USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
