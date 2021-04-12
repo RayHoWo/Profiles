@@ -1,4 +1,7 @@
-## Unbreak
+# NAME: Unbreak
+# AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+
 # > General
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*

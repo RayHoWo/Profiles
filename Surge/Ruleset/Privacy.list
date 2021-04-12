@@ -1,4 +1,7 @@
-# Privacy
+# NAME: Privacy
+# AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
+
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,kochava.com

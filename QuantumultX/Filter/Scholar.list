@@ -1,4 +1,9 @@
 # NAME: Scholar
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Scholar/Scholar.list
+# UPDATED: 2021-04-07 13:24:47
+# HOST-SUFFIX: 177
+# TOTAL: 177
 HOST-SUFFIX,aclweb.org,Scholar
 HOST-SUFFIX,acm.org,Scholar
 HOST-SUFFIX,acs.org,Scholar

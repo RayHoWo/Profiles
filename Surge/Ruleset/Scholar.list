@@ -1,4 +1,9 @@
 # NAME: Scholar
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Scholar/Scholar.list
+# UPDATED: 2021-04-07 13:24:44
+# DOMAIN-SUFFIX: 177
+# TOTAL: 177
 DOMAIN-SUFFIX,aclweb.org
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org

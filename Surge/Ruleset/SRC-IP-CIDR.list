@@ -1,4 +1,4 @@
-## SRC-IP-CIDR internet ruleset
+// SRC-IP-CIDR internet ruleset
 # > NAS Access Control(Direct/Proxy)
 SRC-IP-CIDR,192.168.5.5/32,NAS Access
 # > Kids' iPad direct
