@@ -1,4 +1,12 @@
-# > Spotify
+# NAME: Spotify
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Spotify/Spotify.list
+# UPDATED: 2021-04-07 13:24:47
+# USER-AGENT: 2
+# HOST-SUFFIX: 16
+# HOST-KEYWORD: 2
+# IP-CIDR: 1
+# TOTAL: 21
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
 HOST-SUFFIX,byspotify.com,Spotify
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify

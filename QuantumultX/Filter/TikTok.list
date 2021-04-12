@@ -1,4 +1,12 @@
-# > TikTok
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/TikTok/TikTok.list
+# UPDATED: 2021-04-07 13:24:47
+# USER-AGENT: 1
+# HOST-SUFFIX: 13
+# HOST-KEYWORD: 1
+# HOST: 1
+# TOTAL: 16
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
 HOST-SUFFIX,amemv.com,TikTok
 HOST-SUFFIX,byteoversea.com,TikTok

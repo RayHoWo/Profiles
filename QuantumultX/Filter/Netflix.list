@@ -1,4 +1,13 @@
-# > Netflix
+# NAME: Netflix
+# AUTHOR: blackmatrix7
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Netflix/Netflix.list
+# UPDATED: 2021-04-07 13:24:46
+# USER-AGENT: 1
+# HOST-SUFFIX: 18
+# IP-CIDR: 20
+# HOST-KEYWORD: 2
+# HOST: 1
+# TOTAL: 42
 HOST,netflix.com.edgesuite.net,Netflix
 HOST-SUFFIX,fast.com,Netflix
 HOST-SUFFIX,netflix.com,Netflix
