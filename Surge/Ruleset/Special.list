@@ -1,7 +1,10 @@
 // Special Connections and personal addon domains
 # > Wechat
 USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger*
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,wexin.qq.com
+DOMAIN-SUFFIX,qpic.cn
 
 # > Job Hunting
 USER-AGENT,ios-liepingroup-app*
