@@ -1,4 +1,8 @@
-## Special Connections and personal addon domains
+// Special Connections and personal addon domains
+# > Wechat
+USER-AGENT,WeChat*
+DOMAIN-SUFFIX,wexin.qq.com
+
 # > Job Hunting
 USER-AGENT,ios-liepingroup-app*
 DOMAIN-SUFFIX,liepin.com
