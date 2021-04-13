@@ -1,7 +1,6 @@
 // Special Connections and personal addon domains
 # > Wechat
 USER-AGENT,WeChat*,DIRECT
-USER-AGENT,MicroMessenger Clinet*,DIRECT
 HOST-SUFFIX,qq.com,DIRECT
 HOST-SUFFIX,wexin.qq.com,DIRECT
 HOST-SUFFIX,qpic.cn,DIRECT
