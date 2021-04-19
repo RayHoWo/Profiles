@@ -1,6 +1,11 @@
 #!name=General URL Optimization
 #!desc=URL Optimization，include Google search, Google map, Weibo, AbeamTV region restriction
 
+# AUTHOR: ConnersHua
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
+# Remark: Copy from [URL Rewrite]
+# UPDATED: 2021-04-19 
+
 [URL Rewrite]
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
