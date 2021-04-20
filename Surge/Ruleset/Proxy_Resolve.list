@@ -1,4 +1,18 @@
-// Proxy Rulesetting
+# NAME: Proxy Rulesetting
+# REPO: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203/Provider
+# UPDATED: 2021-04-19 
+
+# > Fast
+DOMAIN-SUFFIX,fast.com
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ooklaserver.net
+
+# > Speed Test by Cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com
+
 # > Microsoft
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,onedrive

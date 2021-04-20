@@ -1,4 +1,4 @@
-// Special Connections and personal addon domains
+# NAME: Personal addon domains
 # > Wechat
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
@@ -15,6 +15,13 @@ DOMAIN-SUFFIX,netgear.com
 
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
+
+# NAME: Special Connections 
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
+# UPDATED: 2021-04-19 
+
+# > Dler Cloud
+DOMAIN-SUFFIX,dler.cloud
 
 # > Apple CDN
 PROCESS-NAME,storedownloadd
@@ -33,9 +40,6 @@ DOMAIN,swcdn.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mzstatic.com
-
-# > Dler Cloud
-DOMAIN-SUFFIX,dler.cloud
 
 # > Epic
 DOMAIN-KEYWORD,epicgames

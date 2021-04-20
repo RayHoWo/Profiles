@@ -1,4 +1,8 @@
-// China websites and apps
+# NAME: China Websites and apps
+# AUTHOR: lhie1
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
+# Remark: change "DOMAIN" to "HOST" for QX filter
+# UPDATED: 2021-04-19
 # > Beplay
 HOST-KEYWORD,beplay,DIRECT
 
