@@ -20,7 +20,7 @@ HOST-SUFFIX,myds.me,DIRECT
 # UPDATED: 2021-04-19 
 
 # > Dler Cloud
-DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,dler.cloud,DIRECT
 
 # > Apple CDN
 HOST-SUFFIX,storedownloadd,DIRECT
