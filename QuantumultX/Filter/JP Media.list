@@ -1,4 +1,4 @@
-// Japan Media
+# NAME: Japan Media
 # > AbemaTV
 USER-AGENT,AbemaTV*,Japan
 HOST-SUFFIX,abema.io,Japan

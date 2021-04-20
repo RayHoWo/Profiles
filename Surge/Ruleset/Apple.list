@@ -1,64 +1,51 @@
-## Apple Service
+# NAME: Apple API
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
+# UPDATED: 2021-04-19 
+
 # > Apple API
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
+# > Apple Maps
+PROCESS-NAME,com.apple.geod
+
+# > TestFlight
+DOMAIN,testflight.apple.com
+
+
+# NAME: Apple News
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
+# UPDATED: 2021-04-19 
+
 # > Apple News
-DOMAIN,apple.comscoreresearch.com
-DOMAIN,gateway.icloud.com
-DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
+PROCESS-NAME,News
+USER-AGENT,AppleNews*
+# USER-AGENT,News* // 「今日头条」亦使用此，故不启用
+USER-AGENT,com.apple.news*
+DOMAIN-SUFFIX,apple.news
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
-DOMAIN-SUFFIX,apple.news
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-PROCESS-NAME,news
-
-# (DNS Cache Pollution)
-# > TestFlight
-DOMAIN,testflight.apple.com
-
-# (Region-Restricted Access Denied)
-# > Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re
-# > iBooks Store download
-DOMAIN,books.itunes.apple.com
-# > App Store Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,lookup-api.apple.com
-# > Apple Music Web
-DOMAIN,beta.music.apple.com
-
-# (Network Jitter)
-DOMAIN,appleid.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,www.icloud.com
-DOMAIN,ocsp.apple.com
-DOMAIN,xp.apple.com
+DOMAIN,apple.comscoreresearch.com

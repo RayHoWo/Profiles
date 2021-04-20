@@ -1,4 +1,4 @@
-// Singapore Media
+# NAME: Singapore Media
 # > Fox+ (HK|TW|SG)
 USER-AGENT,FOXPlus*
 DOMAIN-SUFFIX,akamaized.net

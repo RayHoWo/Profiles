@@ -1,4 +1,4 @@
-// Hong Kong Media
+# NAME: Hong Kong Media
 # > HBO GO
 USER-AGENT,HBO%20GO%20PROD%20HKG*,Hong Kong
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Hong Kong

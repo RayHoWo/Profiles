@@ -1,4 +1,4 @@
-# Privacy
+# NAME:  Privacy
 HOST,track.tiara.daum.net,REJECT
 HOST,track.tiara.kakao.com,REJECT
 HOST,zgsdk.zhugeio.com,REJECT
