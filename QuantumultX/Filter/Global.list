@@ -1,4 +1,19 @@
 // Proxy Rulesetting
+# REPO: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203/Provider
+# Remark: change "DOMAIN" to "HOST" for QX filter
+# UPDATED: 2021-04-19 
+
+# > Fast
+HOST-SUFFIX,fast.com,Global
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Global
+HOST-KEYWORD,speedtest,Global
+HOST-SUFFIX,ooklaserver.net,Global
+
+# > Speed Test by Cloudflare
+HOST-SUFFIX,speed.cloudflare.com,Global
+
 # > Microsoft
 USER-AGENT,OneDrive*,Global
 HOST-KEYWORD,onedrive,Global

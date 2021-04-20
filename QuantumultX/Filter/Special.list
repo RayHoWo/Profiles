@@ -37,6 +37,11 @@ HOST-SUFFIX,dler.cloud,DIRECT
 # > Epic
 HOST-KEYWORD,epicgames,DIRECT
 
+# > Google
+HOST-KEYWORD,mtalk.google.com,DIRECT
+HOST,safebrowsing.googleapis.com,DIRECT
+HOST-SUFFIX,dl.google.com,DIRECT
+
 # > Microsoft
 HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
@@ -48,12 +53,6 @@ HOST-SUFFIX,xboxlive.com,DIRECT
 # > Proxy plugin
 HOST-KEYWORD,v2ray,DIRECT
 HOST-KEYWORD,ss-local,DIRECT
-
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*,DIRECT
-HOST-KEYWORD,speedtest,DIRECT
-HOST-SUFFIX,ooklaserver.net,DIRECT
-HOST,videoqoe.stvidtest.net,DIRECT
 
 # > Steam
 User-Agent,Steam*,DIRECT

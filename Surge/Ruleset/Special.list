@@ -40,6 +40,11 @@ DOMAIN-SUFFIX,dler.cloud
 # > Epic
 DOMAIN-KEYWORD,epicgames
 
+# > Google
+DOMAIN-KEYWORD,mtalk.google.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,dl.google.com
+
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,windows.com
@@ -54,12 +59,6 @@ DOMAIN-SUFFIX,invoice.mugglepay.com
 # > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
-
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN,videoqoe.stvidtest.net
 
 # > Steam
 USER-AGENT,Steam*
