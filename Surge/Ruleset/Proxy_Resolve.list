@@ -1,3 +1,10 @@
+# NAME: Personal addon domains for proxy access
+# > Sonos
+USER-AGENT,Sonos*
+DOMAIN-SUFFIX,sonos.com
+DOMAIN-SUFFIX,sonos.radio
+
+
 # NAME: Proxy Rulesetting
 # REPO: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203/Provider
 # UPDATED: 2021-04-19 

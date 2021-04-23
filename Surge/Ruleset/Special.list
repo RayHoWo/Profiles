@@ -1,4 +1,4 @@
-# NAME: Personal addon domains
+# NAME: Personal addon domains for direct access
 # > Wechat
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,netgear.com
 
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
+
 
 # NAME: Special Connections 
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list

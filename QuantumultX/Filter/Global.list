@@ -1,3 +1,10 @@
+# NAME: Personal addon domains for proxy access
+# > Sonos
+USER-AGENT,Sonos*,Global
+HOST-SUFFIX,sonos.com,Global
+HOST-SUFFIX,sonos.radio,Global
+
+
 # NAME: Global Rulesetting
 # REPO: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203/Provider
 # Remark: change "DOMAIN" to "HOST" for QX filter

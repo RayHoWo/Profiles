@@ -1,4 +1,4 @@
-# NAME: Personal addon domains
+# NAME: Personal addon domains for direct access
 # Remark: change "DOMAIN" to "HOST" for QX filter
 # > Wechat
 USER-AGENT,WeChat*,DIRECT
@@ -13,6 +13,7 @@ HOST-SUFFIX,liepin.com,DIRECT
 
 # > NAS Access
 HOST-SUFFIX,myds.me,DIRECT
+
 
 # NAME: Special Connections 
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
