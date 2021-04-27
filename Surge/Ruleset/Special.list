@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,netgear.com
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
 
+# > Wiz CN
+DOMAIN-SUFFIX,wizconnected.cn
+
 
 # NAME: Special Connections 
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list

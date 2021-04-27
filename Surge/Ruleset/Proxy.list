@@ -1,4 +1,7 @@
 # NAME: Personal addon domains for proxy access
+# > Wiz World
+DOMAIN-SUFFIX,wiz.world
+
 # > Sonos
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
