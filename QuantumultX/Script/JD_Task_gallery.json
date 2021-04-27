@@ -51,7 +51,8 @@
     "30 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_jxd.png, enabled=true",
     "0 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     "30,31 20-23/1 9,12 3 * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_live_redrain.js, tag=超级直播间红包雨, enabled=true",
-    "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"
+    "10 0-23/4 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_health.js, tag=东东健康社区, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true"
 
   ]
 }
