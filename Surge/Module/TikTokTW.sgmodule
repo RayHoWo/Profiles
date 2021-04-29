@@ -2,6 +2,8 @@
 #!desc=TikTok TW unlock
 #!author=Semporia
 #!repo=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/TikTokUnlock/TikTokTW.sgmodule
+#!UPDATED: 2021-04-29 
+
 #!rewrite=4
 #!script=0
 #!force_http_engine_hosts=0
