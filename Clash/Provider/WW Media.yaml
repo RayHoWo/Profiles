@@ -1,0 +1,28 @@
+# NAME: Multiple Region Media
+payload:
+  - DOMAIN-SUFFIX,voice.google.com
+  # > DAZN
+  # USER-AGENT,DAZN*
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net
+  - DOMAIN-SUFFIX,dazn.com
+  - DOMAIN-SUFFIX,dazn-api.com
+  - DOMAIN-SUFFIX,indazn.com
+  - OMAIN-KEYWORD,livedazn
+  - DOMAIN-KEYWORD,voddazn
+
+  # > Deezer
+  # USER-AGENT,Deezer*
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,dzcdn.net
+
+  # > TIDAL
+  # USER-AGENT,TIDAL*
+  - DOMAIN-SUFFIX,tidal.com
+
+  # > SoundCloud
+  # USER-AGENT,SoundCloud*
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com
+
+  # > Emby Server
+  - DOMAIN-SUFFIX,emby2021.kozow.com

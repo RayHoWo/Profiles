@@ -1,0 +1,10 @@
+# NAME: PayPal
+# AUTHOR: lhie1
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Clash/Provider/PayPal.yaml
+# UPDATED: 2021-05-10
+payload:  
+  # > PayPal
+  # - User-Agent,PayPal*
+  - DOMAIN-KEYWORD,paypal
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
