@@ -4,7 +4,7 @@
 # UPDATED: 2021-05-10
 payload:  
   # > PayPal
-  # - User-Agent,PayPal*
+  # User-Agent,PayPal*
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypalobjects.com
