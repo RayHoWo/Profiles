@@ -10,15 +10,15 @@
 - RULE-SET,YouTube,YouTube
 - RULE-SET,TikTok,TikTok
 - RULE-SET,Spotify,Spotify
-- RULE-SET,WW_Media,WW_Media
-- RULE-SET,GCR_Media,GCR_Media
-- RULE-SET,US_Media,United States
-- RULE-SET,UK_Media,United Kingdom
-- RULE-SET,JP_Media,Japan
-- RULE-SET,KR_Media,Korea
-- RULE-SET,SG_Media,Singapore
-- RULE-SET,HK_Media,Hong Kong
-- RULE-SET,TW_Media,Taiwan
+- RULE-SET,WW Media,WW Media
+- RULE-SET,GCR Media,GCR Media
+- RULE-SET,US Media,United States
+- RULE-SET,UK Media,United Kingdom
+- RULE-SET,JP Media,Japan
+- RULE-SET,KR Media,Korea
+- RULE-SET,SG Media,Singapore
+- RULE-SET,HK Media,Hong Kong
+- RULE-SET,TW Media,Taiwan
 
 - RULE-SET,Game,Game
 
@@ -45,15 +45,15 @@ script:
             "YouTube": "YouTube",
             "TikTok": "TikTok",
             "Spotify": "Spotify",
-            "WW_Media": "WW_Media",
-            "GCR_Media": "GCR_Media",
-            "US_Media": "United States",
-            "UK_Media": "United Kingdom",
-            "JP_Media": "Japan",
-            "KR_Media": "Korea",
-            "SG_Media": "Singapore",
-            "HK_Media": "Hong Kong",
-            "TW_Media": "Taiwan",
+            "WW Media": "WW Media",
+            "GCR Media": "GCR Media",
+            "US Media": "United States",
+            "UK Media": "United Kingdom",
+            "JP Media": "Japan",
+            "KR Media": "Korea",
+            "SG Media": "Singapore",
+            "HK Media": "Hong Kong",
+            "TW Media": "Taiwan",
             "Game": "Game",
             "PROXY": "Proxy",
             "China": "DIRECT",
@@ -131,59 +131,59 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Spotify.yaml'
     path: ./Rules/Spotify
     interval: 86400
-  WW_Media:
+  WW Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/WW_Media.yaml'
-    path: ./Rules/WW_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/WW Media.yaml'
+    path: ./Rules/WW Media
     interval: 86400
-  GCR_Media:
+  GCR Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Special.yaml'
-    path: ./Rules/GCR_Media
+    path: ./Rules/GCR Media
     interval: 86400
-  US_Media:
+  US Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/US_Media.yaml'
-    path: ./Rules/US_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/US%20Media.yaml'
+    path: ./Rules/US Media
     interval: 86400
-  UK_Media:
+  UK Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/UK_Media.yaml'
-    path: ./Rules/UK_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/UK%20Media.yaml'
+    path: ./Rules/UK Media
     interval: 86400
-  JP_Media:
+  JP Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/JP_Media.yaml'
-    path: ./Rules/JP_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/JP%20Media.yaml'
+    path: ./Rules/JP Media
     interval: 86400
-  KR_Media:
+  KR Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/KR_Media.yaml'
-    path: ./Rules/KR_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/KR%20Media.yaml'
+    path: ./Rules/KR Media
     interval: 86400
-  SG_Media:
+  SG Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/SG_Media.yaml'
-    path: ./Rules/SG_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/SG%20Media.yaml'
+    path: ./Rules/SG Media
     interval: 86400
-  HK_Media:
+  HK Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/HK_Media.yaml'
-    path: ./Rules/HK_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/HK%20Media.yaml'
+    path: ./Rules/HK Media
     interval: 86400
-  TW_Media:
+  TW Media:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TW_Media.yaml'
-    path: ./Rules/TW_Media
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TW%20Media.yaml'
+    path: ./Rules/TW Media
     interval: 86400
   Gmae:
     type: http
