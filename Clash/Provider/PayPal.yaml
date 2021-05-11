@@ -1,3 +1,7 @@
+# NAME: Proxy Rulesetting
+# AUTHOR: lhie1
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Clash/Provider/PayPal.yaml
+# UPDATED: 2021-04-19 
 payload:  
   # > PayPal
   # - User-Agent,PayPal*
