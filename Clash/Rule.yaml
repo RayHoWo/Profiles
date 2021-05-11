@@ -80,7 +80,7 @@ script:
         if code == "CN":
           return "DIRECT"
 
-        return "Others"
+        return "Proxy"
 
 rule-providers:
   SRC-IP-CIDR:
