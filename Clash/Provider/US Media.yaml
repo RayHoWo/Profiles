@@ -6,11 +6,11 @@ payload:
   - DOMAIN-SUFFIX,voice.google.com
   - DOMAIN,lens.l.google.com
 
-# > ABC
+  # > ABC
   - DOMAIN-SUFFIX,edgedatg.com
   - DOMAIN-SUFFIX,go.com
 
-# > Amazon Prime Video
+  # > Amazon Prime Video
   # USER-AGENT,InstantVideo.US*
   # USER-AGENT,Prime%20Video*
   - DOMAIN-SUFFIX,aiv-cdn.net
@@ -23,7 +23,7 @@ payload:
   - DOMAIN,atv-ps.amazon.com
   - DOMAIN,fls-na.amazon.com
 
-# > Apple News and Apple Map TOMTOM Version
+  # > Apple News and Apple Map TOMTOM Version
   # USER-AGENT,AppleNews*
   # USER-AGENT,com.apple.news*
   - DOMAIN,gspe1-ssl.ls.apple.com
@@ -35,12 +35,12 @@ payload:
   - DOMAIN,news-events.apple.com
   - DOMAIN-SUFFIX,apple.news
 
-# > Apple TV
+  # > Apple TV
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,play-edge.itunes.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
 
-# > Discovery Plus
+  # > Discovery Plus
   # USER-AGENT,DPlus*
   - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
   - DOMAIN-SUFFIX,disco-api.com
@@ -51,7 +51,7 @@ payload:
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
   - DOMAIN-SUFFIX,uplynk.com
 
-# > Disney Plus
+  # > Disney Plus
   # USER-AGENT,Disney*
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,bam.nr-data.net
@@ -101,17 +101,17 @@ payload:
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
 
-# > New4KTV
+  # > New4KTV
   # USER-AGENT,Ministra%20Player*
 DOMAIN-KEYWORD,new4k
   - DOMAIN-SUFFIX,live.new4k.tv 
   - IP-CIDR,62.112.9.0/24
   - IP-CIDR,66.70.128.0/24
 
-# > Pandora
+  # > Pandora
   - DOMAIN-SUFFIX,pandora.com
 
-# > Paramount+
+  # > Paramount+
   # USER-AGENT,PPlus*
   - DOMAIN-SUFFIX,cbsi.com
   - DOMAIN-SUFFIX,cbsaavideo.com
@@ -120,17 +120,17 @@ DOMAIN-KEYWORD,new4k
   - DOMAIN-SUFFIX,pplusstatic.com
   - DOMAIN,cbsi.live.ott.irdeto.com
 
-# > PBS
+  # > PBS
   # USER-AGENT,PBS*
   - DOMAIN-SUFFIX,pbs.org
 
-# > Pornhub
+  # > Pornhub
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,pornhubpremium.com
 
-# > Pluto TV
+  # > Pluto TV
   # USER-AGENT,Pluto20%TV*
   # USER-AGENT,mediaserverd*
   - DOMAIN-SUFFIX,pluto.tv
