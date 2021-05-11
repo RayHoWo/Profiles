@@ -1,11 +1,11 @@
 # NAME: Korea Media
 payload:
   # > KBSTV
-  - DDOMAIN-KEYWORD,kbsworld
-  - DDOMAIN-SUFFIX,kbs.co.kr
+  - DOMAIN-KEYWORD,kbsworld
+  - DOMAIN-SUFFIX,kbs.co.kr
 
   # > Naver TV
   # USER-AGENT,Naver%20TV*
-  - DDOMAIN-SUFFIX,naver.com
-  - DDOMAIN-SUFFIX,smartmediarep.com
+  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,smartmediarep.com
 
