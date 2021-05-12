@@ -1,8 +1,8 @@
 # NAME: China webs and apps
 # AUTHOR: lhie1
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Clash/Provider/Domestic.yaml
-# UPDATED: 2021-05-10
-payload:  
+# UPDATED: 2021-05-10 
+payload: 
   # > Beplay
   - DOMAIN-KEYWORD,beplay
 
