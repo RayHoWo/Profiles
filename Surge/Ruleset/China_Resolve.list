@@ -1,4 +1,9 @@
-// China websites and apps
+# NAME: China Websites and apps
+# AUTHOR: lhie1
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
+# Remark: Remove "no-resolve" for clash ruleset
+# UPDATED: 2021-05-17
+
 # > Beplay
 DOMAIN-KEYWORD,beplay
 

@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,sonos.radio
 
 # NAME: Proxy Rulesetting
 # REPO: https://github.com/lhie1/Rules/tree/master/Surge/Surge%203/Provider
+# Remark: Remove "no-resolve" for clash ruleset
 # UPDATED: 2021-04-19 
 
 # > Fast

@@ -1,7 +1,7 @@
 # NAME: China Websites and apps
 # AUTHOR: lhie1
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
-# UPDATED: 2021-04-19
+# UPDATED: 2021-05-17
 
 # > Beplay
 DOMAIN-KEYWORD,beplay
@@ -114,7 +114,6 @@ DOMAIN-SUFFIX,dytt8.net
 DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecitic.net
-DOMAIN-SUFFIX,eclipse.org
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,ewqcxz.com
 DOMAIN-SUFFIX,feng.com

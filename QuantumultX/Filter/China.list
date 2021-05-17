@@ -2,7 +2,8 @@
 # AUTHOR: lhie1
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Domestic.list
 # Remark: change "DOMAIN" to "HOST" for QX filter
-# UPDATED: 2021-04-19
+# UPDATED: 2021-05-17
+
 # > Beplay
 HOST-KEYWORD,beplay,DIRECT
 
@@ -114,7 +115,6 @@ HOST-SUFFIX,dytt8.net,DIRECT
 HOST-SUFFIX,easou.com,DIRECT
 HOST-SUFFIX,ecitic.com,DIRECT
 HOST-SUFFIX,ecitic.net,DIRECT
-HOST-SUFFIX,eclipse.org,DIRECT
 HOST-SUFFIX,eudic.net,DIRECT
 HOST-SUFFIX,ewqcxz.com,DIRECT
 HOST-SUFFIX,feng.com,DIRECT
