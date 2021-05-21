@@ -29,7 +29,15 @@
 
 - RULE-SET,LAN,DIRECT
 
-- RULE-SET,GEOIP,text
+- GEOIP,US,United States
+- GEOIP,GB,United Kingdom
+- GEOIP,DE,Germany
+- GEOIP,KR,Korea
+- GEOIP,TW,Taiwan
+- GEOIP,JP,Japan
+- GEOIP,SG,Singapore
+- GEOIP,HK,Hong Kong
+- GEOIP,CN,DIRECT
 
 - MATCH,Proxy
 
@@ -58,8 +66,7 @@ script:
             "PROXY": "Proxy",
             "China": "DIRECT",
             "ChinaIPs": "DIRECT",
-            "LAN": "DIRECT",
-            "GEOIP": "text"
+            "LAN": "DIRECT"
             }
         port = int(metadata["dst_port"])
 
@@ -214,10 +221,4 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/LAN.yaml'
     path: ./Rules/LAN
-    interval: 86400
-  GEOIP:
-    type: http
-    behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/GEOIP.yaml'
-    path: ./Rules/GEOIP
     interval: 86400
