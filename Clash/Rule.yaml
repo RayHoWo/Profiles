@@ -108,7 +108,7 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Apple.yaml'
     path: ./Rules/Apple
     interval: 86400
-  PayPay:
+  PayPal:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/PayPal.yaml'
@@ -192,7 +192,7 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TW%20Media.yaml'
     path: ./Rules/TW Media
     interval: 86400
-  Gmae:
+  Game:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Game.yaml'
