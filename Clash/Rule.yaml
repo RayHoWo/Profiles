@@ -1,95 +1,3 @@
-rules:
-- RULE-SET,SRC-IP-CIDR,DIRECT
-
-- RULE-SET,Special,DIRECT
-
-- RULE-SET,Apple,Apple
-
-- RULE-SET,PayPal,PayPal
-
-- RULE-SET,Netflix,Netflix
-- RULE-SET,YouTube,YouTube
-- RULE-SET,TikTok,TikTok
-- RULE-SET,Spotify,Spotify
-- RULE-SET,WW Media,WW Media
-- RULE-SET,GCR Media,GCR Media
-- RULE-SET,US Media,United States
-- RULE-SET,UK Media,United Kingdom
-- RULE-SET,JP Media,Japan
-- RULE-SET,KR Media,Korea
-- RULE-SET,SG Media,Singapore
-- RULE-SET,HK Media,Hong Kong
-- RULE-SET,TW Media,Taiwan
-
-- RULE-SET,Game,Game
-
-- RULE-SET,PROXY,Proxy
-
-- RULE-SET,China,DIRECT
-- RULE-SET,ChinaIP,DIRECT
-
-- RULE-SET,LAN,DIRECT
-
-- GEOIP,US,United States
-- GEOIP,GB,United Kingdom
-- GEOIP,DE,Germany
-- GEOIP,KR,Korea
-- GEOIP,TW,Taiwan
-- GEOIP,JP,Japan
-- GEOIP,SG,Singapore
-- GEOIP,HK,Hong Kong
-- GEOIP,CN,DIRECT
-
-- MATCH,Proxy
-
-script:
-  code: |
-    def main(ctx, metadata):
-        port_list = [21, 22, 23, 53, 80, 123, 143, 194, 443, 465, 587, 853, 993, 995, 998, 2052, 2053, 2082, 2083, 2086, 2095, 2096, 5222, 5228, 5229, 5230, 8080, 8443, 8880, 8888, 8889]
-        ruleset_action = {"SRC-IP-CIDR": "DIRECT",
-            "Special": "DIRECT",
-            "Apple": "Apple",
-            "PayPal": "PayPal",
-            "Netflix": "Netflix",
-            "YouTube": "YouTube",
-            "TikTok": "TikTok",
-            "Spotify": "Spotify",
-            "WW Media": "WW Media",
-            "GCR Media": "GCR Media",
-            "US Media": "United States",
-            "UK Media": "United Kingdom",
-            "JP Media": "Japan",
-            "KR Media": "Korea",
-            "SG Media": "Singapore",
-            "HK Media": "Hong Kong",
-            "TW Media": "Taiwan",
-            "Game": "Game",
-            "PROXY": "Proxy",
-            "China": "DIRECT",
-            "ChinaIPs": "DIRECT",
-            "LAN": "DIRECT"
-            }
-        port = int(metadata["dst_port"])
-
-        if port not in port_list:
-            return "DIRECT"
-
-        for rule_name in ctx.rule_providers.keys():
-            if ctx.rule_providers[rule_name].match(metadata):
-                return ruleset_action[rule_name]
-
-        ip = metadata["dst_ip"] or ctx.resolve_ip(metadata["host"])
-
-        if ip == "":
-          return "DIRECT"
-
-        code = ctx.geoip(ip)
-
-        if code == "CN":
-          return "DIRECT"
-
-        return "Proxy"
-
 rule-providers:
   SRC-IP-CIDR:
     type: http
@@ -223,3 +131,87 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/LAN.yaml'
     path: ./Rules/LAN
     interval: 86400
+    
+rules:
+- RULE-SET,SRC-IP-CIDR,DIRECT
+- RULE-SET,Special,DIRECT
+- RULE-SET,Apple,Apple
+- RULE-SET,PayPal,PayPal
+- RULE-SET,Netflix,Netflix
+- RULE-SET,YouTube,YouTube
+- RULE-SET,TikTok,TikTok
+- RULE-SET,Spotify,Spotify
+- RULE-SET,WW Media,WW Media
+- RULE-SET,GCR Media,GCR Media
+- RULE-SET,US Media,United States
+- RULE-SET,UK Media,United Kingdom
+- RULE-SET,JP Media,Japan
+- RULE-SET,KR Media,Korea
+- RULE-SET,SG Media,Singapore
+- RULE-SET,HK Media,Hong Kong
+- RULE-SET,TW Media,Taiwan
+- RULE-SET,Game,Game
+- RULE-SET,PROXY,Proxy
+- RULE-SET,China,DIRECT
+- RULE-SET,ChinaIP,DIRECT
+- RULE-SET,LAN,DIRECT
+
+- GEOIP,US,United States
+- GEOIP,GB,United Kingdom
+- GEOIP,DE,Germany
+- GEOIP,KR,Korea
+- GEOIP,TW,Taiwan
+- GEOIP,JP,Japan
+- GEOIP,SG,Singapore
+- GEOIP,HK,Hong Kong
+- GEOIP,CN,DIRECT
+
+- MATCH,Proxy
+
+script:
+  code: |
+    def main(ctx, metadata):
+        port_list = [21, 22, 23, 53, 80, 123, 143, 194, 443, 465, 587, 853, 993, 995, 998, 2052, 2053, 2082, 2083, 2086, 2095, 2096, 5222, 5228, 5229, 5230, 8080, 8443, 8880, 8888, 8889]
+        ruleset_action = {"SRC-IP-CIDR": "DIRECT",
+            "Special": "DIRECT",
+            "Apple": "Apple",
+            "PayPal": "PayPal",
+            "Netflix": "Netflix",
+            "YouTube": "YouTube",
+            "TikTok": "TikTok",
+            "Spotify": "Spotify",
+            "WW Media": "WW Media",
+            "GCR Media": "GCR Media",
+            "US Media": "United States",
+            "UK Media": "United Kingdom",
+            "JP Media": "Japan",
+            "KR Media": "Korea",
+            "SG Media": "Singapore",
+            "HK Media": "Hong Kong",
+            "TW Media": "Taiwan",
+            "Game": "Game",
+            "PROXY": "Proxy",
+            "China": "DIRECT",
+            "ChinaIPs": "DIRECT",
+            "LAN": "DIRECT"
+            }
+        port = int(metadata["dst_port"])
+
+        if port not in port_list:
+            return "DIRECT"
+
+        for rule_name in ctx.rule_providers.keys():
+            if ctx.rule_providers[rule_name].match(metadata):
+                return ruleset_action[rule_name]
+
+        ip = metadata["dst_ip"] or ctx.resolve_ip(metadata["host"])
+
+        if ip == "":
+          return "DIRECT"
+
+        code = ctx.geoip(ip)
+
+        if code == "CN":
+          return "DIRECT"
+
+        return "Proxy"
