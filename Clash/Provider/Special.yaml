@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,liepin.com
 
   # > Router Access
-  - DOMAIN-SUFFIX,rahw.top
   - DOMAIN-SUFFIX,netgear.com
 
   # > NAS Access
