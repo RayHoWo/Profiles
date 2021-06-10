@@ -2,12 +2,12 @@
 # AUTHOR: blackmatrix7
 # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/TikTok/TikTok.list
 
-# UPDATED: 2021-04-17 00:14:28
-# USER-AGENT: 1
+# UPDATED: 2021-04-20 02:20:57
 # HOST-SUFFIX: 13
-# HOST-KEYWORD: 1
+# USER-AGENT: 1
+# HOST-KEYWORD: 4
 # HOST: 1
-# TOTAL: 16
+# TOTAL: 19
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
 HOST-SUFFIX,amemv.com,TikTok
 HOST-SUFFIX,byteoversea.com,TikTok
@@ -23,4 +23,7 @@ HOST-SUFFIX,tiktok.com,TikTok
 HOST-SUFFIX,tiktokcdn.com,TikTok
 HOST-SUFFIX,tiktokv.com,TikTok
 HOST-KEYWORD,-tiktokcdn-com,TikTok
+HOST-KEYWORD,musical.ly,TikTok
+HOST-KEYWORD,tiktok,TikTok
+HOST-KEYWORD,tiktokv,TikTok
 USER-AGENT,TikTok*,TikTok
