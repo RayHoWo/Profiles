@@ -4,7 +4,7 @@
 # AUTHOR: ConnersHua
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
 # Remark: Copy from [URL Rewrite]
-# UPDATED: 2021-06-04 
+# UPDATED: 2021-06-018 
 
 [URL Rewrite]
 # Redirect Google Search Service
@@ -74,7 +74,7 @@
 ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
 
 # bilibili Intl
-(^https?:\/\/app\.biliintl\.com\/intl\/.+)(&s_locale=zh-Hans_[A-Z]{2})(.+) $1&s_locale=en-US_US$3 302
+# (^https?:\/\/app\.biliintl\.com\/intl\/.+)(&s_locale=zh-Hans_[A-Z]{2})(.+) $1&s_locale=en-US_US$3 302
 (^https?:\/\/app\.biliintl\.com\/intl\/.+)(&sim_code=\d+)(.+) $1$3 302
 
 # AICoin
