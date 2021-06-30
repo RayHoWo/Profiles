@@ -72,7 +72,6 @@ HOST-SUFFIX,v.smtcdns.com,DIRECT
 HOST-SUFFIX,vv.video.qq.com,DIRECT
 
 # > WeTV
-USER-AGENT,WeTV*,GCR Media
 HOST-SUFFIX,wetv.vip,GCR Media
 HOST-SUFFIX,wetvinfo.com,GCR Media
 

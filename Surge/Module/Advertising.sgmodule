@@ -2,7 +2,7 @@
 #!desc=Block Advertising for Surge iOS
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-#!UPDATED: 2021-06-26 
+#!UPDATED: 2021-06-30 
 
 [General]
 force-http-engine-hosts = %APPEND% *.ott.cibntv.net, 123.59.31.1,119.18.193.135, 122.14.246.33, 175.102.178.52, 116.253.24.*, 175.6.26.*, 220.169.153.*
@@ -80,6 +80,7 @@ URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start,REJECT-TI
 ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v\d\/show - reject
 ^https?:\/\/intl\.iqiyi\.com\/ad_external\/ - reject
 ^https?:\/\/intl\.iqiyi\.com\/video\/advertise - reject
+^https?:\/\/u\d\.iqiyipic\.com\/image\/[\w\/]+\/oad_ - reject
 # ---
 # > bilibili - app.bilibili.com,manga.bilibili.com
 # ^https?:\/\/app\.bilibili\.com\/x\/v\d\/splash\/ - reject
