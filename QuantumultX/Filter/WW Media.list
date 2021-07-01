@@ -2,11 +2,40 @@
 # > DAZN
 USER-AGENT,DAZN*,WW Media
 HOST,d151l6v8er5bdm.cloudfront.net,WW Media
-HOST-SUFFIX,dazn.com,WW Media
-HOST-SUFFIX,dazn-api.com,WW Media
-HOST-SUFFIX,indazn.com,WW Media
+HOST,edge.api.brightcove.com,WW Media
+HOST,players.brightcove.net,WW Media
 HOST-KEYWORD,livedazn,WW Media
 HOST-KEYWORD,voddazn,WW Media
+HOST-KEYWORD,vod2dazn,WW Media
+HOST-SUFFIX,amplify.outbrain.com,WW Media
+HOST-SUFFIX,bluekai.com,WW Media
+HOST-SUFFIX,control.kochava.com,WW Media
+HOST-SUFFIX,cws.conviva.com,WW Media
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,WW Media
+HOST-SUFFIX,dazn.com,WW Media
+HOST-SUFFIX,dazn-api.com,WW Media
+HOST-SUFFIX,dazndn.com,WW Media
+HOST-SUFFIX,dc1live21715dazn.akamaized.net,WW Media
+HOST-SUFFIX,dc1-voddash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dc2-live2dash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dc2-live2hls-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dc2-vodhls-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dca-livedash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dca-voddash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dca-vodhls-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dcb-livedash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,dcb-voddash-perform.secure.footprint.net,WW Media
+HOST-SUFFIX,indazn.com,WW Media
+HOST-SUFFIX,intercom.io,WW Media
+HOST-SUFFIX,perfops.doracdn.com,WW Media
+HOST-SUFFIX,s.llnwi.net,WW Media
+HOST-SUFFIX,s.yimg.jp,WW Media
+HOST-SUFFIX,secure.footprint.net,WW Media
+HOST-SUFFIX,sentry.io,WW Media
+HOST-SUFFIX,urbanairship.com,WW Media
+HOST-SUFFIX,vjs.zencdn.net,WW Media
+HOST-SUFFIX,widevine.entitlement.us.theplatform.com,WW Media
+HOST-SUFFIX,yahoo.co.jp,WW Media
 
 # > Deezer
 USER-AGENT,Deezer*,WW Media
