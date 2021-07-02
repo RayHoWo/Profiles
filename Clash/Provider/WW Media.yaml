@@ -40,17 +40,17 @@ payload:
 
   # > Deezer
   # USER-AGENT,Deezer*
-  -   - DOMAIN-SUFFIX,deezer.com
-  -   - DOMAIN-SUFFIX,dzcdn.net
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,dzcdn.net
 
   # > TIDAL
   # USER-AGENT,TIDAL*
-  -   - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidal.com
 
   # > SoundCloud
   # USER-AGENT,SoundCloud*
-  -   - DOMAIN-SUFFIX,sndcdn.com
-  -   - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com
 
   # > Emby Server
-  -   - DOMAIN-SUFFIX,emby2021.kozow.com
+  - DOMAIN-SUFFIX,emby2021.kozow.com
