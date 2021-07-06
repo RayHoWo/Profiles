@@ -1,5 +1,5 @@
-# NAME: Personal addon domains for direct access
-# Remark: change "DOMAIN" to "HOST" for QX filter
+# NAME: Personal addon HOSTs for direct access
+# Remark: change "HOST" to "HOST" for QX filter
 # > Wechat
 USER-AGENT,WeChat*,DIRECT
 USER-AGENT,MicroMessenger*,DIRECT
@@ -20,11 +20,11 @@ HOST-SUFFIX,wizconnected.cn,DIRECT
 
 # NAME: Special Connections 
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
-# Remark: change "DOMAIN" to "HOST" for QX filter
+# Remark: change "HOST" to "HOST" for QX filter
 # UPDATED: 2021-04-19 
 
 # > Dler Cloud
-DOMAIN-SUFFIX,dler.cloud,DIRECT
+HOST-SUFFIX,dler.cloud,DIRECT
 
 # > Apple CDN
 HOST-SUFFIX,storedownloadd,DIRECT
@@ -44,6 +44,9 @@ HOST,updates-http.cdn-apple.com,DIRECT
 HOST-SUFFIX,ls.apple.com,DIRECT
 HOST-SUFFIX,mzstatic.com,DIRECT
 
+# > Duet
+USER-AGENT,duet*,DIRECT
+
 # > Epic
 HOST-KEYWORD,epicgames,DIRECT
 
@@ -53,6 +56,7 @@ HOST,safebrowsing.googleapis.com,DIRECT
 HOST-SUFFIX,dl.google.com,DIRECT
 
 # > Microsoft
+USER-AGENT,Microsoft%20Remote%20Desktop*,DIRECT
 HOST-SUFFIX,msftconnecttest.com,DIRECT
 HOST-SUFFIX,windows.com,DIRECT
 HOST-SUFFIX,windows.net,DIRECT
