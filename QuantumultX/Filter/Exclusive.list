@@ -1,0 +1,18 @@
+# NAME: Exclusive addons
+# Remark: change "HOST" to "HOST" for QX filter
+# > Wechat
+USER-AGENT,WeChat*,DIRECT
+USER-AGENT,MicroMessenger*,DIRECT
+HOST-SUFFIX,qq.com,DIRECT
+HOST-SUFFIX,wexin.qq.com,DIRECT
+HOST-SUFFIX,qpic.cn,DIRECT
+
+# > Job Hunting
+USER-AGENT,ios-liepingroup-app*,DIRECT
+HOST-SUFFIX,liepin.com,DIRECT
+
+# > NAS Access
+HOST-SUFFIX,myds.me,DIRECT
+
+# > Wiz CN
+HOST-SUFFIX,wizconnected.cn,DIRECT
