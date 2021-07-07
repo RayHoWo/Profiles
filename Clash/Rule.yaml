@@ -2,8 +2,8 @@ rule-providers:
   SRC-IP-CIDR:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/SRC-IP-CIDR.yaml'
-    path: ./Rules/SRC-IP-CIDR
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Exclusive.yaml'
+    path: ./Rules/Exclusive
     interval: 86400
   Special:
     type: http
@@ -133,7 +133,7 @@ rule-providers:
     interval: 86400
     
 rules:
-- RULE-SET,SRC-IP-CIDR,DIRECT
+- RULE-SET,Exclusive,DIRECT
 - RULE-SET,Special,DIRECT
 - RULE-SET,Apple,Apple
 - RULE-SET,PayPal,PayPal
@@ -171,7 +171,7 @@ rules:
 script:
   code: |
     def main(ctx, metadata):
-        ruleset_action = {"SRC-IP-CIDR": "DIRECT",
+        ruleset_action = {"Exclusive": "DIRECT",
             "Special": "DIRECT",
             "Apple": "Apple",
             "PayPal": "PayPal",
@@ -207,16 +207,21 @@ script:
             ctx.log('[Script] not common port use direct')
             return "DIRECT"
 
+        if metadata["dst_ip"] == "":
+            metadata["dst_ip"] = ctx.resolve_ip(metadata["host"])
+
         for ruleset in ruleset_action:
             if ctx.rule_providers[ruleset].match(metadata):
                 return ruleset_action[ruleset]
 
         if metadata["dst_ip"] == "":
             return "DIRECT"
+
         code = ctx.geoip(metadata["dst_ip"])
         if code == "CN":
             ctx.log('[Script] Geoip CN')
             return "DIRECT"
+
         ctx.log('[Script] FINAL')
         return "Proxy"
         

@@ -1,0 +1,33 @@
+# NAME: Exclusive add-ons
+payload:
+  # > SRC-IP-CIDR
+  - SRC-IP-CIDR,192.168.5.55/32
+  - SRC-IP-CIDR,192.168.5.56/29
+  - SRC-IP-CIDR,192.168.5.64/27
+  - SRC-IP-CIDR,192.168.5.96/30
+  - SRC-IP-CIDR,192.168.5.100/32
+
+  # > Wechat
+  # USER-AGENT,WeChat*
+  # USER-AGENT,MicroMessenger*
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,wexin.qq.com
+  - DOMAIN-SUFFIX,qpic.cn
+
+  # > Job Hunting
+  # USER-AGENT,ios-liepingroup-app*
+  - DOMAIN-SUFFIX,liepin.com
+
+  # > Router Access
+  - DOMAIN-SUFFIX,netgear.com
+
+  # > NAS Access
+  - DOMAIN-SUFFIX,myds.me
+
+  # > Wiz CN
+  - DOMAIN-SUFFIX,wizconnected.cn
+
+
+
+
+

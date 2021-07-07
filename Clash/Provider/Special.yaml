@@ -1,31 +1,8 @@
-# NAME: Personal addon domains for direct access
-payload:
-  # > Wechat
-  # USER-AGENT,WeChat*
-  # USER-AGENT,MicroMessenger*
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,wexin.qq.com
-  - DOMAIN-SUFFIX,qpic.cn
-
-  # > Job Hunting
-  # USER-AGENT,ios-liepingroup-app*
-  - DOMAIN-SUFFIX,liepin.com
-
-  # > Router Access
-  - DOMAIN-SUFFIX,netgear.com
-
-  # > NAS Access
-  - DOMAIN-SUFFIX,myds.me
-
-  # > Wiz CN
-  - DOMAIN-SUFFIX,wizconnected.cn
-
-
 # NAME: Special Connections 
 # AUTHOR: lhie1
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Clash/Provider/Special.yaml
 # UPDATED: 2021-05-10 
-
+payload:
   # > Dler Cloud
   - DOMAIN-SUFFIX,dler.cloud
 
