@@ -1,26 +1,3 @@
-# NAME: Personal addon domains for direct access
-# > Wechat
-USER-AGENT,WeChat*
-USER-AGENT,MicroMessenger*
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,wexin.qq.com
-DOMAIN-SUFFIX,qpic.cn
-
-# > Job Hunting
-USER-AGENT,ios-liepingroup-app*
-DOMAIN-SUFFIX,liepin.com
-DOMAIN-SUFFIX,linkedin.com
-
-# > Router Access
-DOMAIN-SUFFIX,netgear.com
-
-# > NAS Access
-DOMAIN-SUFFIX,myds.me
-
-# > Wiz CN
-DOMAIN-SUFFIX,wizconnected.cn
-
-
 # NAME: Special Connections 
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Special.list
 # UPDATED: 2021-04-19 
