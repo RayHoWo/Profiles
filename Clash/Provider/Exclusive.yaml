@@ -1,6 +1,6 @@
 # NAME: Exclusive add-ons
 payload:
-  # > SRC-IP-CIDR
+  # > SRC-IP-CIDR (192.168.5.55 ~ 192.168.5.100)
   - SRC-IP-CIDR,192.168.5.55/32
   - SRC-IP-CIDR,192.168.5.56/29
   - SRC-IP-CIDR,192.168.5.64/27
