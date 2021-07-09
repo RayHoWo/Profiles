@@ -1,0 +1,42 @@
+# NAME: Japan Media
+# > AbemaTV
+USER-AGENT,AbemaTV*,Japan
+HOST-SUFFIX,abema.io,Japan
+HOST-SUFFIX,abema.tv,Japan
+HOST-SUFFIX,akamaized.net,Japan
+HOST-SUFFIX,ameba.jp,Japan
+HOST-SUFFIX,hayabusa.io,Japan
+HOST-KEYWORD,abematv.akamaized.net,Japan
+
+# > Hulu(フールー)
+HOST-SUFFIX,happyon.jp,Japan
+HOST-SUFFIX,hulu.jp,Japan
+HOST-SUFFIX,prod.hjholdings.tv,Japan
+HOST-SUFFIX,streaks.jp,Japan
+HOST-SUFFIX,yb.uncn.jp,Japan
+
+# > Japonx
+HOST-KEYWORD,japonx,Japan
+HOST-KEYWORD,japronx,Japan
+HOST-SUFFIX,japonx.com,Japan
+HOST-SUFFIX,japonx.tv,Japan
+HOST-SUFFIX,japonx.net,Japan
+HOST-SUFFIX,japonx.vip,Japan
+HOST-SUFFIX,japronx.com,Japan
+HOST-SUFFIX,japronx.tv,Japan
+HOST-SUFFIX,japronx.net,Japan
+HOST-SUFFIX,japronx.vip,Japan
+
+# > niconico
+USER-AGENT,Niconico*,Japan
+HOST-SUFFIX,dmc.nico,Japan
+HOST-SUFFIX,nicovideo.jp,Japan
+HOST-SUFFIX,nimg.jp,Japan
+HOST-SUFFIX,socdm.com,Japan
+
+# > TVer
+USER-AGENT,TVer-Release*,Japan
+HOST-SUFFIX,tver.jp,Japan
+HOST,edge.api.brightcove.com,Japan
+
+

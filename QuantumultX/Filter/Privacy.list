@@ -1,4 +1,33 @@
-# NAME:  Privacy
+# NAME: Privacy
+HOST-SUFFIX,adjust.com,REJECT
+HOST-SUFFIX,cpatrk.net,REJECT
+HOST-SUFFIX,kochava.com,REJECT
+HOST-SUFFIX,marketo.com,REJECT
+HOST-SUFFIX,mobileapptracking.com,REJECT
+HOST-SUFFIX,rtbasia.com,REJECT
+HOST-SUFFIX,scorecardresearch.com,REJECT
+HOST-SUFFIX,sumologic.com,REJECT
+HOST-SUFFIX,survicate.com,REJECT
+HOST-SUFFIX,tagcommander.com,REJECT
+HOST-SUFFIX,tailtarget.com,REJECT
+HOST-SUFFIX,talkingdata.net,REJECT
+HOST-SUFFIX,tapad.com,REJECT
+HOST-SUFFIX,tapfiliate.com,REJECT
+HOST-SUFFIX,tapinfluence.com,REJECT
+HOST-SUFFIX,tapstream.com,REJECT
+HOST-SUFFIX,tealiumiq.com,REJECT
+HOST-SUFFIX,tend.io,REJECT
+HOST-SUFFIX,tpctrust.com,REJECT
+HOST-SUFFIX,trackingio.com,REJECT
+HOST-SUFFIX,tremormedia.com,REJECT
+HOST-SUFFIX,woopra.com,REJECT
+HOST-SUFFIX,wootric.com,REJECT
+HOST-SUFFIX,wowanalytics.co.uk,REJECT
+HOST-SUFFIX,zoomanalytics.co,REJECT
+
+HOST,track.tenjin.com,REJECT
+HOST,track.tenjin.io,REJECT
+HOST,api.talkingdata.com,REJECT
 HOST,track.tiara.daum.net,REJECT
 HOST,track.tiara.kakao.com,REJECT
 HOST,zgsdk.zhugeio.com,REJECT
@@ -34,7 +63,3 @@ HOST,btrace.qq.com,REJECT
 HOST,btrace.video.qq.com,REJECT
 HOST,mtrace.qq.com,REJECT
 HOST,safebrowsing.urlsec.qq.com,REJECT
-# > Umeng
-HOST-KEYWORD,log.umeng.com,REJECT
-HOST-KEYWORD,logs.umeng.com,REJECT
-HOST-KEYWORD,logs.umengcloud.com,REJECT

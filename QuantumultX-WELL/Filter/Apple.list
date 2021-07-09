@@ -1,0 +1,47 @@
+# NAME: Apple API
+# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
+# Remark: change "DOMAIN" to "HOST" for QX filter
+# UPDATED: 2021-04-19 
+
+# > Apple API
+HOST-SUFFIX,aaplimg.com,Apple
+HOST-SUFFIX,apple.co,Apple
+HOST-SUFFIX,apple.com,Apple
+HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,apple-mapkit.com,Apple
+HOST-SUFFIX,appsto.re,Apple
+HOST-SUFFIX,cdn-apple.com,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud-content.com,Apple
+HOST-SUFFIX,itunes.com,Apple
+HOST-SUFFIX,me.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+IP-CIDR,17.0.0.0/8,Apple
+IP-CIDR,63.92.224.0/19,Apple
+IP-CIDR,65.199.22.0/23,Apple
+IP-CIDR,139.178.128.0/18,Apple
+IP-CIDR,144.178.0.0/19,Apple
+IP-CIDR,144.178.36.0/22,Apple
+IP-CIDR,144.178.48.0/20,Apple
+IP-CIDR,192.35.50.0/24,Apple
+IP-CIDR,198.183.17.0/24,Apple
+IP-CIDR,205.180.175.0/24,Apple
+
+# > TestFlight
+HOST,testflight.apple.com,Apple
+
+
+# NAME: Apple News
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list
+# Remark: change "DOMAIN" to "HOST" for QX filter
+# UPDATED: 2021-04-19 
+
+# > Apple News
+HOST,gateway.icloud.com,Apple
+HOST,gspe1-ssl.ls.apple.com,Apple
+HOST-SUFFIX,apple.news,Apple
+HOST,news-assets.apple.com,Apple
+HOST,news-client.apple.com,Apple
+HOST,news-edge.apple.com,Apple
+HOST,news-events.apple.com,Apple
+HOST,apple.comscoreresearch.com,Apple

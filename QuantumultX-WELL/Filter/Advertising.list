@@ -1,7 +1,4 @@
-# NAME: Reject Ads
-# AUTHOR: DivineEngine
-# UPDATED: 2021-07-09
-
+# NAME: Advertising
 # > General
 HOST-KEYWORD,adservice,REJECT
 
@@ -38,7 +35,6 @@ HOST-SUFFIX,ad6media.com,REJECT
 HOST-SUFFIX,ad6media.es,REJECT
 HOST-SUFFIX,ad6media.fr,REJECT
 HOST-SUFFIX,adacado.com,REJECT
-HOST-SUFFIX,adadapted.com,REJECT
 HOST-SUFFIX,adap.tv,REJECT
 HOST-SUFFIX,adasiaholdings.com,REJECT
 HOST-SUFFIX,adatrix.com,REJECT
@@ -79,23 +75,16 @@ HOST-SUFFIX,adextent.com,REJECT
 HOST-SUFFIX,adfactor.nl,REJECT
 HOST-SUFFIX,adfalcon.com,REJECT
 HOST-SUFFIX,adflow.ru,REJECT
-HOST-SUFFIX,adform.net,REJECT
 HOST-SUFFIX,adinall.com,REJECT
-HOST-SUFFIX,adkernel.com,REJECT
 HOST-SUFFIX,ad-locus.com,REJECT
 HOST-SUFFIX,adlooxtracking.com,REJECT
-HOST-SUFFIX,admarvel.com,REJECT
 HOST-SUFFIX,admaster.com.cn,REJECT
 HOST-SUFFIX,ad-maven.com,REJECT
-HOST-SUFFIX,admicro.vn,REJECT
 HOST-SUFFIX,admob.com,REJECT
 HOST-SUFFIX,ad-move.jp,REJECT
-HOST-SUFFIX,adnetwork.vn,REJECT
 HOST-SUFFIX,adnxs.com,REJECT
 HOST-SUFFIX,adnyg.com,REJECT
 HOST-SUFFIX,ad-plus.cn,REJECT
-HOST-SUFFIX,adpushup.com,REJECT
-HOST-SUFFIX,adroll.com,REJECT
 HOST-SUFFIX,adsafeprotected.com,REJECT
 HOST-SUFFIX,adsage.cn,REJECT
 HOST-SUFFIX,adsage.com,REJECT
@@ -120,10 +109,7 @@ HOST-SUFFIX,advertising.com,REJECT
 HOST-SUFFIX,adwhirl.com,REJECT
 HOST-SUFFIX,adwo.com,REJECT
 HOST-SUFFIX,adxadserv.com,REJECT
-HOST-SUFFIX,adzerk.net,REJECT
 HOST-SUFFIX,aiclk.com,REJECT
-HOST-SUFFIX,airpush.com,REJECT
-HOST-SUFFIX,algovid.com,REJECT
 HOST-SUFFIX,amazon-adsystem.com,REJECT
 HOST-SUFFIX,amoad.com,REJECT
 HOST-SUFFIX,amobee.com,REJECT
@@ -137,7 +123,6 @@ HOST-SUFFIX,applvn.com,REJECT
 HOST-SUFFIX,appsflyer.com,REJECT
 HOST-SUFFIX,apsalar.com,REJECT
 HOST-SUFFIX,apxadtracking.net,REJECT
-HOST-SUFFIX,aralego.com,REJECT
 HOST-SUFFIX,atomhike.com,REJECT
 HOST-SUFFIX,axonix.com,REJECT
 HOST-SUFFIX,b2pk.com,REJECT
@@ -152,14 +137,9 @@ HOST-SUFFIX,clotfun.mobi,REJECT
 HOST-SUFFIX,clotfun.online,REJECT
 HOST-SUFFIX,cloudmobi.net,REJECT
 HOST-SUFFIX,comscore.com,REJECT
-HOST-SUFFIX,crispadvertising.com,REJECT
-HOST-SUFFIX,criteo.com,REJECT
-HOST-SUFFIX,criteo.net,REJECT
 HOST-SUFFIX,crwdcntrl.net,REJECT
 HOST-SUFFIX,ctrmi.com,REJECT
 HOST-SUFFIX,domob.cn,REJECT
-HOST-SUFFIX,dotomi.com,REJECT
-HOST-SUFFIX,doubleverify.com,REJECT
 HOST-SUFFIX,eroadvertising.com,REJECT
 HOST-SUFFIX,ero-advertising.com,REJECT
 HOST-SUFFIX,exdynsrv.com,REJECT
@@ -209,47 +189,22 @@ HOST-SUFFIX,pubmatic.com,REJECT
 HOST-SUFFIX,qchannel01.cn,REJECT
 HOST-SUFFIX,rayjump.com,REJECT
 HOST-SUFFIX,realsrv.com,REJECT
-HOST-SUFFIX,restartad.com,REJECT
-HOST-SUFFIX,revcontent.com,REJECT
-HOST-SUFFIX,revjet.com,REJECT
 HOST-SUFFIX,rubiconproject.com,REJECT
 HOST-SUFFIX,runative-syndicate.com,REJECT
 HOST-SUFFIX,sdkclick.com,REJECT
 HOST-SUFFIX,serving-sys.com,REJECT
-HOST-SUFFIX,sharethrough.com,REJECT
 HOST-SUFFIX,shuzilm.cn,REJECT
-HOST-SUFFIX,simpli.fi,REJECT
-HOST-SUFFIX,sitemaji.com,REJECT
+HOST-SUFFIX,smaato.net,REJECT
 HOST-SUFFIX,smaato.net,REJECT
 HOST-SUFFIX,smartadserver.com,REJECT
 HOST-SUFFIX,smartnews-ads.com,REJECT
 HOST-SUFFIX,snapads.com,REJECT
 HOST-SUFFIX,socdm.com,REJECT
-HOST-SUFFIX,sonobi.com,REJECT
-HOST-SUFFIX,springserve.com,REJECT
 HOST-SUFFIX,startappservice.com,REJECT
-HOST-SUFFIX,steelhouse.com,REJECT
-HOST-SUFFIX,steelhousemedia.com,REJECT
-HOST-SUFFIX,steepto.com,REJECT
-HOST-SUFFIX,stickyadstv.com,REJECT
-HOST-SUFFIX,streamrail.com,REJECT
-HOST-SUFFIX,streamrail.net,REJECT
-HOST-SUFFIX,strikead.com,REJECT
-HOST-SUFFIX,sumome.com,REJECT
-HOST-SUFFIX,sunnyworks.co.kr,REJECT
-HOST-SUFFIX,superad2.com.sg,REJECT
-HOST-SUFFIX,superadbox.com,REJECT
-HOST-SUFFIX,superads.cn,REJECT
 HOST-SUFFIX,supersonic.com,REJECT
 HOST-SUFFIX,supersonicads.com,REJECT
-HOST-SUFFIX,synergy-e.com,REJECT
-HOST-SUFFIX,tabmo.io,REJECT
 HOST-SUFFIX,taboola.com,REJECT
-HOST-SUFFIX,taboolasyndication.com,REJECT
-HOST-SUFFIX,tacoda.net,REJECT
-HOST-SUFFIX,tactilews.com,REJECT
 HOST-SUFFIX,tagtic.cn,REJECT
-HOST-SUFFIX,tamedia.com.tw,REJECT
 HOST-SUFFIX,tanv.com,REJECT
 HOST-SUFFIX,tanx.com,REJECT
 HOST-SUFFIX,tapdaq.com,REJECT
@@ -282,7 +237,6 @@ HOST-SUFFIX,tubemogul.com,REJECT
 HOST-SUFFIX,tuifish.com,REJECT
 HOST-SUFFIX,tuitiger.com,REJECT
 HOST-SUFFIX,turn.com,REJECT
-HOST-SUFFIX,tutoads.tv,REJECT
 HOST-SUFFIX,u-ad.info,REJECT
 HOST-SUFFIX,uberads.com,REJECT
 HOST-SUFFIX,uimserv.net,REJECT
@@ -320,6 +274,7 @@ HOST-SUFFIX,vrvm.com,REJECT
 HOST-SUFFIX,vserv.mobi,REJECT
 HOST-SUFFIX,vungle.com,REJECT
 HOST-SUFFIX,w55c.net,REJECT
+HOST-SUFFIX,waps.cn,REJECT
 HOST-SUFFIX,wapstart.ru,REJECT
 HOST-SUFFIX,webads.eu,REJECT
 HOST-SUFFIX,wedolook.com,REJECT
@@ -340,6 +295,7 @@ HOST-SUFFIX,yeahmobi.com,REJECT
 HOST-SUFFIX,yhdichan.com,REJECT
 HOST-SUFFIX,yicha.jp,REJECT
 HOST-SUFFIX,yieldlove-ad-serving.net,REJECT
+HOST-SUFFIX,yieldmagic.com,REJECT
 HOST-SUFFIX,yieldmo.com,REJECT
 HOST-SUFFIX,yieldoptimizer.com,REJECT
 HOST-SUFFIX,yllix.com,REJECT
@@ -367,9 +323,7 @@ HOST-SUFFIX,zxrtb.com,REJECT
 
 HOST-SUFFIX,ad.cmvideo.cn,REJECT
 HOST-SUFFIX,ad.daum.net,REJECT
-HOST-SUFFIX,ad.g.daum.net,REJECT
 
-HOST,ads.play.cbsi.video,REJECT
 HOST,abema-adx.ameba.jp,REJECT
 HOST,ad.12306.cn,REJECT
 HOST,ad.caiyunapp.com,REJECT
@@ -380,11 +334,11 @@ HOST,ad.jiemian.com,REJECT
 HOST,ad.wappalyzer.com,REJECT
 HOST,ad-cn.jovcloud.com,REJECT
 HOST,ad-mediation.tuanguwen.com,REJECT
+HOST,ads.adadapted.com,REJECT
 HOST,ads.chinadaily.com.cn,REJECT
 HOST,ads.daydaycook.com.cn,REJECT
 HOST,ads.flurry.com,REJECT
-HOST,ads.storm8.com,REJECT
-HOST,ads.superawesome.tv,REJECT
+HOST,ads.play.cbsi.video,REJECT
 HOST,ads.weilitoutiao.net,REJECT
 HOST,adsapi.manhuaren.com,REJECT
 HOST,adsdk.dmzj.com,REJECT
@@ -447,7 +401,6 @@ HOST,adm3.autoimg.cn,REJECT
 
 # (B)
 # --- (Baidu) ---
-HOST-SUFFIX,duapps.com,REJECT
 HOST-SUFFIX,cpro.baidu.com,REJECT
 HOST-SUFFIX,pos.baidu.com,REJECT
 HOST,afd.baidu.com,REJECT
@@ -475,16 +428,6 @@ HOST,advertise.baicizhan.org,REJECT
 # > BitAuto
 HOST,adx.yiche.com,REJECT
 HOST,log.ycapp.yiche.com,REJECT
-# > Braze
-HOST-SUFFIX,iad.appboy.com,REJECT
-HOST-SUFFIX,iad-03.appboy.com,REJECT
-HOST-SUFFIX,iad-01.braze.com,REJECT
-HOST-SUFFIX,iad-02.braze.com,REJECT
-HOST-SUFFIX,iad-03.braze.com,REJECT
-HOST-SUFFIX,iad-04.braze.com,REJECT
-HOST-SUFFIX,iad-05.braze.com,REJECT
-HOST-SUFFIX,iad-06.braze.com,REJECT
-HOST-SUFFIX,iad-08.braze.com,REJECT
 
 # (C)
 # > CNTV
@@ -529,7 +472,6 @@ HOST,ad.hpplay.cn,REJECT
 HOST,adc.hpplay.cn,REJECT
 HOST,adcdn.hpplay.cn,REJECT
 HOST,adeng.hpplay.cn,REJECT
-HOST,pin.hpplay.cn,REJECT
 HOST,rp.hpplay.cn,REJECT
 HOST,rpt.hpplay.cn,REJECT
 
@@ -651,8 +593,8 @@ HOST,pgdt.gtimg.com,REJECT
 HOST,pgdt.ugdtimg.com,REJECT
 HOST,splashqqlive.gtimg.com,REJECT
 HOST,wa.gtimg.com,REJECT
-HOST,wxsnsdy.wxs.qq.com,REJECT
-HOST,wxsnsdythumb.wxs.qq.com,REJECT
+# HOST,wxsnsdy.wxs.qq.com,REJECT
+# HOST,wxsnsdythumb.wxs.qq.com,REJECT
 # > Tencent Music (TME)
 HOST,ad.tencentmusic.com,REJECT
 HOST,adserviceretry.kugou.com,REJECT
@@ -726,12 +668,10 @@ HOST,ads.yahoo.de,REJECT
 # (Z)
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
+HOST,appcloud2.zhihu.com,REJECT
 HOST,appcloud2.in.zhihu.com,REJECT
-HOST,mqtt.zhihu.com,REJECT
 HOST,sugar.zhihu.com,REJECT
-HOST,118.89.204.198,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
 # > ZOL
 HOST,apppv.zol.com.cn,REJECT
 HOST,pvnapp.zol.com.cn,REJECT

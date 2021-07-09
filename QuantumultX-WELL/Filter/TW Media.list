@@ -1,0 +1,24 @@
+# NAME: Taiwan Media
+# > Bahamut
+USER-AGENT,Anime*,Taiwan
+HOST-SUFFIX,bahamut.com.tw,Taiwan
+HOST-SUFFIX,gamer.com.tw,Taiwan
+HOST-SUFFIX,hinet.net,Taiwan
+
+# > KKBOX
+HOST-SUFFIX,kkbox.com,Taiwan
+HOST-SUFFIX,kkbox.com.tw,Taiwan
+HOST-SUFFIX,kfs.io,Taiwan
+
+# > KKTV
+USER-AGENT,KKTV*,Taiwan
+USER-AGENT,com.kktv*,Taiwan
+HOST-SUFFIX,kktv.me,Taiwan
+HOST-SUFFIX,kktv.com.tw,Taiwan
+HOST,kktv-theater.kk.stream,Taiwan
+
+# > Line TV
+USER-AGENT,LINE*,Taiwan
+HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,Taiwan
+HOST-SUFFIX,linetv.tw,Taiwan
+HOST-SUFFIX,profile.line-scdn.net,Taiwan
