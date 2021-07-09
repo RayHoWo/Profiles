@@ -11,7 +11,7 @@ HOST-SUFFIX,apple-cloudkit.com,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
 HOST-SUFFIX,icloud.com,Apple
-HOST-SUFFIX,icloud.com,Apple.cn
+HOST-SUFFIX,icloud.com.cn,Apple
 HOST-SUFFIX,icloud-content.com,Apple
 HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mzstatic.com,Apple
@@ -31,7 +31,7 @@ HOST,testflight.apple.com,Apple
 
 # (Region-Restricted Access Denied)
 # ---(Apple)---
-HOST-SUFFIX,appsto.re // Apple URL Shortener
+HOST-SUFFIX,appsto.re,Apple // Apple URL Shortener
 HOST,books.itunes.apple.com,Apple // iBooks Store download
 HOST,api-glb-sea.smoot.apple.com,Apple // Spotlight
 HOST,beta.music.apple.com,Apple // Apple Music Web
@@ -59,11 +59,11 @@ HOST,xp.apple.com,Apple
 
 # > Apple News
 HOST,gspe1-ssl.ls.apple.com,Apple // 必要，但会导致「地图」使用「TOMTOM」版本数据
-PROCESS-NAME,News
-USER-AGENT,AppleNews*
-# USER-AGENT,News* // 「今日头条」亦使用此，故不启用
-USER-AGENT,com.apple.news*
-HOST-SUFFIX,apple.news
+PROCESS-NAME,News,Apple
+USER-AGENT,AppleNews*,Apple
+# USER-AGENT,News*,Apple// 「今日头条」亦使用此，故不启用
+USER-AGENT,com.apple.news*,Apple
+HOST-SUFFIX,apple.news,Apple
 HOST,news-assets.apple.com,Apple
 HOST,news-client.apple.com,Apple
 HOST,news-edge.apple.com,Apple
