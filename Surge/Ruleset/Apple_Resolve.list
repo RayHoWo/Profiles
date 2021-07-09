@@ -33,6 +33,7 @@ PROCESS-NAME,com.apple.geod
 # > TestFlight
 DOMAIN,testflight.apple.com
 
+# ------------------------------------
 
 # NAME: Apple News
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
