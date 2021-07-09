@@ -7,7 +7,7 @@
 HOST-SUFFIX,acfun.cn,DIRECT
 HOST-SUFFIX,aixifan.com,DIRECT
 # > bilibili
-HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,biliapi.net,DIRECT
 HOST-SUFFIX,bilibili.com,DIRECT
 HOST-SUFFIX,bilivideo.com,DIRECT
 HOST-SUFFIX,hdslb.com,DIRECT
