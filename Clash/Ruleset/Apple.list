@@ -28,6 +28,29 @@ IP-CIDR,192.35.50.0/24
 IP-CIDR,198.183.17.0/24
 IP-CIDR,205.180.175.0/24
 
+# > Testflight
+DOMAIN,testflight.apple.com
+
+# (Region-Restricted Access Denied)
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,tv.apple.com // Apple TV Web Preview
+# > App Store Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,lookup-api.apple.com
+
+# (Network Jitter)
+DOMAIN,appleid.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,www.icloud.com
+DOMAIN,ocsp.apple.com
+DOMAIN,xp.apple.com
+
 
 # NAME: Apple News
 # AUTHOR: DivineEngine

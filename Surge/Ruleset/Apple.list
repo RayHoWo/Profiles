@@ -31,7 +31,6 @@ IP-CIDR,205.180.175.0/24,no-resolve
 DOMAIN,testflight.apple.com
 
 # (Region-Restricted Access Denied)
-# ---(Apple)---
 DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
@@ -45,7 +44,6 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,lookup-api.apple.com
 
 # (Network Jitter)
-# > Apple
 DOMAIN,appleid.apple.com
 DOMAIN,developer.apple.com
 DOMAIN,www.icloud.com

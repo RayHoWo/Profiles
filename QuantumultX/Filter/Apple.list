@@ -1,8 +1,9 @@
 # NAME: Apple API
 # AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/Apple.list
 # UPDATED: 2021-07-09
 
-# Apple API
+# Apple
 HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
@@ -30,21 +31,22 @@ IP-CIDR,205.180.175.0/24,Apple
 HOST,testflight.apple.com,Apple
 
 # (Region-Restricted Access Denied)
-# ---(Apple)---
-HOST-SUFFIX,appsto.re,Apple // Apple URL Shortener
-HOST,books.itunes.apple.com,Apple // iBooks Store download
-HOST,api-glb-sea.smoot.apple.com,Apple // Spotlight
-HOST,beta.music.apple.com,Apple // Apple Music Web
-HOST,tv.apple.com,Apple // Apple TV Web Preview
-# > App Store Web Preview
+# > Apple URL Shortener
+HOST-SUFFIX,appsto.re,Apple
+# > iBooks Store download
+HOST,books.itunes.apple.com,Apple
+# > App Store Preview
 HOST,apps.apple.com,Apple
 HOST,itunes.apple.com,Apple
+# > Spotlight
+HOST,api-glb-sea.smoot.apple.com,Apple
 # > Look Up
 HOST-SUFFIX,smoot.apple.com,Apple
 HOST,lookup-api.apple.com,Apple
+# > Apple Music Web
+HOST,beta.music.apple.com,Apple
 
 # (Network Jitter)
-# > Apple
 HOST,appleid.apple.com,Apple
 HOST,developer.apple.com,Apple
 HOST,www.icloud.com,Apple
@@ -55,17 +57,15 @@ HOST,xp.apple.com,Apple
 
 # NAME: Apple News
 # AUTHOR: DivineEngine
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/News.list
 # UPDATED: 2021-07-09 
 
 # > Apple News
-HOST,gspe1-ssl.ls.apple.com,Apple // 必要，但会导致「地图」使用「TOMTOM」版本数据
-PROCESS-NAME,News,Apple
-USER-AGENT,AppleNews*,Apple
-# USER-AGENT,News*,Apple// 「今日头条」亦使用此，故不启用
-USER-AGENT,com.apple.news*,Apple
+HOST,gateway.icloud.com,Apple
+HOST,gspe1-ssl.ls.apple.com,Apple
 HOST-SUFFIX,apple.news,Apple
 HOST,news-assets.apple.com,Apple
 HOST,news-client.apple.com,Apple
 HOST,news-edge.apple.com,Apple
 HOST,news-events.apple.com,Apple
-HOST,apple.com,Applescoreresearch.com,Apple
+HOST,apple.comscoreresearch.com,Apple
