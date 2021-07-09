@@ -55,7 +55,7 @@ HOST-SUFFIX,kuwo.cn,DIRECT
 HOST-SUFFIX,kugou.com,DIRECT
 # > Netease Cloud Music
 HOST-SUFFIX,music.163.com,DIRECT
-HOST-SUFFIX,music.126.net
+HOST-SUFFIX,music.126.net,DIRECT
 HOST,mam.netease.com,DIRECT
 HOST,api.iplay.163.com,DIRECT
 # > Qianqian Music
