@@ -1,8 +1,6 @@
 # NAME: Internet Service Providers Hijacking
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
-# UPDATED: 2021-07-09
-
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189zj.cn

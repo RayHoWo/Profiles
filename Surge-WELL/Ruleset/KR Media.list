@@ -1,0 +1,10 @@
+# NAME: Korea Media
+# > KBSTV
+DOMAIN-KEYWORD,kbsworld
+DOMAIN-SUFFIX,kbs.co.kr
+
+# > Naver TV
+USER-AGENT,Naver%20TV*
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,smartmediarep.com
+

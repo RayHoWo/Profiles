@@ -6,19 +6,6 @@ SRC-IP-CIDR,192.168.5.64/27
 SRC-IP-CIDR,192.168.5.96/30
 SRC-IP-CIDR,192.168.5.100/32
 
-# > Client
-PROCESS-NAME,UUBooster
-# > Download
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-
 # > Wechat
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*

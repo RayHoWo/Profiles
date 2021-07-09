@@ -1,7 +1,7 @@
 # NAME: China Websites and apps
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-# Remark: Remove "PayPal, Apple, Microsoft, Onedrive, Speedtest, Steam"
+# Remark: 1.Remove "no-resolve, PayPal, Apple, Microsoft, Onedrive, Speedtest, Steam" 
 # UPDATED: 2021-07-09
 
 # China Area Network
@@ -147,8 +147,8 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
+IP-CIDR,182.254.116.0/24
+IP-CIDR,203.205.254.0/23
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net

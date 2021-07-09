@@ -1,0 +1,13 @@
+#!name=iOS Cookies&Tasks Module General
+#!desc=iOS Cookies&Tasks
+
+[Script]
+http-request ^https:\/\/m\.you\.163\.com\/xhr\/points\/index\.json script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/yanxuan/yanxuan.cookie.js, tag=网易严选
+http-request ^https:\/\/m-bean\.kaola\.com/m/point/sign\.html script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.cookie.js, requires-body=true, tag=网易考拉
+
+cron "50 3 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/yanxuan/yanxuan.js,tag=网易严选
+cron "20 7 8 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js,tag=网易考拉
+
+
+[MITM]
+hostname = %APPEND% m-bean.kaola.com,*.you.163.com,*.m.163.com,huiyuan.163.com

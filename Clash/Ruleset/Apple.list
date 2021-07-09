@@ -1,9 +1,10 @@
 # NAME: Apple API
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
+# Remark: Remove "no-resolve" for clash ruleset
 # UPDATED: 2021-07-09
 
-# Apple API
+# Apple
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
@@ -18,41 +19,15 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
-IP-CIDR,17.0.0.0/8,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
-IP-CIDR,139.178.128.0/18,no-resolve
-IP-CIDR,144.178.0.0/19,no-resolve
-IP-CIDR,192.35.50.0/24,no-resolve
-IP-CIDR,198.183.17.0/24,no-resolve
-IP-CIDR,205.180.175.0/24,no-resolve
+IP-CIDR,17.0.0.0/8
+IP-CIDR,63.92.224.0/19
+IP-CIDR,65.199.22.0/23
+IP-CIDR,139.178.128.0/18
+IP-CIDR,144.178.0.0/19
+IP-CIDR,192.35.50.0/24
+IP-CIDR,198.183.17.0/24
+IP-CIDR,205.180.175.0/24
 
-# > Testflight
-DOMAIN,testflight.apple.com
-
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,tv.apple.com // Apple TV Web Preview
-# > App Store Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,lookup-api.apple.com
-
-# (Network Jitter)
-# > Apple
-DOMAIN,appleid.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,www.icloud.com
-DOMAIN,ocsp.apple.com
-DOMAIN,xp.apple.com
-
-# ------------------------------------
 
 # NAME: Apple News
 # AUTHOR: DivineEngine
