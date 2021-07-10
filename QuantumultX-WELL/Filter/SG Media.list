@@ -1,7 +1,0 @@
-# NAME: Singapore Media
-# > Fox+ (HK|TW|SG)
-USER-AGENT,FOXPlus*,Singapore
-HOST-SUFFIX,akamaized.net,Singapore
-HOST-SUFFIX,foxplus.com,Singapore
-HOST-SUFFIX,theplatform.com,Singapore
-
