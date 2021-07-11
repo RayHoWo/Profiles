@@ -1,8 +1,7 @@
 # NAME: ChinaIPs
 # AUTHOR: ConnersHua
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/ChinaIP.list
-# UPDATED: 2021-06-18
-
+# UPDATED: 2021-07-11
 IP-CIDR,1.0.1.0/24
 IP-CIDR,1.0.2.0/23
 IP-CIDR,1.0.8.0/21
