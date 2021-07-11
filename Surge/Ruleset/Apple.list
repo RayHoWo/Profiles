@@ -45,7 +45,7 @@ DOMAIN,developer.apple.com
 DOMAIN,www.icloud.com
 DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
-------------------------------------
+# ------------------------------------
 # NAME: Apple News
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
