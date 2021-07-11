@@ -5,7 +5,6 @@ SRC-IP-CIDR,192.168.5.56/29
 SRC-IP-CIDR,192.168.5.64/27
 SRC-IP-CIDR,192.168.5.96/30
 SRC-IP-CIDR,192.168.5.100/32
-
 # > Client
 PROCESS-NAME,UUBooster
 # > Download
@@ -18,23 +17,17 @@ PROCESS-NAME,Transmission
 PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
-
 # > Router Access
 DOMAIN-SUFFIX,netgear.com
-
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
-
 # > Wiz CN
 DOMAIN-SUFFIX,wizconnected.cn
-
 # ------------------------------------
-
 # NAME: Unbreak
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 # UPDATED: 2021-07-09 
-
 # > General
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
