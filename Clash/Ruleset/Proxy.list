@@ -1,23 +1,18 @@
 # NAME: Personal addon domains for proxy access
 # > Wiz World
 DOMAIN-SUFFIX,wiz.world
-
 # > Sonos
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
-
 # > Fast
 DOMAIN-SUFFIX,fast.com
-
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
-
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
-
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
@@ -32,9 +27,7 @@ DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 # >> OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,storage.live.com
-
 # ------------------------------------
-
 # NAME: Clubhouse
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
@@ -75,9 +68,7 @@ IP-CIDR,202.181.136.234/32,no-resolve
 IP-CIDR,202.181.136.236/32,no-resolve
 IP-CIDR,202.226.25.166/32,no-resolve
 IP-CIDR,209.177.94.18/32,no-resolve
-
 # ------------------------------------
-
 # NAME: Scholar
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
@@ -148,15 +139,12 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
-
 # ------------------------------------
-
 # NAME: Proxy Rulesetting
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
 # Remark: Remove "no-resolve" for clash ruleset
 # UPDATED: 2021-07-09 
-
 # (DNS Cache Pollution)
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
