@@ -1,23 +1,18 @@
 # NAME: Personal addon domains for proxy access
 # > Wiz World
 DOMAIN-SUFFIX,wiz.world
-
 # > Sonos
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
-
 # > Fast
 DOMAIN-SUFFIX,fast.com
-
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
-
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
-
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
