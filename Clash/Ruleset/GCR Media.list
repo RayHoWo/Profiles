@@ -2,7 +2,7 @@
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
 # Remark: Remove "no-resolve" for clash ruleset
-# UPDATED: 2021-07-09
+# UPDATED: 2021-07-11
 # > bilibili
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
@@ -10,10 +10,7 @@ DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-KEYWORD,cn-hk-eq-bcache-
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com
-IP-CIDR,116.211.202.206/32
-IP-CIDR,116.211.202.216/32
+IP-CIDR,116.211.202.206/32,no-resolve
+IP-CIDR,116.211.202.216/32,no-resolve
 # > 芒果TV国际
 DOMAIN-SUFFIX,api.mgtv.com
-# > WeTV
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
