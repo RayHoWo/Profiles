@@ -1,4 +1,5 @@
 # NAME: PayPal
+# UPDATED: 2021-07-11
 USER-AGENT,PayPal*
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
