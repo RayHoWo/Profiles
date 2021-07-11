@@ -28,7 +28,7 @@ DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 # >> OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,storage.live.com
-------------------------------------
+# ------------------------------------
 # NAME: Clubhouse
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
@@ -69,7 +69,7 @@ IP-CIDR,202.181.136.234/32,no-resolve
 IP-CIDR,202.181.136.236/32,no-resolve
 IP-CIDR,202.226.25.166/32,no-resolve
 IP-CIDR,209.177.94.18/32,no-resolve
-------------------------------------
+# ------------------------------------
 # NAME: Scholar
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
@@ -140,7 +140,7 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
-------------------------------------
+# ------------------------------------
 # NAME: Proxy Rulesetting
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
