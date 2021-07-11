@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,myds.me
 DOMAIN-SUFFIX,wizconnected.cn
 # > Emby Server
 DOMAIN-SUFFIX,emby2021.kozow.com
-# ------------------------------------
+------------------------------------
 # NAME: Unbreak
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
