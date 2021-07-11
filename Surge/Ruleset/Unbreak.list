@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,myds.me
 # > Wiz CN
 DOMAIN-SUFFIX,wizconnected.cn
+# > Emby Server
+DOMAIN-SUFFIX,emby2021.kozow.com
 # ------------------------------------
 # NAME: Unbreak
 # AUTHOR: DivineEngine
