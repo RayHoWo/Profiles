@@ -1,4 +1,5 @@
 # NAME: Personal addon domains for proxy access
+# UPDATED: 2021-07-11
 # > Wiz World
 DOMAIN-SUFFIX,wiz.world
 # > Sonos
@@ -27,13 +28,11 @@ DOMAIN-KEYWORD,-microsoft-com.akamaized.net
 # >> OneDrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,storage.live.com
-
 # ------------------------------------
-
 # NAME: Clubhouse
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
-# UPDATED: 2021-07-09
+# UPDATED: 2021-07-11
 IP-CIDR,3.0.163.78/32,no-resolve
 IP-CIDR,45.40.48.11/32,no-resolve
 IP-CIDR,45.40.48.114/32,no-resolve
@@ -70,13 +69,11 @@ IP-CIDR,202.181.136.234/32,no-resolve
 IP-CIDR,202.181.136.236/32,no-resolve
 IP-CIDR,202.226.25.166/32,no-resolve
 IP-CIDR,209.177.94.18/32,no-resolve
-
 # ------------------------------------
-
 # NAME: Scholar
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
-# UPDATED: 2021-07-09
+# UPDATED: 2021-07-11
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
@@ -143,13 +140,11 @@ DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
-
 # ------------------------------------
-
 # NAME: Proxy Rulesetting
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-# UPDATED: 2021-07-09 
+# UPDATED: 2021-07-11
 # (DNS Cache Pollution)
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
