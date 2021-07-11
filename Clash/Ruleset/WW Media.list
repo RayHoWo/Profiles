@@ -1,5 +1,5 @@
 # NAME: Multiple Region Media
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-12
 # > DAZN
 USER-AGENT,DAZN*
 DOMAIN,d151l6v8er5bdm.cloudfront.net
@@ -48,5 +48,3 @@ DOMAIN-SUFFIX,tidal.com
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
-# > Emby Server
-DOMAIN-SUFFIX,emby2021.kozow.com
