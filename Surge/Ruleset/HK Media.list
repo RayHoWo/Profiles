@@ -14,17 +14,14 @@ DOMAIN,players.brightcove.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
-
 # > JOOX
 USER-AGENT,WeMusic*
 USER-AGENT,JOOX*
 DOMAIN-SUFFIX,joox.com
-
 # > myTV_SUPER
 USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
-
 # > ViuTV
 USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,bootstrapcdn.com
