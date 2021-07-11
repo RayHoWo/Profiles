@@ -2,9 +2,9 @@
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
 # UPDATED: 2021-07-09
-
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
+DOMAIN-SUFFIX,189key.com
 DOMAIN-SUFFIX,189zj.cn
 DOMAIN-SUFFIX,285680.com
 DOMAIN-SUFFIX,3721zh.com
@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,taoggou.com
 DOMAIN-SUFFIX,tcxshop.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,topitme.com
+DOMAIN-SUFFIX,tt114.net
 DOMAIN-SUFFIX,tt3sm4.cn
 DOMAIN-SUFFIX,tuia.cn
 DOMAIN-SUFFIX,tuipenguin.com
