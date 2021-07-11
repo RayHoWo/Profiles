@@ -2,7 +2,6 @@
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 # UPDATED: 2021-07-09
-
 # > General
 DOMAIN-KEYWORD,adservice
 
