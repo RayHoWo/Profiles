@@ -1,5 +1,5 @@
 # NAME: Exclusive add-ons
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-12
 # > SRC-IP-CIDR (192.168.5.55 ~ 192.168.5.100)
 SRC-IP-CIDR,192.168.5.55/32
 SRC-IP-CIDR,192.168.5.56/29
@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,myds.me
 # > Wiz CN
 DOMAIN-SUFFIX,wizconnected.cn
+# > Emby Server
+DOMAIN-SUFFIX,emby2021.kozow.com
 # ------------------------------------
 # NAME: Unbreak
 # AUTHOR: DivineEngine
