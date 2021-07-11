@@ -1,11 +1,9 @@
 # NAME: Youtube Media
 # > Youtube Kids
 USER-AGENT,com.google.ios.youtubekids*
-
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
-
 # > Youtube Video
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
