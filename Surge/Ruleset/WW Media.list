@@ -36,20 +36,16 @@ DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,vjs.zencdn.net
 DOMAIN-SUFFIX,widevine.entitlement.us.theplatform.com
 DOMAIN-SUFFIX,yahoo.co.jp
-
 # > Deezer
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
-
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
-
 # > SoundCloud
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
-
 # > Emby Server
 DOMAIN-SUFFIX,emby2021.kozow.com
