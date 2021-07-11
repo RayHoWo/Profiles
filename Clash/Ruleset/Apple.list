@@ -2,9 +2,8 @@
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list
 # Remark: Remove "no-resolve" for clash ruleset
-# UPDATED: 2021-07-09
-
-# Apple
+# UPDATED: 2021-07-11
+# Apple API
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
@@ -27,10 +26,8 @@ IP-CIDR,144.178.0.0/19
 IP-CIDR,192.35.50.0/24
 IP-CIDR,198.183.17.0/24
 IP-CIDR,205.180.175.0/24
-
 # > Testflight
 DOMAIN,testflight.apple.com
-
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN,books.itunes.apple.com // iBooks Store download
@@ -43,7 +40,6 @@ DOMAIN,itunes.apple.com
 # > Look Up
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,lookup-api.apple.com
-
 # (Network Jitter)
 DOMAIN,appleid.apple.com
 DOMAIN,developer.apple.com
@@ -51,12 +47,10 @@ DOMAIN,www.icloud.com
 DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
 
-
 # NAME: Apple News
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
-# UPDATED: 2021-07-09 
-
+# UPDATED: 2021-07-11
 # > Apple News
 DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
 PROCESS-NAME,News
