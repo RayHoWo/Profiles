@@ -6,7 +6,6 @@ DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,blzddistkr1-a.akamaihd.net
 DOMAIN,bnetproduct-a.akamaihd.net
-
 # Discord
 DOMAIN-SUFFIX,discord.co
 DOMAIN-SUFFIX,discord.com
@@ -14,18 +13,15 @@ DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
-
 # > Nintendo
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
-
 # 相比代理，更建议先尝试使用 hosts：https://www.dogfight360.com/blog/475/
 DOMAIN-SUFFIX,origin.com
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,origin-a.akamaihd.net // Akamai
 DOMAIN,ssl-lvlt.cdn.ea.com // Level3-CDN
 DOMAIN,rtm.tnt-ea.com
-
 # Steam
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcontent.com
@@ -41,7 +37,6 @@ DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
-
 # Supercell
 # > Brawl Stars
 DOMAIN-SUFFIX,brawlstars.com
@@ -69,12 +64,10 @@ IP-CIDR,52.13.42.120/32
 IP-CIDR,52.50.131.212/32
 IP-CIDR,54.207.168.84/32
 IP-CIDR,54.248.64.192/32
-
 # League of Legends: Wild Rift!
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,riotcdn.net
-
 # > Xbox
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservices.com
