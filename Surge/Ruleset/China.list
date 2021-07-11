@@ -3,7 +3,6 @@
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: Remove "PayPal, Apple, Microsoft, Onedrive, Speedtest, Steam"
 # UPDATED: 2021-07-09
-
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
