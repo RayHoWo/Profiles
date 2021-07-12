@@ -73,7 +73,7 @@ IP-CIDR,209.177.94.18/32,no-resolve
 # NAME: Scholar
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-12
 DOMAIN,scholar.google.com
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
