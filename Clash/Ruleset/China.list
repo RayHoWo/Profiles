@@ -1,7 +1,7 @@
 # NAME: China Websites and apps
 # AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-# Remark: 1.Remove "no-resolve, PayPal, Apple, Microsoft, Onedrive, Speedtest, Steam" 
+# Remark: 1.Remove "no-resolve, PayPal, Microsoft, Onedrive, Speedtest, Steam" 
 # UPDATED: 2021-07-11
 # China Area Network
 # > 360
@@ -26,6 +26,19 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
+# > Apple
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN-KEYWORD,apple.com.akadns.net
+# DOMAIN-KEYWORD,icloud.com.akadns.net
 # > Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com

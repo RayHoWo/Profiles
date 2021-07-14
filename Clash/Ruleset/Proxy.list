@@ -155,6 +155,8 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
+# > Apple
+DOMAIN,testflight.apple.com
 # > Crypto
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
@@ -685,6 +687,20 @@ DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,twitter.jp
 
 # (Region-Restricted Access Denied)
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,tv.apple.com // Apple TV Web Preview
+# > App Store Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,lookup-api.apple.com
+# ------
+# > Others
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,dubox.com
@@ -696,6 +712,12 @@ DOMAIN-SUFFIX,sushi.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
+# > Apple
+DOMAIN,appleid.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,www.icloud.com
+DOMAIN,ocsp.apple.com
+DOMAIN,xp.apple.com
 # > DigiCert
 DOMAIN,cacerts.digicert.com
 DOMAIN,crl3.digicert.com
