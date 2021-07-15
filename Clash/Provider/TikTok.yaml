@@ -1,12 +1,12 @@
-# NAME: TikTok
-# AUTHOR: blackmatrix7
-# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TikTok/TikTok.yaml
-# UPDATED: 2021-04-17 00:14:34
-# DOMAIN-SUFFIX: 13
-# DOMAIN-KEYWORD: 1
-# DOMAIN: 1
-# TOTAL: 15
 payload:
+  # NAME: TikTok
+  # AUTHOR: blackmatrix7
+  # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TikTok/TikTok.yaml
+  # UPDATED: 2021-04-17 00:14:34
+  # DOMAIN-SUFFIX: 13
+  # DOMAIN-KEYWORD: 1
+  # DOMAIN: 1
+  # TOTAL: 15
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,byteoversea.com
