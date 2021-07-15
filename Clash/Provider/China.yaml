@@ -1,6 +1,5 @@
 payload:
   # China Area Network
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml
   # Remark: 1.Remove "no-resolve, PayPal, Microsoft, Onedrive, Speedtest, Steam" 
   # UPDATED: 2021-07-15

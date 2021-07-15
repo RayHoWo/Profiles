@@ -1,6 +1,5 @@
 payload:
   # NAME: Privacy
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Privacy.yaml
   # UPDATED: 2021-05-10
   - DOMAIN-SUFFIX,adjust.com

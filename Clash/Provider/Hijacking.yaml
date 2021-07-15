@@ -1,6 +1,5 @@
 payload:
   # NAME: Internet Service Providers Hijacking
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
   # UPDATED: 2021-07-15
   - DOMAIN-SUFFIX,17gouwuba.com

@@ -1,7 +1,6 @@
 # NAME: Reject Ads
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
-# UPDATED: 2021-07-09
+# UPDATED: 2021-07-15
 # > General
 DOMAIN-KEYWORD,adservice
 

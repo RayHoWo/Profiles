@@ -1,6 +1,5 @@
 payload:
   # NAME: Exclusive add-ons
-  # UPDATED: 2021-07-15
   # > SRC-IP-CIDR (192.168.5.55 ~ 192.168.5.100)
   - SRC-IP-CIDR,192.168.5.55/32
   - SRC-IP-CIDR,192.168.5.56/29
@@ -27,7 +26,6 @@ payload:
   - DOMAIN-SUFFIX,wizconnected.cn
   # ------------------------------------
   # NAME: Unbreak
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Unbreak.yaml
   # UPDATED: 2021-07-15
   # > General

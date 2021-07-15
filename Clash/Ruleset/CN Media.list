@@ -1,7 +1,6 @@
 # NAME: CN Media
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-15
 # (Video)
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn

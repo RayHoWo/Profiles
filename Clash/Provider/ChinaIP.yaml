@@ -1,6 +1,5 @@
 payload:
   # ChinaIPs
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/ChinaIP.yaml
   # UPDATED: 2021-07-15
   - '1.0.1.0/24'

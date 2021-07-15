@@ -1,7 +1,6 @@
 # NAME: GCR Media
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingSE.list
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-15
 # > bilibili
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com

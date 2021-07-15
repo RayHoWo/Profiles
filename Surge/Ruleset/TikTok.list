@@ -1,13 +1,6 @@
 # NAME: TikTok
-# AUTHOR: blackmatrix7
 # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TikTok/TikTok.list
-# UPDATED: 2021-05-25 02:30:27
-# DOMAIN-SUFFIX: 13
-# USER-AGENT: 1
-# DOMAIN-KEYWORD: 4
-# PROCESS-NAME: 1
-# DOMAIN: 1
-# TOTAL: 20
+# UPDATED: 2021-07-15
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com

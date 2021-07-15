@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,storage.live.com
 # ------------------------------------
 # NAME: Clubhouse
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
 # UPDATED: 2021-07-09
 IP-CIDR,3.0.163.78/32
@@ -70,7 +69,6 @@ IP-CIDR,202.226.25.166/32
 IP-CIDR,209.177.94.18/32
 # ------------------------------------
 # NAME: Scholar
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
 # UPDATED: 2021-07-12
 DOMAIN,scholar.google.com
@@ -141,7 +139,6 @@ DOMAIN-SUFFIX,worldbank.org
 DOMAIN-SUFFIX,worldscientific.com
 # ------------------------------------
 # NAME: Proxy Rulesetting
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
 # Remark: Remove "no-resolve" for clash ruleset
 # UPDATED: 2021-07-09 

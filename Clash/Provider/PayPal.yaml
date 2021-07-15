@@ -1,6 +1,5 @@
 payload:
   # NAME: PayPal
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/PayPal.yaml
   # UPDATED: 2021-07-15
   - PROCESS-NAME,com.paypal.android.p2pmobile

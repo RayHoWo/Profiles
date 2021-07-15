@@ -1,8 +1,7 @@
 # NAME: China Websites and apps
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-15
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com

@@ -1,5 +1,5 @@
 # NAME: Exclusive add-ons
-# UPDATED: 2021-07-12
+# UPDATED: 2021-07-15
 # > Client
 PROCESS-NAME,UUBooster
 # > Download
@@ -20,9 +20,8 @@ DOMAIN-SUFFIX,myds.me
 DOMAIN-SUFFIX,wizconnected.cn
 # ------------------------------------
 # NAME: Unbreak
-# AUTHOR: DivineEngine
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
-# UPDATED: 2021-07-09 
+# UPDATED: 2021-07-15
 # > General
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
