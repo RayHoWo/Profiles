@@ -1,5 +1,5 @@
+# NAME: Personal addon domains for proxy access
 payload:
-  # NAME: Personal addon domains for proxy access
   # > Wiz World
   - DOMAIN-SUFFIX,wiz.world
   # > Sonos
