@@ -1,20 +1,8 @@
 rule-providers:
-  SRC-IP-CIDR:
+  Unbreak:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Exclusive.yaml'
-    path: ./Rules/Exclusive
-    interval: 86400
-  Special:
-    type: http
-    behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Special.yaml'
-    path: ./Rules/Special
-    interval: 86400
-  Apple:
-    type: http
-    behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Apple.yaml'
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Unbreak.yaml'
     path: ./Rules/Apple
     interval: 86400
   PayPal:
@@ -110,8 +98,8 @@ rule-providers:
   PROXY:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Proxy.yaml'
-    path: ./Rules/Proxy
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/PROXY.yaml'
+    path: ./Rules/PROXY
     interval: 86400
   China:
     type: http
@@ -130,12 +118,10 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/LAN.yaml'
     path: ./Rules/LAN
-    interval: 86400
-    
+    interval: 86400 
+
 rules:
-- RULE-SET,Exclusive,DIRECT
-- RULE-SET,Special,DIRECT
-- RULE-SET,Apple,Apple
+- RULE-SET,Unbreak,DIRECT
 - RULE-SET,PayPal,PayPal
 - RULE-SET,Netflix,Netflix
 - RULE-SET,YouTube,YouTube
@@ -151,7 +137,7 @@ rules:
 - RULE-SET,HK Media,Hong Kong
 - RULE-SET,TW Media,Taiwan
 - RULE-SET,Game,Game
-- RULE-SET,PROXY,Proxy
+- RULE-SET,PROXY,PROXY
 - RULE-SET,China,DIRECT
 - RULE-SET,ChinaIP,DIRECT
 - RULE-SET,LAN,DIRECT
@@ -166,14 +152,12 @@ rules:
 - GEOIP,HK,Hong Kong
 - GEOIP,CN,DIRECT
 
-- MATCH,Proxy
+- MATCH,PROXY
 
 script:
   code: |
     def main(ctx, metadata):
-        ruleset_action = {"Exclusive": "DIRECT",
-            "Special": "DIRECT",
-            "Apple": "Apple",
+        ruleset_action = {"Unbreak": "DIRECT",
             "PayPal": "PayPal",
             "Netflix": "Netflix",
             "YouTube": "YouTube",
@@ -189,7 +173,7 @@ script:
             "HK Media": "Hong Kong",
             "TW Media": "Taiwan",
             "Game": "Game",
-            "PROXY": "Proxy",
+            "PROXY": "PROXY",
             "China": "DIRECT",
             "ChinaIPs": "DIRECT",
             "LAN": "DIRECT"
@@ -223,5 +207,5 @@ script:
             return "DIRECT"
 
         ctx.log('[Script] FINAL')
-        return "Proxy"
-        
+        return "PROXY"
+               
