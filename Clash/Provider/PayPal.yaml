@@ -1,10 +1,9 @@
-# NAME: Proxy Rulesetting
-# AUTHOR: lhie1
-# REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Clash/Provider/PayPal.yaml
-# UPDATED: 2021-04-19 
-payload:  
-  # > PayPal
-  # - User-Agent,PayPal*
-  - DOMAIN-KEYWORD,paypal
+payload:
+  # NAME: PayPal
+  # AUTHOR: DivineEngine
+  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/PayPal.yaml
+  # UPDATED: 2021-07-15
+  - PROCESS-NAME,com.paypal.android.p2pmobile
   - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
   - DOMAIN-SUFFIX,paypalobjects.com

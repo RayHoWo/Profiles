@@ -1,5 +1,5 @@
-# NAME: Japan Media
 payload:
+  # NAME: Japan Media
   # > AbemaTV
   # USER-AGENT,AbemaTV*
   - DOMAIN-SUFFIX,abema.io

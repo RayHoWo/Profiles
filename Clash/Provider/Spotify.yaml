@@ -1,12 +1,12 @@
-# NAME: Spotify
-# AUTHOR: blackmatrix7
-# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Spotify/Spotify.yaml
-# UPDATED: 2021-04-17 00:14:34
-# DOMAIN-SUFFIX: 16
-# DOMAIN-KEYWORD: 2
-# IP-CIDR: 1
-# TOTAL: 19
 payload:
+  # NAME: Spotify
+  # AUTHOR: blackmatrix7
+  # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Spotify/Spotify.yaml
+  # UPDATED: 2021-04-17 00:14:34
+  # DOMAIN-SUFFIX: 16
+  # DOMAIN-KEYWORD: 2
+  # IP-CIDR: 1
+  # TOTAL: 19
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net

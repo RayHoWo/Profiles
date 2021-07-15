@@ -1,11 +1,11 @@
-# NAME: Internet Service Providers Hijacking
-# AUTHOR: DivineEngine
-# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
-# UPDATED: 2021-05-10
 payload:
-  # Internet Service Providers Hijacking
+  # NAME: Internet Service Providers Hijacking
+  # AUTHOR: DivineEngine
+  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
+  # UPDATED: 2021-07-15
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
+  - DOMAIN-SUFFIX,189key.com
   - DOMAIN-SUFFIX,189zj.cn
   - DOMAIN-SUFFIX,285680.com
   - DOMAIN-SUFFIX,3721zh.com
@@ -97,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,tcxshop.com
   - DOMAIN-SUFFIX,tjqonline.cn
   - DOMAIN-SUFFIX,topitme.com
+  - DOMAIN-SUFFIX,tt114.net
   - DOMAIN-SUFFIX,tt3sm4.cn
   - DOMAIN-SUFFIX,tuia.cn
   - DOMAIN-SUFFIX,tuipenguin.com
@@ -205,7 +206,6 @@ payload:
   - DOMAIN-SUFFIX,huishenghuiying.com.cn
   - DOMAIN-SUFFIX,hypersnap.net
   - DOMAIN-SUFFIX,iconworkshop.cn
-  - DOMAIN-SUFFIX,idmchina.net
   - DOMAIN-SUFFIX,imindmap.cc
   - DOMAIN-SUFFIX,jihehuaban.com.cn
   - DOMAIN-SUFFIX,keyshot.cc
@@ -240,4 +240,3 @@ payload:
   - DOMAIN-SUFFIX,yuanchengxiezuo.com
   - DOMAIN-SUFFIX,zbrushcn.com
   - DOMAIN-SUFFIX,zhzzx.com
-
