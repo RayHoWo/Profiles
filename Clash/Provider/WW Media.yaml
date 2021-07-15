@@ -1,5 +1,5 @@
-# NAME: Multiple Region Media
 payload:
+  # NAME: Multiple Region Media
   # > DAZN
   # USER-AGENT,DAZN*
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
