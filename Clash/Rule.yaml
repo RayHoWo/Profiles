@@ -3,7 +3,7 @@ rule-providers:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Unbreak.yaml'
-    path: ./Rules/Apple
+    path: ./Rules/Unbreak
     interval: 86400
   PayPal:
     type: http
@@ -34,18 +34,6 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Spotify.yaml'
     path: ./Rules/Spotify
-    interval: 86400
-  WW Media:
-    type: http
-    behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/WW Media.yaml'
-    path: ./Rules/WW Media
-    interval: 86400
-  GCR Media:
-    type: http
-    behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Special.yaml'
-    path: ./Rules/GCR Media
     interval: 86400
   US Media:
     type: http
@@ -89,6 +77,24 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TW%20Media.yaml'
     path: ./Rules/TW Media
     interval: 86400
+  WW Media:
+    type: http
+    behavior: classical
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/WW%20Media.yaml'
+    path: ./Rules/WW Media
+    interval: 86400
+  GCR Media:
+    type: http
+    behavior: classical
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/GCR%20Media.yaml'
+    path: ./Rules/GCR Media
+    interval: 86400
+  CN Media:
+    type: http
+    behavior: classical
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/CN%20Media.yaml'
+    path: ./Rules/WW Media
+    interval: 86400
   Game:
     type: http
     behavior: classical
@@ -118,7 +124,7 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/LAN.yaml'
     path: ./Rules/LAN
-    interval: 86400 
+    interval: 86400        
 
 rules:
 - RULE-SET,Unbreak,DIRECT
@@ -127,8 +133,6 @@ rules:
 - RULE-SET,YouTube,YouTube
 - RULE-SET,TikTok,TikTok
 - RULE-SET,Spotify,Spotify
-- RULE-SET,WW Media,WW Media
-- RULE-SET,GCR Media,GCR Media
 - RULE-SET,US Media,United States
 - RULE-SET,UK Media,United Kingdom
 - RULE-SET,JP Media,Japan
@@ -136,6 +140,9 @@ rules:
 - RULE-SET,SG Media,Singapore
 - RULE-SET,HK Media,Hong Kong
 - RULE-SET,TW Media,Taiwan
+- RULE-SET,WW Media,WW Media
+- RULE-SET,GCR Media,GCR Media
+- RULE-SET,CN Media,DIRECT
 - RULE-SET,Game,Game
 - RULE-SET,PROXY,PROXY
 - RULE-SET,China,DIRECT
@@ -163,8 +170,6 @@ script:
             "YouTube": "YouTube",
             "TikTok": "TikTok",
             "Spotify": "Spotify",
-            "WW Media": "WW Media",
-            "GCR Media": "GCR Media",
             "US Media": "United States",
             "UK Media": "United Kingdom",
             "JP Media": "Japan",
@@ -172,6 +177,9 @@ script:
             "SG Media": "Singapore",
             "HK Media": "Hong Kong",
             "TW Media": "Taiwan",
+            "WW Media": "WW Media",
+            "GCR Media": "GCR Media",     
+            "CN Media": "DIRECT",                       
             "Game": "Game",
             "PROXY": "PROXY",
             "China": "DIRECT",
@@ -208,4 +216,3 @@ script:
 
         ctx.log('[Script] FINAL')
         return "PROXY"
-               
