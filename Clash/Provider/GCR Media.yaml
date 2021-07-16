@@ -1,4 +1,7 @@
 payload:
+  # NAME: StreamingSE
+  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingSE.yaml
+  # UPDATED: 2021-07-15
   # > bilibili
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,bilibili.com
