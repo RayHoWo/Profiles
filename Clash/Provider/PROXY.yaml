@@ -1,5 +1,5 @@
-# NAME: Personal addon domains for proxy access
 payload:
+  # NAME: Personal addon domains for proxy access
   # > Wiz World
   - DOMAIN-SUFFIX,wiz.world
   # > Sonos
@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,storage.live.com
   # ------------------------------------
-  # NAME: PayPal
+  # NAME: Clubhouse
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/Clubhouse.yaml
   # UPDATED: 2021-07-15
   # 如果的你代理服务器不支持或没有开启 udp-relay，请不要使用本文件。
@@ -141,7 +141,6 @@ payload:
   - DOMAIN-SUFFIX,worldscientific.com
   # ------------------------------------
   # NAME: Global
-  # AUTHOR: DivineEngine
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Global.yaml
   # UPDATED: 2021-07-15
   # (DNS Cache Pollution)

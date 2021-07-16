@@ -1,13 +1,7 @@
 payload:
   # NAME: Netflix
-  # AUTHOR: blackmatrix7
   # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Netflix/Netflix.yaml
-  # UPDATED: 2021-04-17 00:14:34
-  # DOMAIN-SUFFIX: 18
-  # IP-CIDR: 20
-  # DOMAIN-KEYWORD: 2
-  # DOMAIN: 1
-  # TOTAL: 41
+  # UPDATED: 2021-07-15
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,netflix.com
