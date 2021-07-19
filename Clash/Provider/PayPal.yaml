@@ -1,0 +1,8 @@
+# NAME: PayPal
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/PayPal.yaml
+# UPDATED: 2021-07-15
+payload:
+  - PROCESS-NAME,com.paypal.android.p2pmobile
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypalobjects.com
