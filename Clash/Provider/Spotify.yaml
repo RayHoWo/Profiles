@@ -1,7 +1,7 @@
+# NAME: Spotify
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Spotify/Spotify.yaml
+# UPDATED: 2021-07-15
 payload:
-  # NAME: Spotify
-  # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Spotify/Spotify.yaml
-  # UPDATED: 2021-07-15
   - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net

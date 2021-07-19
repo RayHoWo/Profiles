@@ -1,7 +1,7 @@
+# NAME: Internet Service Providers Hijacking
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
+# UPDATED: 2021-07-15
 payload:
-  # NAME: Internet Service Providers Hijacking
-  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml
-  # UPDATED: 2021-07-15
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
   - DOMAIN-SUFFIX,189key.com

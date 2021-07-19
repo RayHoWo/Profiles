@@ -1,5 +1,6 @@
+# NAME: Korea Media
+# UPDATED: 2021-07-19
 payload:
-  # NAME: Korea Media
   # > KBSTV
   - DOMAIN-KEYWORD,kbsworld
   - DOMAIN-SUFFIX,kbs.co.kr

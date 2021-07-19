@@ -1,7 +1,7 @@
+# NAME: CN Media
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingCN.yaml
+# UPDATED: 2021-07-15
 payload:
-  # NAME: CN Media
-  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/StreamingMedia/StreamingCN.yaml
-  # UPDATED: 2021-07-15
   # (Video)
   # > Acfun
   - DOMAIN-SUFFIX,acfun.cn

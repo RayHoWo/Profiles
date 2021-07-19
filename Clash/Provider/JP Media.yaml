@@ -1,5 +1,6 @@
+# NAME: Japan Media
+# UPDATED: 2021-07-19
 payload:
-  # NAME: Japan Media
   # > AbemaTV
   # USER-AGENT,AbemaTV*
   - DOMAIN-SUFFIX,abema.io

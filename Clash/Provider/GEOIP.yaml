@@ -1,5 +1,5 @@
+# NAME: GEOIP Country
 payload:  
-  # NAME: GEOIP Country
   - GEOIP,US,United States
   - GEOIP,GB,United Kingdom
   - GEOIP,DE,Germany

@@ -1,5 +1,6 @@
+# NAME: Hong Kong Media
+# UPDATED: 2021-07-19
 payload: 
-  # NAME: Hong Kong Media
   # > HBO GO
   # USER-AGENT,HBO%20GO%20PROD%20HKG*
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com

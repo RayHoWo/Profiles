@@ -1,5 +1,6 @@
+# NAME: Taiwan Media
+# UPDATED: 2021-07-19
 payload:
-  # NAME: Taiwan Media
   # > Bahamut
   # USER-AGENT,Anime*
   - DOMAIN-SUFFIX,bahamut.com.tw

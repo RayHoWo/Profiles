@@ -1,5 +1,5 @@
+# NAME: Local Area Network
 payload:
-  # NAME: Local Area Network
   - DOMAIN-SUFFIX,local
   - IP-CIDR,127.0.0.0/8
   - IP-CIDR,172.16.0.0/12

@@ -1,7 +1,7 @@
+# NAME: Advertising
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Advertising.yaml
+# UPDATED: 2021-05-10
 payload:
-  # NAME: Advertising
-  # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Advertising.yaml
-  # UPDATED: 2021-05-10
   # > General
   - DOMAIN-KEYWORD,adservice
 
