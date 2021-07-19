@@ -1,0 +1,41 @@
+payload:
+  # NAME: Japan Media
+  # > AbemaTV
+  # USER-AGENT,AbemaTV*
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,ameba.jp
+  - DOMAIN-SUFFIX,hayabusa.io
+  - DOMAIN-KEYWORD,abematv.akamaized.net
+
+# > Hulu(フールー)
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,prod.hjholdings.tv
+  - DOMAIN-SUFFIX,streaks.jp
+  - DOMAIN-SUFFIX,yb.uncn.jp
+
+  # > Japonx
+  - DOMAIN-KEYWORD,japonx
+  - DOMAIN-KEYWORD,japronx
+  - DOMAIN-SUFFIX,japonx.com
+  - DOMAIN-SUFFIX,japonx.tv
+  - DOMAIN-SUFFIX,japonx.net
+  - DOMAIN-SUFFIX,japonx.vip
+  - DOMAIN-SUFFIX,japronx.com
+  - DOMAIN-SUFFIX,japronx.tv
+  - DOMAIN-SUFFIX,japronx.net
+  - DOMAIN-SUFFIX,japronx.vip
+
+  # > niconico
+  # USER-AGENT,Niconico*
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,socdm.com
+
+  # > TVer
+  # USER-AGENT,TVer-Release*
+  - DOMAIN-SUFFIX,tver.jp
+  - DOMAIN,edge.api.brightcove.com
