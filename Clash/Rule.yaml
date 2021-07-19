@@ -3,55 +3,55 @@ rule-providers:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Unbreak.yaml'
-    path: ./Rules/Unbreak
+    path: ./Rules/Unbreak.yaml
     interval: 86400
   PayPal:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/PayPal.yaml'
-    path: ./Rules/PayPal
+    path: ./Rules/PayPal.yaml
     interval: 86400
   Netflix:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Netflix.yaml'
-    path: ./Rules/Netflix
+    path: ./Rules/Netflix.yaml
     interval: 86400
   YouTube:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/YouTube.yaml'
-    path: ./Rules/YouTube
+    path: ./Rules/YouTube.yaml
     interval: 86400
   TikTok:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TikTok.yaml'
-    path: ./Rules/TikTok
+    path: ./Rules/TikTok.yaml
     interval: 86400
   Spotify:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Spotify.yaml'
-    path: ./Rules/Spotify
+    path: ./Rules/Spotify.yaml
     interval: 86400
   US Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/US%20Media.yaml'
-    path: ./Rules/US Media
+    path: ./Rules/US Media.yaml
     interval: 86400
   UK Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/UK%20Media.yaml'
-    path: ./Rules/UK Media
+    path: ./Rules/UK Media.yaml
     interval: 86400
   JP Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/JP%20Media.yaml'
-    path: ./Rules/JP Media
+    path: ./Rules/JP Media.yaml
     interval: 86400
   KR Media:
     type: http
@@ -63,55 +63,55 @@ rule-providers:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/SG%20Media.yaml'
-    path: ./Rules/SG Media
+    path: ./Rules/SG Media.yaml
     interval: 86400
   HK Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/HK%20Media.yaml'
-    path: ./Rules/HK Media
+    path: ./Rules/HK Media.yaml
     interval: 86400
   TW Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/TW%20Media.yaml'
-    path: ./Rules/TW Media
+    path: ./Rules/TW Media.yaml
     interval: 86400
   WW Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/WW%20Media.yaml'
-    path: ./Rules/WW Media
+    path: ./Rules/WW Media.yaml
     interval: 86400
   GCR Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/GCR%20Media.yaml'
-    path: ./Rules/GCR Media
+    path: ./Rules/GCR Media.yaml
     interval: 86400
   CN Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/CN%20Media.yaml'
-    path: ./Rules/WW Media
+    path: ./Rules/CN Media.yaml
     interval: 86400
   Game:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/Game.yaml'
-    path: ./Rules/Game
+    path: ./Rules/Game.yaml
     interval: 86400
   PROXY:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/PROXY.yaml'
-    path: ./Rules/PROXY
+    path: ./Rules/PROXY.yaml
     interval: 86400
   China:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/China.yaml'
-    path: ./Rules/China
+    path: ./Rules/China.yaml
     interval: 86400
   ChinaIP:
     type: http
@@ -123,7 +123,7 @@ rule-providers:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Provider/LAN.yaml'
-    path: ./Rules/LAN
+    path: ./Rules/LAN.yaml
     interval: 86400        
 
 rules:
