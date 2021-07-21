@@ -1,19 +1,16 @@
 #!name=TikTok JP
-#!desc=TikTok JP unlock
-#!author=Semporia
-#!repo=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/TikTokUnlock/TikTokJP.sgmodule
-#!UPDATED: 2021-04-29 
-
-#!rewrite=4
-#!script=0
-#!force_http_engine_hosts=0
-#!mitm=3
+#!desc=TikTok Unlock
+#!repo=https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTokJP.sgmodule
+#!UPDATED: 2021-07-21
 
 [URL Rewrite]
-(?<=&mcc_mnc=)4 2 307
 (?<=_region=)CN(?=&) JP 307
-(^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
-^(https?:\/\/(tnc|dm)[\w-]+\.\w+\.com\/.+)(\?)(.+) $1$3 302
+(^h.+v5\/)(.+) $1 302
+(?<=&mcc_mnc=)4 2 307
+(?<=eme\/v)2(?=\/f\w{2}d\/\?.*) 1 302
+
+[Script]
+http-response https?:\/\/.*\.tiktokv\.com\/aweme\/v\d\/(feed|mix\/aweme|aweme\/post|(multi\/)?aweme\/detail|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list|aweme\/favorite) script-path=https://gitee.com/bp233/copywriting-assistant/raw/master/k8.js, requires-body=true, timeout=10, tag=TK去水印
 
 [MITM]
-hostname = %APPEND% *.byteoversea.com,*.tik-tokapi.com,*.tiktokv.com
+hostname = %APPEND% *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
