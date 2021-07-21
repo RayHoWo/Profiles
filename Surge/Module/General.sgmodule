@@ -1,9 +1,9 @@
+#!name=General URL Optimization
+#!desc=URL Optimization，include Google search, Google map, Weibo, AbeamTV region restriction
+
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/General.sgmodule
 # Remark: Copy from [URL Rewrite]
 # UPDATED: 2021-07-11 
-
-#!name=General URL Optimization
-#!desc=URL Optimization，include Google search, Google map, Weibo, AbeamTV region restriction
 
 [URL Rewrite]
 # Redirect Google Search Service
