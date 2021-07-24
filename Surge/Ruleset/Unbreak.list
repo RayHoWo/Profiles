@@ -13,6 +13,7 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 # > Router Access
+DOMAIN-SUFFIX,unmsapp.com
 DOMAIN-SUFFIX,netgear.com
 # > NAS Access
 DOMAIN-SUFFIX,myds.me
