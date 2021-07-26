@@ -1,9 +1,5 @@
 # NAME: Exclusive add-ons
 # UPDATED: 2021-07-15
-# > Speedtest by Ookla
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
 # > Client
 PROCESS-NAME,UUBooster
 # > Download

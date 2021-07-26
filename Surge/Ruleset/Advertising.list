@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,iad-06.braze.com
 DOMAIN-SUFFIX,iad-08.braze.com
 
 # (C)
+# > CCTVVideo
+DOMAIN,adstore-index-1252524079.file.myqcloud.com
 # > CNTV
 DOMAIN,galaxy.bjcathay.com
 DOMAIN,mdrecv.app.cntvwb.cn
@@ -261,6 +263,7 @@ DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com
+DOMAIN,adstats.tencentmusic.com
 DOMAIN,adserviceretry.kugou.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
