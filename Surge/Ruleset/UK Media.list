@@ -1,5 +1,5 @@
 # NAME: United Kingdom Media
-# UPDATED: 2021-07-11
+# UPDATED: 2021-07-27
 # > All4
 USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bidi.net.uk
 # > ITV
 USER-AGENT,ITV_Player*
 DOMAIN-SUFFIX,itv.com
