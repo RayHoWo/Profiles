@@ -16,6 +16,7 @@ PROCESS-NAME,WebTorrent Helper
 DOMAIN-SUFFIX,unmsapp.com
 DOMAIN-SUFFIX,netgear.com
 # > NAS Access
+DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,myds.me
 # > Wiz CN
 DOMAIN-SUFFIX,wizconnected.cn
