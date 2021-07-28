@@ -1,6 +1,6 @@
 # NAME: Reject Ads
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
-# UPDATED: 2021-07-15
+# UPDATED: 2021-07-28
 # > General
 DOMAIN-KEYWORD,adservice
 
@@ -99,6 +99,10 @@ DOMAIN,logs.chelaile.net.cn
 DOMAIN,dispatcher.360in.com
 DOMAIN,ad.360in.com
 DOMAIN,exp.360in.com
+
+# (D)
+# > Douban
+AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
 
 # (G)
 # > Google
