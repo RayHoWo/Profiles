@@ -1,5 +1,7 @@
 #!name=Wikiwand
 #!desc=Wikipedia to Wikiwand
+#!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Wikiwand.sgmodule
+#!UPDATED: 2021-07-28
 
 [URL Rewrite]
 ^https://zh.(m.)?wikipedia.org/zh(-\w*)?(?=/) https://www.wikiwand.com/zh$2 302
