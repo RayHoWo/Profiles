@@ -65,12 +65,13 @@ DOMAIN-SUFFIX,disney-portal.my.onetrust.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
-# > encoreTVB
-USER-AGENT,encoreTVB*
-DOMAIN-SUFFIX,encoretvb.com
+# > encoreTVB 
+DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
-DOMAIN,content.jwplatform.com
-DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+USER-AGENT,encoreTVB*
 # > Fox Now
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
