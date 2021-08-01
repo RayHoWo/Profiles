@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,js-agent.newrelic.com
 # > encoreTVB
 USER-AGENT,encoreTVB*
 DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,edge.api.brightcove.com
 DOMAIN,content.jwplatform.com
 DOMAIN,videos-f.jwpsrv.com
 # > Fox Now
