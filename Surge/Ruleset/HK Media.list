@@ -1,5 +1,5 @@
 # NAME: Hong Kong Media
-# UPDATED: 2021-07-11
+# UPDATED: 2021-08-01
 # > HBO GO
 USER-AGENT,HBO%20GO%20PROD%20HKG*
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
@@ -24,15 +24,15 @@ USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 # > ViuTV
-USER-AGENT,ViuTV*
-DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,cloudfront.net
+DOMAIN,api.viu.now.com
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,jwpcdn.com
-DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
+DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
+DOMAIN-SUFFIX,dfp6rglgjqszk.cloudfront.net
 DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
-DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
-DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
+DOMAIN-SUFFIX,viu.tv
+USER-AGENT,Viu*
+USER-AGENT,ViuTV*
+PROCESS-NAME,com.vuclip.viu
