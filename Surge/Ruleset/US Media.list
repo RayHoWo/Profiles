@@ -1,5 +1,5 @@
 # NAME: United States Media
-# UPDATED: 2021-07-11
+# UPDATED: 2021-08-01
 # > Google Voice
 USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
@@ -9,17 +9,22 @@ DOMAIN,lens.l.google.com
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 # > Amazon Prime Video
+DOMAIN,atv-ps.amazon.com
+DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,fls-na.amazon.com
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,amazonaws.co.uk
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN,atv-ps.amazon.com
-DOMAIN,fls-na.amazon.com
 # > Apple News and Apple Map TOMTOM Version
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
