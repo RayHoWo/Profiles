@@ -32,9 +32,14 @@ DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
 # > Apple TV
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*
+PROCESS-NAME,tv
 # > Discovery Plus
 USER-AGENT,DPlus*
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
