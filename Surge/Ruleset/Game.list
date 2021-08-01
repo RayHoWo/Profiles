@@ -22,7 +22,7 @@ DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,origin-a.akamaihd.net // Akamai
 DOMAIN,ssl-lvlt.cdn.ea.com // Level3-CDN
 DOMAIN,rtm.tnt-ea.com
-# Steam
+# > Steam
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamgames.com
