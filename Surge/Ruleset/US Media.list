@@ -37,16 +37,17 @@ USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
 # > Apple News and Apple Map TOMTOM Version
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN,gspe1-ssl.ls.apple.com
-USER-AGENT,News*
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+PROCESS-NAME,news
 # > Apple TV
 DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
