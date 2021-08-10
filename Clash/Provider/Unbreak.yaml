@@ -31,6 +31,10 @@ payload:
   - DOMAIN-SUFFIX,eebbk.net
   - DOMAIN-SUFFIX,watch.okii.com
   - DOMAIN-SUFFIX,tiancaixing.com
+  # > LinkedIn
+  # USER-AGENT,LinkedIn*
+  - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,linkedin.com
   # ------------------------------------
   # NAME: Unbreak
   # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Unbreak.yaml
