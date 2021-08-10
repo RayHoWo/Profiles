@@ -1,6 +1,7 @@
 # China Area Network
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml
-# Remark: 1.Remove "no-resolve, PayPal, Microsoft, Onedrive, Speedtest, Steam" 
+# Remark: 1.Remove "no-resolve, PayPal, Microsoft, Onedrive, Speedtest, Steam"  
+#         2. move "DOMAIN-SUFFIX,licdn.com", "DOMAIN-SUFFIX,linkedin.com" to Unbreak direct acess
 # UPDATED: 2021-07-15
 payload:
   # > 360
@@ -285,8 +286,6 @@ payload:
   - DOMAIN-SUFFIX,keepcdn.com
   - DOMAIN-SUFFIX,kkmh.com
   - DOMAIN-SUFFIX,lanzous.com
-  - DOMAIN-SUFFIX,licdn.com
-  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,luojilab.com
   - DOMAIN-SUFFIX,maoyan.com
   - DOMAIN-SUFFIX,maoyun.tv
