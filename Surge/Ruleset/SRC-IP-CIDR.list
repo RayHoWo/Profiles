@@ -1,5 +1,5 @@
 # NAME: SRC-IP-CIDR
-# UPDATED: 2021-08-02
+# UPDATED: 2021-08-16
 # > Specified devices for direct access
 # SRC-IP-CIDR,192.168.5.21/32
 SRC-IP-CIDR,192.168.5.22/32
