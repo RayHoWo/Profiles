@@ -184,6 +184,8 @@ DOMAIN,geo2.adobe.com
 # https://www.zhihu.com/question/46746200
 DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,abbyychina.com
+DOMAIN-SUFFIX,alienskins.cn
+DOMAIN-SUFFIX,anydeskchina.cn
 DOMAIN-SUFFIX,bartender.cc
 DOMAIN-SUFFIX,betterzip.net
 DOMAIN-SUFFIX,betterzipcn.com
@@ -200,9 +202,11 @@ DOMAIN-SUFFIX,earmasterchina.cn
 DOMAIN-SUFFIX,easyrecoverychina.com
 DOMAIN-SUFFIX,ediuschina.com
 DOMAIN-SUFFIX,flstudiochina.com
+DOMAIN-SUFFIX,folxchina.cn
 DOMAIN-SUFFIX,formysql.com
 DOMAIN-SUFFIX,guitarpro.cc
 DOMAIN-SUFFIX,huishenghuiying.com.cn
+DOMAIN-SUFFIX,hypeapp.cn
 DOMAIN-SUFFIX,hypersnap.net
 DOMAIN-SUFFIX,iconworkshop.cn
 DOMAIN-SUFFIX,imindmap.cc
@@ -239,4 +243,3 @@ DOMAIN-SUFFIX,yihuifu.cn
 DOMAIN-SUFFIX,yuanchengxiezuo.com
 DOMAIN-SUFFIX,zbrushcn.com
 DOMAIN-SUFFIX,zhzzx.com
-DOMAIN-SUFFIX,anydeskchina.cn
