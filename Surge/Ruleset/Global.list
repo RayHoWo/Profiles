@@ -1,5 +1,5 @@
 # NAME: Personal addon domains for proxy access
-# UPDATED: 2021-07-15
+# UPDATED: 2021-08-27
 # > Wiz World
 DOMAIN-SUFFIX,wiz.world
 # > Sonos
@@ -685,7 +685,6 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gwtproject.org
@@ -739,6 +738,9 @@ DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,lookup-api.apple.com
 # ------
+# Google
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
 # > Others
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cccat.io
