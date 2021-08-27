@@ -169,6 +169,7 @@ DOMAIN,c1wx.lianwangtech.com
 DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.msn.com
+DOMAIN-SUFFIX,bingads.microsoft.com
 DOMAIN-SUFFIX,rads.msn.com
 DOMAIN,mobileads.msn.com
 # > MojiWeather
@@ -249,6 +250,10 @@ DOMAIN,hui.sohu.com
 # > Snapcha‪t‬
 DOMAIN,ads.snapchat.com
 DOMAIN,adsapi.snapchat.com
+# > Skyworth
+DOMAIN-SUFFIX,hoisin.coocaa.com
+DOMAIN-SUFFIX,hoisin.coocaatv.com
+DOMAIN,data-hoisin.coocaa.com
 
 # (T)
 # --- (Tencent) ---
@@ -258,6 +263,7 @@ DOMAIN-SUFFIX,l.qq.com
 DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.tc.qq.com
+DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
