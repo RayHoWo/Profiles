@@ -92,6 +92,8 @@ DOMAIN-SUFFIX,tvbanywherena.com
 DOMAIN,app-measurement.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,metrics.brightcove.com
+DOMAIN-SUFFIX,rsc.cdn77.org
+DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
 DOMAIN-SUFFIX,us-east-1.prod.boltdns.net
 USER-AGENT,TVBAnywhere*
