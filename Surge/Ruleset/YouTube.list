@@ -1,17 +1,17 @@
 # NAME: Youtube Media
-# UPDATED: 2021-07-11
+# UPDATED: 2021-09-26
 # > Youtube Kids
 USER-AGENT,com.google.ios.youtubekids*
 # > Youtube Music
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
 # > Youtube Video
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 DOMAIN-KEYWORD,youtube
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
+
