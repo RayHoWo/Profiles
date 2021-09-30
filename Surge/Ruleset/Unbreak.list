@@ -15,7 +15,7 @@ PROCESS-NAME,WebTorrent Helper
 # > Router Access
 DOMAIN-SUFFIX,unmsapp.com
 DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,urbanairship.co
 # > NAS Access
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,myds.me
