@@ -2,7 +2,7 @@
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: 1. Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
 #         2. move "DOMAIN-SUFFIX,licdn.com", "DOMAIN-SUFFIX,linkedin.com" to Unbreak direct acess
-# UPDATED: 2021-08-10
+# UPDATED: 2021-10-07
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
