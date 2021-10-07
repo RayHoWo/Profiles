@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,worldscientific.com
 # ------------------------------------
 # NAME: Proxy Rulesetting
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-# UPDATED: 2021-07-15
+# UPDATED: 2021-10-07
 # (DNS Cache Pollution)
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
@@ -731,6 +731,7 @@ DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
 DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,tv.apple.com // Apple TV Web Preview
+DOMAIN,uts-api.itunes.apple.com
 # > App Store Web Preview
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
