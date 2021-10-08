@@ -91,6 +91,29 @@ IP-CIDR,52.58.56.244/32,no-resolve
 IP-CIDR,54.178.26.110/32,no-resolve
 IP-CIDR,69.28.51.148/32,no-resolve
 # ------------------------------------
+# NAME: Cryptocurrency
+# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Cryptocurrency.list
+# UPDATED: 2021-10-08
+# Forum
+DOMAIN-SUFFIX,bitcointalk.org
+# Exchange
+DOMAIN-SUFFIX,aex.com
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,ftx.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,zb.com
+# Analysis
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,aimoon.com
+# ------------------------------------
 # NAME: Scholar
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
 # UPDATED: 2021-07-15
@@ -163,7 +186,7 @@ DOMAIN-SUFFIX,worldscientific.com
 # ------------------------------------
 # NAME: Proxy Rulesetting
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-# UPDATED: 2021-10-07
+# UPDATED: 2021-10-08
 # (DNS Cache Pollution)
 # > Amazon
 DOMAIN-SUFFIX,amazon.co.jp
@@ -601,6 +624,7 @@ DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,tiny.cc
 DOMAIN-SUFFIX,tinyurl.com
 DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
@@ -654,6 +678,7 @@ DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zoom.us
 
 DOMAIN,cc.tvbs.com.tw
+DOMAIN,clubhouse.pubnubapi.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,us.weibo.com
 
@@ -743,6 +768,8 @@ DOMAIN,lookup-api.apple.com
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 # > Others
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cccat.io
 DOMAIN-SUFFIX,dubox.com
