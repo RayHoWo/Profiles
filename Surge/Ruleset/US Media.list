@@ -88,7 +88,6 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 # > TVBAnywhere(EncoreTVB)
-DOMAIN-KEYWORD,encoretvb
 DOMAIN-SUFFIX,tvbanywherena.com
 DOMAIN,app-measurement.com
 DOMAIN,edge.api.brightcove.com
@@ -98,6 +97,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,prod.boltdns.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
+DOMAIN-KEYWORD,encoretvb
 USER-AGENT,TVBAnywhere*
 # > Fox Now
 USER-AGENT,FOX%20NOW*

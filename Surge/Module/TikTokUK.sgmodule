@@ -1,7 +1,7 @@
 #!name=TikTok UK
 #!desc=TikTok 1.80+ Unlock
 #!repo=https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTokUK.sgmodule
-#!UPDATED: 2021-08-24
+#!UPDATED: 2021-07-21
 
 [URL Rewrite]
 (?<=_region=)CN(?=&) UK 307
