@@ -2,14 +2,15 @@
 #!desc=Skip YouTube ads，not for premium user.
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
-#!UPDATED: 2021-10-09
+#!UPDATED: 2021-10-12
 
 [URL Rewrite]
-(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) $1$2 header
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) $1&ctier=A$2 header
 ^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad - reject
 
 ^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads - reject
 ^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) - reject
+^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext - reject
 
 [MITM]
 hostname = %APPEND% -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com
