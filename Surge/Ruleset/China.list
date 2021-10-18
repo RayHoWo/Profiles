@@ -2,6 +2,7 @@
 # > Kaola
 DOMAIN-SUFFIX,kaola.com
 DOMAIN-SUFFIX,kaolacdn.com
+DOMAIN,gw.kaola.com
 # ------------------------------------
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: 1. Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
