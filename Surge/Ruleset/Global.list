@@ -14,6 +14,10 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,ooklaserver.net
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
+# > LinkedIn
+USER-AGENT,LinkedIn*
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
 # > Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,msecnd.net
