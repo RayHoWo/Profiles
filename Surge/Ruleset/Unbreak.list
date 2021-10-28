@@ -26,10 +26,13 @@ USER-AGENT,%E5%B0%8F%E5%A4%A9%E6%89%8D/18*
 DOMAIN-SUFFIX,eebbk.net
 DOMAIN-SUFFIX,watch.okii.com
 DOMAIN-SUFFIX,tiancaixing.com
-# > LinkedIn
-USER-AGENT,LinkedIn*
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
+# > AkzoNobel Working
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,concursolutions.com
+DOMAIN-SUFFIX,successfactors.eu
+DOMAIN,akzonobel.sharepoint.com
+DOMAIN,akzonobels01.palteau.com
+DOMAIN,fed.akzonobel.net
 # ------------------------------------
 # NAME: Unbreak
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
