@@ -785,6 +785,9 @@ DOMAIN,lookup-api.apple.com // Look Up
 DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
+# > Podcasts
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev
