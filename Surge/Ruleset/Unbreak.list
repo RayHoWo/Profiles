@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,watch.okii.com
 DOMAIN-SUFFIX,tiancaixing.com
 # > AkzoNobel Working
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN,outlook.office365.com
 DOMAIN-SUFFIX,concursolutions.com
 DOMAIN-SUFFIX,successfactors.eu
 DOMAIN-SFFIX,akzonobel.service-now.com
