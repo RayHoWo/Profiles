@@ -783,6 +783,7 @@ DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,lookup-api.apple.com // Look Up
 # > Web Preview
 DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
 # > Podcasts
