@@ -2,7 +2,7 @@
 #!desc=Skip YouTube ads，not for premium user.
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
-#!UPDATED: 2021-10-12
+#!UPDATED: 2021-12-04
 
 [URL Rewrite]
 (^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+)&ctier=L(&.+) $1&ctier=A$2 header

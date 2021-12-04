@@ -2,7 +2,7 @@
 #!desc=Block Advertising with Script for Surge iOS
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/AdvertisingPlus.sgmodule
-#!UPDATED: 2021-10-09
+#!UPDATED: 2021-12-04
 
 [URL Rewrite]
 # > Douyin(<= 16.2.0) By Choler

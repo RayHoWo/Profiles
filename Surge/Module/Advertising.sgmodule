@@ -2,7 +2,7 @@
 #!desc=Block Advertising for Surge iOS
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/Advertising.sgmodule
-#!UPDATED: 2021-10-24
+#!UPDATED: 2021-12-04
 
 [General]
 force-http-engine-hosts = %APPEND% intl.iqiyi.com, maicai.api.ddxq.mobi, mobileapi-v6.elong.com, wmapi.meituan.com, weibointl.api.weibo.cn, *.ott.cibntv.net
