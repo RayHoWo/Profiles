@@ -2,11 +2,11 @@
 #!desc=Block Advertising with Script for Surge iOS
 #!system=ios
 #!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/AdvertisingPlus.sgmodule
-#!UPDATED: 2021-12-04
+#!UPDATED: 2021-12-12
 
 [URL Rewrite]
 # > Douyin(<= 16.2.0) By Choler
-^https?:\/\/api.*\.amemv\.com\/aweme\/v\d\/(?!(comment|namek|series|shop)) https://aweme.snssdk.com/aweme/v1/ header
+^https?:\/\/api.*\.amemv\.com\/aweme\/v2\/feed\/ https://aweme.snssdk.com/aweme/v1/feed/ header
 
 [Map Local]
 # ---(By blackmatrix7)---
@@ -16,7 +16,7 @@
 [Script]
 # ---(By Choler)---
 # > Douyin(<= 16.2.0) - api*.amemv.com, aweme.snssdk.com
-douyin = type=http-response,pattern=^https?:\/\/aweme\.snssdk\.com\/aweme\/v[12]\/((|follow\/|nearby\/)feed|aweme\/post|hot\/search\/video\/list|mix\/aweme|aweme\/detail)\/\?,requires-body=1,script-path=https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
+douyin = type=http-response,pattern=^https?:\/\/aweme\.snssdk\.com\/aweme\/v\d\/feed\/,requires-body=1,script-path=https://raw.githubusercontent.com/Choler/Surge/master/Script/douyin.js
 # ------
 
 # ---(By yichahucha)---
