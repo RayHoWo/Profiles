@@ -5,8 +5,7 @@ DOMAIN-SUFFIX,kaolacdn.com
 DOMAIN,gw.kaola.com
 # ------------------------------------
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-# Remark: 1. Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
-#         2. move "DOMAIN-SUFFIX,licdn.com", "DOMAIN-SUFFIX,linkedin.com" to Unbreak direct acess
+# Remark: Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
 # UPDATED: 2021-10-24
 # China Area Network
 # > 360
