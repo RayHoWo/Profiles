@@ -6,7 +6,7 @@ DOMAIN,gw.kaola.com
 # ------------------------------------
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
-# UPDATED: 2021-10-24
+# UPDATED: 2021-12-26
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -165,15 +165,6 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
-IP-CIDR,129.226.3.47/32,no-resolve
-IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 # > Content Delivery Network
