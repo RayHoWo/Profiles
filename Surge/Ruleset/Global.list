@@ -97,7 +97,7 @@ IP-CIDR,69.28.51.148/32,no-resolve
 # ------------------------------------
 # NAME: Cryptocurrency
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Cryptocurrency.list
-# UPDATED: 2021-12-23
+# UPDATED: 2021-12-31
 # Forum
 DOMAIN-SUFFIX,bitcointalk.org
 # Exchange
@@ -135,6 +135,8 @@ DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,bnappzh.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
+# Explorer 
+DOMAIN-SUFFIX,etherscan.io
 # Analysis
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
