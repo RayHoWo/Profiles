@@ -1,7 +1,6 @@
 # NAME: Apple API
 # REPO: https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list
-# UPDATED: 2022-01-08
-
+# UPDATED: 2022-01-09
 # > Apple API
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
@@ -26,26 +25,12 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
+# > Apple News
+DOMAIN-SUFFIX,apple.news
+
 # > Apple Maps
 PROCESS-NAME,com.apple.geod
 
 # > TestFlight
 DOMAIN,testflight.apple.com
 
-
-# NAME: Apple News
-# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/News.list
-# UPDATED: 2021-04-19 
-
-# > Apple News
-DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
-PROCESS-NAME,News
-USER-AGENT,AppleNews*
-# USER-AGENT,News* // 「今日头条」亦使用此，故不启用
-USER-AGENT,com.apple.news*
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
