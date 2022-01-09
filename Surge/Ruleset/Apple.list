@@ -25,8 +25,21 @@ IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
 
-# > Apple News
+# NAME: AppleNews
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AppleNews/AppleNews.list
+# UPDATED: 2022-01-09
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
 DOMAIN-SUFFIX,apple.news
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+PROCESS-NAME,news
 
 # > Apple Maps
 PROCESS-NAME,com.apple.geod
