@@ -1,6 +1,6 @@
 # NAME: Reject Ads
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
-# UPDATED: 2021-10-08
+# UPDATED: 2021-10-09
 # > General
 DOMAIN-KEYWORD,adservice
 
@@ -60,6 +60,7 @@ IP-CIDR,124.192.153.42/32,no-resolve
 # ------
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN,ad.toutiao.com
 DOMAIN,dsp.toutiao.com
 DOMAIN,pangolin.snssdk.com
@@ -194,6 +195,7 @@ DOMAIN-SUFFIX,union.youdao.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.yixin.im
 DOMAIN,admusicpic.music.126.net
+DOMAIN,g1.163.com
 DOMAIN,gorgon.youdao.com
 DOMAIN,iad.g.163.com
 DOMAIN,iadmat.nosdn.127.net
@@ -254,7 +256,7 @@ DOMAIN-SUFFIX,ad.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN,hui.sohu.com
-# > Snapcha‪t‬
+# > Snapchat
 DOMAIN,ads.snapchat.com
 DOMAIN,adsapi.snapchat.com
 # > Skyworth
@@ -270,11 +272,13 @@ DOMAIN-SUFFIX,l.qq.com
 DOMAIN,adsmind.apdcdn.tc.qq.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.tc.qq.com
+DOMAIN,adsmind.ugdtimg.com
 DOMAIN,livep.l.t002.ottcn.com
 DOMAIN,pgdt.gtimg.cn
 DOMAIN,pgdt.gtimg.com
 DOMAIN,pgdt.ugdtimg.com
 DOMAIN,splashqqlive.gtimg.com
+DOMAIN,vv.video.qq.com
 DOMAIN,wa.gtimg.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
@@ -290,6 +294,7 @@ DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,mobilelog.kugou.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,rich.kuwo.cn
+DOMAIN,tmead.y.qq.com
 # ------
 # > TongHuaShun
 DOMAIN,adm.10jqka.com.cn
