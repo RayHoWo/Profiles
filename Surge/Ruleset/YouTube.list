@@ -6,8 +6,9 @@ USER-AGENT,com.google.ios.youtubekids*
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 # > Youtube Video
-USER-AGENT,com.google.ios.youtube*
+USER-AGENT,*youtube*
 USER-AGENT,YouTube*
+USER-AGENT,com.google.ios.youtube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
