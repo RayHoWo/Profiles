@@ -1,7 +1,6 @@
 # NAME: TikTok
 # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TikTok/TikTok.list
-# UPDATED: 2021-07-15
-DOMAIN,webcast-va.tiktokv.com
+# UPDATED: 2022-01-09
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com
@@ -9,16 +8,13 @@ DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,sgpstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,musical.ly
-DOMAIN-KEYWORD,tiktok
-DOMAIN-KEYWORD,tiktokv
 USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
+

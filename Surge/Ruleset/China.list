@@ -6,7 +6,7 @@ DOMAIN,gw.kaola.com
 # ------------------------------------
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: Remove "PayPal, Microsoft, Onedrive, Speedtest, Steam"
-# UPDATED: 2021-12-26
+# UPDATED: 2021-10-24
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -73,10 +73,35 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 # > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
-# > DiDi
+# ------------------------------------
+# NAME: Didi
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/DiDi/DiDi.list
+# UPDATED: 2022-01-09
+DOMAIN-SUFFIX,apptaxi.com.cn
+DOMAIN-SUFFIX,cxyule.com
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didi.cn
+DOMAIN-SUFFIX,didi.xin
 DOMAIN-SUFFIX,didialift.com
+DOMAIN-SUFFIX,didiapp.net.cn
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,didimobility.com
+DOMAIN-SUFFIX,didiopenapi.com
+DOMAIN-SUFFIX,didiqiche.com
+DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,diditaxi.com
+DOMAIN-SUFFIX,diditaxi.com.cn
+DOMAIN-SUFFIX,didiwuxian.com
+DOMAIN-SUFFIX,didiyun.com
+DOMAIN-SUFFIX,didiyun.org
+DOMAIN-SUFFIX,didiyunapi.com
+DOMAIN-SUFFIX,juyanwenjuan.com
 DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,xiaojuchefu.cn
+DOMAIN-SUFFIX,xiaojukeji.com
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
@@ -165,6 +190,15 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
+IP-CIDR,101.32.104.4/32,no-resolve
+IP-CIDR,101.32.104.41/32,no-resolve
+IP-CIDR,101.32.104.56/32,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.32.133.16/32,no-resolve
+IP-CIDR,101.32.133.53/32,no-resolve
+IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,129.226.3.47/32,no-resolve
+IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 # > Content Delivery Network
