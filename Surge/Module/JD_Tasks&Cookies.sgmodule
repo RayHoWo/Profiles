@@ -1,76 +1,206 @@
 #!name=JD iOS Tasks&Cookies Module
 #!desc=iOS Tasks&Cookies 模块配置
-#!repo=https://raw.githubusercontent.com/Semporia/Scripts/main/Surge/Task.sgmodule
-#!UPDATED: 2021-11-16
+#!repo=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/external/Surge/JDDailyBonus/JDDailyBonus.sgmodule
+#!UPDATED: 2022-01-09
 
 # Task&Cookies模块配置 
+
+[Rule]
+DOMAIN,awaitpromise.all([,None
+DOMAIN,console.log("\n"+"京东-总红包查询失败"+details),None
+DOMAIN,console.log("\n"+"京东-总红包查询成功"+details),None
+DOMAIN,console.log("\n"+"京东-总钢镚查询失败"+details),None
+DOMAIN,console.log("\n"+"京东-总钢镚查询成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-京豆cookie失效"+details),None
+DOMAIN,console.log("\n"+"京东商城-京豆签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-京豆签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-摇一摇签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-摇一摇签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-现金签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-现金签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-转盘签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-转盘签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-金贴签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-金贴签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-闪购签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-闪购签到成功"+details),None
+DOMAIN,console.log("\n"+"京东商城-魔方签到失败"+details),None
+DOMAIN,console.log("\n"+"京东商城-魔方签到成功"+details),None
+DOMAIN,console.log("\n"+"京东现金-红包签到失败"+details),None
+DOMAIN,console.log("\n"+"京东现金-红包签到成功"+details),None
+DOMAIN,console.log("\n"+"京东转盘cookie失效"+details),None
+DOMAIN,console.log("\n"+"京东金融-钢镚签到失败"+details),None
+DOMAIN,console.log("\n"+"京东金融-钢镚签到成功"+details),None
+DOMAIN,console.log("\n"+"京东闪购-瓜分签到失败"+details),None
+DOMAIN,console.log("\n"+"京东闪购-瓜分签到成功"+details),None
+DOMAIN,console.log("\n京东-总现金查询失败"+details),None
+DOMAIN,console.log("\n京东-总现金查询成功"+details),None
+DOMAIN,console.log("\n京东-总金贴查询失败"+details),None
+DOMAIN,console.log("\n京东-总金贴查询成功"+details),None
+DOMAIN,console.log(`${title}\n${subtitle}\n${message}`),None
+DOMAIN,console.log(`\n${name}-触发自动禁用‼️`),None
+DOMAIN,console.log(`\n${title}二次查询`),None
+DOMAIN,console.log(`\n${title}关注店铺`),None
+DOMAIN,console.log(`\n${title}查询成功${details}`),None
+DOMAIN,console.log(`\n${title}签到失败${details}`),None
+DOMAIN,console.log(`\n${title}签到失败(1)${details}`),None
+DOMAIN,console.log(`\n${title}签到失败(2)${captcha?`\n需要拼图验证,跳过通知记录⚠️`:``}${DETAILS}`)
+DOMAIN,console.log(`\n${title}签到成功${details}`),None
+DOMAIN,console.log(`\n${title}签到成功(1)${details}`),None
+DOMAIN,console.log(`\n${title}签到成功(2)${details}`),None
+DOMAIN,console.log(`\n${title}重复签到`),None
+DOMAIN,console.log(`\n${title}领取异常${details}`),None
+DOMAIN,console.log(`\n京东-总京豆查询失败${details}`),None
+DOMAIN,console.log(`\n京东-总京豆查询成功${details}`),None
+DOMAIN,console.log(`\n京东商城-超市签到失败${details}`),None
+DOMAIN,console.log(`\n京东商城-超市签到成功${details}`),None
+DOMAIN,console.log(`\n京东秒杀-红包查询失败${details}`),None
+DOMAIN,console.log(`\n京东秒杀-红包查询成功${details}`),None
+DOMAIN,console.log(`\n京东秒杀-红包签到失败${details}`);,None
+DOMAIN,console.log(`\n京东秒杀-红包签到成功${details}`);,None
+DOMAIN,console.log(`\n京东魔方-尝试查询活动(${sign})${details}`),None
+DOMAIN,console.log(`\n用户名:${value.name}\n与历史京东[账号${value.item}]cookie相同,跳过写入⚠️`)
+DOMAIN,console.log(`京东${del}开始迁移!`);,None
+DOMAIN,console.log(`京东签到cookiejson格式异常:${e.message||e}\n旧数据内容:${total}`);,None
+DOMAIN,console.log(`异常京东cookie已过滤:${i.cookie}`),None
+DOMAIN,console.log(`异常钢镚body已过滤:${i.jrbody}`),None
+DOMAIN,deletei.jrbody;,None
+DOMAIN,i.cookie=k.join(''),None
+DOMAIN,i.username=i.username?i.username:decodeuricomponent(n.split(/pt_pin=(.+?);/)[1]);,None
+DOMAIN,merge.jdbean.bean=cc.data.continuityaward.beanaward.beancount,None
+DOMAIN,merge.jdbean.bean=cc.data.dailyaward.beanaward.beancount,None
+DOMAIN,merge.jdbean.bean=quantity?quantity[1]:0,None
+DOMAIN,merge.jdbean.fail=1,None
+DOMAIN,merge.jdbean.notify="京东商城-京豆:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:失败,原因:已签过⚠️"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:失败,原因:未知⚠️"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:失败,签到人数较多⚠️"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:失败,需要拼图验证⚠️"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:成功,明细:"+(QUANTITY?QUANTITY[1]:"无")+"京豆🐶"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:成功,明细:"+CC.DATA.CONTINUITYAWARD.BEANAWARD.BEANCOUNT+"京豆🐶"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:成功,明细:"+CC.DATA.DAILYAWARD.BEANAWARD.BEANCOUNT+"京豆🐶"
+DOMAIN,merge.jdbean.notify="京东商城-京豆:成功,明细:无京豆🐶"
+DOMAIN,merge.jdbean.success=1,None
+DOMAIN,merge.jdbean={};,None
+DOMAIN,merge.jdcash.cash=cc.result.signresult.signdata.amount||0,None
+DOMAIN,merge.jdcash.fail=1,None
+DOMAIN,merge.jdcash.notify="京东现金-红包:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdcash.notify="京东现金-红包:失败,原因:已签过⚠️"
+DOMAIN,merge.jdcash.notify="京东现金-红包:失败,原因:活动已结束⚠️"
+DOMAIN,merge.jdcash.notify=`京东现金-红包:失败,${MSG||`原因:未知`}⚠️`
+DOMAIN,merge.jdcash.notify=`京东现金-红包:成功,明细:${MERGE.JDCASH.CASH||`无`}红包🧧`
+DOMAIN,merge.jdcash.success=1,None
+DOMAIN,merge.jdcash={};,None
+DOMAIN,merge.jdcube.bean=cc.result.lotteryinfo.quantity||0,None
+DOMAIN,merge.jdcube.fail=1,None
+DOMAIN,merge.jdcube.notify="京东商城-魔方:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdcube.notify="京东商城-魔方:失败,原因:无机会⚠️"
+DOMAIN,merge.jdcube.notify="京东商城-魔方:失败,原因:未知⚠️"
+DOMAIN,merge.jdcube.notify="京东商城-魔方:失败,原因:活动已结束⚠️"
+DOMAIN,merge.jdcube.notify=`京东商城-魔方:成功,明细:${CC.RESULT.LOTTERYINFO.NAME||`未知`}🎉`
+DOMAIN,merge.jdcube.notify=`京东商城-魔方:成功,明细:${MERGE.JDCUBE.BEAN||`无`}京豆🐶`
+DOMAIN,merge.jdcube.success=1,None
+DOMAIN,merge.jdcube={};,None
+DOMAIN,merge.jdfsale.bean=cc.result.jdbeannum||0,None
+DOMAIN,merge.jdfsale.fail=1,None
+DOMAIN,merge.jdfsale.notify="京东商城-闪购:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdfsale.notify="京东商城-闪购:失败,原因:已签过⚠️"
+DOMAIN,merge.jdfsale.notify="京东商城-闪购:成功,明细:"+(MERGE.JDFSALE.BEAN||"无")+"京豆🐶"
+DOMAIN,merge.jdfsale.notify="京东闪购-瓜分:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdfsale.notify="京东闪购-瓜分:失败,原因:已瓜分⚠️"
+DOMAIN,merge.jdfsale.notify="京东闪购-瓜分:失败,原因:活动已结束⚠️"
+DOMAIN,merge.jdfsale.notify="京东闪购-瓜分:成功,明细:"+(MERGE.JDFSALE.BEAN||"无")+"京豆🐶"
+DOMAIN,merge.jdfsale.notify=`京东商城-闪购:失败,${MSG?MSG[1]:`原因:未知`}⚠️`
+DOMAIN,merge.jdfsale.notify=`京东闪购-瓜分:失败,${MSG?MSG[1]:`原因:未知`}⚠️`
+DOMAIN,merge.jdfsale.success=1,None
+DOMAIN,merge.jdfsale={};,None
+DOMAIN,merge.jdgetcash.fail=1,None
+DOMAIN,merge.jdgetcash.money=cc.data.result.signcash||0,None
+DOMAIN,merge.jdgetcash.notify="京东商城-现金:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdgetcash.notify="京东商城-现金:失败,原因:已签过⚠️"
+DOMAIN,merge.jdgetcash.notify="京东商城-现金:失败,原因:未知⚠️"
+DOMAIN,merge.jdgetcash.notify=`京东商城-现金:成功,明细:${CC.DATA.RESULT.SIGNCASH||`无`}现金💰`
+DOMAIN,merge.jdgetcash.success=1,None
+DOMAIN,merge.jdgetcash={};,None
+DOMAIN,merge.jdgstore.bean=cc.data.result.jdbeancount||0,None
+DOMAIN,merge.jdgstore.fail=1,None
+DOMAIN,merge.jdgstore.notify=`京东商城-超市:失败,原因:${TP}${CC.DATA.BIZCODE==300?`‼️`:`⚠️`}`
+DOMAIN,merge.jdgstore.notify=`京东商城-超市:成功,明细:${MERGE.JDGSTORE.BEAN||`无`}京豆🐶`
+DOMAIN,merge.jdgstore.success=1,None
+DOMAIN,merge.jdgstore={};,None
+DOMAIN,merge.jdseckill.cash=qt?qt[1]:0;,None
+DOMAIN,merge.jdseckill.fail=1;,None
+DOMAIN,merge.jdseckill.notify=`京东秒杀-红包:失败,${CC.SUBCODE==103?`原因:已领取`:CC.MSG?CC.MSG:`原因:未知`}⚠️`;
+DOMAIN,merge.jdseckill.notify=`京东秒杀-红包:失败,原因:COOKIE失效‼️`;
+DOMAIN,merge.jdseckill.notify=`京东秒杀-红包:失败,暂无有效活动⚠️`;
+DOMAIN,merge.jdseckill.notify=`京东秒杀-红包:成功,明细:${MERGE.JDSECKILL.CASH||`无`}红包🧧`;
+DOMAIN,merge.jdseckill.success=1;,None
+DOMAIN,merge.jdseckill={};,None
+DOMAIN,merge.jdshake.bean+=cc.data.prizebean.count||0,None
+DOMAIN,merge.jdshake.fail=1,None
+DOMAIN,merge.jdshake.notify+=`${also?`\n`:``}京东商城-摇摇:${also?`多次,`:``}获得满${CC.DATA.PRIZECOUPON.QUOTA}减${CC.DATA.PRIZECOUPON.DISCOUNT}优惠券→${CC.DATA.PRIZECOUPON.LIMITSTR}`
+DOMAIN,merge.jdshake.notify+=`${also?`\n`:``}京东商城-摇摇:${also?`多次`:`成功`},明细:${MERGE.JDSHAKE.BEAN||`无`}京豆🐶`
+DOMAIN,merge.jdshake.notify+=`${also?`\n`:``}京东商城-摇摇:失败,原因:未知⚠️${ALSO?`(多次)`:``}`
+DOMAIN,merge.jdshake.notify+=`${also?`\n`:``}京东商城-摇摇:成功,明细:无奖励🐶${ALSO?`(多次)`:``}`
+DOMAIN,merge.jdshake.notify+=`${also?`\n`:``}京东商城-摇摇:成功,明细:未知⚠️${ALSO?`(多次)`:``}`
+DOMAIN,merge.jdshake.notify="京东商城-摇摇:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdshake.notify="京东商城-摇摇:失败,原因:已摇过⚠️"
+DOMAIN,merge.jdshake.success+=1,None
+DOMAIN,merge.jdturn.bean+=(cc.prizename&&cc.prizename.split(/(\d+)/)[1])||0,None
+DOMAIN,merge.jdturn.fail=1,None
+DOMAIN,merge.jdturn.notify+=`${also?`\n`:``}京东商城-转盘:${also?`多次`:`成功`},明细:${MERGE.JDTURN.BEAN||`无`}京豆🐶`
+DOMAIN,merge.jdturn.notify+=`${also?`\n`:``}京东商城-转盘:${also?`多次`:`成功`},状态:未中奖🐶`
+DOMAIN,merge.jdturn.notify+=`${also?`\n`:``}京东商城-转盘:失败,原因:未知⚠️${ALSO?`(多次)`:``}`
+DOMAIN,merge.jdturn.notify="京东商城-转盘:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jdturn.notify="京东商城-转盘:失败,原因:已转过⚠️"
+DOMAIN,merge.jdturn.notify="京东商城-转盘:失败,原因:无支付密码⚠️"
+DOMAIN,merge.jdturn.notify="京东商城-转盘:失败,原因:活动结束⚠️"
+DOMAIN,merge.jdturn.success+=1,None
+DOMAIN,merge.jrsteel.fail=1,None
+DOMAIN,merge.jrsteel.fail=1;,None
+DOMAIN,merge.jrsteel.notify="京东金融-钢镚:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.jrsteel.notify="京东金融-钢镚:失败,原因:已签过⚠️"
+DOMAIN,merge.jrsteel.notify="京东金融-钢镚:失败,未获取签到BODY⚠️";
+DOMAIN,merge.jrsteel.notify="京东金融-钢镚:失败,账号未实名⚠️"
+DOMAIN,merge.jrsteel.notify=`京东金融-钢镚:失败,${`原因:${NG||`未知`}`}⚠️`
+DOMAIN,merge.jrsteel.notify=`京东金融-钢镚:成功,获得钢镚奖励💰`
+DOMAIN,merge.jrsteel.success=1,None
+DOMAIN,merge.jrsteel={};,None
+DOMAIN,merge.subsidy.fail=1,None
+DOMAIN,merge.subsidy.notify="京东商城-金贴:失败,原因:COOKIE失效‼️"
+DOMAIN,merge.subsidy.notify="京东商城-金贴:失败,原因:无金贴⚠️"
+DOMAIN,merge.subsidy.notify=`京东商城-金贴:失败,${MSG||`原因:未知`}⚠️`
+DOMAIN,merge.subsidy.notify=`京东商城-金贴:成功,明细:${MERGE.SUBSIDY.SUBSIDY||`无`}金贴💰`
+DOMAIN,merge.subsidy.subsidy=cc.resultdata.data.thisamountstr,None
+DOMAIN,merge.subsidy.success=1,None
+DOMAIN,merge.subsidy={};,None
+DOMAIN,merge.totalbean.nickname=cc.data.userinfo.baseinfo.nickname||"",None
+DOMAIN,merge.totalbean.nickname=cc.retcode==1001?`${name}(ck失效‼️)`:"";,None
+DOMAIN,merge.totalbean.qbear=cc.data.assetinfo.beannum||0,None
+DOMAIN,merge.totalbean={};,None
+DOMAIN,merge.totalcash.tcash=cc.totalbalance,None
+DOMAIN,merge.totalcash={};,None
+DOMAIN,merge.totalmoney.tmoney=cc.data.result.totalmoney||0,None
+DOMAIN,merge.totalmoney={};,None
+DOMAIN,merge.totalsteel.tsteel=cc.gbbalance,None
+DOMAIN,merge.totalsteel={};,None
+DOMAIN,merge.totalsubsidy.tsubsidy=cc.resultdata.data.balance||0,None
+DOMAIN,merge.totalsubsidy={};,None
+DOMAIN,node.fs.writefilesync(node.path.resolve(__dirname,NODESET)
+DOMAIN,node.request(options,(ERROR
+DOMAIN,node.request.post(options,(ERROR
+DOMAIN,options.headers['user-agent']='jd4iphone/167169(iphone;ios13.4.1;scale/3.00)',None
+DOMAIN,options.headers['x-surge-skip-scripting']=false,None
+DOMAIN,returnconsole.log('\n签到用时:'+end+'秒'),None
+DOMAIN,returnconsole.log(`\n${title}>>可能需要拼图验证,跳过签到⚠️`);
+DOMAIN,returnconsole.log(`\n‼️${name}发生错误\n‼️名称:${er.name}\n‼️描述:${er.message}${json.stringify(er).match(/\"line\"/)?`\n‼️行列:${json.stringify(er)}`:``}${resp&&resp.status?`\n‼️状态:${resp.status}`:``}${body?`\n‼️响应:${resp&&resp.status!=503?body:`omit.`}`:``}`),None
+DOMAIN,returnnode.fs.writefilesync(node.path.resolve(__dirname,NODESET)
+DOMAIN,returnvalue.reduce((t,I)=>{
+DOMAIN,total.push({,None
+
 [Script]
-京东资产变动通知 = type=cron,cronexp="2 9 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_bean_change.js
-领京豆额外奖励 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_bean_home.js
-省钱大赢家之翻翻乐 = type=cron,cronexp="20 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_big_winner.js
-东东超市兑换奖品 = type=cron,cronexp="0 0 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_blueCoin.js
-口袋书店 = type=cron,cronexp="1 8,12,18 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_bookshop.js
-京东汽车 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_car.js
-京东汽车兑换 = type=cron,cronexp="0 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_car_exchange.js
-签到领现金 = type=cron,cronexp="2 0-23/4 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_cash.js
-京喜财富岛 = type=cron,cronexp="5 8,13,19 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_cfd.js
-摇京豆 = type=cron,cronexp="5 0,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_club_lottery.js
-crazyJoy任务 = type=cron,cronexp="10 9 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_crazy_joy.js
-监控crazyJoy分红 = type=cron,cronexp="10 12 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_crazy_joy_bonus.js
-crazyJoy挂机 = type=cron,cronexp="10 1,12 * * *",wake-system=1,timeout=20,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_crazy_joy_coin.js
-天天提鹅 = type=cron,cronexp="10 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_daily_egg.js
-每日抽奖 = type=cron,cronexp="13 1,22,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_daily_lottery.js
-京喜工厂 = type=cron,cronexp="10 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_dreamFactory.js
-获取多账号京东Cookie = type=http-request,pattern=^https:\/\/me-api\.jd\.com\/user_new\/info\/GetJDUserInfoUnion,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/JD_extra_cookie.js,script-update-interval=0
-京东家庭号 = type=cron,cronexp="1 12,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_family.js
-东东农场 = type=cron,cronexp="5 6-18/6 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_fruit.js
-获取互助码 = type=cron,cronexp="20 13 * * 6",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_get_share_code.js
-金榜创造营 = type=cron,cronexp="13 1,22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_gold_creator.js
-东东健康社区 = type=cron,cronexp="13 1,6,22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_health.js
-东东健康社区收集能量 = type=cron,cronexp="5-45/20 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_health_collect.js
-东东工厂 = type=cron,cronexp="10 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jdfactory.js
-京东赚赚 = type=cron,cronexp="10 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jdzz.js
-领金贴 = type=cron,cronexp="10 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jin_tie.js
-京东宠汪汪 = type=cron,cronexp="15 0-23/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy.js
-京东宠汪汪喂食 = type=cron,cronexp="15 0-23/1 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_feedPets.js
-宠汪汪强制为别人助力= type=http-request,pattern=^https:\/\/draw\.jdfcloud\.com\/\/common\/pet\/enterRoom\/h5\?invitePin=.*(&inviteSource=task_invite&shareSource=\w+&inviteTimeStamp=\d+&openId=\w+)?&reqSource=weapp|^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/pet\/helpFriend\?friendPin,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_help.js
-宠汪汪积分兑换奖品 = type=cron,cronexp="0 0-16/8 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_reward.js
-宠汪汪邀请助力与赛跑助力 = type=cron,cronexp="15 10 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_run.js
-宠汪汪助力更新Token = type=http-response,pattern=^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/addUser\?code=, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_run.js
-宠汪汪助力获取Token = type=http-request,pattern=^https:\/\/draw\.jdfcloud\.com(\/mirror)?\/\/api\/user\/user\/detail\?openId=, max-size=0, script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_run.js
-宠汪汪偷好友积分与狗粮 = type=cron,cronexp="10 0-21/3 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_joy_steal.js
-跳跳乐瓜分京豆 = type=cron,cronexp="1 0,11,21 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jump.js
-京喜领88元红包 = type=cron,cronexp="4 10 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jxlhb.js
-惊喜牧场 = type=cron,cronexp="20 0-23/3 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jxmc.js
-京喜农场 = type=cron,cronexp="0 9,12,18 * * *",timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_jxnc.js
-京东快递签到 = type=cron,cronexp="10 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_kd.js
-京东直播 = type=cron,cronexp="10-20/5 12 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_live.js
-超级直播间红包雨 = type=cron,cronexp="0,30 0-23/1 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_live_redrain.js
-幸运大转盘 = type=cron,cronexp="4 10 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_market_lottery.js
-新潮品牌狂欢 = type=cron,cronexp="4 10 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_mcxhd.js
-5G超级盲盒 = type=cron,cronexp="0 0,1-23/3 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_mohe.js
-京东摇钱树 = type=cron,cronexp="3 0-23/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_moneyTree.js
-京东秒秒币 = type=cron,cronexp="10 7 * * *",wake-system=1,timeout=200,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_ms.js
-点点券 = type=cron,cronexp="10 0,20 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_necklace.js
-女装盲盒 = type=cron,cronexp="35 1,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_nzmh.js
-东东萌宠 = type=cron,cronexp="15 6-18/6 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_pet.js
-京东金融养猪猪 = type=cron,cronexp="12 0-23/6 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_pigPet.js
-京东种豆得豆 = type=cron,cronexp="1 7-21/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_plantBean.js
-京东保价 = type=cron,cronexp="0 2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_price.js
-京东全民开红包 = type=cron,cronexp="1 1,2,23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_redPacket.js
-闪购盲盒 = type=cron,cronexp="20 8 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_sgmh.js
-进店领豆 = type=cron,cronexp="10 0 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_shop.js
-东东小窝 = type=cron,cronexp="16 22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_small_home.js
-天天加速 = type=cron,cronexp="8 0-23/3 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_speed.js
-京东极速版红包 = type=cron,cronexp="20 0,22 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_speed_redpocke.js
-京东极速版 = type=cron,cronexp="0 7 * * *",wake-system=1,timeout=33600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_speed_sign.js
-明星小店 = type=cron,cronexp="0 1,21 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_star_shop.js
-东东超市 = type=cron,cronexp="11 * * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_superMarket.js
-取关京东店铺商品 = type=cron,cronexp="55 23 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_unsubscribe.js
-小米运动 = type=cron,cronexp="15 17 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/backUp/xmSports.js
-小米运动获取Token = type=http-response,pattern=^https:\/\/account\.huami\.com\/v2\/client\/login, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/backUp/xmSports.js
-环境测试 = type=cron,cronexp="0 12 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_api_test.js
-电竞经理 = type=cron,cronexp="0 0-23/2 * * *",wake-system=1,timeout=3600,script-path=https://raw.githubusercontent.com/he1pu/JDHelp/main/jd_EsportsManager.js
+京东_获取Cookie = type=http-request,requires-body=1,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/script/468f015d9da1a01bf12975782203e978.js,pattern=^https:\/\/(api\.m|me-api|ms\.jr)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?|gw\/generic\/hy\/h5\/m\/appSign\?)
+京东_多合一签到 = type=cron,cronexp=5 0 * * *,timeout=60,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/script/468f015d9da1a01bf12975782203e978.js
 
 [MITM]
-hostname = %APPEND% me-api.jd.com, draw.jdfcloud.com, jdjoy.jd.com, account.huami.com
+hostname = %APPEND% api.m.jd.com,me-api.jd.com,ms.jr.jd.com
