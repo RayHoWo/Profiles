@@ -6,7 +6,7 @@ DOMAIN,gw.kaola.com
 # ------------------------------------
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # Remark: Remove "Apple, PayPal, Microsoft, Onedrive, Speedtest, Steam"
-# UPDATED: 2022-01-09
+# UPDATED: 2022-01-21
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -60,35 +60,10 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 # > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
-# ------------------------------------
-# NAME: Didi
-# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/DiDi/DiDi.list
-# UPDATED: 2022-01-09
-DOMAIN-SUFFIX,apptaxi.com.cn
-DOMAIN-SUFFIX,cxyule.com
-DOMAIN-SUFFIX,didi-food.com
-DOMAIN-SUFFIX,didi.cn
-DOMAIN-SUFFIX,didi.xin
+# > DiDi
 DOMAIN-SUFFIX,didialift.com
-DOMAIN-SUFFIX,didiapp.net.cn
-DOMAIN-SUFFIX,didiaustralia.blog
-DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,didiglobal.com
-DOMAIN-SUFFIX,didimobility.co.jp
-DOMAIN-SUFFIX,didimobility.com
-DOMAIN-SUFFIX,didiopenapi.com
-DOMAIN-SUFFIX,didiqiche.com
-DOMAIN-SUFFIX,didistatic.com
-DOMAIN-SUFFIX,diditaxi.com
-DOMAIN-SUFFIX,diditaxi.com.cn
-DOMAIN-SUFFIX,didiwuxian.com
-DOMAIN-SUFFIX,didiyun.com
-DOMAIN-SUFFIX,didiyun.org
-DOMAIN-SUFFIX,didiyunapi.com
-DOMAIN-SUFFIX,juyanwenjuan.com
 DOMAIN-SUFFIX,udache.com
-DOMAIN-SUFFIX,xiaojuchefu.cn
-DOMAIN-SUFFIX,xiaojukeji.com
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
@@ -146,6 +121,7 @@ DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,youdao.com
 # > Sina
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
@@ -170,23 +146,12 @@ DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqmail.com
-DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN,file-igamecj.akamaized.net
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
-IP-CIDR,129.226.3.47/32,no-resolve
-IP-CIDR,129.226.107.244/32,no-resolve
 IP-CIDR,182.254.116.0/24,no-resolve
+IP-CIDR,203.205.238.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
@@ -254,7 +219,6 @@ DOMAIN-SUFFIX,aicoinstorge.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
-DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,b612.net
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,beitaichufang.com
@@ -312,8 +276,6 @@ DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,lanzous.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,luojilab.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,maoyun.tv
@@ -324,8 +286,6 @@ DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,nim-lang-cn.org
 DOMAIN-SUFFIX,ntp.org
-DOMAIN-SUFFIX,nvidia.com
-DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qweather.com
@@ -366,4 +326,3 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
 
 DOMAIN,download.jetbrains.com
-DOMAIN,images-cn.ssl-images-amazon.com
