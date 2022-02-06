@@ -38,7 +38,7 @@ DOMAIN,fed.akzonobel.net
 # ------------------------------------
 # NAME: Unbreak
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
-# UPDATED: 2021-07-15
+# UPDATED: 2022-02-07
 # > General
 USER-AGENT,archero*
 USER-AGENT,coffeecorp*
