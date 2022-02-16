@@ -1,9 +1,4 @@
-# NAME: China Websites and apps
-# > Kaola
-DOMAIN-SUFFIX,kaola.com
-DOMAIN-SUFFIX,kaolacdn.com
-DOMAIN,gw.kaola.com
-# ------------------------------------
+# NAME: CN Access
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
 # UPDATED: 2022-02-16
 # China Area Network
