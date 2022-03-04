@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,speed.cloudflare.com
 ------------------------------------
 # NAME: Global rulesetting 
 # REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
-# UPDATED: 2022-02-28
+# UPDATED: 2022-03-03
 # (D.C.S.G?)
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
@@ -489,4 +489,3 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
-
