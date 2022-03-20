@@ -1,7 +1,9 @@
 # Ruleset Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
+# UPDATED: 2022-03-21
 # Unbreak
 # > General
 DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
 # > Alibaba
 DOMAIN,log.mmstat.com
