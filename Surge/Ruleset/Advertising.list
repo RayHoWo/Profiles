@@ -1,5 +1,6 @@
-# NAME: Reject Ads
-# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
+// Reject Ads
+# -----------
+// Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list
 # UPDATED: 2021-10-09
 # > General
 DOMAIN-KEYWORD,adservice

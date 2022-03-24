@@ -1,5 +1,6 @@
-# NAME: PayPal
-# REPO: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/PayPal.list
+// PayPal
+# -------
+// Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/PayPal.list
 # UPDATED: 2021-07-15
 USER-AGENT,PayPal*
 DOMAIN-SUFFIX,paypal.com

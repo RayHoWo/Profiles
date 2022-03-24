@@ -1,4 +1,5 @@
-# NAME: Home Device SRC-IP-CIDR
+// Home Device SRC-IP-CIDR
+# ------------------------
 # UPDATED: 2021-07-25
 # > Source IP direct access (192.168.5.55 ~ 192.168.5.100)
 SRC-IP-CIDR,192.168.5.55/32

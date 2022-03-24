@@ -1,4 +1,5 @@
-# NAME: GEOIP Country
+// GEOIP Country
+# --------------
 # UPDATED: 2021-10-09
 GEOIP,US,United States
 GEOIP,GB,United Kingdom

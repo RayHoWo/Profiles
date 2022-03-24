@@ -1,4 +1,5 @@
-# NAME: United States Media
+// United States Media
+# --------------------
 # UPDATED: 2021-10-09
 # > Google Voice
 USER-AGENT,VoiceApp*
@@ -8,7 +9,18 @@ DOMAIN,lens.l.google.com
 # > ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
-# > Amazon Prime Video
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
+# NAME: AmazonPrimeVideo
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:25
+# PROCESS-NAME: 1
+# USER-AGENT: 2
+# DOMAIN-SUFFIX: 18
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 27
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
 DOMAIN,d25xi40x97liuc.cloudfront.net
@@ -36,6 +48,7 @@ DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
+# ------------------------------------
 # > Apple News and Apple Map TOMTOM Version
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,gateway.icloud.com
@@ -57,16 +70,32 @@ DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,tv
-# > Discovery Plus
-USER-AGENT,DPlus*
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DiscoveryPlus/DiscoveryPlus.list
+# NAME: DiscoveryPlus
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-03-03 02:13:30
+# USER-AGENT: 2
+# DOMAIN-SUFFIX: 10
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# TOTAL: 14
+DOMAIN,x-default-stgec.uplynk.com
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
 DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,discoveryplus.in
+DOMAIN-SUFFIX,dnitv.com
 DOMAIN-SUFFIX,fwmrm.net
 DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
-DOMAIN-SUFFIX,uplynk.com
+DOMAIN-KEYWORD,discovery.uplynk.com
+USER-AGENT,DPlus*
+USER-AGENT,discovery+*
+# ------------------------------------
 # > TVBAnywhere(EncoreTVB)
 DOMAIN-SUFFIX,tvbanywherena.com
 DOMAIN,app-measurement.com
@@ -79,26 +108,101 @@ DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN-SUFFIX,s3-us-west-1.amazonaws.com
 DOMAIN-KEYWORD,encoretvb
 USER-AGENT,TVBAnywhere*
-# > Fox Now
-USER-AGENT,FOX%20NOW*
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/FOXNOW/FOXNOW.list
+# NAME: FOXNOW
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:26
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
-# > HBO Max
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,FOX%20NOW*
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOUSA/HBOUSA.list
+# NAME: HBOUSA
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# DOMAIN-SUFFIX: 5
+# DOMAIN: 1
+# PROCESS-NAME: 1
+# USER-AGENT: 1
+# TOTAL: 8
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
-# > Hulu
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,maxgo.com
+USER-AGENT,HBOMAX*
+PROCESS-NAME,com.hbo.hbonow
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HuluUSA/HuluUSA.list
+# NAME: HuluUSA
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# PROCESS-NAME: 1
+# DOMAIN-SUFFIX: 51
+# TOTAL: 52
+DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
+DOMAIN-SUFFIX,callhulu.com
 DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,findyourlimits.com
+DOMAIN-SUFFIX,freehulu.com
+DOMAIN-SUFFIX,hooloo.tv
+DOMAIN-SUFFIX,hoolu.com
+DOMAIN-SUFFIX,hoolu.tv
+DOMAIN-SUFFIX,hu1u.com
+DOMAIN-SUFFIX,huloo.cc
+DOMAIN-SUFFIX,huloo.tv
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,hulu.hb.omtrdc.net
 DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,huluaction.com
 DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluapp.com
+DOMAIN-SUFFIX,huluasks.com
+DOMAIN-SUFFIX,hulucall.com
+DOMAIN-SUFFIX,hulufree.com
+DOMAIN-SUFFIX,hulugans.com
+DOMAIN-SUFFIX,hulugermany.com
+DOMAIN-SUFFIX,hulugo.com
 DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,huluinstantmessenger.com
+DOMAIN-SUFFIX,huluitaly.com
+DOMAIN-SUFFIX,hulunet.com
+DOMAIN-SUFFIX,hulunetwork.com
+DOMAIN-SUFFIX,huluplus.com
+DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,hulupurchase.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulurussia.com
+DOMAIN-SUFFIX,huluspain.com
+DOMAIN-SUFFIX,hulusports.com
 DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,hulutv.com
+DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,joinmaidez.com
+DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,myhulu.com
+DOMAIN-SUFFIX,originalhulu.com
+DOMAIN-SUFFIX,payhulu.com
+DOMAIN-SUFFIX,prod.hjholdings.tv
+DOMAIN-SUFFIX,registerhulu.com
+DOMAIN-SUFFIX,thehulubraintrust.com
+DOMAIN-SUFFIX,wwwhuluplus.com
+PROCESS-NAME,com.hulu.plus
+# ------------------------------------
 # > New4KTV
 USER-AGENT,Ministra%20Player*
 DOMAIN-KEYWORD,new4k
