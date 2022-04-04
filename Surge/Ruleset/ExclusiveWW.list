@@ -1,15 +1,17 @@
 // Exclusive Global  >> UPDATED: 2022-04-04
+# > Linkedin
+USER-AGENT,Linkedin*
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,licdn.cn
 # > Wiz World
 DOMAIN-SUFFIX,wiz.world
 # > Sonos
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
-# > Linkedin
-USER-AGENT,Linkedin*
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,licdn.cn
+# > Surge
+DOMAIN-SUFFIX,nssurge.com
 # Ruleset Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Samsung/Samsung.list
 # NAME: Samsung
 # AUTHOR: blackmatrix7
