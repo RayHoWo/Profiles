@@ -1,0 +1,10 @@
+#!name=Hide VPN Icon
+#!desc=隐藏状态栏上的 VPN 图标，可能会导致「Cannot allocate memory」系统错误，请谨慎使用
+#!system=ios
+#!repo=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Hide-VPN-Icon.sgmodule
+#!UPDATED: 2021-07-28
+
+[General]
+hide-vpn-icon=true
+# 待商店版可用上条后移除
+tun-excluded-routes = 0.0.0.1/31
