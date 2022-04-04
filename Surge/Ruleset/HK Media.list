@@ -1,5 +1,13 @@
-// Hong Kong Media
-# ----------------
+// Hong Kong Media  >> UPDATED: 2022-04-04
+# > JOOX
+USER-AGENT,WeMusic*
+USER-AGENT,JOOX*
+DOMAIN-SUFFIX,joox.com
+# > myTV_SUPER
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+# ------------------------------------
 // Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBOAsia/HBOAsia.list
 # NAME: HBOAsia
 # AUTHOR: blackmatrix7
@@ -30,15 +38,6 @@ DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-KEYWORD,.hbogoasia.
 USER-AGENT,HBO%20GO%20PROD*
-# ------------------------------------
-# > JOOX
-USER-AGENT,WeMusic*
-USER-AGENT,JOOX*
-DOMAIN-SUFFIX,joox.com
-# > myTV_SUPER
-USER-AGENT,mytv*
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 # ------------------------------------
 // Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ViuTV/ViuTV.list
 # NAME: ViuTV

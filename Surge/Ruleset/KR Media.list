@@ -1,9 +1,17 @@
-// Korea Media
-# ------------
-# UPDATED: 2021-07-11
+// Korea Media  >> UPDATED: 2022-04-04
 # > KBSTV
 DOMAIN-KEYWORD,kbsworld
 DOMAIN-SUFFIX,kbs.co.kr
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PandoraTV/PandoraTV.list
+# NAME: PandoraTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,kmplayer.com
+DOMAIN-SUFFIX,pandora.tv
 # ------------------------------------
 // Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Naver/Naver.list
 # NAME: Naver
@@ -78,4 +86,3 @@ IP-CIDR,203.174.77.0/24,no-resolve
 IP-CIDR6,2400:dcc0::/32,no-resolve
 USER-AGENT,LINE%20TV*
 PROCESS-NAME,com.linecorp.linetv
-

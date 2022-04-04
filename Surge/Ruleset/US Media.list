@@ -1,14 +1,91 @@
-// United States Media
-# --------------------
-# UPDATED: 2021-10-09
+// United States Media  >> UPDATED: 2022-04-04
 # > Google Voice
 USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN,lens.l.google.com
+# > Youtube TV
+USER-AGENT,*YouTubeTV*
+USER-AGENT,*com.google.ios.youtubetv*
+DOMAIN-SUFFIX,tv.youtube.com
 # > ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
+# > PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+# > Pluto TV
+USER-AGENT,Pluto20%TV*
+USER-AGENT,mediaserverd*
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,braze.com
+DOMAIN,api.pluto.tv
+DOMAIN,k.pluto.tv
+DOMAIN,t.pluot.tv
+DOMAIN,sp.pluto.tv
+DOMAIN,siloh.pluto.tv
+DOMAIN,siloh-aka.plutotv.net
+DOMAIN,service-stitcher.clusters.pluto.tv
+DOMAIN,mobile-collector.newrelic.com
+DOMAIN,tv.rlcdn.com
+DOMAIN,sb.scorecardresearch.com
+IP-CIDR,13.226.0.0/16,no-resolve
+IP-CIDR,13.249.0.0/16,no-resolve
+IP-CIDR,151.101.0.0/16,no-resolve
+IP-CIDR,104.71.143.0/24,no-resolve
+IP-CIDR,81.171.21.0/24,no-resolve
+IP-CIDR,89.149.210.0/24,no-resolve
+IP-CIDR,178.162.146.0/24,no-resolve
+IP-CIDR,3.95.122.0/24,no-resolve
+IP-CIDR,3.208.0.0/13,no-resolve
+IP-CIDR,3.216.0.0/15,no-resolve
+IP-CIDR,3.218.0.0/16,no-resolve
+IP-CIDR,18.211.0.0/16,no-resolve
+IP-CIDR,18.212.0.0/14,no-resolve
+IP-CIDR,34.225.0.0/16,no-resolve
+IP-CIDR,34.226.0.0/15,no-resolve
+IP-CIDR,34.232.0.0/14,no-resolve
+IP-CIDR,34.107.165.0/24,no-resolve
+IP-CIDR,34.196.0.0/16,no-resolve
+IP-CIDR,34.213.0.0/16,no-resolve
+IP-CIDR,52.0.0.0/16,no-resolve
+IP-CIDR,52.5.0.0/16,no-resolve
+IP-CIDR,52.5.0.0/16,no-resolve
+IP-CIDR,52.70.0.0/15,no-resolve
+IP-CIDR,52.72.0.0/16,no-resolve
+IP-CIDR,54.68.0.0/16,no-resolve
+IP-CIDR,54.82.0.0/16,no-resolve
+IP-CIDR,54.86.0.0/16,no-resolve
+IP-CIDR,54.90.0.0/16,no-resolve
+IP-CIDR,54.174.0.0/16,no-resolve
+IP-CIDR,54.236.0.0/15,no-resolve
+IP-CIDR,172.244.0.0/16,no-resolve
+# > New4KTV
+USER-AGENT,Ministra%20Player*
+DOMAIN-KEYWORD,new4k
+DOMAIN-SUFFIX,live.new4k.tv 
+IP-CIDR,62.112.9.0/24,no-resolve
+IP-CIDR,66.70.128.0/24,no-resolve
+# > XUMO
+USER-AGENT,Xumo2/3*
+USER-AGENT,mediaserverd*
+DOMAIN-SUFFIX,xumo.com
+DOMAIN,cupertino-app-mds.xumo.com
+DOMAIN,cupertino-beacons.xumo.com
+DOMAIN,live-content.xumo.com
+DOMAIN,abcnewslive-i.akamaihd.net
+IP-CIDR,130.211.0.0/16,no-resolve
+IP-CIDR,93.184.0.0/16,no-resolve
+IP-CIDR,192.229.0.0/16,no-resolve
+IP-CIDR,96.7.0.0/16,no-resolve
 # ------------------------------------
 // Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
 # NAME: AmazonPrimeVideo
@@ -204,92 +281,45 @@ DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 PROCESS-NAME,com.hulu.plus
 # ------------------------------------
-# > New4KTV
-USER-AGENT,Ministra%20Player*
-DOMAIN-KEYWORD,new4k
-DOMAIN-SUFFIX,live.new4k.tv 
-IP-CIDR,62.112.9.0/24,no-resolve
-IP-CIDR,66.70.128.0/24,no-resolve
-# > Pandora
-DOMAIN-SUFFIX,pandora.com
-# > Paramount+
-USER-AGENT,PPlus*
-DOMAIN-SUFFIX,cbsi.com
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ParamountPlus/ParamountPlus.list
+# NAME: ParamountPlus
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 5
+# DOMAIN: 4
+# TOTAL: 10
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com
 DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsivideo.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,pplusstatic.com
-DOMAIN,cbsi.live.ott.irdeto.com
-# > PBS
-USER-AGENT,PBS*
-DOMAIN-SUFFIX,pbs.org
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-# > Pluto TV
-USER-AGENT,Pluto20%TV*
-USER-AGENT,mediaserverd*
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,plutotv.net
-DOMAIN-SUFFIX,youboranqs01.com
-DOMAIN-SUFFIX,cbsnews.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN,api.pluto.tv
-DOMAIN,k.pluto.tv
-DOMAIN,t.pluot.tv
-DOMAIN,sp.pluto.tv
-DOMAIN,siloh.pluto.tv
-DOMAIN,siloh-aka.plutotv.net
-DOMAIN,service-stitcher.clusters.pluto.tv
-DOMAIN,mobile-collector.newrelic.com
-DOMAIN,tv.rlcdn.com
-DOMAIN,sb.scorecardresearch.com
-IP-CIDR,13.226.0.0/16,no-resolve
-IP-CIDR,13.249.0.0/16,no-resolve
-IP-CIDR,151.101.0.0/16,no-resolve
-IP-CIDR,104.71.143.0/24,no-resolve
-IP-CIDR,81.171.21.0/24,no-resolve
-IP-CIDR,89.149.210.0/24,no-resolve
-IP-CIDR,178.162.146.0/24,no-resolve
-IP-CIDR,3.95.122.0/24,no-resolve
-IP-CIDR,3.208.0.0/13,no-resolve
-IP-CIDR,3.216.0.0/15,no-resolve
-IP-CIDR,3.218.0.0/16,no-resolve
-IP-CIDR,18.211.0.0/16,no-resolve
-IP-CIDR,18.212.0.0/14,no-resolve
-IP-CIDR,34.225.0.0/16,no-resolve
-IP-CIDR,34.226.0.0/15,no-resolve
-IP-CIDR,34.232.0.0/14,no-resolve
-IP-CIDR,34.107.165.0/24,no-resolve
-IP-CIDR,34.196.0.0/16,no-resolve
-IP-CIDR,34.213.0.0/16,no-resolve
-IP-CIDR,52.0.0.0/16,no-resolve
-IP-CIDR,52.5.0.0/16,no-resolve
-IP-CIDR,52.5.0.0/16,no-resolve
-IP-CIDR,52.70.0.0/15,no-resolve
-IP-CIDR,52.72.0.0/16,no-resolve
-IP-CIDR,54.68.0.0/16,no-resolve
-IP-CIDR,54.82.0.0/16,no-resolve
-IP-CIDR,54.86.0.0/16,no-resolve
-IP-CIDR,54.90.0.0/16,no-resolve
-IP-CIDR,54.174.0.0/16,no-resolve
-IP-CIDR,54.236.0.0/15,no-resolve
-IP-CIDR,172.244.0.0/16,no-resolve
-# > XUMO
-USER-AGENT,Xumo2/3*
-USER-AGENT,mediaserverd*
-DOMAIN-SUFFIX,xumo.com
-DOMAIN,cupertino-app-mds.xumo.com
-DOMAIN,cupertino-beacons.xumo.com
-DOMAIN,live-content.xumo.com
-DOMAIN,abcnewslive-i.akamaihd.net
-IP-CIDR,130.211.0.0/16,no-resolve
-IP-CIDR,93.184.0.0/16,no-resolve
-IP-CIDR,192.229.0.0/16,no-resolve
-IP-CIDR,96.7.0.0/16,no-resolve
-# > Youtube TV
-USER-AGENT,*YouTubeTV*
-USER-AGENT,*com.google.ios.youtubetv*
-DOMAIN-SUFFIX,tv.youtube.com
+USER-AGENT,PPlus*
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Pandora/Pandora.list
+# NAME: Pandora
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,Pandora*
+# ------------------------------------
+// Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Peacock/Peacock.list
+# NAME: Peacock
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-01-18 23:33:27
+# USER-AGENT: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+DOMAIN-SUFFIX,peacocktv.com
+USER-AGENT,PeacockMobile*

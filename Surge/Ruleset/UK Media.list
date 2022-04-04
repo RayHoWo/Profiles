@@ -1,5 +1,4 @@
-// United Kingdom Media
-# ---------------------
+// United Kingdom Media  >> UPDATED: 2022-04-04
 // Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/All4/All4.list
 # NAME: All4
 # AUTHOR: blackmatrix7
@@ -68,4 +67,3 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
 USER-AGENT,My5*
-
