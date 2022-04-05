@@ -142,15 +142,6 @@ DOMAIN-SUFFIX,mobile-collector.newrelic.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
 # >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/EncoreTVB/EncoreTVB.list1
-DOMAIN,rt.applovin.com
-DOMAIN,api.tvb.com
-DOMAIN,api.tvbaw.com
-DOMAIN,img.tvbaw.com
-DOMAIN,app-measurement.com
-DOMAIN,pagead2.googlesyndication.com
-DOMAIN,imp.control.kochava.com
-DOMAIN,static-content-1.smadex.com
-DOMAIN-SUFFIX,-encoretvb-
 # NAME: EncoreTVB    >>@ UPDATED: 2022-04-04
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
