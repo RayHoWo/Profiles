@@ -1,0 +1,36 @@
+# >> Exclusive Global    
+# NAME: Linkedin    >>@ UPDATED: 2022-04-04
+USER-AGENT,Linkedin*
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,licdn.cn
+# NAME: Wiz World    >>@ UPDATED: 2022-04-04
+DOMAIN-SUFFIX,wiz.world
+# NAME: Sonos    >>@ UPDATED: 2022-04-04
+USER-AGENT,Sonos*
+DOMAIN-SUFFIX,sonos.com
+DOMAIN-SUFFIX,sonos.radio
+# NAME: Surge    >>@ UPDATED: 2022-04-04
+DOMAIN-SUFFIX,nssurge.com
+# >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Speedtest/Speedtest.list
+# NAME: Speedtest    >>@ UPDATED: 2021-12-30 02:10:49
+DOMAIN,speed.dler.io
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+USER-AGENT,SpeedTest*
+# >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Samsung/Samsung.list
+# NAME: Samsung    >>@ UPDATED: 2022-04-04
+DOMAIN-SUFFIX,anrdoezrs.net
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,galaxymobile.jp
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungqbe.com
