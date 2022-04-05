@@ -50,7 +50,10 @@ IP-CIDR,129.226.0.0/16,no-resolve
 IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,183.131.48.0/20,no-resolve
 # NMAE: Tencent Meeting   >>@ UPDATED: 2022-04-04
-DOMAIN-SUFFIX,tecent.com
+USER-AGENT,%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE*
+DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN,work.medialab.qq.com
 IP-CIDR,101.91.19.82/32,no-resolve
-IP-CIDR,101.91.19.82/32,no-resolve
+IP-CIDR,101.91.19.179/32,no-resolve
