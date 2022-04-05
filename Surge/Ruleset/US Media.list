@@ -111,6 +111,22 @@ DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 PROCESS-NAME,tv
+# >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/BrightCove/BrightCove.list
+# NAME: BrightCove    >>@ UPDATED: 2022-04-04
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive-a.akamaihd.net
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcsecure01-a.akamaihd.net
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.imgix.net
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com
 # >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/DiscoveryPlus/DiscoveryPlus.list
 # NAME: DiscoveryPlus    >>@ UPDATED: 2022-04-04
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
@@ -126,6 +142,8 @@ DOMAIN-SUFFIX,mobile-collector.newrelic.com
 USER-AGENT,DPlus*
 USER-AGENT,discovery+*
 # >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/EncoreTVB/EncoreTVB.list1
+DOMAIN,rt.applovin.com
+DOMAIN,api.tvb.com
 # NAME: EncoreTVB    >>@ UPDATED: 2022-04-04
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
