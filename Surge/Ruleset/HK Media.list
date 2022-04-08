@@ -31,6 +31,10 @@ DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
 USER-AGENT,HBO%20GO%20PROD*
+# >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NowE/NowE.list
+# NAME: NowE    >>@ UPDATED: 2022-04-04
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowestatic.com
 # >> Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ViuTV/ViuTV.list
 # NAME: ViuTV    >>@ UPDATED: 2022-04-04
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
