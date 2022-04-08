@@ -1,15 +1,15 @@
 # >> Youtube Media  
-# NAME: Youtube Kids    >>@ UPDATED: 2022-04-04
-USER-AGENT,com.google.ios.youtubekids*
 # NAME: Youtube Music    >>@ UPDATED: 2022-04-04
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
+DOMAIN,music.youtube.com
 # NAME: Youtube Video    >>@ UPDATED: 2022-04-04
 USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtu.co
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubegaming.com
