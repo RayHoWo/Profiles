@@ -1,0 +1,10 @@
+# >> Singapore Media  
+# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/FOXPlus/FOXPlus.list
+# NAME: FOXPlus    >>@ UPDATED: 2022-04-04   
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,foxplus.com
