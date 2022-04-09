@@ -1,0 +1,7 @@
+payload:
+# Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Privacy.yaml 
+# Privacy    >>@ UPDATED: 2022-04-04
+  # > Google
+  - DOMAIN,safebrowsing.googleapis.com
+  # > Tencent
+  - DOMAIN,safebrowsing.urlsec.qq.com
