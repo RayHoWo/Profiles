@@ -1,5 +1,4 @@
 rules:
-- RULE-SET,HomeDeviceIP,DIRECT
 - RULE-SET,ExclusiveD,DIRECT
 - RULE-SET,Direct,DIRECT
 - RULE-SET,Netflix,Netflix
@@ -37,11 +36,10 @@ rules:
 script:
   code: |
     def main(ctx, metadata):
-        ruleset_action = {"HomeDeviceIP": "DIRECT",
-            "ExclusiveD": "DIRECT",
+        ruleset_action = {"ExclusiveD": "DIRECT",
             "Direct": "DIRECT",
             "Netflix": "Netflix",
-            "DisneyPlus": "Disney+",
+            "Disney+": "Disney+",
             "YouTube": "YouTube",
             "Spotify": "Spotify",
             "TikTok": "TikTok",
@@ -98,143 +96,143 @@ rule-providers:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/HomeDeviceIP.yaml'
-    path: ./Rules/Reject
+    path: ./Ruleset/HomeDeviceIP
     interval: 86400
   ExclusiveD:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/ExclusiveD.yaml'
-    path: ./Rules/Special
+    path: ./Ruleset/ExclusiveD
     interval: 86400
   Direct:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Direct.yaml'
-    path: ./Rules/Reject
+    path: ./Ruleset/Direct
     interval: 86400
   Netflix:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Netflix.yaml'
-    path: ./Rules/Media/Netflix
+    path: ./Ruleset/Netflix
     interval: 86400
-  DisneyPlus:
+  Disney+:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Disney%2B.yaml'
-    path: ./Rules/Media/Spotify
+    path: ./Ruleset/Disney+
     interval: 86400
   YouTube:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/YouTube.yaml'
-    path: ./Rules/Media/YouTube
+    path: ./Ruleset/YouTube
     interval: 86400
   Spotify:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Spotify.yaml'
-    path: ./Rules/Media/Spotify
+    path: ./Ruleset/Spotify
     interval: 86400
   TikTok:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/TikTok.yaml'
-    path: ./Rules/Media/YouTube
+    path: ./Ruleset/Media/TikTok
     interval: 86400
   US Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/US%20Media.yaml'
-    path: ./Rules/Media/Bilibili
+    path: ./Ruleset/US Media
     interval: 86400
   UK Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/UK%20Media.yaml'
-    path: ./Rules/Media/IQI
+    path: ./Ruleset/UK Media
     interval: 86400
   JP Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/JP%20Media.yaml'
-    path: ./Rules/Media/IQYI
+    path: ./Ruleset/JP Media
     interval: 86400
   KR Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/KR%20Media.yaml'
-    path: ./Rules/Media/Letv
+    path: ./Ruleset/KR Media
     interval: 86400
   SG Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/SG%20Media.yaml'
-    path: ./Rules/Media/Netease_Music
+    path: ./Ruleset/SG Media
     interval: 86400
   HK Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/HK%20Media.yaml'
-    path: ./Rules/Media/Tencent_Video
+    path: ./Ruleset/HK Media
     interval: 86400
   TW Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/TW%20Media.yaml'
-    path: ./Rules/Media/Youku
+    path: ./Ruleset/TW Media
     interval: 86400
   WW Media:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/WW%20Media.yaml'
-    path: ./Rules/Media/WeTV
+    path: ./Ruleset/WW Media
     interval: 86400
   AsianMedia:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/AsianMedia%20Media.yaml'
-    path: ./Rules/Media/ABC
+    path: ./Ruleset/AsianMedia
     interval: 86400
   PayPal:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/PayPal.yaml'
-    path: ./Rules/Media/Abema_TV
+    path: ./Ruleset/PayPal
     interval: 86400
   ExclusiveWW:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/WW.yaml'
-    path: ./Rules/Media/Amazon
+    path: ./Ruleset/ExclusiveWW
     interval: 86400
   WW:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/WW.yaml'
-    path: ./Rules/Media/Apple_News
+    path: ./Ruleset/WW
     interval: 86400
   ChinaMedia:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/ChinaMedia.yaml'
-    path: ./Rules/Media/Apple_TV
+    path: ./Ruleset/ChinaMedia
     interval: 86400
   China:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/China.yaml'
-    path: ./Rules/Media/Bahamut
+    path: ./Ruleset/China
     interval: 86400
   ChinaIP:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/ChinaIP.yaml'
-    path: ./Rules/Media/BBC_iPlayer
+    path: ./Ruleset/ChinaIP
     interval: 86400
   LAN:
     type: http
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/LAN.yaml'
-    path: ./Rules/LAN
-    interval: 86400     
+    path: ./Ruleset/LAN
+    interval: 86400   
