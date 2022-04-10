@@ -2,7 +2,7 @@ rules:
 - RULE-SET,ExclusiveD,DIRECT
 - RULE-SET,Direct,DIRECT
 - RULE-SET,Netflix,Netflix
-- RULE-SET,DisneyPlus,Disney+
+- RULE-SET,Disney,Disney
 - RULE-SET,YouTube,YouTube
 - RULE-SET,Spotify,Spotify
 - RULE-SET,TikTok,TikTok
@@ -39,7 +39,7 @@ script:
         ruleset_action = {"ExclusiveD": "DIRECT",
             "Direct": "DIRECT",
             "Netflix": "Netflix",
-            "Disney+": "Disney+",
+            "Disney": "Disney",
             "YouTube": "YouTube",
             "Spotify": "Spotify",
             "TikTok": "TikTok",
@@ -116,10 +116,10 @@ rule-providers:
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Netflix.yaml'
     path: ./Ruleset/Netflix
     interval: 86400
-  Disney+:
+  Disney:
     type: http
     behavior: classical
-    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Disney%2B.yaml'
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Disney.yaml'
     path: ./Ruleset/Disney+
     interval: 86400
   YouTube:
