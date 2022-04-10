@@ -18,6 +18,7 @@ payload:
 # NAME: Fast Speedtest by Ookla    >>@ UPDATED: 2022-04-09
 # - USER-AGENT,SpeedTest*
   - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN,speed.dler.io
 # NAME: Speed Test by Cloudflare    >>@ UPDATED: 2022-04-09
