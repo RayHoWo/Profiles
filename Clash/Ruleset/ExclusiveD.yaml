@@ -1,0 +1,60 @@
+payload: 
+# >> Exclusive Direct 
+# NAME: Router Access    >>@ UPDATED: 2022-04-04
+  - DOMAIN-SUFFIX,unmsapp.com
+  - DOMAIN-SUFFIX,netgear.com
+  - DOMAIN-SUFFIX,urbanairship.com
+# NAME: NAS Access    >>@ UPDATED: 2022-04-04
+  - DOMAIN-SUFFIX,quickconnect.cn
+  - DOMAIN-SUFFIX,myds.me
+  - DOMAIN-SUFFIX,rahw.top
+# NAME: Wiz CN    >>@ UPDATED: 2022-04-04
+  - DOMAIN-SUFFIX,wizconnected.cn
+# NAME: XiaoTianCai    >>@ UPDATED: 2022-04-04
+# - USER-AGENTUSER-AGENT,%E5%B0%8F%E5%A4%A9%E6%89%8D/18*
+  - DOMAIN-SUFFIX,eebbk.net
+  - DOMAIN-SUFFIX,watch.okii.com
+  - DOMAIN-SUFFIX,tiancaixing.com
+# NAME: AkzoNobel Working    >>@ UPDATED: 2022-04-04
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,teams.events.data.microsoft.com
+  - DOMAIN-SUFFIX,teams.cdn.live.net
+  - DOMAIN-SUFFIX,teams.live.com
+  - DOMAIN-SUFFIX,teams.microsoft.com
+  - DOMAIN-SUFFIX,concursolutions.com
+  - DOMAIN-SUFFIX,concursolutionsus.sc.omtrdc.net
+  - DOMAIN-SUFFIX,successfactors.eu
+  - DOMAIN,akzonobel.service-now.com
+  - DOMAIN,akzonobel.sharepoint.com
+  - DOMAIN,akzonobels01.plateau.com
+  - DOMAIN,fed.akzonobel.net
+# NAME: Client    >>@ UPDATED: 2022-04-04
+  - PROCESS-NAME,UUBooster
+# NAME: Download    >>@ UPDATED: 2022-04-04
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,WebTorrent Helper
+# NMAE: Tencent    >>@ UPDATED: 2022-04-04
+  - IP-CIDR,182.254.116.0/24,no-resolve
+# NMAE: Tencent WeChat (International)    >>@ UPDATED: 2022-04-04
+  - IP-CIDR,101.32.96.0/20,no-resolve
+  - IP-CIDR,101.32.104.0/21,no-resolve
+  - IP-CIDR,101.32.118.0/23,no-resolve
+  - IP-CIDR,129.226.0.0/16,no-resolve
+  - IP-CIDR,183.128.0.0/11,no-resolve
+  - IP-CIDR,183.131.48.0/20,no-resolve
+# NMAE: Tencent Meeting   >>@ UPDATED: 2022-04-04
+# - USER-AGENT,%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE*
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN,work.medialab.qq.com
+  - IP-CIDR,101.91.19.82/32,no-resolve
+  - IP-CIDR,101.91.19.179/32,no-resolve

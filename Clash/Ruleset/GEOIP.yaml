@@ -1,0 +1,12 @@
+payload: 
+# NAME: GEOIP Country    >>@ UPDATED: 2022-04-04
+  - GEOIP,US,United States
+  - GEOIP,GB,United Kingdom
+  - GEOIP,DE,Germany
+  - GEOIP,KR,Korea
+  - GEOIP,TW,Taiwan
+  - GEOIP,JP,Japan
+  - GEOIP,SG,Singapore
+  - GEOIP,HK,Hong Kong
+  - GEOIP,CN,DIRECT
+
