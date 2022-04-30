@@ -124,6 +124,14 @@ payload:
   - DOMAIN-SUFFIX,videojs.com
   - DOMAIN-SUFFIX,zencdn.net
   - DOMAIN-SUFFIX,zencoder.com
+# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/CNN/CNN.yaml
+# NAME: CNN    >>@ UPDATED: 2022-04-04
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/DiscoveryPlus/DiscoveryPlus.yaml
 # NAME: DiscoveryPlus    >>@ UPDATED: 2022-04-04
   - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
