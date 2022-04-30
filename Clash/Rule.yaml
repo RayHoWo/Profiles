@@ -18,6 +18,7 @@ rules:
 - RULE-SET,PayPal,PayPal
 - RULE-SET,ExclusiveWW,Proxy
 - RULE-SET,WW,Proxy
+- RULE-SET,Scholar,Scholar
 - RULE-SET,ChinaMedia,DIRECT
 - RULE-SET,China,DIRECT
 - RULE-SET,ChinaIP,DIRECT
@@ -55,6 +56,7 @@ script:
             "PayPal": "PayPal",
             "ExclusiveWW": "Proxy",
             "WW": "Proxy",
+            "Scholar": "Scholar",
             "ChinaMedia": "DIRECT",
             "China": "DIRECT",
             "ChinaIP": "DIRECT",
@@ -211,6 +213,12 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/WW.yaml'
     path: ./Ruleset/WW
+    interval: 86400
+  Scholar:
+    type: http
+    behavior: classical
+    url: 'https://raw.githubusercontent.com/RayHoWo/Profiles/master/Clash/Ruleset/Scholar.yaml'
+    path: ./Ruleset/Scholar
     interval: 86400
   ChinaMedia:
     type: http
