@@ -51,6 +51,8 @@ IP-CIDR,183.128.0.0/11,no-resolve
 IP-CIDR,183.131.48.0/20,no-resolve
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,wx.qlogo.cn
 USER-AGENT,MicroMessenger*
 # NMAE: Tencent Meeting   >>@ UPDATED: 2022-04-04
 USER-AGENT,%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE*
