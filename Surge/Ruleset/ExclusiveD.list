@@ -42,22 +42,13 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 # NMAE: Tencent    >>@ UPDATED: 2022-04-04
 IP-CIDR,182.254.116.0/24,no-resolve
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/WeChat/WeChat.list
-# NMAE: WeChat    >>@ UPDATED: 2022-05-30
-DOMAIN,dl.wechat.com
-DOMAIN,sglong.wechat.com
-DOMAIN,sgminorshort.wechat.com
-DOMAIN,sgshort.wechat.com
-DOMAIN,tencentmap.wechat.com
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,129.226.107.244/32,no-resolve
-IP-CIDR,129.226.3.47/32,no-resolve
+# NMAE: Tencent WeChat (International)    >>@ UPDATED: 2022-04-04
+IP-CIDR,101.32.96.0/20,no-resolve
+IP-CIDR,101.32.104.0/21,no-resolve
+IP-CIDR,101.32.118.0/23,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,183.128.0.0/11,no-resolve
+IP-CIDR,183.131.48.0/20,no-resolve
 # NMAE: Tencent Meeting   >>@ UPDATED: 2022-04-04
 USER-AGENT,%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE*
 DOMAIN-SUFFIX,tencent.com
