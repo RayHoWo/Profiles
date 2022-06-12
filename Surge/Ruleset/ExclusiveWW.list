@@ -12,16 +12,6 @@ DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
 # NAME: Surge    >>@ UPDATED: 2022-04-04
 DOMAIN-SUFFIX,nssurge.com
-# NAME: Fast    >>@ UPDATED: 2022-04-09
-DOMAIN-SUFFIX,fast.com
-# NAME: Fast Speedtest by Ookla    >>@ UPDATED: 2022-04-09
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN,speed.dler.io
-# NAME: Speed Test by Cloudflare    >>@ UPDATED: 2022-04-09
-DOMAIN-SUFFIX,speed.cloudflare.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Samsung/Samsung.list
 # NAME: Samsung    >>@ UPDATED: 2022-04-04
 DOMAIN-SUFFIX,anrdoezrs.net
