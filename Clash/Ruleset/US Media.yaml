@@ -145,7 +145,7 @@ payload:
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/EncoreTVB/EncoreTVB.yaml
-# NAME: EncoreTVB    >>@ UPDATED: 2022-04-04
+# NAME: EncoreTVB    >>@ UPDATED: 2022-08-05
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN-SUFFIX,content.jwplatform.com
