@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Spotify/Spotify.list
-# NAME: Spotify    >>@ UPDATED: 2022-08-31
+# NAME: Spotify    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net

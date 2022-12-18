@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Netflix/Netflix.list   
-# NAME: Netflix    >>@ UPDATED: 2021-09-15
+# NAME: Netflix    >>@ UPDATED: 2021-12-18
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
 DOMAIN,netflix.com.edgesuite.net

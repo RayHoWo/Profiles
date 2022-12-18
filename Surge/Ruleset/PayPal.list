@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/PayPal.list
-# NAME: PayPal    >>@ UPDATED: 2022-04-04
+# NAME: PayPal    >>@ UPDATED: 2022-12-18
 USER-AGENT,PayPal*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
