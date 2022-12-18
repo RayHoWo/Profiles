@@ -1,17 +1,22 @@
 # >> Hong Kong Media      
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/JOOX/JOOX.list
-# NAME: JOOX    >>@ UPDATED: 2022-04-04
+# NAME: JOOX    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,joox.com
+DOMAIN-KEYWORD,jooxweb-api
 USER-AGENT,JOOX*
 USER-AGENT,WeMusic*
 PROCESS-NAME,com.tencent.ibg.joox
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/myTVSUPER/myTVSUPER.list
-# NAME: myTVSUPER    >>@ UPDATED: 2022-04-04
+# NAME: myTVSUPER    >>@ UPDATED: 2022-12-18
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
 USER-AGENT,mytv*
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/HBOAsia/HBOAsia.list
-# NAME: HBOAsia    >>@ UPDATED: 2022-04-04
+# NAME: HBOAsia    >>@ UPDATED: 2022-12-18
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
@@ -30,13 +35,14 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-KEYWORD,.hbogoasia.
 USER-AGENT,HBO%20GO%20PROD*
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NowE/NowE.list
-# NAME: NowE    >>@ UPDATED: 2022-04-04
+# NAME: NowE    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowestatic.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ViuTV/ViuTV.list
-# NAME: ViuTV    >>@ UPDATED: 2022-08-05
+# NAME: ViuTV    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com

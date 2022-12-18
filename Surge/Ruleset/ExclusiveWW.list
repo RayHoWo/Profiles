@@ -1,19 +1,19 @@
 # >> Exclusive Global    
-# NAME: Linkedin    >>@ UPDATED: 2022-04-04
+# NAME: Linkedin    >>@ UPDATED: 2022-12-18
 USER-AGENT,Linkedin*
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,licdn.cn
-# NAME: Wiz World    >>@ UPDATED: 2022-04-04
+# NAME: Wiz World    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,wiz.world
-# NAME: Sonos    >>@ UPDATED: 2022-04-04
+# NAME: Sonos    >>@ UPDATED: 2022-12-18
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
-# NAME: Surge    >>@ UPDATED: 2022-04-04
+# NAME: Surge    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,nssurge.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Samsung/Samsung.list
-# NAME: Samsung    >>@ UPDATED: 2022-04-04
+# NAME: Samsung    >>@ UPDATED: 2022-12-18
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
