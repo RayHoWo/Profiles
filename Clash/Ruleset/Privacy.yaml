@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Privacy.yaml 
-# Privacy    >>@ UPDATED: 2022-04-04
+# Privacy    >>@ UPDATED: 2022-12-19
   # > Google
   - DOMAIN,safebrowsing.googleapis.com
   # > Tencent
