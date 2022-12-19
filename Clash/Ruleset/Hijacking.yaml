@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Hijacking.yaml 
-# NAME: Internet Service Providers Hijacking    >>@ UPDATED: 2022-04-04
+# NAME: Internet Service Providers Hijacking    >>@ UPDATED: 2022-12-19
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
   - DOMAIN-SUFFIX,189key.com

@@ -14,7 +14,7 @@ payload:
 # NAME: Surge    >>@ UPDATED: 2022-04-04
   - DOMAIN-SUFFIX,nssurge.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Samsung/Samsung.yaml
-# NAME: Samsung    >>@ UPDATED: 2022-04-04
+# NAME: Samsung    >>@ UPDATED: 2022-12-19
   - DOMAIN-SUFFIX,anrdoezrs.net
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,galaxymobile.jp
