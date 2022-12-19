@@ -42,7 +42,7 @@ payload:
 # NMAE: Tencent    >>@ UPDATED: 2022-04-04
   - IP-CIDR,182.254.116.0/24,no-resolve
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/WeChat/WeChat.yaml
-# NAME: Wechat    >>@ UPDATED: 2022-08-05
+# NAME: Wechat    >>@ UPDATED: 2022-12-19
   - DOMAIN-SUFFIX,qlogo.cn
   - DOMAIN-SUFFIX,qpic.cn
   - DOMAIN-SUFFIX,servicewechat.com
