@@ -1,6 +1,7 @@
 # >> Japan Media  
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/AbemaTV/AbemaTV.list
-# NAME: AbemaTV    >>@ UPDATED: 2022-12-18
+# NAME: AbemaTV    >>@ UPDATED: 2023-01-28
+DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abematv.akamaized.net
@@ -25,14 +26,14 @@ DOMAIN-SUFFIX,winticket.jp
 DOMAIN-KEYWORD,abematv.akamaized.net
 USER-AGENT,AbemaTV*
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/HuluJP/HuluJP.list
-# NAME: HuluJP    >>@ UPDATED: 2022-12-18
+# NAME: HuluJP    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,yb.uncn.jp
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Japonx/Japonx.list
-# NAME: Japonx    >>@ UPDATED: 2022-12-18
+# NAME: Japonx    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,japonx.com
 DOMAIN-SUFFIX,japonx.net
 DOMAIN-SUFFIX,japonx.tv
@@ -44,7 +45,7 @@ DOMAIN-SUFFIX,japronx.vip
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Niconico/Niconico.list
-# NAME: Niconico    >>@ UPDATED: 2022-12-18
+# NAME: Niconico    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
@@ -56,7 +57,7 @@ DOMAIN-SUFFIX,simg.jp
 DOMAIN-SUFFIX,socdm.com
 USER-AGENT,Niconico*
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TVer/TVer.list
-# NAME: TVer    >>@ UPDATED: 2022-12-18
+# NAME: TVer    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,edge.api.brightcove.com
 DOMAIN-SUFFIX,gorin.jp

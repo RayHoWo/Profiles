@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AsianMedia/AsianMedia.list
-# NAME: AsianMedia    >>@ UPDATED: 2022-12-18
+# NAME: AsianMedia    >>@ UPDATED: 2023-01-28
 DOMAIN,akmcdnoversea-tw.inter.iqiyi.com
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,cache.video.iqiyi.com
@@ -41,7 +41,6 @@ IP-CIDR,116.211.202.216/32,no-resolve
 IP-CIDR,118.26.120.0/24,no-resolve
 IP-CIDR,118.26.32.0/23,no-resolve
 IP-CIDR,119.176.0.0/12,no-resolve
-IP-CIDR,223.119.62.224/28,no-resolve
 IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 USER-AGENT,*bili*

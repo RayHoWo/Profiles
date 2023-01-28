@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list   
-# Internet Service Providers Hijacking    >>@ UPDATED: 2022-12-18
+# Internet Service Providers Hijacking    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,17gouwuba.com
 DOMAIN-SUFFIX,186078.com
 DOMAIN-SUFFIX,189key.com

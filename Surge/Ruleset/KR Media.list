@@ -1,13 +1,13 @@
 # >> Korea Media      
-# NAME: KBSTV    >>@ UPDATED: 2022-04-04
+# NAME: KBSTV    >>@ UPDATED: 2023-01-28
 DOMAIN-KEYWORD,kbsworld
 DOMAIN-SUFFIX,kbs.co.kr
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/PandoraTV/PandoraTV.list
-# NAME: PandoraTV    >>@ UPDATED: 2022-12-18
+# NAME: PandoraTV    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,kmplayer.com
 DOMAIN-SUFFIX,pandora.tv
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/NaverTV/NaverTV.list
-# NAME: Naver    >>@ UPDATED: 2022-12-18
+# NAME: Naver    >>@ UPDATED: 2023-01-28
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 USER-AGENT,Naver%20TV*
