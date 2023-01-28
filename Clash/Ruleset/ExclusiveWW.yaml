@@ -1,17 +1,17 @@
 payload: 
 # >> Exclusive Global    
-# NAME: Linkedin    >>@ UPDATED: 2022-04-04
+# NAME: Linkedin    >>@ UPDATED: 2023-01-28
 # - USER-AGENT,Linkedin*
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,licdn.cn
-# NAME: Wiz World    >>@ UPDATED: 2022-04-04
+# NAME: Wiz World    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,wiz.world
-# NAME: Sonos    >>@ UPDATED: 2022-04-04
+# NAME: Sonos    >>@ UPDATED: 2023-01-28
 # - USER-AGENT,Sonos*
   - DOMAIN-SUFFIX,sonos.com
   - DOMAIN-SUFFIX,sonos.radio
-# NAME: Surge    >>@ UPDATED: 2022-04-04
+# NAME: Surge    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,nssurge.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Samsung/Samsung.yaml
 # NAME: Samsung    >>@ UPDATED: 2022-12-19

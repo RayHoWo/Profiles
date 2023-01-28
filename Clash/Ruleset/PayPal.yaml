@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Extra/PayPal.yaml
-# NAME: PayPal    >>@ UPDATED: 2022-12-19
+# NAME: PayPal    >>@ UPDATED: 2023-01-28
   - PROCESS-NAME,com.paypal.android.p2pmobile
   - DOMAIN-SUFFIX,paypal.com
   - DOMAIN-SUFFIX,paypal.me

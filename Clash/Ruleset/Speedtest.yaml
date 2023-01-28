@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Speedtest/Speedtest.yaml
-# NAME: Speedtest    >>@ UPDATED: 2022-12-19
+# NAME: Speedtest    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speed.cloudflare.com

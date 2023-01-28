@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Global.yaml  
-# NAME: Global    >>@ UPDATED: 2022-04-04
+# NAME: Global    >>@ UPDATED: 2023-01-28
   # (D.C.S.G?)
   - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9gag.com

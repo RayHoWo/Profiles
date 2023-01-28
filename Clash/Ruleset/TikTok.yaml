@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TikTok/TikTok.yaml
-# NAME: TikTok    >>@ UPDATED: 2022-12-19
+# NAME: TikTok    >>@ UPDATED: 2023-01-28
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com

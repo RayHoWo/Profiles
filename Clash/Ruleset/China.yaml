@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/China.yaml  
-# NAME: China Area Network    >>@ UPDATED: 2022-12-19
+# NAME: China Area Network    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,gandi.net
   - DOMAIN-SUFFIX,snapdrop.net

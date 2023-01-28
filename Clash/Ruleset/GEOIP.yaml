@@ -1,5 +1,5 @@
 payload: 
-# NAME: GEOIP Country    >>@ UPDATED: 2022-04-04
+# NAME: GEOIP Country    >>@ UPDATED: 2023-01-28
   - GEOIP,US,United States
   - GEOIP,GB,United Kingdom
   - GEOIP,DE,Germany

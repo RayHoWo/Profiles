@@ -1,21 +1,21 @@
 payload: 
 # >> Exclusive Direct 
-# NAME: Router Access    >>@ UPDATED: 2022-04-04
+# NAME: Router Access    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,unmsapp.com
   - DOMAIN-SUFFIX,netgear.com
   - DOMAIN-SUFFIX,urbanairship.com
-# NAME: NAS Access    >>@ UPDATED: 2022-04-04
+# NAME: NAS Access    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,quickconnect.cn
   - DOMAIN-SUFFIX,myds.me
   - DOMAIN-SUFFIX,rahw.top
-# NAME: Wiz CN    >>@ UPDATED: 2022-04-04
+# NAME: Wiz CN    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,wizconnected.cn
-# NAME: XiaoTianCai    >>@ UPDATED: 2022-04-04
+# NAME: XiaoTianCai    >>@ UPDATED: 2023-01-28
 # - USER-AGENTUSER-AGENT,%E5%B0%8F%E5%A4%A9%E6%89%8D/18*
   - DOMAIN-SUFFIX,eebbk.net
   - DOMAIN-SUFFIX,watch.okii.com
   - DOMAIN-SUFFIX,tiancaixing.com
-# NAME: AkzoNobel Working    >>@ UPDATED: 2022-04-04
+# NAME: AkzoNobel Working    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN,outlook.office365.com
   - DOMAIN,teams.events.data.microsoft.com
@@ -27,9 +27,9 @@ payload:
   - DOMAIN,akzonobel.sharepoint.com
   - DOMAIN,akzonobels01.plateau.com
   - DOMAIN,fed.akzonobel.net
-# NAME: Client    >>@ UPDATED: 2022-04-04
+# NAME: Client    >>@ UPDATED: 2023-01-28
   - PROCESS-NAME,UUBooster
-# NAME: Download    >>@ UPDATED: 2022-04-04
+# NAME: Download    >>@ UPDATED: 2023-01-28
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,fdm
   - PROCESS-NAME,Folx
@@ -39,7 +39,7 @@ payload:
   - PROCESS-NAME,uTorrent
   - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,WebTorrent Helper
-# NMAE: Tencent    >>@ UPDATED: 2022-04-04
+# NMAE: Tencent    >>@ UPDATED: 2023-01-28
   - IP-CIDR,182.254.116.0/24,no-resolve
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/WeChat/WeChat.yaml
 # NAME: Wechat    >>@ UPDATED: 2022-12-19
@@ -64,7 +64,7 @@ payload:
   - IP-CIDR,101.32.133.53/32
   - IP-CIDR,129.226.107.244/32
   - IP-CIDR,129.226.3.47/32
-# NMAE: Tencent Meeting   >>@ UPDATED: 2022-04-04
+# NMAE: Tencent Meeting   >>@ UPDATED: 2023-01-28
 # - USER-AGENT,%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE*
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,qcloud.com

@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Unbreak.yaml 
-# NAME: Unbreak    >>@ UPDATED: 2022-12-19
+# NAME: Unbreak    >>@ UPDATED: 2023-01-28
   # > Google
   - DOMAIN-SUFFIX,blog.google
   - DOMAIN-SUFFIX,googletraveladservices.com

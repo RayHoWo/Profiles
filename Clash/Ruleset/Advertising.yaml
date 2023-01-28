@@ -1,4 +1,4 @@
 payload:
 # Link: https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Guard/Advertising.yaml 
-# NAME: Advertising    >>@ UPDATED: 2022-12-19
+# NAME: Advertising    >>@ UPDATED: 2023-01-28
   - DOMAIN-KEYWORD,adservice
