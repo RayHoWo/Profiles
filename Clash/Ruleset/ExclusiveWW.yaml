@@ -14,7 +14,7 @@ payload:
 # NAME: Surge    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,nssurge.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Samsung/Samsung.yaml
-# NAME: Samsung    >>@ UPDATED: 2022-12-19
+# NAME: Samsung    >>@ UPDATED: 2023-01-28
   - DOMAIN-SUFFIX,anrdoezrs.net
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,galaxymobile.jp
@@ -28,3 +28,5 @@ payload:
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsungknox.com
   - DOMAIN-SUFFIX,samsungqbe.com
+# NAME: ChatGPT    >>@ UPDATED: 2023-03-12
+  - DOMAIN-SUFFIX,openai.com
