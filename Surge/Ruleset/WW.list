@@ -1,7 +1,14 @@
 # Link: https://cdn.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Proxy.list  
-# NAME: Global    >>@ UPDATED: 2023-3-12
+# NAME: Global    >>@ UPDATED: 2023-04-30
 # > TestFlight
 DOMAIN,testflight.apple.com
+
+# > Blizzard
+USER-AGENT,hearthstone*
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
 
 # > Duolingo
 USER-AGENT,Duolingo*
@@ -324,6 +331,7 @@ DOMAIN-SUFFIX,mp3buscador.com
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
+DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nasa.gov
 DOMAIN-SUFFIX,ndr.de
