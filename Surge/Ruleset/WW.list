@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Proxy.list  
-# NAME: Global    >>@ UPDATED: 2023-04-30
+# NAME: Global    >>@ UPDATED: 2023-05-03
 # > TestFlight
 DOMAIN,testflight.apple.com
 

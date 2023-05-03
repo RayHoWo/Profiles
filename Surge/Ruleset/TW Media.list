@@ -1,7 +1,7 @@
 # >> Taiwan Media  
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list
-# NAME: Bahamut    >>@ UPDATED: 2023-01-28
-DOMAIN,bahamut.akamaized.net
+# NAME: Bahamut    >>@ UPDATED: 2023-05-03
+DOMAIN-SUFFIX,bahamut.akamaized.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,fbcdn.net
@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,viblast.com
 USER-AGENT,Anime*
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/KKBOX/KKBOX.list
-# NAME: KKBOX    >>@ UPDATED: 2023-01-28
+# NAME: KKBOX    >>@ UPDATED: 2023-05-03
 DOMAIN-SUFFIX,kfs.io
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox-prime.com
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/LineTV/LineTV.list
-# NAME: LineTV    >>@ UPDATED: 2023-01-28
+# NAME: LineTV    >>@ UPDATED: 2023-05-03
 DOMAIN,d17lx9ucc6k9fc.cloudfront.net
 DOMAIN,d3pgb93pk7bvxj.cloudfront.net
 DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
@@ -35,7 +35,7 @@ USER-AGENT,LINE%20TV*
 USER-AGENT,LINE*
 PROCESS-NAME,com.linecorp.linetv
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/TaiWanGood/TaiWanGood.list
-# NAME: TaiWanGood    >>@ UPDATED: 2023-01-28
+# NAME: TaiWanGood    >>@ UPDATED: 2023-05-03
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw
 USER-AGENT,TaiwanGood*
