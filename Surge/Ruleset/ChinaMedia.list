@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list    
-# NAME: ChinaMedia    >>@ UPDATED: 2023-01-28
+# NAME: ChinaMedia    >>@ UPDATED: 2023-05-03
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -100,6 +100,7 @@ DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,corari.com
+DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,dyhgames.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.com.w.kunlunhuf.com
