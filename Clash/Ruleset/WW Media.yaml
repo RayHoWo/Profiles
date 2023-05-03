@@ -1,7 +1,7 @@
 payload:
 # >> Multiple Region Media  
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/DAZN/DAZN.yaml
-# NAME: DAZN    >>@ UPDATED: 2023-01-28
+# NAME: DAZN    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,control.kochava.com
   - DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
   - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
@@ -21,17 +21,17 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-KEYWORD,voddazn
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Deezer/Deezer.yaml
-# NAME: Deezer    >>@ UPDATED: 2023-01-28
+# NAME: Deezer    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TIDAL/TIDAL.yaml
-# NAME: TIDAL    >>@ UPDATED: 2023-01-28
+# NAME: TIDAL    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/SoundCloud/SoundCloud.yaml
-# NAME: SoundCloud    >>@ UPDATED: 2023-01-28
+# NAME: SoundCloud    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
