@@ -1,8 +1,18 @@
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Speedtest/Speedtest.list
-# NAME: Speedtest    >>@ UPDATED: 2023-01-28
+# NAME: Speedtest    >>@ UPDATED: 2023-05-03
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
 DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,pingtest.net
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,webtest.net
 DOMAIN-KEYWORD,speedtest
 USER-AGENT,SpeedTest*
