@@ -1,5 +1,5 @@
 # Link: https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Domestic.list
-# NAME: China Area Network    >>@ UPDATED: 2023-03-25
+# NAME: China Area Network    >>@ UPDATED: 2023-05-03
 # China Banks
 # > Agricultural Bank of China
 DOMAIN-SUFFIX,abchina.com
@@ -38,13 +38,6 @@ DOMAIN-SUFFIX,pingan.com.cn
 # Type
 # > Beplay
 DOMAIN-KEYWORD,beplay
-
-# > Blizzard
-USER-AGENT,hearthstone*
-DOMAIN,cdp.cloud.unity3d.com
-DOMAIN-SUFFIX,battle.net
-DOMAIN-SUFFIX,battlenet.com
-DOMAIN-SUFFIX,blizzard.com
 
 # > Prior
 DOMAIN,client.amplifi.com
@@ -246,7 +239,6 @@ DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaimg.cn
