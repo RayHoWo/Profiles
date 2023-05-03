@@ -1,6 +1,6 @@
 payload:
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Disney/Disney.yaml
-# NAME: Disney    >>@ UPDATED: 2023-01-28
+# NAME: Disney    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,20thcenturystudios.com.au
   - DOMAIN-SUFFIX,20thcenturystudios.com.br
   - DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -159,6 +159,8 @@ payload:
   - DOMAIN-SUFFIX,spaindisney.com
   - DOMAIN-SUFFIX,star-brasil.com
   - DOMAIN-SUFFIX,star-latam.com
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,starplus.com
   - DOMAIN-SUFFIX,starwars.com
   - DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
   - DOMAIN-SUFFIX,starwarskids.com
