@@ -1,13 +1,13 @@
 payload:  
 # >> Korea Media   
-# NAME: KBSTV    >>@ UPDATED: 2023-01-28
+# NAME: KBSTV    >>@ UPDATED: 2023-05-03
   - DOMAIN-KEYWORD,kbsworld
   - DOMAIN-SUFFIX,kbs.co.kr
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/PandoraTV/PandoraTV.yaml
-# NAME: PandoraTV    >>@ UPDATED: 2023-01-28
+# NAME: PandoraTV    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,kmplayer.com
   - DOMAIN-SUFFIX,pandora.tv
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/NaverTV/NaverTV.yaml
-# NAME: Naver    >>@ UPDATED: 2023-01-28
+# NAME: Naver    >>@ UPDATED: 2023-05-03
   - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,smartmediarep.com
