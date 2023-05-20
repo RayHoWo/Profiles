@@ -8,3 +8,5 @@ DOMAIN,foxsports02-i.akamaihd.net
 DOMAIN,foxsports03-i.akamaihd.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,foxplus.com
+# NAME: ChatGPT    >>@ UPDATED: 2023-03-12
+DOMAIN-SUFFIX,openai.com
