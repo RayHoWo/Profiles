@@ -2,8 +2,8 @@
 DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-IP-CIDR,208.54.36.3,no-resolve
-IP-CIDR,208.54.2.99,no-resolve
-IP-CIDR,208.54.88.35,no-resolve
-IP-CIDR,208.54.159.227,no-resolve
-IP-CIDR,208.54.2.163,no-resolve
+IP-CIDR,208.54.36.3/32,no-resolve
+IP-CIDR,208.54.2.99/32,no-resolve
+IP-CIDR,208.54.88.35/32,no-resolve
+IP-CIDR,208.54.159.227/32,no-resolve
+IP-CIDR,208.54.2.163/32,no-resolve
