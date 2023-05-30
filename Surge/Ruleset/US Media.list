@@ -1,4 +1,8 @@
 # >> United States Media  
+# NAME: T-Mobile Paygo    >>@ UPDATED: 2023-05-30
+DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 # NAME: Google Voice    >>@ UPDATED: 2023-05-03
 USER-AGENT,VoiceApp*
 USER-AGENT,*com.google.ios.voice*
