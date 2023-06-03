@@ -8,5 +8,11 @@ DOMAIN,foxsports02-i.akamaihd.net
 DOMAIN,foxsports03-i.akamaihd.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,foxplus.com
-# NAME: ChatGPT    >>@ UPDATED: 2023-03-12
+# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/OpenAI/OpenAI.list
+# NAME: OpenAI    >>@ UPDATED: 2023-06-04
+DOMAIN,cdn.auth0.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,openai.com
