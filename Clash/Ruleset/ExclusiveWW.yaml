@@ -1,5 +1,9 @@
 payload: 
 # >> Exclusive Global    
+# NAME: Surgio Gateway    >>@ UPDATED: 2023-06-04
+  - DOMAIN-SUFFIX,how.rahw.top
+  - DOMAIN-SUFFIX,now.rahw.top
+  - DOMAIN-SUFFIX,vercel.app
 # NAME: Linkedin    >>@ UPDATED: 2023-01-28
 # - USER-AGENT,Linkedin*
   - DOMAIN-SUFFIX,linkedin.com
@@ -28,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsungknox.com
   - DOMAIN-SUFFIX,samsungqbe.com
+# NAME: ChatGPT    >>@ UPDATED: 2023-03-12
+  - DOMAIN-SUFFIX,openai.com
