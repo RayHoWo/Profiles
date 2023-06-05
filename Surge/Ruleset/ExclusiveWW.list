@@ -1,8 +1,4 @@
 # >> Exclusive Global   
-# NAME: Surgio Gateway    >>@ UPDATED: 2023-06-04
-DOMAIN-SUFFIX,how.rahw.top
-DOMAIN-SUFFIX,now.rahw.top
-DOMAIN-SUFFIX,vercel.app
 # NAME: Linkedin    >>@ UPDATED: 2022-12-18
 USER-AGENT,Linkedin*
 DOMAIN-SUFFIX,linkedin.com
