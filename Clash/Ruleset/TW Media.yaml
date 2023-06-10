@@ -1,7 +1,7 @@
 payload:
 # >> Taiwan Media  
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Bahamut/Bahamut.yaml
-# NAME: Bahamut    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Bahamut/Bahamut.yaml
+# NAME: Bahamut    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,bahamut.akamaized.net
   - DOMAIN-SUFFIX,bahamut.com.tw
   - DOMAIN-SUFFIX,digicert.com
@@ -10,8 +10,8 @@ payload:
   - DOMAIN-SUFFIX,gvt1.com
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,viblast.com
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/KKBOX/KKBOX.yaml
-# NAME: KKBOX    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/KKBOX/KKBOX.yaml
+# NAME: KKBOX    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,kfs.io
   - DOMAIN-SUFFIX,kk.stream
   - DOMAIN-SUFFIX,kkbox-prime.com
@@ -21,8 +21,8 @@ payload:
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/LineTV/LineTV.yaml
-# NAME: LineTV    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/LineTV/LineTV.yaml
+# NAME: LineTV    >>@ UPDATED: 2023-06-10
   - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
   - DOMAIN,d3pgb93pk7bvxj.cloudfront.net
   - DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
@@ -32,7 +32,7 @@ payload:
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,linetv.tw
   - PROCESS-NAME,com.linecorp.linetv
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TaiWanGood/TaiWanGood.yaml
-# NAME: TaiWanGood    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/TaiWanGood/TaiWanGood.yaml
+# NAME: TaiWanGood    >>@ UPDATED: 2023-06-10
   - DOMAIN,hamifans.emome.net
   - DOMAIN-SUFFIX,skyking.com.tw
