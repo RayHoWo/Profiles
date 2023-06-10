@@ -1,16 +1,16 @@
 payload: 
-# NAME: Linkedin    >>@ UPDATED: 2023-01-28
+# NAME: Linkedin    >>@ UPDATED: 2023-06-10
 # - USER-AGENT,Linkedin*
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,licdn.cn
-# NAME: Wiz World    >>@ UPDATED: 2023-01-28
+# NAME: Wiz World    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,wiz.world
-# NAME: Sonos    >>@ UPDATED: 2023-01-28
+# NAME: Sonos    >>@ UPDATED: 2023-06-10
 # - USER-AGENT,Sonos*
   - DOMAIN-SUFFIX,sonos.com
   - DOMAIN-SUFFIX,sonos.radio
-# NAME: Passwall    >>@ UPDATED: 2023-06-05
+# NAME: Passwall    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,how.rahw.top
   - DOMAIN-SUFFIX,nssurge.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Samsung/Samsung.yaml
