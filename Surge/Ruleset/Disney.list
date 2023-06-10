@@ -1,5 +1,5 @@
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Disney/Disney.list
-# NAME: Disney    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Disney/Disney.list
+# NAME: Disney    >>@ UPDATED: 2023-06-10
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp

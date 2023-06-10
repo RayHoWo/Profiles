@@ -1,11 +1,11 @@
 # >> United Kingdom Media  
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/All4/All4.list
-# NAME: All4    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/All4/All4.list
+# NAME: All4    >>@ UPDATED: 2023-06-10
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 USER-AGENT,All4*
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/BBC/BBC.list
-# NAME: BBC    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/BBC/BBC.list
+# NAME: BBC    >>@ UPDATED: 2023-06-10
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,aod-pod-uk-live.akamaized.net
@@ -41,14 +41,14 @@ DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
 USER-AGENT,BBCiPlayer*
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/ITV/ITV.list
-# NAME: ITV    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/ITV/ITV.list
+# NAME: ITV    >>@ UPDATED: 2023-06-10
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
 USER-AGENT,ITV_Player*
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/My5/My5.list
-# NAME: My5    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/My5/My5.list
+# NAME: My5    >>@ UPDATED: 2023-06-10
 DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN-SUFFIX,channel5.com
 DOMAIN-SUFFIX,my5.tv
