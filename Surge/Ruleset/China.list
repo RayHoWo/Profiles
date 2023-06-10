@@ -1,4 +1,4 @@
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/China/China.list
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/China/China.list
 # NAME: China    >>@ UPDATED: 2023-06-10
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
