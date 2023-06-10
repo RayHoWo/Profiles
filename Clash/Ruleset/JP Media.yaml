@@ -1,7 +1,7 @@
 payload:  
 # >> Japan Media 
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/AbemaTV/AbemaTV.yaml
-# NAME: AbemaTV    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AbemaTV/AbemaTV.yaml
+# NAME: AbemaTV    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
@@ -25,15 +25,15 @@ payload:
   - DOMAIN-SUFFIX,vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,winticket.jp
   - DOMAIN-KEYWORD,abematv.akamaized.net
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/HuluJP/HuluJP.yaml
-# NAME: HuluJP    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/HuluJP/HuluJP.yaml
+# NAME: HuluJP    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,happyon.jp
   - DOMAIN-SUFFIX,hjholdings.jp
   - DOMAIN-SUFFIX,hulu.jp
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Japonx/Japonx.yaml
-# NAME: Japonx    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Japonx/Japonx.yaml
+# NAME: Japonx    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,japonx.com
   - DOMAIN-SUFFIX,japonx.net
   - DOMAIN-SUFFIX,japonx.tv
@@ -44,8 +44,8 @@ payload:
   - DOMAIN-SUFFIX,japronx.vip
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Niconico/Niconico.yaml
-# NAME: Niconico    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Niconico/Niconico.yaml
+# NAME: Niconico    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,nicodic.jp
   - DOMAIN-SUFFIX,nicomanga.jp
@@ -55,8 +55,8 @@ payload:
   - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-SUFFIX,simg.jp
   - DOMAIN-SUFFIX,socdm.com
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/TVer/TVer.yaml
-# NAME: TVer    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/TVer/TVer.yaml
+# NAME: TVer    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,dogatch.jp
   - DOMAIN-SUFFIX,edge.api.brightcove.com
   - DOMAIN-SUFFIX,gorin.jp
