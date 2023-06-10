@@ -1,6 +1,4 @@
 payload: 
-# NAME: Surgio Gateway    >>@ UPDATED: 2023-06-05
-  - DOMAIN-SUFFIX,how.rahw.top
 # NAME: Linkedin    >>@ UPDATED: 2023-01-28
 # - USER-AGENT,Linkedin*
   - DOMAIN-SUFFIX,linkedin.com
@@ -12,10 +10,11 @@ payload:
 # - USER-AGENT,Sonos*
   - DOMAIN-SUFFIX,sonos.com
   - DOMAIN-SUFFIX,sonos.radio
-# NAME: Surge    >>@ UPDATED: 2023-01-28
+# NAME: Passwall    >>@ UPDATED: 2023-06-05
+  - DOMAIN-SUFFIX,how.rahw.top
   - DOMAIN-SUFFIX,nssurge.com
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Samsung/Samsung.yaml
-# NAME: Samsung    >>@ UPDATED: 2023-01-28
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Samsung/Samsung.yaml
+# NAME: Samsung    >>@ UPDATED: 2023-06-10
   - DOMAIN-SUFFIX,anrdoezrs.net
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,galaxymobile.jp
@@ -29,5 +28,4 @@ payload:
   - DOMAIN-SUFFIX,samsunggalaxyfriends.com
   - DOMAIN-SUFFIX,samsungknox.com
   - DOMAIN-SUFFIX,samsungqbe.com
-# NAME: ChatGPT    >>@ UPDATED: 2023-03-12
-  - DOMAIN-SUFFIX,openai.com
+
