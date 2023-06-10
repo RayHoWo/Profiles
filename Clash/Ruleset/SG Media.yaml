@@ -1,7 +1,7 @@
 payload:
 # >> Singapore Media  
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/FOXPlus/FOXPlus.yaml
-# NAME: FOXPlus    >>@ UPDATED: 2023-05-03
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/FOXPlus/FOXPlus.yaml
+# NAME: FOXPlus    >>@ UPDATED: 2023-06-10
   - DOMAIN,cdn-fox-networks-group-green.akamaized.net
   - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
   - DOMAIN,foxsports01-i.akamaihd.net
@@ -9,8 +9,8 @@ payload:
   - DOMAIN,foxsports03-i.akamaihd.net
   - DOMAIN,staticasiafox.akamaized.net
   - DOMAIN-SUFFIX,foxplus.com
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/FOXPlus/FOXPlus.yaml
-# NAME: OpenAI    >>@ UPDATED: 2023-06-04
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/OpenAI/OpenAI.yaml
+# NAME: OpenAI    >>@ UPDATED: 2023-06-10
   - DOMAIN,cdn.auth0.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,openaiapi-site.azureedge.net
