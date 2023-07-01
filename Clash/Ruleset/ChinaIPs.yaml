@@ -1,6 +1,11 @@
+# NAME: ChinaIPs
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-13 02:12:38
+# IP-CIDR: 111838
+# IP-CIDR6: 5130
+# TOTAL: 116968
 payload:
-# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml
-# NAME: ChinaIPs   >>@ UPDATED: 2023-05-03
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
   - IP-CIDR,1.0.32.0/19
