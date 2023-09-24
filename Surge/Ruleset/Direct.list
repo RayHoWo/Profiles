@@ -1,11 +1,11 @@
 # >> Direct Access
-# NAME: Router Access    >>@ UPDATED: 2023-06-10
-DOMAIN-SUFFIX,unmsapp.com
-DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,urbanairship.com
 # NAME: NAS Access    >>@ UPDATED: 2023-06-10
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,myds.me
+# NAME: Oray/Sunlogin    >>@ UPDATED: 2023-09-24
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,oray.net
 # NAME: Wiz CN    >>@ UPDATED: 2023-06-10
 DOMAIN-SUFFIX,wizconnected.cn
 # NAME: XiaoTianCai    >>@ UPDATED: 2023-06-10
@@ -16,12 +16,22 @@ DOMAIN-SUFFIX,tiancaixing.com
 # NAME: Client    >>@ UPDATED: 2023-06-10
 PROCESS-NAME,UUBooster
 # NAME: Download    >>@ UPDATED: 2023-06-10
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan
 PROCESS-NAME,aria2c
+PROCESS-NAME,bitcomet
+PROCESS-NAME,downloadservice
 PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Thunder
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,folx
+PROCESS-NAME,nettransport
+PROCESS-NAME,qbittorrent
+PROCESS-NAME,thunder
+PROCESS-NAME,transmission
+PROCESS-NAME,utorrent
+PROCESS-NAME,webtorrent
+PROCESS-NAME,webtorrenthelper
+PROCESS-NAME,weiyun
