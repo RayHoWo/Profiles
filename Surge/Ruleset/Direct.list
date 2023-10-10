@@ -1,6 +1,5 @@
 # >> Direct Access
 # NAME: NAS Access    >>@ UPDATED: 2023-06-10
-SRC-IP-CIDR,192.168.1.6/32
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-SUFFIX,myds.me
 # NAME: Oray/Sunlogin    >>@ UPDATED: 2023-09-24
