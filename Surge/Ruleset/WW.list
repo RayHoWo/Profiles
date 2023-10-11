@@ -11,8 +11,12 @@ USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
 # NAME: Passwall    >>@ UPDATED: 2023-06-10
-DOMAIN-SUFFIX,how.rahw.top
+DOMAIN-SUFFIX,now.rahw.top
 DOMAIN-SUFFIX,nssurge.com
+# NAME: Marriott    >>@ UPDATED: 2023-06-10
+DOMAIN-SUFFIX,marriott.com
+DOMAIN-SUFFIX,marriott.net
+DOMAIN-SUFFIX,omtrdc.net
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Samsung/Samsung.list
 # NAME: Samsung    >>@ UPDATED: 2023-06-10
 DOMAIN-SUFFIX,anrdoezrs.net
