@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Microsoft/Microsoft.list
-# NAME: Microsoft    >>@ UPDATED: 2023-06-10
+# NAME: Microsoft    >>@ UPDATED: 2023-10-07
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,21vbc.com
@@ -669,5 +669,5 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,onedrive
-PROCESS-NAME,onedriveupdater
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
