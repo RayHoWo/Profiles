@@ -1,6 +1,7 @@
 payload:
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Speedtest/Speedtest.yaml
-# NAME: Speedtest    >>@ UPDATED: 2023-06-10
+# NAME: Speedtest    >>@ UPDATED: 2023-12-13
+# TOTAL: 15
   - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,cellmaps.com
   - DOMAIN-SUFFIX,ekahau.cloud

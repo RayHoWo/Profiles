@@ -1,6 +1,7 @@
 payload:
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Tencent/Tencent.yaml
-# NAME: Tencent    >>@ UPDATED: 2023-06-10
+# NAME: Tencent    >>@ UPDATED: 2023-12-13
+# TOTAL: 570
   - DOMAIN-SUFFIX,1700.cn
   - DOMAIN-SUFFIX,17roco.com
   - DOMAIN-SUFFIX,700chat.com
@@ -506,7 +507,6 @@ payload:
   - DOMAIN-SUFFIX,vxo7tu.com
   - DOMAIN-SUFFIX,wanjiashow.com
   - DOMAIN-SUFFIX,wcbygame.com
-  - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,wechatlegal.net
   - DOMAIN-SUFFIX,wechatpay.com

@@ -1,6 +1,7 @@
 payload:
 # Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Scholar/Scholar.yaml
-# NAME: Scholar    >>@ UPDATED: 2023-06-10
+# NAME: Scholar    >>@ UPDATED: 2023-12-13
+# TOTAL: 222
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.domains
   - DOMAIN-SUFFIX,1lib.education
@@ -117,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,libsolutions.app
   - DOMAIN-SUFFIX,libsolutions.domains
   - DOMAIN-SUFFIX,libsolutions.net
+  - DOMAIN-SUFFIX,liebertpub.com
   - DOMAIN-SUFFIX,literatumonline.com
   - DOMAIN-SUFFIX,ma1lib.org
   - DOMAIN-SUFFIX,madsrevolution.net
@@ -207,6 +209,7 @@ payload:
   - DOMAIN-SUFFIX,universitypressscholarship.com
   - DOMAIN-SUFFIX,veryshortintroductions.com
   - DOMAIN-SUFFIX,wanfangdata.com
+  - DOMAIN-SUFFIX,wanfangdata.com.cn
   - DOMAIN-SUFFIX,webofknowledge.com
   - DOMAIN-SUFFIX,webofscience.com
   - DOMAIN-SUFFIX,westlaw.com

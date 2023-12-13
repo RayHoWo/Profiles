@@ -1,24 +1,21 @@
 payload: 
-# NAME: Linkedin    >>@ UPDATED: 2023-06-10
+# NAME: Linkedin    >>@ UPDATED: 2023-12-13
 # - USER-AGENT,Linkedin*
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,licdn.cn
-# NAME: Wiz World    >>@ UPDATED: 2023-06-10
+# NAME: Wiz World    >>@ UPDATED: 2023-12-13
   - DOMAIN-SUFFIX,wiz.world
-# NAME: Sonos    >>@ UPDATED: 2023-06-10
+# NAME: Sonos    >>@ UPDATED: 2023-12-13
 # - USER-AGENT,Sonos*
   - DOMAIN-SUFFIX,sonos.com
   - DOMAIN-SUFFIX,sonos.radio
-# NAME: Passwall    >>@ UPDATED: 2023-06-10
-  - DOMAIN-SUFFIX,now.rahw.top
+# NAME: Passwall    >>@ UPDATED: 2023-12-13
+  - DOMAIN-SUFFIX,how.rahw.top
   - DOMAIN-SUFFIX,nssurge.com
-# NAME: Marriott    >>@ UPDATED: 2023-06-10
-  - DOMAIN-SUFFIX,marriott.com
-  - DOMAIN-SUFFIX,marriott.net
-  - DOMAIN-SUFFIX,omtrdc.net
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Samsung/Samsung.yaml
-# NAME: Samsung    >>@ UPDATED: 2023-06-10
+# NAME: Samsung    >>@ UPDATED: 2023-12-13
+# TOTAL: 13
   - DOMAIN-SUFFIX,anrdoezrs.net
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,galaxymobile.jp
