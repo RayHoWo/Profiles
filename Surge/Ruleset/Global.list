@@ -1,5 +1,6 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Global/Global.list
-# NAME: Global    >>@ UPDATED: 2023-10-26
+# NAME: Global    >>@ UPDATED: 2023-12-13
+# TOTAL: 19591
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
