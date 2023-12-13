@@ -1,22 +1,22 @@
 payload: 
 # >> Direct Access
-# NAME: NAS Access    >>@ UPDATED: 2023-06-10
+# NAME: NAS Access    >>@ UPDATED: 2023-12-13
   - DOMAIN-SUFFIX,quickconnect.cn
   - DOMAIN-SUFFIX,myds.me
 # NAME: Oray/Sunlogin    >>@ UPDATED: 2023-09-24
   - DOMAIN-SUFFIX,oray.com
   - DOMAIN-SUFFIX,orayimg.com
   - DOMAIN-SUFFIX,oray.net
-# NAME: Wiz CN    >>@ UPDATED: 2023-06-10
+# NAME: Wiz CN    >>@ UPDATED: 2023-12-13
   - DOMAIN-SUFFIX,wizconnected.cn
-# NAME: XiaoTianCai    >>@ UPDATED: 2023-06-10
+# NAME: XiaoTianCai    >>@ UPDATED: 2023-12-13
 # - USER-AGENTUSER-AGENT,%E5%B0%8F%E5%A4%A9%E6%89%8D/18*
   - DOMAIN-SUFFIX,eebbk.net
   - DOMAIN-SUFFIX,watch.okii.com
   - DOMAIN-SUFFIX,tiancaixing.com
-# NAME: Client    >>@ UPDATED: 2023-06-10
+# NAME: Client    >>@ UPDATED: 2023-12-13
   - PROCESS-NAME,UUBooster
-# NAME: Download    >>@ UPDATED: 2023-06-10
+# NAME: Download    >>@ UPDATED: 2023-12-13
   - DOMAIN-SUFFIX,qbittorrent.org
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder

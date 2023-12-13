@@ -1,6 +1,7 @@
 payload:
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/JingDong/JingDong.yaml
-# NAME: JD    >>@ UPDATED: 2023-06-10
+# NAME: JD    >>@ UPDATED: 2023-12-13
+# TOTAL: 253
   - DOMAIN-SUFFIX,1huizhan.com
   - DOMAIN-SUFFIX,3.cn
   - DOMAIN-SUFFIX,300hu.com
