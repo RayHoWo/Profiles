@@ -1,6 +1,6 @@
 payload:
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/China/China_Classical.yaml
-# NAME: China Area Network    >>@ UPDATED: 2023-12-13
+# NAME: China Area Network    >>@ UPDATED: 2024-01-07
 # TOTAL: 3729
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net

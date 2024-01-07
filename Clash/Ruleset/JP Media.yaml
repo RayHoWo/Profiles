@@ -1,7 +1,7 @@
 payload:  
 # >> Japan Media 
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/AbemaTV/AbemaTV.yaml
-# NAME: AbemaTV    >>@ UPDATED: 2023-12-13
+# NAME: AbemaTV    >>@ UPDATED: 2024-01-07
 # TOTAL: 23
   - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,abema.io
@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,winticket.jp
   - DOMAIN-KEYWORD,abematv.akamaized.net
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/HuluJP/HuluJP.yaml
-# NAME: HuluJP    >>@ UPDATED: 2023-12-13
+# NAME: HuluJP    >>@ UPDATED: 2024-01-07
 # TOTAL: 5
   - DOMAIN-SUFFIX,happyon.jp
   - DOMAIN-SUFFIX,hjholdings.jp
@@ -35,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Japonx/Japonx.yaml
-# NAME: Japonx    >>@ UPDATED: 2023-12-13
+# NAME: Japonx    >>@ UPDATED: 2024-01-07
 # TOTAL: 10
   - DOMAIN-SUFFIX,japonx.com
   - DOMAIN-SUFFIX,japonx.net
@@ -48,7 +48,7 @@ payload:
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Niconico/Niconico.yaml
-# NAME: Niconico    >>@ UPDATED: 2023-12-13
+# NAME: Niconico    >>@ UPDATED: 2024-01-07
 # TOTAL: 9
   - DOMAIN-SUFFIX,dmc.nico
   - DOMAIN-SUFFIX,nicodic.jp
@@ -60,7 +60,7 @@ payload:
   - DOMAIN-SUFFIX,simg.jp
   - DOMAIN-SUFFIX,socdm.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/TVer/TVer.yaml
-# NAME: TVer    >>@ UPDATED: 2023-12-13
+# NAME: TVer    >>@ UPDATED: 2024-01-07
 # TOTAL: 6
   - DOMAIN-SUFFIX,dogatch.jp
   - DOMAIN-SUFFIX,edge.api.brightcove.com

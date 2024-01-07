@@ -1,6 +1,6 @@
 payload:
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Global/Global.yaml
-# NAME: Global    >>@ UPDATED: 2023-12-13
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Global/Global.yaml
+# NAME: Global    >>@ UPDATED: 2024-01-07
 # TOTAL: 19545
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,avoddashs
