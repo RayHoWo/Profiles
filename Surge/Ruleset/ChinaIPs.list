@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/ChinaIPs/ChinaIPs.list
-# NAME: ChinaIPs   >>@ UPDATED: 2023-12-13
+# NAME: ChinaIPs   >>@ UPDATED: 2024-01-07
 # TOTAL: 20001
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve

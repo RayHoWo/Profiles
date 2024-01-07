@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Microsoft/Microsoft.list
-# NAME: Microsoft    >>@ UPDATED: 2023-12-13
+# NAME: Microsoft    >>@ UPDATED: 2024-01-07
 # TOTAL: 671
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN,vsmarketplacebadge.apphb.com
