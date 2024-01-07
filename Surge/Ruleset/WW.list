@@ -1,20 +1,20 @@
 # >> Worldwide 
-# NAME: Linkedin    >>@ UPDATED: 2023-12-13
+# NAME: Linkedin    >>@ UPDATED: 2024-01-07
 USER-AGENT,Linkedin*
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,licdn.cn 
-# NAME: Wiz World    >>@ UPDATED: 2023-12-13
+# NAME: Wiz World    >>@ UPDATED: 2024-01-07
 DOMAIN-SUFFIX,wiz.world
-# NAME: Sonos    >>@ UPDATED: 2023-12-13
+# NAME: Sonos    >>@ UPDATED: 2024-01-07
 USER-AGENT,Sonos*
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sonos.radio
-# NAME: Passwall    >>@ UPDATED: 2023-12-13
+# NAME: Passwall    >>@ UPDATED: 2024-01-07
 DOMAIN-SUFFIX,how.rahw.top
 DOMAIN-SUFFIX,nssurge.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Samsung/Samsung.list
-# NAME: Samsung    >>@ UPDATED: 2023-12-13
+# NAME: Samsung    >>@ UPDATED: 2024-01-07
 # TOTAL: 13
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,galaxyappstore.com

@@ -1,6 +1,6 @@
 # >> Singapore Media  
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/FOXPlus/FOXPlus.list
-# NAME: FOXPlus    >>@ UPDATED: 2023-12-13
+# NAME: FOXPlus    >>@ UPDATED: 2024-01-07
 # TOTAL: 7
 DOMAIN,cdn-fox-networks-group-green.akamaized.net
 DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
@@ -10,7 +10,7 @@ DOMAIN,foxsports03-i.akamaihd.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,foxplus.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/OpenAI/OpenAI.list
-# NAME: OpenAI    >>@ UPDATED: 2023-12-13
+# NAME: OpenAI    >>@ UPDATED: 2024-01-07
 # TOTAL: 13
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com

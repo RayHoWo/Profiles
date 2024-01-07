@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Tencent/Tencent.list
-# NAME: Tencent    >>@ UPDATED: 2023-12-13
+# NAME: Tencent    >>@ UPDATED: 2024-01-07
 # TOTAL: 575
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com

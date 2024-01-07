@@ -1,5 +1,5 @@
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/Netflix/Netflix.list
-# NAME: Netflix    >>@ UPDATED: 2023-12-13
+# NAME: Netflix    >>@ UPDATED: 2024-01-07
 # TOTAL: 1076
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
