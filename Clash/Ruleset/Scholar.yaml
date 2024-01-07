@@ -1,6 +1,6 @@
 payload:
-# Link: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/Scholar/Scholar.yaml
-# NAME: Scholar    >>@ UPDATED: 2023-12-13
+# Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/Scholar/Scholar.yaml
+# NAME: Scholar    >>@ UPDATED: 2024-01-07
 # TOTAL: 222
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.domains

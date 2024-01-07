@@ -1,6 +1,6 @@
 payload:
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/PayPal/PayPal.yaml
-# NAME: PayPal    >>@ UPDATED: 2023-12-13
+# NAME: PayPal    >>@ UPDATED: 2024-01-07
 # TOTAL: 247
   - DOMAIN-SUFFIX,account-paypal.info
   - DOMAIN-SUFFIX,account-paypal.net

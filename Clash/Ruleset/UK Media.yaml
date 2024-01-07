@@ -1,12 +1,12 @@
 payload:
 # >> United Kingdom Media  
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/All4/All4.yaml
-# NAME: All4    >>@ UPDATED: 2023-12-13
+# NAME: All4    >>@ UPDATED: 2024-01-07
 # TOTAL: 2
   - DOMAIN-SUFFIX,c4assets.com
   - DOMAIN-SUFFIX,channel4.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/BBC/BBC.yaml
-# NAME: BBC    >>@ UPDATED: 2023-12-13
+# NAME: BBC    >>@ UPDATED: 2024-01-07
 # TOTAL: 35
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
@@ -44,13 +44,13 @@ payload:
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/ITV/ITV.yaml
-# NAME: ITV    >>@ UPDATED: 2023-12-13
+# NAME: ITV    >>@ UPDATED: 2024-01-07
 # TOTAL: 3
   - DOMAIN,itvpnpmobile-a.akamaihd.net
   - DOMAIN-SUFFIX,itv.com
   - DOMAIN-SUFFIX,itvstatic.com
 # Link: https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Clash/My5/My5.yaml
-# NAME: My5    >>@ UPDATED: 2023-12-13
+# NAME: My5    >>@ UPDATED: 2024-01-07
 # TOTAL: 3
   - DOMAIN,d349g9zuie06uo.cloudfront.net
   - DOMAIN-SUFFIX,channel5.com

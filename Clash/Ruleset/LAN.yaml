@@ -1,5 +1,5 @@
 payload:  
-# NAME: Local Area Network        >>@ UPDATED: 2023-12-13
+# NAME: Local Area Network        >>@ UPDATED: 2024-01-07
   - DOMAIN-SUFFIX,local
   - IP-CIDR,127.0.0.0/8
   - IP-CIDR,172.16.0.0/12
